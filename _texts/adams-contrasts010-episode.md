@@ -2,7 +2,7 @@
 layout: mei
 title: Contrasts, X. Episode
 author: Adams, Leslie
-ensemble: solo instrument
+ensemble: solo
 permalink: /adams-contrasts-episode/
 document: adams_contrasts010_episode.mei
 ---
