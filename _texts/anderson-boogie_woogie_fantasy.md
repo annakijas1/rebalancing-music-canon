@@ -2,7 +2,7 @@
 layout: post
 title: Boogie woogie fantasy
 author: Anderson, T.J. 
-ensemble: solo instrument
+ensemble: solo
 permalink: /anderson-boogie-woogie-fantasy/
 image: anderson-boogie-woogie-fantasy.png
 ---
