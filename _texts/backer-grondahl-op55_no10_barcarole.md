@@ -2,7 +2,7 @@
 layout: mei
 title: Barcarole, op. 55, no. 10
 author: Backer-Grøndahl, Agathe
-ensemble: solo instrument
+ensemble: solo 
 permalink: /backer-grondahl-55.10/
 document: backer-grondahl_barcarole_op55_no10.mei
 ---
