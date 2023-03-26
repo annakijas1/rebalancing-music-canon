@@ -2,7 +2,7 @@
 layout: mei
 title: Play me something
 author: Anderson, T.J.
-ensemble: solo instrument
+ensemble: solo
 permalink: /anderson-play-me-something/
 document: anderson_play_me_something.mei
 ---
