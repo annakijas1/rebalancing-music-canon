@@ -2,7 +2,7 @@
 layout: mei
 title: Drei Sonaten für Cembalo, Sonata Terza
 author: Agnesi, Maria Teresa
-ensemble: solo instrument
+ensemble: solo
 permalink: /agnesi-sonata-3/
 document: agnesi_drei_sonaten_fur_cembalo_sonata_terza.mei
 ---
