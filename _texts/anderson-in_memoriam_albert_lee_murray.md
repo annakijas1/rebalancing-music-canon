@@ -2,7 +2,7 @@
 layout: post
 title: In memoriam Albert Lee Murray
 author: Anderson, T.J.
-ensemble: solo instrument
+ensemble: solo
 permalink: /anderson-in-memoriam-albert-lee-murray/
 image: anderson-in-memoriam-albert-lee-murray.png
 ---
