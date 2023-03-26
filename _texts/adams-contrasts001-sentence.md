@@ -2,7 +2,7 @@
 layout: mei
 title: Contrasts, I. Sentence
 author: Adams, Leslie
-ensemble: solo instrument
+ensemble: solo 
 permalink: /adams-contrasts-sentence/
 document: adams_contrasts001_sentence.mei
 ---
