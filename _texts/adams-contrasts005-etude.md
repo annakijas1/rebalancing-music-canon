@@ -2,7 +2,7 @@
 layout: mei
 title: Contrasts, V. Etude
 author: Adams, Leslie
-ensemble: solo instrument
+ensemble: solo
 permalink: /adams-contrasts-etude/
 document: adams_contrasts005_etude.mei
 ---
