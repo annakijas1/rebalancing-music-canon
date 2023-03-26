@@ -2,7 +2,7 @@
 layout: post
 title: Street song
 author: Anderson, T.J.
-ensemble: solo instrument
+ensemble: solo 
 permalink: /anderson-street-song/
 image: anderson-street-song.png
 ---
