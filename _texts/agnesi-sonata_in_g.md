@@ -2,7 +2,7 @@
 layout: mei
 title: Sonata in G, Allegro
 author: Agnesi, Maria Teresa
-ensemble: solo instrument
+ensemble: solo 
 permalink: /agnesi-sonata-g/
 document: agnesi_sonata_in_g.mei
 ---
