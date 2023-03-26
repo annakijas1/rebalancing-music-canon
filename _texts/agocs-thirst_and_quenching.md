@@ -2,7 +2,7 @@
 layout: mei
 title: Thirst and quenching
 author: Agócs, Kati
-ensemble: solo instrument
+ensemble: solo 
 permalink: /agocs-thirst-and-quenching/
 document: agocs_thirst_and_quenching.mei
 ---
