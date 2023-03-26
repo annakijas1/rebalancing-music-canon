@@ -2,7 +2,7 @@
 layout: mei
 title: Contrasts, VI. Prelude
 author: Adams, Leslie
-ensemble: solo instrument
+ensemble: solo
 permalink: /adams-contrasts-prelude/
 document: adams_contrasts006_prelude.mei
 ---
