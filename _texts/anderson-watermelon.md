@@ -2,7 +2,7 @@
 layout: post
 title: Watermelon
 author: Anderson, T.J.
-ensemble: solo instrument
+ensemble: solo 
 permalink: /anderson-watermelon/
 image: anderson-watermelon.png
 ---
