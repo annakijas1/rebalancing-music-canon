@@ -14,4 +14,4 @@ Browse by Ensemble Type (Please note that we are in the process of updating ense
 * [Chamber Music](https://rebalancing-music-canon.com/chamber)
 * [Vocal Music](https://rebalancing-music-canon.com/vocal)
 * [Choral Music](https://rebalancing-music-canon.com/choral)
-* [Orchestral Music](https://rebalancing-music-canon.com/orchestral)
+* [Orchestral Music](https://rebalancing-music-canon.com/orchestra)
