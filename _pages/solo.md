@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browse by Ensemble Type
+title: Browse by Works for Solo Instrument
 permalink: /solo/
 ---
 <div class="toc">
