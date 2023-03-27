@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browse by Solo Instrument
+title: Browse by Works for Solo Instrument
 permalink: /solo/
 ---
 <div class="toc">
