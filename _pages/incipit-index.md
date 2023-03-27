@@ -7,7 +7,7 @@ The index is under development and additional composers and works will be added.
 
 [Search the database](https://rebalancing-music-canon.com/_pages/search/)
 
-[Browse by Composer Name](https://rebalancing-music-canon.com/incipit-indexv3/)
+[Browse by Composer Name](https://rebalancing-music-canon.com/composer/)
 
 **Browse by Ensemble Type**
   * (Please Note: We are in the process of adding ensemble type metadata which will then be pulled into the browse by ensemble type pages linked below) 
