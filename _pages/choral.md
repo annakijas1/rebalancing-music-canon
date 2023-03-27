@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Browse by Choral Works
-permalink: /vocal/
+permalink: /choral/
 ---
 
 <div class="toc">
