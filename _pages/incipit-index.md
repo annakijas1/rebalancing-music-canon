@@ -9,7 +9,7 @@ The index is under development and additional composers and works will be added.
 
 [Browse by Composer Name](https://rebalancing-music-canon.com/incipit-indexv3/)
 
-[Browse by Ensemble Type](https://rebalancing-music-canon.com/incipit-indexv2/)
+**Browse by Ensemble Type**
   * (Please Note: We are in the process of adding ensemble type metadata which will then be pulled into the browse by ensemble type pages linked below) 
 * [Solo Instrument](https://rebalancing-music-canon.com/solo)
 * [Chamber Music](https://rebalancing-music-canon.com/chamber)
