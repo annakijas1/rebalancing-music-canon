@@ -9,20 +9,7 @@ Works can be currently viewed by composer.
 
 (Please Note: We are in the process of adding ensemble type metadata which will then be pulled into the browse by ensemble type page linked below) 
 
-<div class="toc">
-  <ul class="post">
-    
-    <li class="text-title">
-      <a href="/incipit-indexv3/">
-        Browse by Composer
-      </a>
-    </li>
+[Browse by Composer Name](https://rebalancing-music-canon.com/incipit-indexv3/){: .btn }
 
-    <li class="text-title">
-      <a href="/incipit-indexv2/">
-       Browse by Ensemble Type
-      </a>
-    </li>
+[Browse by Ensemble Type](https://rebalancing-music-canon.com/incipit-indexv2/){: .btn }
 
-  </ul>
-</div>
