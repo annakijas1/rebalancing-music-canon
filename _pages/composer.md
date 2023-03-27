@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Browse by Composer
-permalink: /incipit-indexv3/
+permalink: /composer/
 ---
 Composer's names appear in alphabetical order and are organized chronologically by century of their birth.
 
