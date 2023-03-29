@@ -44,7 +44,7 @@
             <score xml:id="s772a1x">
                <scoreDef xml:id="sxmoklo">
                   <pgHead xml:id="pnec2hd">
-                     <rend xml:id="rr94jfe" halign="center" valign="top">Fantasistykker, op. 36, no. 10 - Alfeleg</rend>
+                     <rend xml:id="rr94jfe" halign="center" valign="top"></rend>
                      <rend xml:id="rqy8gc8" halign="right" valign="bottom">Agathe Backer-Grøndahl</rend>
                   </pgHead>
                   <staffGrp xml:id="sj6sn2q">
@@ -152,7 +152,8 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tnsl8jx" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="176" mm="176" mm.unit="4">
-                        <rend xml:id="rwnnfu4" fontweight="normal">Allegro &#x1d15f; = 176</rend></tempo>
+                        <rend xml:id="rwnnfu4" fontweight="normal">Allegro</rend>
+                        <rend fontfam="smufl">&#x1d15f;</rend> = 176</tempo>
                      <dir xml:id="dcvyn21" place="below" staff="1" tstamp="1.000000">
                         <rend xml:id="rr64jom" fontstyle="italic" fontweight="bold">pp</rend>
                      </dir>
@@ -162,8 +163,8 @@
                      <dir xml:id="dp6y520" place="below" staff="2" tstamp="1" vgrp="1">
                         <rend xml:id="rsfht6e" fontstyle="italic">una corda</rend>
                      </dir>
-                     <pedal dir="down" staff="2" tstamp="1" vgrp="1"/>
-                     <pedal dir="up" staff="2" tstamp="4.5" vgrp="1"/>
+                     <pedal dir="down" staff="2" tstamp="1"/>
+                     <pedal dir="up" staff="2" tstamp="4.5"/>
                   </measure>
                   <measure xml:id="mrmepk0" n="2">
                      <staff xml:id="s7v9xk6" n="1">
