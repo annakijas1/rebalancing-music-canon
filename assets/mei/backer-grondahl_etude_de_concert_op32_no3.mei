@@ -37,7 +37,7 @@
             <score xml:id="score-0000000305616487">
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000087942640">
-                     <rend xml:id="rend-0000001765533417" halign="center" valign="top">Etude de Concert, op. 32, no. 3</rend>
+                     <rend xml:id="rend-0000001765533417" halign="center" valign="top"></rend>
                      <rend xml:id="rend-0000000412658134" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000229027525">
@@ -155,7 +155,8 @@
                      </staff>
                      <dynam xml:id="dynam-0000000050431171" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">p</dynam>
                      <tempo xml:id="tempo-0000001739154224" place="above" staff="1" tstamp="1.0000" midi.bpm="152" mm="152.000000" mm.unit="4">
-                        <rend xml:id="rend-0000000929826770" fontweight="normal">Allegro leggiero &#x1d15f; = 152</rend></tempo>
+                        <rend xml:id="rend-0000000929826770" fontweight="normal">Allegro leggiero</rend>
+                        <rend  fontfam="smufl">&#x1d15f;</rend> = 152</tempo>
                      <pedal dir="down" staff="2" tstamp="1" />
                      <dir xml:id="dir-0000002074727790" place="below" staff="2" tstamp="1.500000" vgrp="40">
                         <rend xml:id="rend-0000002006931239" rend="none" fontstyle="italic">staccatiss.</rend>
