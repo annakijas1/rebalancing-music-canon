@@ -39,7 +39,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000000661110213">
                      <rend xml:id="rend-0000000324552112" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
-                     <rend xml:id="rend-0000001584703606" halign="center" valign="top">Sérénade, op. 15, no. 1</rend>
+                     <rend xml:id="rend-0000001584703606" halign="center" valign="top"></rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000000577001958">
                      <staffGrp xml:id="P1" bar.thru="true">
@@ -96,7 +96,8 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000000040799085" place="above" staff="1" tstamp="1">
-                          <rend xml:id="rend-0000000432019326" fontweight="normal">Andantino &#x1d15f; = 100</rend></tempo>
+                          <rend xml:id="rend-0000000432019326" fontweight="normal">Andantino</rend>
+                          <rend fontfam="smufl">&#x1d15f;</rend> = 100</tempo>
                      <dir xml:id="dir-0000001036990045" place="below" staff="1" tstamp="1">
                         <rend xml:id="rend-0000001808154834" rend="none" fontstyle="italic">dolce</rend>
                      </dir>

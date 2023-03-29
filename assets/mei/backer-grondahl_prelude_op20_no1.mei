@@ -39,7 +39,7 @@
                <scoreDef xml:id="scoredef-0000001527545709">
                   <pgHead xml:id="pghead-0000001647915098">
                      <rend xml:id="rend-0000000164698393" halign="right" valign="top">Agathe Backer-Grøndahl</rend>
-                     <rend xml:id="rend-0000002135560372" halign="center" valign="top">Prélude, op. 20, no. 1</rend>
+                     <rend xml:id="rend-0000002135560372" halign="center" valign="top"></rend>
                   </pgHead>
                   <staffGrp xml:id="staffgrp-0000001629621944">
                      <staffGrp xml:id="P1" bar.thru="true">
@@ -112,7 +112,8 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000002111901877" place="above" staff="1" tstamp="1.000000" midi.bpm="132" mm="132.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001170438857" fontweight="normal">Allegro non troppo e molto risoluto &#x1d15f; = 132</rend></tempo>
+                        <rend xml:id="rend-0000001170438857" fontweight="normal">Allegro non troppo e molto risoluto</rend>
+                        <rend fontfam="smufl">&#x1d15f;</rend> = 132</tempo>
                      <slur xml:id="slur-0000000162373007" startid="#note-0000000847607310" endid="#note-0000000256070302" curvedir="above" />
                      <dir xml:id="dir-0000000201455777" place="above" staff="2" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rend-0000001172140629" rend="none" fontstyle="italic">sempre</rend>
