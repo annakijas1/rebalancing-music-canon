@@ -6,10 +6,10 @@ permalink: /chamber/
 
 <div class="toc">
 
-<h3>Chamber Music</h3>
+<h3>Instrumental Chamber Music</h3>
     <ul class="texts">
     {% for item in site.texts %}
-      {% if item.ensemble == "chamber" %}
+      {% if item.ensemble == "chamber-instrument" %}
           <li class="text-author.text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.author }} -
@@ -20,4 +20,17 @@ permalink: /chamber/
     {% endfor %}
   </ul>
     
+<h3>Instrumental/Vocal Chamber Music</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.ensemble == "chamber-vocal" %}
+          <li class="text-author.text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.author }} -
+         {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>
