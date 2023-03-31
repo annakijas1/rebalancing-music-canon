@@ -2,7 +2,7 @@
 layout: mei
 title: Sence you went away
 author: Adams, Leslie
-ensemble: chamber
+ensemble: chamber-vocal
 permalink: /adams-sence-you-went-away/
 document: adams_sence_you_went_away.mei
 ---
