@@ -2,7 +2,7 @@
 layout: mei
 title: This Love Between Us. Movement V (Hinduism)
 author: Esmail, Reena
-ensemble: chamber-instrument
+ensemble: chamber-vocal
 permalink: /esmail-this-love/
 document: esmail_this_love_between_us.mei
 ---
