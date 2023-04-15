@@ -11,6 +11,6 @@ In *This love between us. Movement V: (Hinduism) for mezzo soprano, violin and p
 
 **Instrumentation summary**: mezzo soprano voice (1), violin (1), piano (1)
 
-**Instrumentation group**: vocie, strings, keyboard
+**Instrumentation group**: voice, strings, keyboard
 
 **Location**: <a href="https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/bnf7qa/01TUN_ALMA21300863950003851" target="_blank">Music Library Stacks M1621.3.E86 T4 2020</a>
