@@ -2,7 +2,7 @@
 layout: mei
 title: Dirge and Deliverance
 author: Moore, Dorothy Rudd
-ensemble: chamber-instrumentation
+ensemble: chamber-instrument
 permalink: /moore-dirge/
 document: moore_dirge_and_deliverance.mei
 ---
