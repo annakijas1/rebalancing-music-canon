@@ -8,7 +8,7 @@
     <creator type="composer">Composer / arranger</creator>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-04-13</encoding-date>
+      <encoding-date>2023-04-19</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
@@ -48,7 +48,7 @@
           <line>2</line>
           </clef>
         </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
           <words font-size="8">With much energy</words>
           </direction-type>
@@ -69,6 +69,11 @@
         </note>
       </measure>
     <measure number="2">
+      <direction placement="above">
+        <direction-type>
+          <words font-size="7">jeté</words>
+          </direction-type>
+        </direction>
       <direction placement="below">
         <direction-type>
           <dynamics>
@@ -76,11 +81,6 @@
             </dynamics>
           </direction-type>
         <sound dynamics="106.67"/>
-        </direction>
-      <direction placement="above">
-        <direction-type>
-          <words font-size="7">jeté</words>
-          </direction-type>
         </direction>
       <direction placement="below">
         <direction-type>
@@ -267,10 +267,7 @@
         <stem>down</stem>
         </note>
       <forward>
-        <duration>4</duration>
-        </forward>
-      <forward>
-        <duration>4</duration>
+        <duration>8</duration>
         </forward>
       </measure>
     <measure number="3">
@@ -474,14 +471,10 @@
         <stem>down</stem>
         </note>
       <forward>
-        <duration>4</duration>
-        </forward>
-      <forward>
-        <duration>4</duration>
+        <duration>8</duration>
         </forward>
       </measure>
     <measure number="4">
-      <print new-system="yes"/>
       <note>
         <rest/>
         <duration>2</duration>
@@ -707,19 +700,6 @@
             </articulations>
           </notations>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <wedge type="stop" number="1"/>
-          </direction-type>
-        </direction>
-      <direction placement="below">
-        <direction-type>
-          <dynamics>
-            <pp/>
-            </dynamics>
-          </direction-type>
-        <sound dynamics="36.67"/>
-        </direction>
       <note>
         <pitch>
           <step>E</step>
@@ -736,10 +716,23 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <wedge type="stop" number="1"/>
+          </direction-type>
+        </direction>
       <direction placement="above">
         <direction-type>
           <words font-size="7">stacc.</words>
           </direction-type>
+        </direction>
+      <direction placement="below">
+        <direction-type>
+          <dynamics>
+            <pp/>
+            </dynamics>
+          </direction-type>
+        <sound dynamics="36.67"/>
         </direction>
       <direction placement="below">
         <direction-type>
@@ -833,13 +826,11 @@
         <stem>down</stem>
         </note>
       <forward>
-        <duration>4</duration>
-        </forward>
-      <forward>
-        <duration>4</duration>
+        <duration>8</duration>
         </forward>
       </measure>
     <measure number="6">
+      <print new-system="yes"/>
       <direction placement="below">
         <direction-type>
           <dynamics>
