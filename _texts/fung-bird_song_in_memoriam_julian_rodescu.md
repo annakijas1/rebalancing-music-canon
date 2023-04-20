@@ -2,7 +2,7 @@
 layout: mei
 title: Bird Song: In Memoriam Julian Rodescu
 author: Fung, Vivian
-ensemble: chamber-instrument, duet
+ensemble: chamber-instrument
 permalink: /fung-bird-song-in-memoriam-julian-rodescu/
 document: fung_bird_song_in_memoriam_julian_rodescu.mei
 ---
