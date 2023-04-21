@@ -11,6 +11,8 @@ The index is under development and additional composers and works will be added.
 
 **Browse by Ensemble Type** *(Please note that we are in the process of updating ensemble type metadata to all incipits)*
 * [Solo Instrument](https://rebalancing-music-canon.com/solo)
-* [Chamber Music](https://rebalancing-music-canon.com/chamber)
+* Chamber Music
+  * [Instrumental](https://rebalancing-music-canon.com/chamber-i)
+  * [Instrumental - Vocal]((https://rebalancing-music-canon.com/chamber-iv)
 * [Choral Music](https://rebalancing-music-canon.com/choral)
 * [Orchestral Music](https://rebalancing-music-canon.com/orchestra)
