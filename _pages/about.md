@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About the Project
+sidebar: toc
 permalink: /about/
 ---
 
