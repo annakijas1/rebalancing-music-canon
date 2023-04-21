@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Browse by Works for Instrumental - Vocal Chamber Music
-permalink: /chamber/
+permalink: /chamber-iv/
 ---
 
 <div class="toc">
