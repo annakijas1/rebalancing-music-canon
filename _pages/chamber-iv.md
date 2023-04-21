@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Browse by Works for Instrumental - Vocal Chamber Music
 permalink: /chamber-iv/
 ---
