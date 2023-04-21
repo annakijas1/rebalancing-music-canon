@@ -11,6 +11,6 @@ In *Bird Song: In Memoriam Julian Rodescu: for violin and piano.* Brooklyn: Bill
 
 **Instrumentation summary**: violin (1), piano (1)
 
-**instrumentation group**: strings and keyboard
+**instrumentation group**: strings, keyboard
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018317925503851" target="_blank">Music Library Stacks M221.F86 B57 2015</a>
