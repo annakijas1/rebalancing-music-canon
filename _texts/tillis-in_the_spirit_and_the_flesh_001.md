@@ -13,7 +13,7 @@ In *In the Spirit and the Flesh.* Composers Facsimile Edition. New York, N.Y.: A
 Percussion: bongo drums (2), timbales, tom-toms (3), metal wind chimes, india bells, african double (iron) bell, orchestra bells, xylophone, tambourines, suspended cymbals (3), large gong (1), small gong (1), large triangle (1), medium triangle (1) 
 Jazz trio: piano (1), bass (1), drums (1) 
 SATB mixed chorus 
-Strings: violin I, violin II, viola, cello, bass
+Strings: violin I, violin II, viola, cello, bass 
 
 **Instrumentation group**: woodwinds, brass, percussion, keyboard, voice, strings
 

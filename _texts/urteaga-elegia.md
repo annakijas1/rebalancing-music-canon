@@ -9,7 +9,7 @@ document: urteaga_elegia_a_los_silencios.mei
 
 In *Elegía a los silencios: für Singstimme, Violoncello und Klavier = para voz, violoncelo y piano (2012).* Körborn: Certosa Verlag, 2016.
 
-**Instrumentation summary**: voice (1), cello (1), piano (1)
+**Instrumentation summary**: voice (1), cello (1), piano (1) 
 
 **Instrumentation group**: voice, strings, keyboard
 
