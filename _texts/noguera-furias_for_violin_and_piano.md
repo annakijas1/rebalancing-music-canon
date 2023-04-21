@@ -4,7 +4,7 @@ title: Furias
 author: Noguera Palau, Carolina
 ensemble: chamber-instrument
 permalink: /palau-furias/
-document: palau_furias_for_violin_and_piano.mei
+document: noguera_furias_for_violin_and_piano.mei
 ---
 
 In *Furias: para violin y piano.* Paris: Babel Scores, 2020.
