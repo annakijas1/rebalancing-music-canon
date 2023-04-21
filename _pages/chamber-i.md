@@ -4,6 +4,8 @@ title: Browse by Works for Instrumental Chamber Music
 permalink: /chamber-i/
 ---
 
+<div class="toc">
+    
 <h3>Instrumental Chamber Music</h3>
     <ul class="texts">
     {% for item in site.texts %}
@@ -17,3 +19,4 @@ permalink: /chamber-i/
       {% endif %}
     {% endfor %}
   </ul>
+</div>
