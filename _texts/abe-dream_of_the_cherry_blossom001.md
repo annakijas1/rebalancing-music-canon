@@ -11,6 +11,6 @@ In *Dream of the cherry blossoms: für Marimba = for marimba.* Frankfurt: Musikv
 
 **Instrumentation summary**: marimba (1)
 
-**Instrument group**: pitched percussion
+**instrumentation group**: pitched percussion
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018314424803851" target="_blank">Music Library Stacks M175.X6 A23 1984</a>
