@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Browse by Works for Instrumental Chamber Music
 permalink: /chamber-i/
 ---
