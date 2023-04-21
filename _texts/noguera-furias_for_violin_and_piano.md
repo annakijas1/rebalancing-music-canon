@@ -3,7 +3,7 @@ layout: mei
 title: Furias
 author: Noguera Palau, Carolina
 ensemble: chamber-instrument
-permalink: /palau-furias/
+permalink: /noguera-furias/
 document: noguera_furias_for_violin_and_piano.mei
 ---
 
