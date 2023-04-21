@@ -3,8 +3,6 @@ layout: page
 title: Browse by Works for Instrumental - Vocal Chamber Music
 permalink: /chamber-iv/
 ---
-
-<div class="toc">
     
 <h3>Instrumental/Vocal Chamber Music</h3>
     <ul class="texts">
@@ -19,4 +17,4 @@ permalink: /chamber-iv/
       {% endif %}
     {% endfor %}
   </ul>
-</div>
+
