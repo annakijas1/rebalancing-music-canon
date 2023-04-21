@@ -6,6 +6,9 @@ permalink: /chamber-i/
 
 {:.no_toc}
 
+* ToC
+{:toc}
+
 <div class="toc">
 
 <h3>Instrumental Chamber Music</h3>
