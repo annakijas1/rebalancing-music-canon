@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Browse by Works for Instrumental Chamber Music
-permalink: /chamber/
+permalink: /chamber-i/
 ---
 
 <div class="toc">
