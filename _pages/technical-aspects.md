@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Technical Aspects
+category: main
 permalink: /technical/
 ---
 
