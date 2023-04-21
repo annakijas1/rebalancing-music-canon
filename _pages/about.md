@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About the Project
+category: main
 permalink: /about/
 ---
 
