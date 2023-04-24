@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Noguera Palaua, Carolina (1978-)
+title: Noguera Palau, Carolina (1978-)
 category: incipits
 century: 20th
 permalink: /noguera/
@@ -12,7 +12,7 @@ permalink: /noguera/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Noguera Palaua, Carolina" %}
+      {% if item.author == "Noguera Palau, Carolina" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
