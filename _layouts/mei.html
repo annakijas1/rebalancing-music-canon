@@ -16,11 +16,13 @@ layout: page
   import 'https://www.verovio.org/javascript/app/verovio-app.js';
 
   const options = {
-      defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-      defaultZoom: 3, // 0-7, default is 4
-      enableResponsive: true, // default is true
-      enableDocument: true, // default is true
-  }
+    defaultView: 'document', // default is 'responsive', alternative is 'document'
+    documentZoom: 4, // the zoom for the document view
+    responsiveZoom: 3, // another zoom level for the responsive view
+    enableResponsive: true, // default is true
+    enableDocument: true // default is true
+    appReset: true
+}
 
   // Create the app - here with an empty option object
   const app = new Verovio.App(document.getElementById("app"), options);
