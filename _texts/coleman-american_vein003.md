@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: American Vein, III. Woodstock: Summer of 1952
+title: American Vein, III. Woodstock, Summer of 1952
 author: Coleman, Valerie
 permalink: /coleman-american-vein-woodstock/
 document: coleman_american_vein003.mei
