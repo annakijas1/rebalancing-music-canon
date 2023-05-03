@@ -7,7 +7,7 @@ permalink: /lim-pharmakon/
 document: lim_pharmakon.mei
 ---
 
-In *Pharmakon: for 2 tenor-bass trombones
+In *Pharmakon: for 2 tenor-bass trombones.* Berlin, Germany: G. Ricordi & Co. Bühnen- und Musikverlag GmbH., 2019.
 
 **Instrumentation summary**: tenor-bass trombone (2)
 
