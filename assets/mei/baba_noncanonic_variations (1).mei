@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Non-Canonic Variations</title>
+            <respStmt>
+               <persName role="composer">Noriko Baba</persName>
+               <persName role="transcriber">Nitya Nadgir</persName>
+               <persName role="reviewer">Matt Chen</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-04-10" type="encoding-date">2023-04-10</date>
+                <publisher>Rebalancing the Music Canon</publisher>
+            <!--The date is automatically generated when file is exported from MuseScore-->
+                <date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
+                <availability>
+                   <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+                </availability>
+                <identifier>
+                <ref target="https://rebalancing-music-canon.com/"/>
+                </identifier>
+         </pubStmt>
+     </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1q2z0k8">
+         <appInfo xml:id="appinfo-gxqvgj">
+            <application xml:id="application-1wy99ga" isodate="2023-05-03T11:06:45" version="3.15.0-5abc7c0">
+               <name xml:id="name-1tymeal">Verovio</name>
+               <p xml:id="p-qxst48">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m10ih0sh">
+            <score xml:id="s1q9fnpo">
+               <scoreDef xml:id="su26y41">
+                  <pgHead xml:id="p1s8x26j">
+                     <rend xml:id="rvbu98m" halign="center" valign="top"></rend>
+                     <rend xml:id="r1xekoso" halign="right" valign="bottom">Noriko Baba</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s19fes9v">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="lsa4a0g">Flute (Piccolo)</label>
+                        <labelAbbr xml:id="l126mu4c">Fl.</labelAbbr>
+                        <instrDef xml:id="i18iu4mr" midi.channel="0" midi.instrnum="73" midi.volume="78.00%" />
+                        <clef xml:id="cmrwnax" shape="G" line="2" />
+                        <keySig xml:id="kvwngt3" sig="0" />
+                        <meterSig xml:id="mamnupt" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s14wkn0c">
+                  <measure xml:id="m16itdp" n="1">
+                     <staff xml:id="sp26ruo" n="1">
+                        <layer xml:id="l101gint" n="1">
+                           <note xml:id="n15twknc" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down">
+                              <artic xml:id="auqm126" artic="ten" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d3gnnn2" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">p</dynam>
+                  </measure>
+                  <measure xml:id="msp5y79" n="2">
+                     <staff xml:id="sx8z0qa" n="1">
+                        <layer xml:id="l12qqbuc" n="1">
+                           <note xml:id="ntd31u6" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down">
+                              <artic xml:id="azyuxop" artic="ten" />
+                           </note>
+                           <note xml:id="nw7hl4z" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="n46q5zd" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down">
+                              <artic xml:id="adx8vni" artic="ten" />
+                           </note>
+                           <note xml:id="n1l6ln6c" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <artic xml:id="a18y9h99" artic="ten" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tatcufu" place="above" staff="1" tstamp="1.000000" midi.bpm="72.000000" mm="72.000000" mm.unit="4">
+                        <rend xml:id="r1mmm8oe" fontfam="smufl"></rend> = 72</tempo>
+                  </measure>
+                  <measure xml:id="mck1rlz" n="3">
+                     <staff xml:id="s1z0bs5g" n="1">
+                        <layer xml:id="l10pjldb" n="1">
+                           <note xml:id="n1q3djrz" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
+                              <artic xml:id="apxdlrg" artic="ten" />
+                           </note>
+                           <note xml:id="n3btwl1" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down">
+                              <artic xml:id="a1v1zvn" artic="ten" />
+                           </note>
+                           <note xml:id="n1txaj7p" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down">
+                              <artic xml:id="a1hw3mem" artic="ten" />
+                           </note>
+                           <note xml:id="n106pz2l" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <artic xml:id="a14xvgy4" artic="ten" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="f2rd5lc" staff="1" startid="#n1txaj7p" form="norm" place="above" />
+                     <dynam xml:id="d1gxyqik" place="below" staff="1" tstamp="4.000000" val="33" vgrp="40">pp</dynam>
+                  </measure>
+                  <measure xml:id="m32bs1x" right="end" n="4">
+                     <staff xml:id="s1nh5kzg" n="1">
+                        <layer xml:id="l18tc71p" n="1">
+                           <note xml:id="n1bgb068" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down">
+                              <artic xml:id="ajsuyfh" artic="ten" />
+                           </note>
+                           <note xml:id="nd4vh1t" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <artic xml:id="a1xds3c4" artic="ten" />
+                           </note>
+                           <note xml:id="ngw473w" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <artic xml:id="ahhcjt0" artic="ten" />
+                           </note>
+                           <beam xml:id="b649rcf">
+                              <note xml:id="n106f2gh" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <artic xml:id="a1ftr1vw" artic="ten" />
+                              </note>
+                              <note xml:id="n1koit2c" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                                 <artic xml:id="amuu5ru" artic="ten" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d24hkeu" place="below" staff="1" tstamp="1.000000" val="49" vgrp="40">p</dynam>
+                     <dynam xml:id="d5qva6y" place="below" staff="1" tstamp="2.000000" val="33" vgrp="40">pp</dynam>
+                     <dynam xml:id="dyd9j3e" place="below" staff="1" tstamp="3.000000" val="49" vgrp="40">p</dynam>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
