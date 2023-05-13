@@ -2,7 +2,7 @@
 layout: page
 title: Hailstork, Adolphus (1941)
 category: incipits
-century: 20th
+century: 20th 
 permalink: /hailstork/
 ---
 
