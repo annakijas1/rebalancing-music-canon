@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Þorvaldsdóttir, Anna S. (1977-)
+title: Þorvaldsdottir (Thorvaldsdóttir), Anna S. (1977-)
 category: incipits
 century: 20th
-permalink: /Þorvaldsdottir/
+permalink: /thorvaldsdottir/
 ---
 
 <a title="Magnus Frderberg/norden.org, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Anna_Thorvaldsdottir_._Prisutdelning_vid_Nordiska_raoedets_session_i_Helsingfors_2012.jpg"><img width="256" alt="Anna Thorvaldsdottir . Prisutdelning vid Nordiska raoedets session i Helsingfors 2012" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anna_Thorvaldsdottir_._Prisutdelning_vid_Nordiska_raoedets_session_i_Helsingfors_2012.jpg/256px-Anna_Thorvaldsdottir_._Prisutdelning_vid_Nordiska_raoedets_session_i_Helsingfors_2012.jpg"></a>
@@ -13,7 +13,7 @@ permalink: /Þorvaldsdottir/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Þorvaldsdóttir, Anna S." %}
+      {% if item.author == "Thorvaldsdóttir, Anna S." %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
