@@ -16,11 +16,15 @@
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-05-16</metaTag>
     <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="subtitle">Subtitle</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workTitle">Reminiscence II</metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Reminiscence VII</metaTag>
     <Order id="orchestral">
       <name>Orchestral</name>
       <instrument id="piano">
@@ -107,106 +111,42 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.533333</tempo>
             <followText>1</followText>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 40</text>
+            <offset x="0" y="-4.61347"/>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 32</text>
             </Tempo>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            </Rest>
           <Dynamic>
             <subtype>mp</subtype>
             <velocity>64</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.113629" y="-1.45404"/>
             </Dynamic>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Beam>
-            <Fragment>
-              <y1>4.65485</y1>
-              <y2>4.65485</y2>
-              </Fragment>
-            </Beam>
-          <Rest>
-            <BeamMode>begin</BeamMode>
-            <durationType>16th</durationType>
-            </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <BeamMode>begin32</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -446,9 +386,6 @@
     <Staff id="2">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -456,116 +393,14 @@
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.103196" y="5.33484"/>
-                <off2 x="-1.58622" y="0"/>
-                <minDistance>0.493609</minDistance>
-                </Segment>
+              <beginHookType>1</beginHookType>
               </Pedal>
             <next>
               <location>
-                <measures>5</measures>
+                <measures>3</measures>
                 </location>
               </next>
             </Spanner>
-          <Rest>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            </Dynamic>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Beam>
-            <Fragment>
-              <y1>5.63408</y1>
-              <y2>5.63408</y2>
-              </Fragment>
-            </Beam>
-          <Rest>
-            <BeamMode>begin</BeamMode>
-            <durationType>16th</durationType>
-            </Rest>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <BeamMode>begin32</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <BeamMode>begin32</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
-            </Dynamic>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -574,6 +409,52 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Ottava">
+            <Ottava>
+              <subtype>8vb</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.681775" y="6.40089"/>
+                <off2 x="-0.998879" y="0"/>
+                </Segment>
+              </Ottava>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Symbol>
+                <name>noteheadParenthesisLeft</name>
+                <offset x="-0.909034" y="-0.113629"/>
+                </Symbol>
+              <Symbol>
+                <name>noteheadParenthesisRight</name>
+                <offset x="1.24992" y="-0.113629"/>
+                </Symbol>
+              <pitch>33</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <offset x="4.88606" y="0"/>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Spanner type="Ottava">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -585,10 +466,26 @@
           <Spanner type="Pedal">
             <prev>
               <location>
-                <measures>-5</measures>
+                <measures>-3</measures>
                 </location>
               </prev>
             </Spanner>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
