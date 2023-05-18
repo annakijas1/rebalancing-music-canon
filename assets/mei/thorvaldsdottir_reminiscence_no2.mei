@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Reminiscence II</title>
+            <respStmt>
+               <persName xml:id="at01" role="composer">Anna Thorvaldsdottir</persName>
+               <persName xml:id="rm01" role="transcriber">Ronja Mokráňová</persName>
+               <persName xml:id="aek01" role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-05-18" type="encoding-date">2023-05-18</date>
+              <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-baqkwx">
+         <appInfo xml:id="appinfo-1psiomz">
+            <application xml:id="application-1c4ljh6" isodate="2023-05-18T16:36:10" version="3.15.0-5abc7c0">
+               <name xml:id="name-mbqs08">Verovio</name>
+               <p xml:id="p-1fsjxkx">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1iof0d6">
+            <score xml:id="s1had3i8">
+               <scoreDef xml:id="s11zjvp9">
+                  <pgHead xml:id="pkqm33c">
+                     <rend xml:id="rpf9p8u" halign="right" valign="bottom">Anna Thorvaldsdóttir</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s11vwfzb">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <label xml:id="l10agz4i">Piano</label>
+                        <labelAbbr xml:id="la65rx0">Pno.</labelAbbr>
+                        <instrDef xml:id="i1yu1sxs" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                        <staffDef xml:id="savohhf" n="1" lines="5" ppq="4">
+                           <clef xml:id="cs717gv" shape="G" line="2" />
+                           <keySig xml:id="k1i3uhn" />
+                           <meterSig xml:id="m17fptkw" count="4" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="saooya8" n="2" lines="5" ppq="4">
+                           <clef xml:id="c4tcd4g" shape="F" line="4" />
+                           <keySig xml:id="ku49rqn" />
+                           <meterSig xml:id="m1ct8vyg" count="4" unit="4" />
+                        </staffDef>
+                        <grpSym xml:id="g1n4vj4m" symbol="brace" />
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s5cky79">
+                  <measure xml:id="m1no60gu" n="1">
+                     <staff xml:id="s9hl92y" n="1">
+                        <layer xml:id="lmoqo6r" n="1">
+                           <rest xml:id="rb7rs8j" dur.ppq="4" dur="4" />
+                           <rest xml:id="rmppcd0" dots="1" dur.ppq="3" dur="8" />
+                           <note xml:id="nmtm8f5" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up" accid="s" />
+                           <rest xml:id="r4ty7et" dur.ppq="8" dur="2" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1cjkphv" n="2">
+                        <layer xml:id="l9ts5qd" n="5">
+                           <rest xml:id="r3v7v9t" dur.ppq="2" dur="8" />
+                           <note xml:id="nvffsxe" dur.ppq="2" dur="8" oct="3" pname="c" stem.dir="up">
+                              <accid xml:id="ac81lsu" accid.ges="n" />
+                           </note>
+                           <rest xml:id="rfxyptx" dur.ppq="4" dur="4" />
+                           <rest xml:id="rmlinyr" dur.ppq="8" dur="2" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t1evkmpm" place="above" staff="1" tstamp="1.000000" midi.bpm="40.000000" mm="40.000000" mm.unit="4">
+                        <rend xml:id="rcgms7l" fontfam="smufl"></rend> = 40</tempo>
+                     <dynam xml:id="dtmnzgj" place="below" staff="1" tstamp="2.750000" val="64" vgrp="40">mp</dynam>
+                     <pedal xml:id="p1jbz7t0" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="93" />
+                     <dynam xml:id="dxyxhrj" place="below" staff="2" tstamp="1.500000" val="64" vgrp="40">mp</dynam>
+                  </measure>
+                  <measure xml:id="mbnhmuy" n="2">
+                     <staff xml:id="s13zquvr" n="1">
+                        <layer xml:id="l1wow4ar" n="1">
+                           <rest xml:id="r13jvro8" dur.ppq="8" dur="2" />
+                           <rest xml:id="r1rmouxq" dur.ppq="1" dur="16" />
+                           <note xml:id="n1ivjf0z" dots="1" dur.ppq="3" dur="8" oct="5" pname="b" stem.dir="down">
+                              <accid xml:id="a47b8k6" accid.ges="n" />
+                           </note>
+                           <rest xml:id="rsbbw68" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sevid73" n="2">
+                        <layer xml:id="l12ltj94" n="5">
+                           <rest xml:id="rul2n0g" dur.ppq="4" dur="4" />
+                           <rest xml:id="r1ej3mm1" dur.ppq="1" dur="16" />
+                           <note xml:id="n1y68zs0" dur.ppq="1" dur="16" oct="3" pname="e" stem.dir="down" accid="f" />
+                           <rest xml:id="rd37pw8" dur.ppq="2" dur="8" />
+                           <rest xml:id="raf7j4m" dur.ppq="4" dur="4" />
+                           <note xml:id="n1g5gh4u" dur.ppq="2" dur="8" oct="3" pname="c" stem.dir="up">
+                              <accid xml:id="a1meaag3" accid.ges="n" />
+                           </note>
+                           <rest xml:id="rwdyl9i" dur.ppq="2" dur="8" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1mtk4j8" n="3">
+                     <staff xml:id="szprt26" n="1">
+                        <layer xml:id="lzrlabc" n="1">
+                           <note xml:id="n16s6ns3" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up" accid="s" />
+                           <rest xml:id="rwjyle1" dur.ppq="2" dur="8" />
+                           <rest xml:id="r12rrkyp" dots="1" dur.ppq="3" dur="8" />
+                           <note xml:id="n1sw4dr4" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down" accid="f" />
+                           <rest xml:id="r9lig7l" dur.ppq="8" dur="2" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sy5mbpl" n="2">
+                        <layer xml:id="lzp1mdj" n="5">
+                           <rest xml:id="r1jaywk3" dur.ppq="8" dur="2" />
+                           <rest xml:id="rp1nw96" dur.ppq="2" dur="8" />
+                           <note xml:id="n1octe4k" dur.ppq="2" dur="8" oct="3" pname="c" stem.dir="up">
+                              <accid xml:id="akv5etu" accid.ges="n" />
+                           </note>
+                           <rest xml:id="r1bw68t8" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d1r1190r" place="below" staff="2" tstamp="3.500000" val="33" vgrp="40">pp</dynam>
+                     <pedal xml:id="pditc01" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
