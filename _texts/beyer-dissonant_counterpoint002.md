@@ -4,7 +4,7 @@ title: Dissonant counterpoint, II
 author: Beyer, Johanna
 ensemble: solo 
 permalink: /beyer-dissonant-counterpoint-ii/
-document:
+document: beyer_dissonant_counterpoint_2.mei
 ---
 
 In *Dissonant counterpoint: solo piano.* Lebanon, NH: Frog Peak Music, 1996.

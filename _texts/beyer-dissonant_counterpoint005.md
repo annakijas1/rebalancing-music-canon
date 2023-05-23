@@ -4,7 +4,7 @@ title: Dissonant counterpoint, V
 author: Beyer, Johanna
 ensemble: solo 
 permalink: /beyer-dissonant-counterpoint-v/
-document:
+document: beyer_dissonant_counterpoint_5.mei
 ---
 
 In *Dissonant counterpoint: solo piano.* Lebanon, NH: Frog Peak Music, 1996.
