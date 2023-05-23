@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>zetsu</title>
+            <respStmt>
+               <persName role="composer">Emily Koh</persName>
+               <persName role="transcriber">Jordan Good</persName>
+               <persName role="reviewer">Matt Chen</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-05-04" type="encoding-date">2023-05-04</date>
+              <publisher>Rebalancing the Music Canon</publisher>
+   <!--The date is automatically generated when file is exported from MuseScore-->
+       <date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+            <availability>
+               <distributor>(2018)</distributor>
+            </availability>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1puenib">
+         <appInfo xml:id="appinfo-64z6np">
+            <application xml:id="application-vwx0m5" isodate="2023-05-23T14:08:14" version="3.15.0-5abc7c0">
+               <name xml:id="name-8myyyc">Verovio</name>
+               <p xml:id="p-1msd2wd">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1ai1b8c">
+            <score xml:id="s1kgjtb4">
+               <scoreDef xml:id="sgyze4j">
+                  <pgHead xml:id="peyooty">
+                     <rend xml:id="r1e2mnwb" halign="center" valign="top"></rend>
+                     <rend xml:id="ruju4f3" halign="center" valign="top"></rend>
+                     <rend xml:id="r1jsh85k" halign="right" valign="bottom">Emily Koh
+</rend>
+                  </pgHead>
+                  <pgFoot xml:id="pwcfqzl">
+                     <rend xml:id="r57cpql">(2018)</rend>
+                     <rend xml:id="rcgindv" halign="center" valign="bottom">(2018)</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="s1479aju">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="lvldiff">Bassoon</label>
+                        <labelAbbr xml:id="loto700">Bsn.</labelAbbr>
+                        <instrDef xml:id="i1efdzv7" midi.channel="3" midi.instrnum="70" midi.volume="78.00%" />
+                        <clef xml:id="c1ocngie" shape="F" line="4" />
+                        <keySig xml:id="k4msh1o" sig="0" />
+                        <meterSig xml:id="m7fuvw9" count="4" unit="4" />
+                     </staffDef>
+                     <staffGrp xml:id="sdjrbj0">
+                        <grpSym xml:id="glh9s9w" symbol="bracket" />
+                        <staffDef xml:id="P2" n="2" lines="5" ppq="4" trans.diat="-7" trans.semi="-12">
+                           <label xml:id="l1ev5m6r">Contrabass</label>
+                           <labelAbbr xml:id="l57xx92">Cb.</labelAbbr>
+                           <instrDef xml:id="i6ror7o" midi.channel="0" midi.instrnum="43" midi.volume="78.00%" />
+                           <clef xml:id="cepj52n" shape="F" line="4" />
+                           <keySig xml:id="k1lh269p" sig="0" />
+                           <meterSig xml:id="m1d7shzs" count="4" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="st3i66v">
+                  <measure xml:id="m4utlve" n="1">
+                     <staff xml:id="s1sxxi4h" n="1">
+                        <layer xml:id="l2n4v41" n="1">
+                           <mRest xml:id="m1v2rifr" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s11jvavf" n="2">
+                        <layer xml:id="l3ylaty" n="1">
+                           <note xml:id="n16rnd2s" dur.ppq="4" dur="4" oct="2" pname="b" stem.dir="up">
+                              <artic xml:id="a1swhx4h" artic="acc" />
+                           </note>
+                           <rest xml:id="r1g5svhn" dur.ppq="4" dur="4" />
+                           <rest xml:id="r1o7slqz" dur.ppq="4" dur="4" />
+                           <rest xml:id="r2y2d58" dots="1" dur.ppq="3" dur="8" />
+                           <note xml:id="nwriczj" dur.ppq="1" dur="16" oct="2" pname="b" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tud76mv" place="above" staff="1" tstamp="1.000000" midi.bpm="48.000000" mm="48.000000" mm.unit="4">
+                        <rend xml:id="r13734lw" fontfam="smufl"></rend> = 48</tempo>
+                     <dynam xml:id="d1ndytml" place="below" staff="2" tstamp="1.000000" val="126" vgrp="91">fff</dynam>
+                     <dir xml:id="d141euwk" place="above" staff="2" tstamp="1.000000" vgrp="200">pizz.</dir>
+                     <slur xml:id="syu8na2" startid="#n16rnd2s" />
+                     <dynam xml:id="d1apjojx" place="below" staff="2" tstamp="4.750000" val="96" vgrp="77">f</dynam>
+                     <slur xml:id="seqqwih" startid="#nwriczj" />
+                  </measure>
+                  <measure xml:id="m18ccrfu" n="2">
+                     <staff xml:id="sei40ct" n="1">
+                        <layer xml:id="lq5tc9j" n="1">
+                           <mRest xml:id="melkod6" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1t4w2an" n="2">
+                        <layer xml:id="l4m1rxb" n="1">
+                           <rest xml:id="rat4n1" dur.ppq="8" dur="2" />
+                           <note xml:id="nsogblo" dur.ppq="4" dur="4" oct="2" pname="b" stem.dir="up" />
+                           <rest xml:id="r1b1v9dm" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d1s6za9w" place="below" staff="2" tstamp="3.000000" val="49" vgrp="70">p</dynam>
+                     <slur xml:id="smv78m0" startid="#nsogblo" />
+                  </measure>
+                  <measure xml:id="m1ob10bd" n="3">
+                     <staff xml:id="s1up5z1s" n="1">
+                        <layer xml:id="lzq1wlo" n="1">
+                           <mRest xml:id="m2l4ytg" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="szodhvg" n="2">
+                        <layer xml:id="ldvqm8h" n="1">
+                           <mRest xml:id="m1ndvy0u" />
+                        </layer>
+                     </staff>
+                     <breath xml:id="bj0p4wv" staff="1" tstamp="5.000000" />
+                     <fermata xml:id="fzwycs3" staff="1" startid="#m2l4ytg" form="norm" place="above" />
+                     <breath xml:id="b1t49al5" staff="2" tstamp="5.000000" />
+                     <fermata xml:id="fzr8umo" staff="2" startid="#m1ndvy0u" form="norm" place="above" />
+                  </measure>
+                  <measure xml:id="mpgrj4y" n="4">
+                     <staff xml:id="sxunxdv" n="1">
+                        <layer xml:id="ll53nlg" n="1">
+                           <note xml:id="n45v60x" dur.ppq="16" dur="1" oct="2" pname="d" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sz6v6p6" n="2">
+                        <layer xml:id="l9tsx9j" n="1">
+                           <note xml:id="nt6ufyv" dur.ppq="4" dur="4" oct="2" pname="b" stem.dir="up">
+                              <artic xml:id="a1yuvipe" artic="acc" />
+                           </note>
+                           <rest xml:id="r1apgia9" dur.ppq="4" dur="4" />
+                           <rest xml:id="rzx8vyt" dur.ppq="8" dur="2" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t3j9ufs" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="52.000000" mm="52.000000" mm.unit="4">
+                        <rend xml:id="r163tce5" fontweight="bold" />
+                        <rend xml:id="ro34odx" fontfam="smufl"></rend> = 52</tempo>
+                     <dynam xml:id="drjjjye" place="below" staff="1" tstamp="1.000000" val="33" vgrp="67">pp</dynam>
+                     <hairpin xml:id="hogwpkc" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="87" />
+                     <tie xml:id="t2mfls6" startid="#n45v60x" endid="#n1fxb2g6" />
+                     <dynam xml:id="d7vjoht" place="below" staff="2" tstamp="1.000000" val="112" vgrp="80">ff</dynam>
+                  </measure>
+                  <measure xml:id="m1gstfyb" n="5">
+                     <staff xml:id="sn4lfbo" n="1">
+                        <layer xml:id="llm21wk" n="1">
+                           <note xml:id="n1fxb2g6" dur.ppq="16" dur="1" oct="2" pname="d" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1chmwvj" n="2">
+                        <layer xml:id="lpyli9m" n="1">
+                           <rest xml:id="ree1c4m" dur.ppq="4" dur="4" />
+                           <rest xml:id="r125k99r" dots="1" dur.ppq="3" dur="8" />
+                           <note xml:id="njqn3kz" dur.ppq="1" dur="16" oct="2" pname="b" stem.dir="up" />
+                           <rest xml:id="r14usjyr" dur.ppq="8" dur="2" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d9m4d73" place="below" staff="1" tstamp="1.000000" val="49" vgrp="67">p</dynam>
+                     <dir xml:id="d1u4z9nf" place="above" staff="1" tstamp="1.000000" vgrp="214">norm. vib.</dir>
+                     <hairpin xml:id="h13q7ob5" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="87" />
+                     <slur xml:id="s2ohmxz" startid="#n1fxb2g6" />
+                     <dynam xml:id="dfni1qk" place="below" staff="2" tstamp="2.750000" val="96" vgrp="76">f</dynam>
+                     <dir xml:id="d17jjgxk" place="above" staff="2" tstamp="2.750000" vgrp="200">(let ring)</dir>
+                     <dir xml:id="ddb5hjf" place="above" staff="2" tstamp="2.750000" vgrp="206">pizz.</dir>
+                     <slur xml:id="s25kbdn" startid="#njqn3kz" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
