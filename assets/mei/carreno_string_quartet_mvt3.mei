@@ -10,7 +10,7 @@
                <persName role="composer">Teresa Carreno</persName>
                <persName xml:id="st01" role="transcriber">Sebastian Tringale</persName>
                <persName xml:id="pgw01" role="transcriber">Phillip G. Wright</persName>
-               <persName xml:id="pgw01" role="reviewer">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date> <publisher>Rebalancing the Music Canon</publisher>
@@ -66,8 +66,7 @@
                      </staff>
 
                      <tempo place="above" staff="1" tstamp="0">
-	                       <rend fontweight="normal">Allegro ma non toppo</rend>
-                          <rend fontfam="smufl">(&#x1d15f;</rend> = 112)</tempo>
+                        <rend xml:id="rtoazog" fontweight="bold">Allegro ma non troppo </rend> (<rend xml:id="r1xeot42" fontfam="smufl"></rend> = 112)</tempo>
                   </measure>
                   <measure xml:id="measure-0000000268858337" n="3">
                      <staff xml:id="staff-0000001155397569" n="1">
