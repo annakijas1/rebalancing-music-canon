@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>spring of hope / lootuse läte</title>
+            <respStmt>
+               <persName role="composer">Alisson Kruusmaa (2021)</persName>
+               <persName role="transcriber">Samantha Tripp</persName>
+               <persName role="reviewer">Matt Chen</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-04-21" type="encoding-date">2023-04-21</date>
+            
+       <publisher>Rebalancing the Music Canon</publisher>
+   <!--The date is automatically generated when file is exported from MuseScore-->
+       <date isodate="2021-05-07" type="encoding-date">2021-05-07</date>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1djhsxr">
+         <appInfo xml:id="appinfo-rxjjz6">
+            <application xml:id="application-3tr8r1" isodate="2023-05-25T14:01:32" version="3.15.0-5abc7c0">
+               <name xml:id="name-peypnq">Verovio</name>
+               <p xml:id="p-lkfwez">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mvi1cat">
+            <score xml:id="s9jt2j5">
+               <scoreDef xml:id="s19028or">
+                  <pgHead xml:id="p1gow4md">
+                     <rend xml:id="rqgcb0s" halign="center" valign="top"></rend>
+                     <rend xml:id="rw8em7" halign="center" valign="top"></rend>
+                     <rend xml:id="r1390u5t" halign="right" valign="bottom">Alisson Kruusmaa (2021)</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sncm9y8">
+                     <staffGrp xml:id="spovcp5">
+                        <grpSym xml:id="g3t5xs3" symbol="bracket" />
+                        <staffGrp xml:id="s1l4fjl5">
+                           <grpSym xml:id="g14nw7a0" symbol="bracketsq" />
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                              <label xml:id="lht1m6u">Violoncello I</label>
+                              <labelAbbr xml:id="lfayf1p">Vc. I</labelAbbr>
+                              <instrDef xml:id="i12t3t5j" midi.channel="0" midi.instrnum="42" midi.volume="78.00%" />
+                              <clef xml:id="c1xgixzl" shape="F" line="4" />
+                              <keySig xml:id="kgsdtl6" sig="0" />
+                              <meterSig xml:id="m1pwldpz" count="4" unit="4" />
+                           </staffDef>
+                           <staffDef xml:id="P2" n="2" lines="5" ppq="1">
+                              <label xml:id="l1j8agzs">Violoncello II</label>
+                              <labelAbbr xml:id="l1hp22ce">Vc. II</labelAbbr>
+                              <instrDef xml:id="i1lfv9wq" midi.channel="3" midi.instrnum="42" midi.volume="78.00%" />
+                              <clef xml:id="c1l22jpt" shape="F" line="4" />
+                              <keySig xml:id="kzkq0wf" sig="0" />
+                              <meterSig xml:id="maa6pxb" count="4" unit="4" />
+                           </staffDef>
+                           <staffDef xml:id="P3" n="3" lines="5" ppq="1">
+                              <label xml:id="l1m22kz">Violoncello III</label>
+                              <labelAbbr xml:id="lwchjev">Vc. III</labelAbbr>
+                              <instrDef xml:id="imi8q1h" midi.channel="6" midi.instrnum="42" midi.volume="78.00%" />
+                              <clef xml:id="c1o1uygp" shape="F" line="4" />
+                              <keySig xml:id="k18e91xt" sig="0" />
+                              <meterSig xml:id="m18wq7ss" count="4" unit="4" />
+                           </staffDef>
+                           <staffDef xml:id="P4" n="4" lines="5" ppq="1">
+                              <label xml:id="l1n1of31">Violoncello IV</label>
+                              <labelAbbr xml:id="l2dq9xl">Vc. IV</labelAbbr>
+                              <instrDef xml:id="i1wni075" midi.channel="10" midi.instrnum="42" midi.volume="78.00%" />
+                              <clef xml:id="cqrcuk0" shape="F" line="4" />
+                              <keySig xml:id="kw6hy93" sig="0" />
+                              <meterSig xml:id="m1nxbs7u" count="4" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1y7xf3v">
+                  <measure xml:id="m1tq7733" n="1">
+                     <staff xml:id="sqtff49" n="1">
+                        <layer xml:id="lmjwggf" n="1">
+                           <note xml:id="nty7aks" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="saj9jtu" n="2">
+                        <layer xml:id="l1wbvgke" n="1">
+                           <mRest xml:id="mr6dyju" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="so6cvda" n="3">
+                        <layer xml:id="l1ry86qp" n="1">
+                           <mRest xml:id="mj1yuin" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s12w0jv2" n="4">
+                        <layer xml:id="l17gfcpd" n="1">
+                           <mRest xml:id="mhnswl1" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t13hol13" place="above" staff="1" tstamp="1.000000" midi.bpm="60.000000" mm="60.000000" mm.unit="4">
+                        <rend xml:id="r1n87k1k" fontfam="smufl"></rend> = 60</tempo>
+                     <dynam xml:id="dy9tsa8" place="below" staff="1" tstamp="1.000000" val="16" vgrp="52">ppp</dynam>
+                     <dir xml:id="d2rbwvz" place="above" staff="1" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="r1f62cuq" fontstyle="italic">on the bridge</rend>
+                     </dir>
+                     <dir xml:id="dh2ztfb" place="above" staff="1" tstamp="1.000000" vgrp="300">
+                        <rend xml:id="rw919ah" fontstyle="italic">sempre con rubato, molto cantabile</rend>
+                     </dir>
+                     <hairpin xml:id="h1g1vxp5" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="72" />
+                  </measure>
+                  <measure xml:id="m395h5b" n="2">
+                     <staff xml:id="s1pcxmsn" n="1">
+                        <layer xml:id="l1qusyre" n="1">
+                           <note xml:id="n1w8dqs5" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s7gxflj" n="2">
+                        <layer xml:id="l18iae1b" n="1">
+                           <mRest xml:id="m1tag266" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sgm0ele" n="3">
+                        <layer xml:id="l7kgn8s" n="1">
+                           <note xml:id="nbnmheh" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s187hhmc" n="4">
+                        <layer xml:id="l16pkqvz" n="1">
+                           <mRest xml:id="m1cyl6x8" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d1km8ybd" place="below" staff="1" tstamp="1.000000" val="80" vgrp="66">mf</dynam>
+                     <dynam xml:id="d167zilj" place="below" staff="1" tstamp="5.000000" val="16" vgrp="40">ppp</dynam>
+                     <hairpin xml:id="h135l42r" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="72" />
+                     <dynam xml:id="d177tca2" place="below" staff="3" tstamp="1.000000" val="16" vgrp="52">ppp</dynam>
+                     <dir xml:id="d1g3ob6b" place="above" staff="3" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="rt2466w" fontstyle="italic">on the bridge</rend>
+                     </dir>
+                     <hairpin xml:id="h1xuze39" staff="3" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="72" />
+                  </measure>
+                  <measure xml:id="m1hrbxaa" n="3">
+                     <staff xml:id="s1bi622o" n="1">
+                        <layer xml:id="l1c8fxp2" n="1">
+                           <mRest xml:id="m19zv528" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1h14q03" n="2">
+                        <layer xml:id="l1pmn0c1" n="1">
+                           <mRest xml:id="m1u6zwob" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s10v1kxr" n="3">
+                        <layer xml:id="lal4o1a" n="1">
+                           <note xml:id="n1bak89o" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sew3swq" n="4">
+                        <layer xml:id="l14l7gbc" n="1">
+                           <mRest xml:id="m169hnj0" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d89yofa" place="below" staff="3" tstamp="1.000000" val="80" vgrp="66">mf</dynam>
+                     <dynam xml:id="dzaj9e4" place="below" staff="3" tstamp="5.000000" val="16" vgrp="40">ppp</dynam>
+                     <hairpin xml:id="h1hkkehf" staff="3" tstamp="1.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="72" />
+                  </measure>
+                  <measure xml:id="m1t3i40x" n="4">
+                     <staff xml:id="s1ba86zy" n="1">
+                        <layer xml:id="l13i1e7o" n="1">
+                           <mRest xml:id="m9n7xsc" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sjc6jfm" n="2">
+                        <layer xml:id="l1qxannj" n="1">
+                           <note xml:id="n1ghbq5e" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1ns7cny" n="3">
+                        <layer xml:id="l1fkcuqu" n="1">
+                           <mRest xml:id="m1ocmx0r" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s11774ud" n="4">
+                        <layer xml:id="l1r8qjhg" n="1">
+                           <mRest xml:id="mw7g543" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d112vln8" place="below" staff="2" tstamp="1.000000" val="16" vgrp="52">ppp</dynam>
+                     <dir xml:id="d1d9cs0c" place="above" staff="2" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="r188v98n" fontstyle="italic">on the bridge</rend>
+                     </dir>
+                     <hairpin xml:id="hmmllt9" staff="2" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="72" />
+                  </measure>
+                  <measure xml:id="m11o1nul" n="5">
+                     <staff xml:id="syr8ui8" n="1">
+                        <layer xml:id="lnd4sp3" n="1">
+                           <mRest xml:id="m1iiwahy" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="som2qsd" n="2">
+                        <layer xml:id="lit6x22" n="1">
+                           <note xml:id="n16gaopa" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sbwita9" n="3">
+                        <layer xml:id="l1paawy7" n="1">
+                           <mRest xml:id="m1bmbdih" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s165puw6" n="4">
+                        <layer xml:id="l14kssqc" n="1">
+                           <note xml:id="nrb7sqa" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d1mti0uq" place="below" staff="2" tstamp="1.000000" val="80" vgrp="66">mf</dynam>
+                     <dynam xml:id="d1kim2sg" place="below" staff="2" tstamp="5.000000" val="16" vgrp="40">ppp</dynam>
+                     <hairpin xml:id="h10zh3yk" staff="2" tstamp="1.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="72" />
+                     <dynam xml:id="dmqd2jr" place="below" staff="4" tstamp="1.000000" val="16" vgrp="52">ppp</dynam>
+                     <dir xml:id="d1r48btg" place="above" staff="4" tstamp="1.000000" vgrp="200">
+                        <rend xml:id="r1bhrmia" fontstyle="italic">on the bridge</rend>
+                     </dir>
+                     <hairpin xml:id="h14xrowd" staff="4" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="72" />
+                  </measure>
+                  <measure xml:id="m9pf79" n="6">
+                     <staff xml:id="srerswm" n="1">
+                        <layer xml:id="l10uxafh" n="1">
+                           <mRest xml:id="m43mbwq" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1kbv6qa" n="2">
+                        <layer xml:id="lkpyyzj" n="1">
+                           <mRest xml:id="m1rrib69" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1wxxt5" n="3">
+                        <layer xml:id="l1ukt2c6" n="1">
+                           <note xml:id="nzpb66h" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s10kz7rn" n="4">
+                        <layer xml:id="l74gvt6" n="1">
+                           <note xml:id="n1lg2oat" dur.ppq="4" dur="1" oct="2" pname="g" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dt51ilq" place="below" staff="3" tstamp="1.000000" val="16" vgrp="52">ppp</dynam>
+                     <hairpin xml:id="hg46rjb" staff="3" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="72" />
+                     <dynam xml:id="d1xnby5s" place="below" staff="4" tstamp="1.000000" val="80" vgrp="66">mf</dynam>
+                     <dynam xml:id="d8gls08" place="below" staff="4" tstamp="5.000000" val="16" vgrp="40">ppp</dynam>
+                     <hairpin xml:id="hf5zj0p" staff="4" tstamp="1.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="72" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
