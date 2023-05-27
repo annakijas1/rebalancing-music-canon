@@ -40,7 +40,7 @@
                      <rend xml:id="rmj4amx" halign="right" valign="bottom">Anthony Davis</rend>
                   </pgHead>
                   <staffGrp xml:id="skd1yjl">
-                     <staffDef xml:id="P1" n="1" lines="5" ppq="4" trans.diat="-1.000000" trans.semi="-2.000000">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4" trans.diat="-1" trans.semi="-2">
                         <label xml:id="lqfqjw6">B♭ Clarinet</label>
                         <labelAbbr xml:id="ls0div4">B♭ Cl.</labelAbbr>
                         <instrDef xml:id="ia35ybj" midi.channel="0" midi.instrnum="71" midi.volume="78.00%" />
@@ -58,8 +58,8 @@
                            <mRest xml:id="mj8pq1p" />
                         </layer>
                      </staff>
-                     <tempo place="above" staff="1" tstamp="1.000000">
-                        <rend>&#x1d15f; = 105</rend></tempo>
+                      <tempo xml:id="tpa2n1s" place="above" staff="1" tstamp="1.000000" midi.bpm="105.000000" mm="105.000000" mm.unit="4">
+                        <rend xml:id="rv9c35p" fontfam="smufl"></rend> = 105</tempo>
                   </measure>
                   <measure xml:id="m1e69ve" n="2">
                      <staff xml:id="s5321yl" n="1">

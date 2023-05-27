@@ -40,7 +40,7 @@
                      <rend xml:id="rgqbbz2" halign="right" valign="bottom">Valerie Coleman</rend>
                   </pgHead>
                   <staffGrp xml:id="s423bk">
-                     <staffDef xml:id="P1" n="1" lines="5" ppq="12" trans.diat="-4.000000" trans.semi="-7.000000">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="12" trans.diat="-4" trans.semi="-7">
                         <label xml:id="lkeqjci">English Horn</label>
                         <labelAbbr xml:id="lkqa4nu">E. Hn.</labelAbbr>
                         <instrDef xml:id="ip3jqjh" midi.channel="0" midi.instrnum="69" midi.volume="78.00%" />
@@ -57,8 +57,9 @@
                            <mRest xml:id="m3ko6sr" />
                         </layer>
                      </staff>
-                     <tempo xml:id="tjlurxs" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="80.000000" mm="80.000000" mm.unit="4">
-                        <rend xml:id="rqbv4wd" fontweight="bold">RUBATO &#x1d15f; = 80</rend></tempo>
+                     <tempo xml:id="t1tlroc7" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="80.000000" mm="80.000000" mm.unit="4">
+                        <rend xml:id="rd0vnn2" fontweight="bold">RUBATO </rend>
+                        <rend xml:id="rrr8msy" fontfam="smufl"></rend> = 80</tempo>
                   </measure>
                   <scoreDef xml:id="sq6hde4">
                      <meterSig xml:id="mtpftw0" count="4" unit="4" />
