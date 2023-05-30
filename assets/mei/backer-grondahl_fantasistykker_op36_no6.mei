@@ -10,7 +10,7 @@
                <persName xml:id="abg01" role="composer">Agathe Backer-Grøndahl</persName>
                <persName xml:id="dr01" role="transcriber">Delilah Righter</persName>
                <persName xml:id="skp01" role="transcriber">Simon K. Perry</persName>
-               <persName xml:id="skp01" role="reviewer">Simon K. Perry</persName>
+               <persName role="reviewer">Simon K. Perry</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date> <publisher>Rebalancing the Music Canon</publisher>
@@ -112,9 +112,9 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000000679639567" place="above" staff="1" tstamp="1.000000" midi.bpm="114" mm="76.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rend-0000000074152301" fontweight="normal">Andantino</rend>
-                        <rend fontfam="smufl">&#x1d15f; &#x1d16d;</rend> = 76</tempo>
+                     <tempo xml:id="trggtle" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="114" mm="76.000000" mm.unit="4" mm.dots="1">
+                        <rend xml:id="r1ag0d63" fontweight="bold">Andantino M.M. </rend>
+                        <rend xml:id="r1hmvsvq" fontfam="smufl"></rend> = 76</tempo>
                      <dynam xml:id="dynam-0000001836432696" place="below" staff="1" tstamp="1.000000" val="80" vgrp="1">mf</dynam>
                      <slur xml:id="slur-0000000937272741" startid="#note-0000000976806625" endid="#note-0000000380233170" curvedir="above" />
                      <slur xml:id="slur-0000001181695304" startid="#note-0000000976806625" endid="#note-0000000380233170" curvedir="below" />
@@ -282,11 +282,11 @@
                      </staff>
                      <tie xml:id="tie-0000000912727500" startid="#note-0000000850084654" endid="#note-0000001834948503" />
                      <tie xml:id="tie-0000000172525003" startid="#note-0000001395184307" endid="#note-0000000292513456" />
-                     <pedal xml:id="pedal-0000001572931092" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="83" />
+                     <pedal xml:id="pedal-0000001572931092" staff="2" tstamp="1.000000" dir="down" form="line" place="below" />
                      <pedal dir="down" staff="2" tstamp="0" />
                      <tie xml:id="tie-0000001417638084" startid="#note-0000001356083345" endid="#note-0000000460432613" />
                      <tie xml:id="tie-0000000638566488" startid="#note-0000001887090569" endid="#note-0000001508764558" />
-                     <pedal xml:id="pedal-0000001490320508" staff="2" tstamp="8.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000001490320508" staff="2" tstamp="8.900000" dir="up" form="line" place="below"/>
                      <pedal dir="up" staff="2" tstamp="8" />
                   </measure>
                   <measure xml:id="measure-0000000712217599" n="5">
@@ -344,7 +344,7 @@
                      <slur xml:id="slur-0000000927777708" startid="#note-0000001531826502" endid="#note-0000000636483886" curvedir="above" />
                      <slur xml:id="slur-0000001185180611" startid="#note-0000000636483886" endid="#note-0000000667389058" curvedir="above" />
                      <slur xml:id="slur-0000000360974050" startid="#note-0000001322974198" endid="#note-0000002129722604" curvedir="above" />
-                     <pedal xml:id="pedal-0000000351811673" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="89" />
+                     <pedal xml:id="pedal-0000000351811673" staff="2" tstamp="1.000000" dir="down" form="line" place="below" />
                      <pedal dir="down" staff="2" tstamp="0" />
                      <slur xml:id="slur-0000001106487045" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="above" />
                      <slur xml:id="slur-0000002082691600" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="below" />
@@ -352,7 +352,7 @@
                      <slur xml:id="slur-0000002140910032" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="above" />
                      <slur xml:id="slur-0000000889172160" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="above" />
                      <slur xml:id="slur-0000000792473882" startid="#note-0000000382633405" endid="#note-0000001893331976" curvedir="above" />
-                     <pedal xml:id="pedal-0000000399327857" staff="2" tstamp="6.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000000399327857" staff="2" tstamp="6.900000" dir="up" form="line" place="below" />
                      <pedal dir="up" staff="2" tstamp="6.9" />
                   </measure>
                   <measure xml:id="measure-0000001004431761" right="single" n="6">
