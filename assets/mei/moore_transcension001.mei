@@ -40,7 +40,7 @@
                      <rend xml:id="rz83y3g" halign="right" valign="bottom">Dorothy Rudd Moore</rend>
                   </pgHead>
                   <staffGrp xml:id="smwt5ht">
-                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-1.000000" trans.semi="-2.000000">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-1" trans.semi="-2">
                         <label xml:id="li8hk20">B♭ Clarinet</label>
                         <labelAbbr xml:id="l88up6k">B♭ Cl.</labelAbbr>
                         <instrDef xml:id="iakj6sp" midi.channel="0" midi.instrnum="71" midi.volume="78.00%" />
@@ -57,8 +57,10 @@
                            <multiRest xml:id="mvprohc" num="8" />
                         </layer>
                      </staff>
-                     <tempo place="above" staff="1" tstamp="0">
-                        <rend>Lento &#x1d15f; = 80</rend></tempo>
+                     <tempo xml:id="t55h7yz" place="above" staff="1" tstamp="0.000000" xml:lang="it" midi.bpm="90.000000" mm="60.000000" mm.unit="4" mm.dots="1">
+                        <rend xml:id="r7b1vga" fontstyle="normal" fontweight="bold">Lento</rend>
+                        <rend xml:id="r1ekk7wh" fontweight="bold"><rend xml:id="rv5x4aw" fontfam="smufl"></rend> = 80</rend>
+                        </tempo>
                   </measure>
                   <measure xml:id="m3w4t6k" n="9">
                      <staff xml:id="sqav7wl" n="1">
