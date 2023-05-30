@@ -67,22 +67,25 @@
                      </staff>
                      <staff xml:id="s1jw7xzd" n="2">
                         <layer xml:id="l1opi1l8" n="5">
+                           <beam beam.with="above">
                            <rest xml:id="r1md0ett" dur.ppq="2" dur="8" />
                            <chord xml:id="c5texli" dur.ppq="2" dur="8" stem.dir="up">
                               <note xml:id="n1xobf4k" oct="2" pname="c" head.mod="paren" />
                               <note xml:id="n1gb2goq" oct="2" pname="g" head.mod="paren" />
                            </chord>
+                           </beam>
+                         	<beam beam.with="above">
                            <rest xml:id="r1slw33m" dots="1" dur.ppq="3" dur="8" />
-                           <note xml:id="nodqaxj" dur.ppq="1" dur="16" oct="2" pname="a" head.mod="paren" stem.dir="up" accid="f" />
+                              <note xml:id="nodqaxj" dur.ppq="1" dur="16" oct="2" pname="a" head.mod="paren" stem.dir="up" accid="f" /></beam>
                            <note xml:id="n16nj7cn" dur.ppq="4" dur="4" oct.ges="1" oct="2" pname="a" head.mod="paren" stem.dir="up" accid="n" />
-                           <rest xml:id="r2qjx84" dur.ppq="1" dur="16" />
+                           <beam beam.with="above"><rest xml:id="r2qjx84" dur.ppq="1" dur="16" />
                            <note xml:id="n1fcsfuh" dots="1" dur.ppq="3" dur="8" oct="4" pname="c" head.mod="paren" stem.dir="down" accid="s" />
-                        </layer>
+                           </beam></layer>
                         <layer xml:id="l4g5hvj" n="6">
                            <space xml:id="s7jwt1i" dur.ppq="8" dur="2" />
                            <note xml:id="n1co3qpk" dur.ppq="4" dur="4" oct="1" pname="a" head.mod="paren" stem.dir="down" accid="n" />
                            <space xml:id="s1ufy29n" dur.ppq="4" dur="4" />
-                        </layer>
+                           </layer>
                      </staff>
                      <tempo xml:id="t2kj63u" place="above" staff="1" tstamp="1.000000" midi.bpm="32.000000" mm="32.000000" mm.unit="4">
                         <rend xml:id="rh4hpdq" fontfam="smufl"></rend> = 32</tempo>
@@ -100,14 +103,15 @@
                      </staff>
                      <staff xml:id="s1qg76fg" n="2">
                         <layer xml:id="lq0iksb" n="5">
+                           <beam beam.with="above">
                            <rest xml:id="rmzak5q" dur.ppq="2" dur="8" />
-                           <note xml:id="n9646j5" dur.ppq="2" dur="8" oct="4" pname="c" head.mod="paren" stem.dir="down" accid="n" />
-                           <rest xml:id="rkp07g7" dots="1" dur.ppq="3" dur="8" />
-                           <note xml:id="n1w86ef5" dur.ppq="1" dur="16" oct="3" pname="a" head.mod="paren" stem.dir="down" />
+                              <note xml:id="n9646j5" dur.ppq="2" dur="8" oct="4" pname="c" head.mod="paren" stem.dir="down" accid="n" /></beam>
+                           <beam beam.with="above"><rest xml:id="rkp07g7" dots="1" dur.ppq="3" dur="8" />
+                              <note xml:id="n1w86ef5" dur.ppq="1" dur="16" oct="3" pname="a" head.mod="paren" stem.dir="down" /></beam>
                            <rest xml:id="rakx9rd" dur.ppq="4" dur="4" />
-                           <rest xml:id="r18dlq6c" dur.ppq="1" dur="16" />
+                           <beam beam.with="above"><rest xml:id="r18dlq6c" dur.ppq="1" dur="16" />
                            <note xml:id="n4epcfz" dur.ppq="1" dur="16" oct="1" pname="a" head.mod="paren" stem.dir="up" />
-                           <rest xml:id="r1kl1tyc" dur.ppq="2" dur="8" />
+                              <rest xml:id="r1kl1tyc" dur.ppq="2" dur="8" /></beam>
                         </layer>
                      </staff>
                      <pedal xml:id="p1baqqvn" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
