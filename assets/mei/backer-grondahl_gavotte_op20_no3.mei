@@ -10,7 +10,7 @@
                <persName xml:id="abg01" role="composer">Agathe Backer-Grøndahl</persName>
                <persName xml:id="dr01" role="transcriber">Delilah Righter</persName>
                <persName xml:id="skp01" role="transcriber">Simon K. Perry</persName>
-               <persName xml:id="skp01" role="reviewer">Simon K. Perry</persName>
+               <persName  role="reviewer">Simon K. Perry</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date> <publisher>Rebalancing the Music Canon</publisher>
@@ -79,9 +79,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000000952931404" place="above" staff="1" tstamp="1.000000" midi.bpm="112" mm="112.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001558549552" fontweight="normal">Allegretto</rend>
-                        <rend fontfam="smufl">&#x1d15f;</rend> = 112</tempo>
+                      <tempo xml:id="t19zh2uz" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="112" mm="112.000000" mm.unit="4">Allegretto M.M.
+                        <rend xml:id="ro1v4lz" fontfam="smufl"></rend> = 112</tempo>
                      <dynam xml:id="dynam-0000000854008134" place="below" staff="1" tstamp="1.000000" val="80" vgrp="1">mf</dynam>
                   </measure>
                   <measure xml:id="measure-0000001276599025" n="1">
@@ -162,7 +161,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="dir-0000000292513456" place="below" staff="1" tstamp="1.000000" vgrp="1">
-                        <rend xml:id="rend-0000001166674105" rend="none" fontstyle="italic" vgrp="1" >leggiero</rend>
+                        <rend xml:id="rend-0000001166674105" rend="none" fontstyle="italic">leggiero</rend>
                      </dir>
                      <slur xml:id="slur-0000000360185410" startid="#note-0000001673334875" endid="#note-0000001712119425" curvedir="above" />
                      <slur xml:id="slur-0000001256342327" startid="#note-0000002127149755" endid="#note-0000001586598019" curvedir="above" />
