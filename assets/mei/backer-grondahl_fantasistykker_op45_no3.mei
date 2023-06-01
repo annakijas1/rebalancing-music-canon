@@ -76,9 +76,9 @@
                            <space xml:id="s8o9kpt" dur.ppq="2" dur="8" />
                         </layer>
                      </staff>
-                     <tempo place="above" staff="1" tstamp="1">
-                     <rend fontweight="normal">Andantino semplice</rend>
-                     <rend fontfam="smufl">&#x1d15f;</rend> = 100</tempo>
+                     <tempo xml:id="t1i7rid8" place="above" staff="1" tstamp="0.000000" xml:lang="it" midi.bpm="120">
+                        <rend xml:id="r1u6kx" fontweight="normal">Andantino semplice <rend xml:id="r26rdj" fontfam="smufl" fontweight="normal"></rend> = 100</rend>
+                      </tempo>
                      <dynam xml:id="do0ln1t" place="below" staff="1" tstamp="1.000000" vgrp="1">
                         <rend xml:id="rykv9jt" fontstyle="italic" fontweight="bold">mp</rend>
                      </dynam>
@@ -154,7 +154,7 @@
                            <space xml:id="s5d8a0g" dur.ppq="2" dur="8" />
                         </layer>
                      </staff>
-                     <pedal xml:id="p2mvpf2" staff="2" tstamp="6" dir="up"  form="pedstar" place="below" vgrp="65" />
+                     <pedal xml:id="p2mvpf2" staff="2" tstamp="6" dir="up"  form="pedstar" place="below" />
                      <pedal dir="down" staff="2" tstamp="0"/>
                      <slur xml:id="sye4rvh" startid="#nifop5j" endid="#nrq5fd4" curvedir="above" />
                   </measure>
