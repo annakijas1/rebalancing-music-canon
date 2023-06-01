@@ -11,7 +11,7 @@
                <persName xml:id="abg01" role="composer">Agathe Backer-Grøndahl</persName>
                <persName xml:id="dr01" role="transcriber">Delilah Righter</persName>
                <persName xml:id="skp01" role="transcriber">Simon K. Perry</persName>
-               <persName xml:id="skp01" role="reviewer">Simon K. Perry</persName>
+               <persName role="reviewer">Simon K. Perry</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-05-07" type="encoding-date">2021-05-07</date> <publisher>Rebalancing the Music Canon</publisher>
@@ -111,9 +111,10 @@
                            </note>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000002111901877" place="above" staff="1" tstamp="1.000000" midi.bpm="132" mm="132.000000" mm.unit="4">
-                        <rend xml:id="rend-0000001170438857" fontweight="normal">Allegro non troppo e molto risoluto</rend>
-                        <rend fontfam="smufl">&#x1d15f;</rend> = 132</tempo>
+                     <tempo xml:id="tabcwad" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="132" mm="132.000000" mm.unit="4">
+                        <rend xml:id="r1mzysaa" fontweight="bold">Allegro non troppo e molto risoluto <rend xml:id="rv4shqj" fontweight="normal"> M.M. </rend>
+                        <rend xml:id="r5r69bs" fontfam="smufl"></rend> = 132</rend>
+                        </tempo>
                      <slur xml:id="slur-0000000162373007" startid="#note-0000000847607310" endid="#note-0000000256070302" curvedir="above" />
                      <dir xml:id="dir-0000000201455777" place="above" staff="2" tstamp="1.000000" vgrp="200">
                         <rend xml:id="rend-0000001172140629" rend="none" fontstyle="italic">sempre</rend>
@@ -226,7 +227,7 @@
                      </staff>
                      <tie xml:id="tie-0000000783393548" startid="#note-0000000699439858" endid="#note-0000000744350133" />
                      <pedal dir="down" staff="2" tstamp="1" />
-                     <pedal xml:id="pedal-0000000548904394" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                     <pedal xml:id="pedal-0000000548904394" staff="2" tstamp="4.900000" dir="up" form="line" place="below" />
                      <pedal dir="up" staff="2" tstamp="2.1" />
                   </measure>
                   <measure xml:id="measure-0000001782983383" n="4">
