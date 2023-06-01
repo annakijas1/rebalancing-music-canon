@@ -10,7 +10,7 @@
               <persName xml:id="tc01" role="composer">Teresa Carreño</persName>
                <persName xml:id="st01" role="transcriber">Sebastian Tringale</persName>
                <persName xml:id="pgw01" role="transcriber">Phillip G. Wright</persName>
-               <persName xml:id="pgw01" role="reviewer">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-01" type="encoding-date">2021-06-01</date> <publisher>Rebalancing the Music Canon</publisher>
@@ -103,9 +103,11 @@
                      <pedal xml:id="pedal-0000000959975350" staff="2" tstamp="1.000000" dir="down"  place="below"/>
                      <slur xml:id="slur-0000001629621944" startid="#note-0000001414799761" endid="#note-0000002111901877" curvedir="above" />
                      <pedal xml:id="pedal-0000000491362588" staff="2" tstamp="6.5" dir="up" form="pedstar" place="below"/>
-                     <tempo place="above" staff="1" tstamp="1.000000">
-                        <rend fontweight="normal">Allegretto quasi andante (M. 48 = </rend>
-                        <rend fontfam="smufl">&#x1d15f; &#x1d16d;</rend>)</tempo>
+                     <tempo xml:id="t1i7rid8" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120">
+                        <rend xml:id="r1u6kx" fontweight="bold">Allegretto quasi andante. (M. 48 = </rend>
+                        <rend xml:id="r26rdj" fontfam="smufl" fontweight="normal"> </rend>
+                        <rend xml:id="r1orka0i" fontfam="FreeSerif" fontweight="bold">)</rend>
+                     </tempo>
                   </measure>
                   <measure xml:id="measure-0000001808154834" n="2">
                      <staff xml:id="staff-0000001203078610" n="1">
@@ -141,8 +143,8 @@
                            </beam>
                         </layer>
                      </staff>
-                     <pedal staff="2" tstamp="1" dir="down"  place="below" vgrp="1" />
-                     <pedal staff="2" tstamp="6.5" dir="up" form="pedstar" place="below" vgrp="1" />
+                     <pedal staff="2" tstamp="1" dir="down"  place="below"/>
+                     <pedal staff="2" tstamp="6.5" dir="up" form="pedstar" place="below" /> 
                   </measure>
                   <measure xml:id="measure-0000000031954174" n="3">
                      <staff xml:id="staff-0000001325394768" n="1">
@@ -199,8 +201,8 @@
                         <rend xml:id="rend-0000000539833858" rend="none" fontstyle="italic">con espress.</rend>
                      </dir>
                      <slur xml:id="slur-0000001915054576" startid="#note-0000000428234980" endid="#note-0000000662197671" curvedir="above" />
-                     <pedal xml:id="pedal-0000000326962582" staff="2" tstamp="1.000000" dir="down"  place="below" vgrp="1" />
-                     <pedal xml:id="pedal-0000000675392576" staff="2" tstamp="3.5" dir="up" form="pedstar" place="below" vgrp="1" />
+                     <pedal xml:id="pedal-0000000326962582" staff="2" tstamp="1.000000" dir="down"  place="below" />
+                     <pedal xml:id="pedal-0000000675392576" staff="2" tstamp="3.5" dir="up" form="pedstar" place="below" />
                   </measure>
                   <measure xml:id="measure-0000000776271432" n="4">
                      <staff xml:id="staff-0000000297573598" n="1">
@@ -244,8 +246,8 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="hairpin-0000000758678100" staff="1" tstamp="4.000000" tstamp2="0m+6.5000" form="cres" place="below" vgrp="1" />
-                     <pedal xml:id="pedal-0000001943988742" staff="2" tstamp="4.000000" dir="down"  place="below" vgrp="1" />
-                     <pedal xml:id="pedal-0000000545998558" staff="2" tstamp="6.500000" dir="up" form="pedstar" place="below" vgrp="1" />
+                     <pedal xml:id="pedal-0000001943988742" staff="2" tstamp="4.000000" dir="down"  place="below" />
+                     <pedal xml:id="pedal-0000000545998558" staff="2" tstamp="6.500000" dir="up" form="pedstar" place="below" />
                   </measure>
                   <measure xml:id="measure-0000001503896436" right="single" n="5">
                      <staff xml:id="staff-0000001284394151" n="1">
