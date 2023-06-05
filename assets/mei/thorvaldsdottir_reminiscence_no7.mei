@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Reminiscence VII</title>
+            <respStmt>
+               <persName xml:id="at01" role="composer">Anna Thorvaldsdottir</persName>
+               <persName xml:id="rm01" role="transcriber">Ronja Mokráňová</persName>
+               <persName xml:id="aek01" role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt><date isodate="2023-05-18" type="encoding-date">2023-05-18</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-1fcpqso">
+         <appInfo xml:id="appinfo-uutiq">
+            <application xml:id="application-hynmly" isodate="2023-06-05T13:32:30" version="3.15.0-5abc7c0">
+               <name xml:id="name-1a2joun">Verovio</name>
+               <p xml:id="p-1jaxszn">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mmv0ypr">
+            <score xml:id="s11uh8cq">
+               <scoreDef xml:id="s1d8c9ln">
+                  <pgHead xml:id="p506dd3">
+                     <rend xml:id="r1v7npvg" halign="right" valign="bottom">Anna Thorvaldsdottir</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sjfe1np">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <label xml:id="l1umopfw">Piano</label>
+                        <labelAbbr xml:id="l1mcj7qi">Pno.</labelAbbr>
+                        <instrDef xml:id="i1dvxq0x" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                        <staffDef xml:id="s15q1pu" n="1" lines="5" ppq="1">
+                           <clef xml:id="c15kq0s0" shape="G" line="2" />
+                           <keySig xml:id="kft9ibp" sig="0" />
+                           <meterSig xml:id="m1xtzvfy" count="4" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="s1t88zzs" n="2" lines="5" ppq="1">
+                           <clef xml:id="c1spa5tb" shape="F" line="4" />
+                           <keySig xml:id="k1l3tte1" sig="0" />
+                           <meterSig xml:id="m1upa2dc" count="4" unit="4" />
+                        </staffDef>
+                        <grpSym xml:id="gz2ysbi" symbol="brace" />
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="ssqz5uu">
+                  <measure xml:id="mkbklo4" n="1">
+                     <staff xml:id="s1ctmn3" n="1">
+                        <layer xml:id="lavn46g" n="1">
+                           <mRest xml:id="m1ww9b0d" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="stnxn4n" n="2">
+                        <layer xml:id="lx2s0qq" n="5">
+                           <mRest xml:id="m1muxwxd" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t3x3e2u" place="above" staff="1" tstamp="1.000000" midi.bpm="32.000000" mm="32.000000" mm.unit="4">
+                        <rend xml:id="raf7ppt" fontfam="smufl"></rend> = 32</tempo>
+                     <pedal xml:id="p118thy" staff="2" tstamp="1.000000" dir="down" form="line" place="below" vgrp="111" />
+                  </measure>
+                  <measure xml:id="mx0xq1y" n="2">
+                     <staff xml:id="s7f7gqt" n="1">
+                        <layer xml:id="l1qm2k7u" n="1">
+                           <mRest xml:id="m7bov72" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sza59nj" n="2">
+                        <layer xml:id="lrlowy5" n="5">
+                           <note xml:id="ncat87h" dots="1" dur.ppq="3" dur="2" oct.ges="0" oct="1" pname="a" head.mod="paren" stem.dir="up" />
+                           <rest xml:id="r1utfe5z" dur.ppq="1" dur="4" />
+                        </layer>
+                     </staff>
+                     <octave xml:id="ouf4qq5" staff="2" startid="#ncat87h" endid="#r1utfe5z" n="1" dis="8" dis.place="below" />
+                     <pedal xml:id="p1x573mb" staff="2" tstamp="4.900000" dir="up" form="line" place="below" vgrp="200" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
