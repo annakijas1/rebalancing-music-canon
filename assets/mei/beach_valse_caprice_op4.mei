@@ -10,7 +10,7 @@
                <persName xml:id="amcb01" role="composer">Amy Marcy Cheney Beach</persName>
                <persName xml:id="st01" role="transcriber">Sebastian Tringale</persName>
                <persName xml:id="pgw01" role="transcriber">Phillip G. Wright</persName>
-               <persName xml:id="pgw01" role="reviewer">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-05-27" type="encoding-date">2021-05-27</date> <publisher>Rebalancing the Music Canon</publisher>
@@ -103,7 +103,7 @@
                      <tempo xml:id="t1nsih2y" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="76" mm="152.000000" mm.unit="8">
                         <rend xml:id="rh8hwfz" fontweight="bold">A Capriccio. </rend>(<rend xml:id="r16d3yg6" fontfam="smufl"></rend> = 152)</tempo>
                      <slur xml:id="slur-0000002098298649" startid="#note-0000000074152301" endid="#note-0000001805301759" curvedir="below" />
-                     <pedal xml:id="pedal-0000000976806625" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below" vgrp="1"/>
+                     <pedal xml:id="pedal-0000000976806625" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below" />
                      <arpeg xml:id="arpeg-0000000776271432" plist="#chord-0000001229662389" />
                   </measure>
                   <measure xml:id="measure-0000000297573598" n="2">
@@ -136,7 +136,7 @@
                      <slur xml:id="slur-0000000475794726" startid="#note-0000001314380456" endid="#note-0000001962856378" curvedir="below" />
                      <slur xml:id="slur-0000000063689108" startid="#note-0000001897381880" endid="#note-0000001943988742" curvedir="below" />
                      <fermata xml:id="fermata-0000000613490420" staff="1" startid="#rest-0000002067897949" form="norm" place="above" />
-                     <pedal xml:id="pedal-0000001364927267" staff="2" tstamp="3.25" dir="up" form="pedstar" place="below" vgrp="1"/>
+                     <pedal xml:id="pedal-0000001364927267" staff="2" tstamp="3.25" dir="up" form="pedstar" place="below"/>
                   </measure>
                   <measure xml:id="measure-0000000545998558" n="3">
                      <staff xml:id="staff-0000002139372868" n="1">
@@ -181,7 +181,7 @@
                         <rend xml:id="rend-0000000694977375" rend="none" fontstyle="italic" fontweight="bold">p</rend>
                      </dir>
                      <slur xml:id="slur-0000000171784131" startid="#note-0000001095620619" endid="#note-0000001258781097" curvedir="below" />
-                     <pedal xml:id="pedal-0000000783393548" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below" vgrp="1"/>
+                     <pedal xml:id="pedal-0000000783393548" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below"/>
                      <arpeg xml:id="arpeg-0000001991270282" plist="#chord-0000001510009997" />
                   </measure>
                   <measure xml:id="measure-0000000964489542" n="4">
@@ -216,7 +216,7 @@
                      <slur xml:id="slur-0000001289109988" startid="#note-0000001204893302" endid="#note-0000001150523226" curvedir="below" />
                      <slur xml:id="slur-0000000480930654" startid="#note-0000001726350805" endid="#note-0000000448733775" curvedir="below" />
                      <fermata xml:id="fermata-0000002109810578" staff="1" startid="#rest-0000001425235527" form="norm" place="above" />
-                     <pedal xml:id="pedal-0000000576425894" staff="2" tstamp="3.25" dir="up" form="pedstar" place="below" vgrp="1"/>
+                     <pedal xml:id="pedal-0000000576425894" staff="2" tstamp="3.25" dir="up" form="pedstar" place="below"/>
                   </measure>
                   <sb xml:id="sb-0000001788584358" />
                   <measure xml:id="measure-0000000500632097" n="5">
@@ -259,7 +259,7 @@
                         <rend xml:id="rend-0000001538125067" rend="none" fontstyle="italic" fontweight="bold">mf</rend>
                      </dir>
                      <slur xml:id="slur-0000001821382423" startid="#note-0000001215885304" endid="#note-0000000696156146" curvedir="below" />
-                     <pedal xml:id="pedal-0000001712782714" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below" vgrp="1"/>
+                     <pedal xml:id="pedal-0000001712782714" staff="2" tstamp="1.000000" dir="down" form="pedstar" place="below"/>
                      <arpeg xml:id="arpeg-0000000191852846" plist="#chord-0000000446648521" />
                   </measure>
                   <measure xml:id="measure-0000001783211973" n="6">
@@ -432,7 +432,7 @@
                      <slur xml:id="slur-0000001725598939" startid="#note-0000001242191807" endid="#note-0000001339275585" curvedir="below" />
                      <slur xml:id="slur-0000001625053217" startid="#note-0000000500515418" endid="#note-0000000731958398" curvedir="below" />
                      <octave xml:id="octave-0000000960884897" staff="2" startid="#chord-0000000340541262" endid="#note-0000002146566497" n="1" dis="8" dis.place="above" />
-                     <pedal xml:id="pedal-0000000985421412" staff="2" tstamp="3.25" dir="up" form="pedstar" place="below" vgrp="1"/>
+                     <pedal xml:id="pedal-0000000985421412" staff="2" tstamp="3.25" dir="up" form="pedstar" place="below"/>
                   </measure>
                </section>
             </score>
