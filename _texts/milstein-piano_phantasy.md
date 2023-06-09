@@ -4,7 +4,7 @@ title: Piano phantasy after Mozart's K.475 (1992, revised 2017)
 author: Milstein, Silvina
 ensemble: solo
 permalink: /milstein-piano-phantasy/
-document: mei filename
+document: milstein_piano_phantasy.mei
 ---
 
 In *Piano Phantasy: for solo piano* Chipping Norton, England: Composers Edition, 2017.
