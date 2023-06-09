@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Archer I love my love in absentia
+title: I love my love in absentia
 author: Archer, Violet 
 ensemble: chamber-vocal
 permalink: /archer_i_love_my_love_in_absentia/

@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Archer together and apart ls and ss
+title: L's and S's 
 author: Archer, Violet 
 ensemble: chamber-vocal
-permalink: /archer_together_and_apart_ls_and_ss/
+permalink: /archer_ls_and_ss/
 document: archer_together_and_apart_ls_and_ss.mei
 ---
 

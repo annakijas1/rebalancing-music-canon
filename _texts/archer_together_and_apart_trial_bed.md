@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Archer together and apart trial bed
+title: Trial Bed
 author: Archer, Violet 
 ensemble: chamber-vocal
-permalink: /archer_together_and_apart_trial_bed/
+permalink: /archer_trial_bed/
 document: archer_together_and_apart_trial_bed.mei
 ---
 

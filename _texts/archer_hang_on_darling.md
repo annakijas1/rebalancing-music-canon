@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Archer hang on darling 
+title: Hang on Darling 
 author: Archer, Violet 
 ensemble: chamber-vocal
 permalink: /archer_hang_on_darling/
