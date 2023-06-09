@@ -13,7 +13,7 @@ permalink: /thorvaldsdottir/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Thorvaldsdóttir, Anna S." %}
+      {% if item.author == "Þorvaldsdóttir, Anna S." %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
