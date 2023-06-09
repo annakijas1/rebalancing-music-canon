@@ -1,9 +1,9 @@
 ---
 layout: mei
-title: Las aguas lustrales mvt. 1 
+title: Las aguas lustrales I
 author: Arismendi, Diana 
 ensemble: chamber-instrument
-permalink: /arismendi-las-aguas-lustrales-001/
+permalink: /arismendi-las-aguas-lustrales-i/
 document: arismendi_las_aguas_lustrales_mvt1.mei
 ---
 
