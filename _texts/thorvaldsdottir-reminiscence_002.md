@@ -1,10 +1,10 @@
 ---
 layout: mei
-title: Reminiscence I
-author: Thorvaldsdóttir, Anna S.
+title: Reminiscence II
+author: Þorvaldsdóttir, Anna S. 
 ensemble: solo
-permalink: /thorvaldsdottir-reminiscence1/
-document: thorvaldsdottir_reminiscence_no1.mei
+permalink: /thorvaldsdottir-reminiscence2/
+document: thorvaldsdottir_reminiscence_no2.mei
 ---
 
 In *Reminiscence: for piano: (2017).* London: Chester Music, 2017.
