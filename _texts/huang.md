@@ -1,8 +1,10 @@
+--- 
 layout: page
 title: Huang, Ruo (1976-)
 category: incipits
 century: 20th
 permalink: /huang/
+---
 
 <a title="CTV Santa Cruz County, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Huang_Ruo_at_Meet_the_Composers_2012.jpg"><img width="512" alt="Huang Ruo at Meet the Composers 2012" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Huang_Ruo_at_Meet_the_Composers_2012.jpg/512px-Huang_Ruo_at_Meet_the_Composers_2012.jpg"></a>
 
