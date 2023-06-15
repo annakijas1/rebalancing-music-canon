@@ -7,7 +7,7 @@ permalink: /scott-elegy-for-innocence/
 document: 
 ---
 
-In *Elegy for innocence : for bassoon and piano* Tallevast, FL : TrevCo Music 2008 
+In *Elegy for innocence: for bassoon and piano.* Tallevast, FL : TrevCo Music 2008 
 
 **Instrumentation summary**: bassoon (1), piano (1) 
 

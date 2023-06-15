@@ -7,7 +7,7 @@ permalink: /tanaka-techno-etudes-II-1/
 document: 
 ---
 
-In *Techno etudes II : for piano* New York : Project Schott New York 2020
+In *Techno etudes II : for piano.* New York : Project Schott New York 2020
 
 **Instrumentation summary**: piano (1) 
 
