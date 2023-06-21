@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Love loops 
+title: Love Loops 
 author: Vrebalov, Aleksandra
 ensemble: chamber-instrument
 permalink: /vrebalov-love-loops/
