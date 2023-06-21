@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Atwood Songs, 5. Four Evasions
-author: Leon, Tania
+author: León, Tania
 ensemble: chamber-vocal
 permalink: /leon-atwood-songs-5/
 document: 

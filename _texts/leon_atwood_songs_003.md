@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Atwood Songs, 3. Eating Fire
-author: Leon, Tania
+author: León, Tania
 ensemble: chamber-vocal
 permalink: /leon-atwood-songs-3/
 document: 

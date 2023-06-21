@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Atwood Songs, 4. Habitation
-author: Leon, Tania
+author: León, Tania
 ensemble: chamber-vocal
 permalink: /leon-atwood-songs-4/
 document: 
