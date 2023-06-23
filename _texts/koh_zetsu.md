@@ -1,9 +1,11 @@
+---
 layout: mei
 title: Zetsu
 author: Koh, Emily
 ensemble: chamber-instrument 
 permalink: /koh-zetsu/
 document: koh_zetsu.mei
+---
 
 In *zetsu: (2018) for bassoon, double bass and piano* Paris: Babel Scores, 2020.   
 
