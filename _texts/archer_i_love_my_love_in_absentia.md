@@ -7,7 +7,7 @@ permalink: /archer_i_love_my_love_in_absentia/
 document: archer_i_love_my_love_in_absentia.mei
 ---
 
-In *Together and apart : four songs to texts by Patricia Elliott : high voice/piano* Toronto, Ontario, Canada : Plangere Editions 2014
+In *Together and apart: four songs to texts by Patricia Elliott: high voice/piano.* Toronto, Ontario, Canada: Plangere Editions 2014.
 
 **Instrumentation summary**: high voice, piano
 
