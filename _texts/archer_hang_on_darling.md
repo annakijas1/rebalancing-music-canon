@@ -7,7 +7,7 @@ permalink: /archer_hang_on_darling/
 document: archer_hang_on_darling.mei
 ---
 
-In *Together and apart : four songs to texts by Patricia Elliott : high voice/piano* Toronto, Ontario, Canada : Plangere Editions 2014
+In *Together and apart: four songs to texts by Patricia Elliott: high voice/piano.* Toronto, Ontario, Canada: Plangere Editions 2014.
 
 **Instrumentation summary**: high voice, piano
 
