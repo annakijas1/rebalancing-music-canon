@@ -7,7 +7,7 @@ permalink: /arismendi-senales-en-el-cielo-i/
 document: arismendi_señales_en_el_cielo_mvt1.mei
 ---
 
-In *Señales en el cielo: piano solo* Minot, North Dakota : LaFi Publishers, Ltd. 2019.
+In *Señales en el cielo: piano solo.* Minot, North Dakota: LaFi Publishers, Ltd. 2019.
 
 **Instrumentation summary**: piano (1)
 
