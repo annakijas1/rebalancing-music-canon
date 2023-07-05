@@ -13,22 +13,22 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 ### Current Contributors
 - Kate M. Chang (Spring 2023-current), undergraduate
 - Matthew Chen (Spring 2023-current), undergraduate
+- Marie Comuzzo (Summer 2023), graduate (Brandeis University)
 - Jordan Good (Spring 2023-current), graduate
 - Eli M. Marcus (Spring 2023-current), undergraduate
 - Ronja Mokráňová (Spring 2023-current), graduate
-- Nitya Nadgir (Spring 2023-current), undergraduate
-- Samantha A. Tripp (Spring 2023-current), undergraduate
 
-
-### Past contributors
+### Project Alumni
 - Ismenia Ginebra (Spring 2020-2022), undergraduate
 - Chelsea Hong (Spring 2020), undergraduate
 - Aviva Michaeli (Fall 2021-2022), undergraduate
+- Nitya Nadgir (Spring 2023), undergraduate
 - Simon K. Perry (Spring 2021), undergraduate
 - Delilah Righter (Spring 2020-2021), undergraduate
 - Victoria K. Rose (Spring 2021), undergraduate
 - Joanna Strogatz (Spring 2021-current), undergraduate
 - Sebastian Tringale (Spring 2020-2021), undergraduate
+- Samantha A. Tripp (Spring 2023), graduate
 - Hailing Wang (Spring 2020), undergraduate
 - Phillip G. Wright (Spring 2021-2022), graduate
 
