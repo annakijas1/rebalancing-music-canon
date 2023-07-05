@@ -7,7 +7,7 @@ permalink: /arismendi-las-aguas-lustrales-iii/
 document: arismendi_las_aguas_lustrales_mvt3.mei
 ---
 
-In *Las aguas lustrales: for string quartet* Minot, North Dakota : LaFi Publishers, Ltd. 2019.  
+In *Las aguas lustrales: for string quartet.* Minot, North Dakota: LaFi Publishers, Ltd. 2019.  
 
 **Instrumentation summary**: violin 1 (1), violin 2 (1), viola (1), cello (1)
 
