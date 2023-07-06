@@ -14,7 +14,6 @@ permalink: /kats-chernin/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-    //Type in the last name and first name of the composer, as above//
       {% if item.author == "Kats-Chernin, Elena" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
