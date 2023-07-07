@@ -27,9 +27,6 @@
     <metaTag name="workTitle">Five Pieces for Cello and Piano: La Captive</metaTag>
     <Order id="orchestral">
       <name>Orchestral</name>
-      <instrument id="piano">
-        <family id="keyboards">Keyboards</family>
-        </instrument>
       <instrument id="violoncello">
         <family id="orchestral-strings">Orchestral Strings</family>
         </instrument>
@@ -104,47 +101,13 @@
           </Channel>
         </Instrument>
       </Part>
-    <Part id="2">
-      <Staff id="2">
-        <StaffType group="pitched">
-          <name>stdNormal</name>
-          </StaffType>
-        <isStaffVisible>0</isStaffVisible>
-        <bracket type="1" span="2" col="0"/>
-        <barLineSpan>1</barLineSpan>
-        </Staff>
-      <Staff id="3">
-        <StaffType group="pitched">
-          <name>stdNormal</name>
-          </StaffType>
-        <defaultClef>F</defaultClef>
-        <isStaffVisible>0</isStaffVisible>
-        </Staff>
-      <show>0</show>
-      <trackName>Piano</trackName>
-      <Instrument id="piano">
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
-        <trackName>Piano</trackName>
-        <minPitchP>21</minPitchP>
-        <maxPitchP>108</maxPitchP>
-        <minPitchA>21</minPitchA>
-        <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
-        <clef staff="2">F</clef>
-        <Channel>
-          <program value="0"/>
-          <synti>Fluid</synti>
-          </Channel>
-        </Instrument>
-      </Part>
     <Staff id="1">
       <VBox>
         <height>10</height>
         <Text>
           <style>composer</style>
           <size>9</size>
-          <text><b><font size="9"/>Amy Marcy Cheney Beach
+          <text><b><font size="9"></font>Amy Marcy Cheney Beach
 Op. 40, No. 1
 </b>Amy Camus, editor</text>
           </Text>
@@ -559,126 +522,6 @@ Op. 40, No. 1
             </Chord>
           <BarLine>
             <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="2">
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="1/8">
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>1/8</duration>
-            </Rest>
-          <BarLine>
-            </BarLine>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="3">
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="1/8">
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>1/8</duration>
-            </Rest>
-          <BarLine>
             </BarLine>
           </voice>
         </Measure>
