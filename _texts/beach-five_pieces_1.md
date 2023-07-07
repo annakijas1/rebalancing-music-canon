@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Five pieces for cello and piano, La Captive
-author: Beach, Amy
+author: Beach, Amy Marcy Cheney
 ensemble: chamber-instrument
 permalink: /beach-five-pieces-la-captive/
 document: beach_five_pieces_for_cello_and_piano_1.mei
