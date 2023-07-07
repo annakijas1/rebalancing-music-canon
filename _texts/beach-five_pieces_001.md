@@ -4,7 +4,7 @@ title: Five pieces for cello and piano, La Captive
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-instrument
 permalink: /beach-five-pieces-la-captive/
-document: beach_five_pieces_for_cello_and_piano_1.mei
+document: beach_five_pieces_001_la_captive.mei
 ---
 
 In *Five pieces for cello and piano.* Bryn Mawr, Pa. Box 332, Bryn Mawr 19010: Hildegard Pub. Co. 1995.
