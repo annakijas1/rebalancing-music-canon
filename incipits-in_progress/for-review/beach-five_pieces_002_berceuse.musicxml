@@ -534,6 +534,9 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" placement="above" number="2"/>
+          </notations>
         </note>
       <note default-x="23.65" default-y="0.00">
         <grace/>
@@ -631,7 +634,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="3"/>
+          <slur type="start" placement="above" number="2"/>
           </notations>
         </note>
       <note default-x="50.56" default-y="-10.00">
@@ -677,7 +680,7 @@
         <accidental>sharp</accidental>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="3"/>
+          <slur type="stop" number="2"/>
           </notations>
         </note>
       </measure>
@@ -693,7 +696,7 @@
         <type>eighth</type>
         <stem>down</stem>
         <notations>
-          <slur type="start" placement="above" number="3"/>
+          <slur type="start" placement="above" number="2"/>
           </notations>
         </note>
       <note default-x="50.56" default-y="0.00">
@@ -780,7 +783,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="3"/>
+          <slur type="stop" number="2"/>
           </notations>
         </note>
       <note default-x="69.34" default-y="-10.00">

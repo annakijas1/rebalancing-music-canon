@@ -550,6 +550,15 @@ Op. 40, No. 2
         <voice>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>5/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <grace16/>
             <Note>
               <pitch>55</pitch>
@@ -608,7 +617,7 @@ Op. 40, No. 2
               <prev>
                 <location>
                   <fractions>-5/8</fractions>
-                  <grace>2</grace>
+                  <grace>0</grace>
                   </location>
                 </prev>
               </Spanner>
