@@ -106,9 +106,10 @@
         <height>10</height>
         <Text>
           <style>composer</style>
-          <text><b><font size="9"/>Amy Marcy Cheney Beach
+          <size>9</size>
+          <text><b><font size="9"></font>Amy Marcy Cheney Beach
 Op. 40, No. 2
-</b>Amy Camus, editor<font size="10"/> </text>
+</b>Amy Camus, editor<font size="10"></font></text>
           </Text>
         <Text>
           <style>title</style>
@@ -369,14 +370,6 @@ Op. 40, No. 2
                   </location>
                 </prev>
               </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/6</fractions>
-                  <grace>2</grace>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -550,6 +543,15 @@ Op. 40, No. 2
         <voice>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>5/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <grace16/>
             <Note>
               <pitch>55</pitch>
@@ -608,7 +610,7 @@ Op. 40, No. 2
               <prev>
                 <location>
                   <fractions>-5/8</fractions>
-                  <grace>2</grace>
+                  <grace>0</grace>
                   </location>
                 </prev>
               </Spanner>
