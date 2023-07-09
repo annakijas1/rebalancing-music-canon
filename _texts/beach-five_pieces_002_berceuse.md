@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Five pieces for cello and piano, Berceuse
+title: Five pieces for cello and piano, Op. 40, No. 2, Berceuse
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-instrument
 permalink: /beach-five-pieces-berceuse/
