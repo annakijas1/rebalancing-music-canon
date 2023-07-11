@@ -18,23 +18,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99912</millimeters>
+      <millimeters>6.99911</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.725</left-margin>
-        <right-margin>85.725</right-margin>
-        <top-margin>85.725</top-margin>
-        <bottom-margin>85.725</bottom-margin>
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.725</left-margin>
-        <right-margin>85.725</right-margin>
-        <top-margin>85.725</top-margin>
-        <bottom-margin>85.725</bottom-margin>
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
         </page-margins>
       </page-layout>
     <word-font font-family="Edwin" font-size="10"/>
@@ -42,13 +42,13 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">hlas I
+    <credit-words default-x="616.935" default-y="1511.1" justify="center" valign="top" font-size="22">hlas I
 </credit-words>
     <credit-words>(1990)</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.14" default-y="1352.2" justify="right" valign="bottom">Leonid Hrabovsky / Леонід Олександрович Грабо́вський
+    <credit-words default-x="1148.15" default-y="1352.25" justify="right" valign="top">Leonid Hrabovsky / Леонід Олександрович Грабо́вський
 </credit-words>
     <credit-words>(*1935)</credit-words>
     </credit>
@@ -69,14 +69,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="191.48">
+    <measure number="1" width="142.68">
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>111.01</left-margin>
-            <right-margin>-0.00</right-margin>
+            <left-margin>50.00</left-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>187.86</top-system-distance>
+          <top-system-distance>197.44</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -95,12 +95,12 @@
         </attributes>
       <direction placement="below">
         <direction-type>
-          <words default-y="-63.44" relative-y="-25.00" font-style="italic">sempre piano assai, austero e senza vibrato</words>
+          <words default-y="-53.65" relative-y="-25.00" font-style="italic">sempre piano assai, austero e senza vibrato</words>
           </direction-type>
         </direction>
       <direction placement="above">
         <direction-type>
-          <metronome parentheses="no" default-x="-43.30" relative-x="4.65" relative-y="68.98">
+          <metronome parentheses="no" default-x="-36.30" default-y="58.56" relative-y="20.00">
             <beat-unit>quarter</beat-unit>
             <per-minute>120</per-minute>
             </metronome>
@@ -109,12 +109,12 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words relative-x="-40.27" relative-y="47.23">con sord. 
+          <words default-y="46.80" relative-y="10.00">con sord. 
 </words>
           <words>sul tasto</words>
           </direction-type>
         </direction>
-      <note default-x="86.80" default-y="-35.00">
+      <note default-x="79.80" default-y="-35.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -136,7 +136,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="2" width="185.92">
+    <measure number="2" width="117.67">
       <attributes>
         <time>
           <beats>5</beats>
@@ -149,7 +149,7 @@
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="81.24" default-y="-30.00">
+      <note default-x="61.67" default-y="-30.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -168,14 +168,14 @@
           </notations>
         </note>
       </measure>
-    <measure number="3" width="163.41">
+    <measure number="3" width="95.15">
       <note default-x="13.00" default-y="-20.00">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="58.72" default-y="-30.00">
+      <note default-x="39.16" default-y="-30.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -194,7 +194,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="4" width="147.28">
+    <measure number="4" width="105.48">
       <attributes>
         <time>
           <beats>2</beats>
@@ -220,29 +220,20 @@
           </notations>
         </note>
       </measure>
-    <measure number="5" width="263.33">
+    <measure number="5" width="142.33">
       <attributes>
         <time>
           <beats>6</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="122.04" default-y="-10.00">
+      <note default-x="75.75" default-y="-10.00">
         <rest measure="yes"/>
         <duration>12</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="6" width="487.52">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>37.67</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>235.00</system-distance>
-          </system-layout>
-        </print>
+    <measure number="6" width="256.05">
       <attributes>
         <time>
           <beats>8</beats>
@@ -251,10 +242,10 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-y="30.85" relative-y="-25.00" font-style="italic">simile</words>
+          <words default-y="6.98" relative-y="10.00" font-style="italic">simile</words>
           </direction-type>
         </direction>
-      <note default-x="81.18" default-y="-40.00">
+      <note default-x="37.48" default-y="-40.00">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -270,7 +261,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="182.31" default-y="-40.00">
+      <note default-x="91.67" default-y="-40.00">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -286,7 +277,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="283.45" default-y="-35.00">
+      <note default-x="145.86" default-y="-35.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -304,7 +295,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="384.58" default-y="-30.00">
+      <note default-x="200.06" default-y="-30.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -323,7 +314,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="7" width="197.06">
+    <measure number="7" width="153.07">
       <attributes>
         <time>
           <beats>4</beats>
@@ -342,14 +333,23 @@
         <accidental>flat</accidental>
         </note>
       </measure>
-    <measure number="8" width="132.34">
+    <measure number="8" width="147.68">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>786.52</right-margin>
+            </system-margins>
+          <system-distance>235.00</system-distance>
+          </system-layout>
+        </print>
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>8</beat-type>
           </time>
         </attributes>
-      <note default-x="40.64" default-y="-30.00">
+      <note default-x="84.80" default-y="-30.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -368,7 +368,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="85.59" default-y="-40.00">
+      <note default-x="115.34" default-y="-40.00">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -386,7 +386,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="9" width="207.84">
+    <measure number="9" width="128.22">
       <attributes>
         <time>
           <beats>3</beats>
@@ -409,7 +409,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="138.61" default-y="-35.00">
+      <note default-x="90.84" default-y="-35.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
