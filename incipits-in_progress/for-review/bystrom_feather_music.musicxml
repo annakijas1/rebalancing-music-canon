@@ -18,23 +18,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <word-font font-family="Edwin" font-size="10"/>
@@ -46,7 +46,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.1" justify="right" valign="top">Britta Byström, 2020 </credit-words>
+    <credit-words default-x="1148.14" default-y="1411.1" justify="right" valign="top">Britta Byström, 2020 </credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -73,7 +73,7 @@ Flauto piccolo </part-name>
             <left-margin>50.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>189.48</top-system-distance>
+          <top-system-distance>170.00</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -123,6 +123,11 @@ Flauto piccolo </part-name>
         </note>
       </measure>
     <measure number="3" width="92.57">
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="rectangle" relative-x="-10.79" relative-y="29.06" font-weight="bold" font-size="6">flauto piccolo</words>
+          </direction-type>
+        </direction>
       <note default-x="38.89" default-y="-10.00">
         <rest measure="yes"/>
         <duration>12</duration>
@@ -143,13 +148,7 @@ Flauto piccolo </part-name>
         </direction>
       <direction placement="above">
         <direction-type>
-          <words enclosure="rectangle" relative-x="-10.25" relative-y="71.12" font-weight="bold">flauto piccolo</words>
-          </direction-type>
-        <sound tempo="120"/>
-        </direction>
-      <direction placement="above">
-        <direction-type>
-          <words relative-x="-10.25" relative-y="44.65" font-weight="bold" font-size="9">solo</words>
+          <words relative-x="-10.25" relative-y="41.89" font-weight="bold" font-size="8">solo</words>
           </direction-type>
         <sound tempo="120"/>
         </direction>
@@ -324,8 +323,11 @@ Flauto piccolo </part-name>
           </notations>
         </note>
       <backup>
-        <duration>6</duration>
+        <duration>12</duration>
         </backup>
+      <forward>
+        <duration>6</duration>
+        </forward>
       <note default-x="73.96" default-y="-20.00">
         <rest>
           <display-step>D</display-step>
@@ -335,7 +337,7 @@ Flauto piccolo </part-name>
         <voice>2</voice>
         <type>eighth</type>
         </note>
-      <note default-x="94.39" default-y="-10.00">
+      <note default-x="95.02" default-y="-10.00">
         <rest>
           <display-step>F</display-step>
           <display-octave>6</display-octave>
