@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Karen Tanaka </creator>
     <encoding>
-      <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-06-15</encoding-date>
+      <software>MuseScore 4.1.1</software>
+      <encoding-date>2023-07-28</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -42,15 +42,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">2</credit-words>
+    <credit-words default-x="616.935" default-y="1511.1" justify="center" valign="top" font-size="22">2</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935" default-y="1453.9" justify="center" valign="top" font-size="14">Color and Emotion Study </credit-words>
+    <credit-words default-x="616.935" default-y="1453.95" justify="center" valign="top" font-size="14">Color and Emotion Study </credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.05" justify="right" valign="bottom">Karen Tanaka </credit-words>
+    <credit-words default-x="1148.15" default-y="1411.1" justify="right" valign="top">Karen Tanaka </credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -58,6 +58,7 @@
       <part-abbreviation>Pno.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Piano</instrument-name>
+        <instrument-sound>keyboard.piano</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -76,7 +77,7 @@
             <left-margin>50.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>202.16</top-system-distance>
+          <top-system-distance>201.11</top-system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -103,17 +104,17 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-35.72" default-y="67.24" relative-y="20.00" font-weight="bold">Lightly and gently 
+          <words default-x="-35.72" default-y="66.26" relative-y="20.00" font-weight="bold">Lightly and gently 
 </words>
           </direction-type>
         <direction-type>
-          <metronome parentheses="no" default-x="-35.72" default-y="67.24" relative-y="20.00">
+          <metronome parentheses="no" default-x="-35.72" default-y="66.26" relative-y="20.00">
             <beat-unit>eighth</beat-unit>
             <per-minute>240</per-minute>
             </metronome>
           </direction-type>
         <direction-type>
-          <words default-x="-35.72" default-y="67.24" relative-y="20.00" font-weight="bold"> </words>
+          <words default-x="-35.72" default-y="66.26" relative-y="20.00" font-weight="bold"> </words>
           <words font-weight="normal" font-style="italic">(The right hand pattern should sound blurry.)</words>
           </direction-type>
         <staff>1</staff>
@@ -146,7 +147,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <words default-y="-40.00" relative-x="12.42" relative-y="-30.52" font-style="italic">sempre</words>
+          <words default-y="-40.00" relative-y="-25.00" font-style="italic">sempre</words>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -244,7 +245,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <words default-y="-60.73" relative-y="-25.00">una corda</words>
+          <words default-y="-60.22" relative-y="-25.00">una corda</words>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -607,7 +608,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>251.27</system-distance>
+          <system-distance>242.63</system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -870,6 +871,11 @@
         <accidental>flat</accidental>
         <stem>down</stem>
         <staff>2</staff>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <direction placement="below">
         <direction-type>
