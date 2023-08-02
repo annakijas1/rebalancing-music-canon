@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Festival Jubilate for SATB chorus & piano
-author: Beach, Amy
+author: Beach, Amy Marcy Cheney
 ensemble: choral
 permalink: /beach-17/
 document: beach_festival_jubilate_op17.mei
