@@ -10,7 +10,7 @@
               <persName xml:id="tc01" role="composer">Teresa Carreño</persName>
                <persName xml:id="st01" role="transcriber">Sebastian Tringale</persName>
                <persName xml:id="pgw01" role="transcriber">Phillip G. Wright</persName>
-               <persName xml:id="pgw01" role="reviewer">Phillip G. Wright</persName>
+               <persName role="reviewer">Phillip G. Wright</persName>
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2021-06-04" type="encoding-date">2021-06-04</date> <publisher>Rebalancing the Music Canon</publisher>
@@ -85,7 +85,8 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-0000002023948353" place="above" staff="1" tstamp="1.000000" midi.bpm="87" mm="58.000000" mm.unit="4" mm.dots="1">
-                        <rend xml:id="rend-0000000567190576" fontname="VerovioText">Allegretto (</rend> = 58)</tempo>
+                        <rend xml:id="rend-0000000567190576" >Allegretto (</rend>
+                        <rend xml:id="rend-0000000567190577" fontsize="small" fontname="VerovioText"></rend> = 58)</tempo>
                      <dir xml:id="dir-0000000985501422" place="below" staff="2" tstamp="1.000000" vgrp="1">U.C.</dir>
                      <pedal xml:id="pedal-0000001568874682" staff="2" tstamp="1.000000" dir="down" place="below" vgrp="1" />
                   </measure>
