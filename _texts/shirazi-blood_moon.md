@@ -4,7 +4,7 @@ title: Blood Moon
 author: Shirazi, Aida
 ensemble: chamber-instrument
 permalink: /aida-blood-moon/
-document: 
+document: shirazi_blood_moon.mei
 ---
 
 In *Blood moon: for clarinet quintet.* Paris, France : Babel Scores 2020 
