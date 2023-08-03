@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore 4.1.1</software>
-      <encoding-date>2023-07-28</encoding-date>
+      <software>MuseScore 4.0.2</software>
+      <encoding-date>2023-08-03</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -50,7 +50,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.1" justify="right" valign="top">Aida SHIRAZI</credit-words>
+    <credit-words default-x="1148.15" default-y="1411.1" justify="right" valign="top">Aida Shirazi</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -58,7 +58,6 @@
       <part-abbreviation>Vln.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Violin</instrument-name>
-        <instrument-sound>strings.violin</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -96,15 +95,15 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-32.14" relative-y="20.00" font-weight="bold" font-family="Leland Text"></words>
-          <words font-weight="normal" font-family="Edwin"> = 60 </words>
-          <words font-weight="bold"> lyrical, dim with sparce and short-living moments of brightness</words>
+          <words default-x="-32.14" default-y="10.05" relative-y="20.00" font-weight="bold" font-size="12">lyrical, dim with sparce and short-living moments of brightness </words>
+          <words font-family="Leland Text"></words>
+          <words font-weight="normal" font-family="Edwin"> = 60</words>
           </direction-type>
         <sound tempo="60"/>
         </direction>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="4.06" default-y="-65.57" relative-y="-25.00">
+          <dynamics default-x="4.06" default-y="-66.37" relative-y="-25.00">
             <p/>
             </dynamics>
           </direction-type>
@@ -197,7 +196,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="3.10" default-y="-67.31" relative-y="-25.00">
+          <dynamics default-x="3.10" default-y="-68.11" relative-y="-25.00">
             <p/>
             </dynamics>
           </direction-type>
@@ -237,7 +236,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <wedge type="crescendo" number="1" default-y="-104.67"/>
+          <wedge type="crescendo" number="1" default-y="-105.47"/>
           </direction-type>
         </direction>
       <note default-x="103.82" default-y="-65.00">
@@ -330,7 +329,7 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="5.32" default-y="-84.67" relative-y="-25.00">
+          <dynamics default-x="5.32" default-y="-85.47" relative-y="-25.00">
             <mf/>
             </dynamics>
           </direction-type>
