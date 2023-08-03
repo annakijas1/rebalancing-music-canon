@@ -3,7 +3,7 @@ layout: mei
 title: Blood Moon 
 author: Shirazi, Aida
 ensemble: chamber-instrument
-permalink: /aida-blood-moon/
+permalink: /shirazi-blood-moon/
 document: shirazi_blood_moon.mei
 ---
 
