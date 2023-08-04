@@ -4,7 +4,7 @@ title: Sonnets on love, rosebuds, and death. IV. He came in silvern armour
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal
 permalink: /moore-sonnets-armour/
-document: moore-sonnets004-armour.mei
+document: moore_sonnets004-armour.mei
 ---
 
 In *Sonnets on love, rosebuds, and death: for high voice, violin, and piano (1976).* New York, N.Y.: American Composers Alliance BMI, 2018.

@@ -4,7 +4,7 @@ title: Sonnets on love, rosebuds, and death. I. I had no thought of violets of l
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal 
 permalink: /moore-sonnets-violets/
-document: moore-sonnets001-violets.mei
+document: moore_sonnets001-violets.mei
 ---
 
 In *Sonnets on love, rosebuds, and death: for high voice, violin, and piano (1976).* New York, N.Y.: American Composers Alliance BMI, 2018.

@@ -4,7 +4,7 @@ title: Sonnets on love, rosebuds, and death. Introduction
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal
 permalink: /moore-sonnets-introduction/
-document: moore-sonnets000-introduction.mei
+document: moore_sonnets000-introduction.mei
 ---
 
 In *Sonnets on love, rosebuds, and death: for high voice, violin, and piano (1976).* New York, N.Y.: American Composers Alliance BMI, 2018.

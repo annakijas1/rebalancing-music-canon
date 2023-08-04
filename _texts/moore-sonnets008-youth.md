@@ -4,7 +4,7 @@ title: Sonnets on love, rosebuds, and death. VII. Youth sings a song of rosebuds
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal
 permalink: /moore-sonnets-youth/
-document: moore-sonnets007-youth.mei
+document: moore_sonnets007-youth.mei
 ---
 
 In *Sonnets on love, rosebuds, and death: for high voice, violin, and piano (1976).* New York, N.Y.: American Composers Alliance BMI, 2018.
