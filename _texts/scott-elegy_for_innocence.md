@@ -4,7 +4,7 @@ title: Elegy for Innocence
 author: Scott, Jeff 
 ensemble: chamber-instrument
 permalink: /scott-elegy-for-innocence/
-document: scott_elegy_for_innocence.md
+document: scott_elegy_for_innocence.mei
 ---
 
 In *Elegy for innocence: for bassoon and piano.* Tallevast, FL: TrevCo Music 2008. 
