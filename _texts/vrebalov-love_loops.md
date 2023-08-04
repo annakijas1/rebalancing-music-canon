@@ -4,10 +4,10 @@ title: Love Loops
 author: Vrebalov, Aleksandra
 ensemble: chamber-instrument
 permalink: /vrebalov-love-loops/
-document: 
+document: vrebalov_love_loops.mei
 ---
 
-In *Love loops: for marimba, piano and double bass: 2020.* Chipping Norton : CE, Composers Edition 2021.
+In *Love loops: for marimba, piano and double bass: 2020.* Chipping Norton: CE, Composers Edition 2021.
 
 **Instrumentation summary**: marimba (1), piano (1), bass (1) 
 
