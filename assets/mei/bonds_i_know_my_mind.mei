@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead xml:id="m1s5ry4l">
+      <fileDesc xml:id="f7nka7w">
+         <titleStmt xml:id="t1j4c1t1">
+            <title>3. I Know My Mind</title>
+            <respStmt>
+               <persName role="composer">Margaret Bonds</persName>
+               <persName role="editor">John Michael Cooper</persName>
+          		<persName role="transcriber">Marie Comuzzo</persName>
+          		<persName role="reviewer">Jordan Good</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p74is0r">
+            <publisher>Rebalancing the Music Canon</publisher>
+            <date isodate="2023-08-04" type="encoding-date">2023-08-04</date>
+            <availability>
+          	<useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       		</availability>
+       		<identifier>
+       		<ref target="https://rebalancing-music-canon.com/"/>
+       		</identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="egqywej">
+         <appInfo xml:id="asr2rgm">
+            <application xml:id="a5yhrni" isodate="2023-08-04T15:24:05" version="3.16.0-6dc700d">
+               <name xml:id="ngb5s5k">Verovio</name>
+               <p xml:id="pbt2p4v">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1x7yq6b">
+            <score xml:id="s1db40ao">
+               <scoreDef xml:id="sz8mvmp">
+                  <pgHead xml:id="p1gb8s0m">
+                     <rend xml:id="rdycozd" halign="right" valign="bottom" fontweight="bold">Margaret Bonds (1913-72)</rend>
+                     <rend xml:id="r19odwk7" halign="right" valign="bottom" fontweight="normal">Edited by John Michael Cooper</rend>
+                  </pgHead>
+                  <pgFoot xml:id="pn5lqkh">
+                  </pgFoot>
+                  <staffGrp xml:id="s1sml789">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="8">
+                        <label xml:id="l1kia7kb">Voice</label>
+                        <labelAbbr xml:id="l1bdgegw">Vo.</labelAbbr>
+                        <instrDef xml:id="i18kezym" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="c1iw24fr" shape="G" line="2" />
+                        <keySig xml:id="kivsgn6" sig="0" />
+                        <meterSig xml:id="m7gr1lv" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sa6brej">
+                  <measure xml:id="mvm9gg7" n="1">
+                     <staff xml:id="s8hku40" n="1">
+                        <layer xml:id="l1o806iz" n="1">
+                           <multiRest xml:id="m11sysj7" num="5" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mlraoql" n="6">
+                     <staff xml:id="s1ryg93j" n="1">
+                        <layer xml:id="lyi3bu0" n="1">
+                           <rest xml:id="r1apunk9" dur.ppq="16" dur="2" />
+                           <rest xml:id="r1rvnm46" dur.ppq="4" dur="8" />
+                           <note xml:id="n14iwfge" dur.ppq="4" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="v9f8cqm" n="1">
+                                 <syl xml:id="s1nvpckf" con="s" wordpos="s">I</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="d3n1ozz" place="above" staff="1" tstamp="-15.000000" vgrp="300">
+                        <rend xml:id="r11t1gpa" fontweight="bold">Baldamente con agitamento</rend>
+                     </dir>
+                     <dynam xml:id="dt3zua2" place="above" staff="1" tstamp="3.500000" val="96" vgrp="200">f</dynam>
+                  </measure>
+                  <measure xml:id="mho9w9v" n="7">
+                     <staff xml:id="sulzg5b" n="1">
+                        <layer xml:id="ly5phmy" n="1">
+                           <note xml:id="n1mmx78l" dots="2" dur.ppq="7" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="v7r0ru" n="1">
+                                 <syl xml:id="s1iiigmf" con="s" wordpos="s">know</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nxauf6c" dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vphma9b" n="1">
+                                 <syl xml:id="svm8cv" con="s" wordpos="s">my</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n1lrda6n" dur.ppq="16" dur="2" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v13w2azt" n="1">
+                                 <syl xml:id="s1lbyjic" con="u" wordpos="s">mind</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir xml:id="d1f381i3" place="above" staff="1" tstamp="1.000000" vgrp="100">
+                        <rend xml:id="r1lhgenw" fontstyle="italic">risoluto</rend>
+                     </dir>
+                     <tie xml:id="t1y8w73c" startid="#n1lrda6n" endid="#n1j9jy13" />
+                  </measure>
+                  <measure xml:id="m3xp75g" n="8">
+                     <staff xml:id="sglzn6e" n="1">
+                        <layer xml:id="lv934yz" n="1">
+                           <note xml:id="n1j9jy13" dots="1" dur.ppq="12" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="n1jmubm5" dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="vyq9osg" n="1">
+                                 <syl xml:id="sei0qp7" con="u" wordpos="s">and</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n1d08g8q" dur.ppq="4" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="v1ciyhd2" n="1">
+                                 <syl xml:id="s5g4q54" con="s" wordpos="s">I</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n158rdqk" dur.ppq="4" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="vu356qd" n="1">
+                                 <syl xml:id="sg8ypx9" con="s" wordpos="s">have</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mtbmny0" n="9">
+                     <staff xml:id="skwmk2o" n="1">
+                        <layer xml:id="laifss2" n="1">
+                           <note xml:id="n1532flg" dots="2" dur.ppq="7" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vfxjph5" n="1">
+                                 <syl xml:id="s1t1xnot" con="s" wordpos="s">mae</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nvyoksd" dur.ppq="1" dur="32" oct="4" pname="f" stem.dir="up">
+                              <verse xml:id="v1p0rnv0" n="1">
+                                 <syl xml:id="s5v2kf2" con="s" wordpos="s">my</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n1gyeb3z" dur.ppq="16" dur="2" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v1dyjkl1" n="1">
+                                 <syl xml:id="s1yqumf3" con="u" wordpos="s">choice;</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="trhbq4p" startid="#n1gyeb3z" endid="#n1ryhln9" />
+                  </measure>
+                  <measure xml:id="m1qkqqtq" n="10">
+                     <staff xml:id="s1qxqm21" n="1">
+                        <layer xml:id="lcd48p0" n="1">
+                           <note xml:id="n1ryhln9" dots="1" dur.ppq="24" dur="2" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
