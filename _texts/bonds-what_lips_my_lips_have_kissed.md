@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: 4. What Lips My Lips Have Kissed 
+title: Six songs on poems, 4. What Lips My Lips Have Kissed 
 author: Bonds, Margaret
 ensemble: chamber-vocal
 permalink: /bonds-what-lips-my-lips-have-kissed/
