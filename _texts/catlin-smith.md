@@ -12,7 +12,7 @@ permalink: /catlin-smith/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Smith, Linda Catlin" %}
+      {% if item.author == "Catlin Smith, Linda" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
