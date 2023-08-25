@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Rose with Thorns
-author: Catlin Smith, Linda
+author: Smith, Linda Catlin
 ensemble: chamber-instrument
 permalink: /catlin-smith-rose-with-thorns/
 document: 
