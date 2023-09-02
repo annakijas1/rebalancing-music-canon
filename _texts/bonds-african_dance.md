@@ -1,0 +1,16 @@
+---
+layout: mei
+title: African Dance 
+author: Bonds, Margaret
+ensemble: chamber-vocal
+permalink: /bonds-african-dance/
+document: 
+---
+
+In *African dance: for two voices and piano.* Bryn Mawr, Pennsylvania: Hildegard Publishing Company, 2022.
+
+**Instrumentation summary**: voice (2), piano (1)
+
+**Instrumentation group**: voice, keyboard
+
+**Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018809059603851" target="_blank">Music Library Stacks M1529.3.B66 A3 2022</a>
