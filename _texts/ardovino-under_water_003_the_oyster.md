@@ -8,7 +8,7 @@ permalink: /ardovino-the-oyster/
 
 In *Under water: narrator + clarinet + piano /.* Anniston, Alabama: Potenza Music, 2023.
 
-**Instrumentation summary**: narrator (1), clarinet Bb (1), piano (1)  
+**Instrumentation summary**: narrator (1), Bb clarinet (1), piano (1)  
 
 **Instrumentation group**: voice, keyboard, woodwinds 
 
