@@ -3,7 +3,7 @@ layout: mei
 title: Violin Concerto No. 2, Of Snow and Ice 
 author: Fung, Vivian
 ensemble: orchestra
-permalink: /fun-of-snow-and-ice/
+permalink: /fung-of-snow-and-ice/
 document: 
 ---
 
