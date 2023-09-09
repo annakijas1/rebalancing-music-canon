@@ -3,6 +3,7 @@ layout: mei
 title: Dream of the cherry blossoms, I.
 author: Abe, Keiko
 ensemble: solo
+period: 1980-1989
 permalink: /abe-dream-of-the-cherry-blossoms-i/
 document: abe_dream_of_the_cherry_blossom001.mei
 ---
