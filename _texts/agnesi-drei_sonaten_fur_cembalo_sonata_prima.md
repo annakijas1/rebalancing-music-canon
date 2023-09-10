@@ -3,6 +3,7 @@ layout: mei
 title: Drei Sonaten für Cembalo, Sonata Prima
 author: Agnesi, Maria Teresa
 ensemble: solo 
+period: unknown
 permalink: /agnesi-sonata-1/
 document: agnesi_drei_sonaten_fur_cembalo_sonata_prima.mei
 ---

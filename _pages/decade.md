@@ -7,6 +7,32 @@ Browse incipits by decade of composition publication or creation date.
 
 <div class="toc">
 
+<h3>Composition/Publication Date Unknown</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.period == "unknown" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<h3>1760-1769</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.period == "1760-1769" %}
+          <li class="text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
 <h3>1770-1779</h3>
     <ul class="texts">
     {% for item in site.texts %}

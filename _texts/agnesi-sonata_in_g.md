@@ -3,6 +3,7 @@ layout: mei
 title: Sonata in G, Allegro
 author: Agnesi, Maria Teresa
 ensemble: solo 
+period: 1760-1769
 permalink: /agnesi-sonata-g/
 document: agnesi_sonata_in_g.mei
 ---
