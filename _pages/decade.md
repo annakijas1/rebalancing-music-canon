@@ -3,11 +3,11 @@ layout: default
 title: Browse by Decade
 permalink: /decade/
 ---
-Browse incipits by decade of composition publication or creation date.
+Browse incipits by decade during which composition was published or composed.
 
 <div class="toc">
 
-<h3>Composition/Publication Date Unknown</h3>
+<h3>Date Unknown</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.period == "unknown" %}
