@@ -3,6 +3,7 @@ layout: mei
 title: Hommage à Paul Dukas
 author: Barraine, Elsa
 ensemble: solo 
+period: 1930-1939
 permalink: /barraine-homage/
 document: barraine_homage_a_paul_dukas.mei
 ---

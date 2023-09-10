@@ -3,6 +3,7 @@ layout: mei
 title: Evil Eye Deflector - Turkish Rock
 author: Ince, Kamran
 ensemble: chamber-instrument 
+period: 1950-1959
 permalink: /ince-evil-eye-deflector/
 document: 
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Sonnets on love, rosebuds, and death. III. Some things are very dear to me
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal
+period: 1970-1979
 permalink: /moore-sonnets-some-things/
 document: moore_sonnets003-dear.mei
 ---

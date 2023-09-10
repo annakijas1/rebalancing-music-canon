@@ -3,11 +3,12 @@ layout: mei
 title: Fugue
 author: Vercoe, Elizabeth
 ensemble: solo  
+period: 1970-1979
 permalink: /vercoe-fugue/
 document: 
 ---
    
-In *Three studies: for piano (1973) /.* New York, NY: American Composers Alliance, Inc., 2023.
+In *Three studies: for piano (1973).* New York, NY: American Composers Alliance, Inc., 2023.
 
 **Instrumentation summary**: piano (1) 
 

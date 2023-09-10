@@ -10,6 +10,8 @@ The index is under development and additional composers and works will be added.
 
 **[Browse by Composer Name](https://rebalancing-music-canon.com/composer/)**
 
+**[Browse by Publication Decade](https://rebalancing-music-canon.com/decade/)**
+
 **Browse by Ensemble Type** *(Please note that we are in the process of updating ensemble type metadata to all incipits)*
 * [Solo Instrument](https://rebalancing-music-canon.com/solo)
 * Chamber Music

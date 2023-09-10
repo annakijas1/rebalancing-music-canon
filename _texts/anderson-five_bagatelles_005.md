@@ -3,6 +3,7 @@ layout: mei
 title: Five bagatelles, V. Ballonchio
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-five-bagatelles-V/
 document: anderson_five_bagatelles_005.mei
 ---

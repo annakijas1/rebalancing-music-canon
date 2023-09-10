@@ -3,6 +3,7 @@ layout: mei
 title: Feritas
 author: Esmail, Reena
 ensemble: chamber-instrument
+period: 2000-2009
 permalink: /esmail-feritas/
 document: esmail_feritas.mei
 ---

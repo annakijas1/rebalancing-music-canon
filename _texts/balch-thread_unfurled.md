@@ -3,6 +3,7 @@ layout: post
 title: Thread, Unfurled
 author: Balch, Katherine
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /balch-thread-unfurled/
 document: 
 ---

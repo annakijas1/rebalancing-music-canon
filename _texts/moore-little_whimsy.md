@@ -3,6 +3,7 @@ layout: mei
 title: A little whimsy for piano
 author: Moore, Dorothy Rudd
 ensemble: solo
+period: 1980-1989
 permalink: /moore-little-whimsy/
 document: moore_little_whimsy.mei
 ---

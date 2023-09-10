@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, VII. Frolic
 author: Adams, Leslie
 ensemble: solo
+period: 2000-2009
 permalink: /adams-contrasts-frolic/
 document: adams_contrasts007_frolic.mei
 ---

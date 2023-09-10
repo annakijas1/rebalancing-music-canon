@@ -3,6 +3,7 @@ layout: mei
 title: Shifting Landscapes 
 author: Fung, Vivian
 ensemble: chamber-instrument 
+period: 2010-2019
 permalink: /fung-shifting-landscapes/
 document: 
 ---

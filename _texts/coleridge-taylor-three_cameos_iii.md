@@ -3,6 +3,7 @@ layout: mei
 title: Three Cameos, III
 author: Coleridge-Taylor, Samuel
 ensemble: solo
+period: 1900-1909
 permalink: /coleridge-taylor-three-cameos-iii/
 document: 
 ---

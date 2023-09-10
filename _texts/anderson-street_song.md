@@ -3,6 +3,7 @@ layout: post
 title: Street song
 author: Anderson, T.J.
 ensemble: solo 
+period: 1970-1979
 permalink: /anderson-street-song/
 image: anderson-street-song.png
 ---

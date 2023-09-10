@@ -3,6 +3,7 @@ layout: mei
 title: Sonnets on love, rosebuds, and death. II. Joy
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal
+period: 1970-1979
 permalink: /moore-sonnets-joy/
 document: moore_sonnets002-joy.mei
 ---

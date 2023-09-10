@@ -3,6 +3,7 @@ layout: mei
 title: Umukoro songs, III. The Lost Garden
 author: Cheatham, Wallace
 ensemble: chamber-vocal
+period: 2000-2009
 permalink: /cheatham-umukoro-songs-garden/
 document: cheatham_umukoro_songs_the_lost_garden003.mei
 ---

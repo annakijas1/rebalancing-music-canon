@@ -3,6 +3,7 @@ layout: post
 title: Intervals, set VII
 author: Anderson, T.J.
 ensemble: orchestra
+period: 1970-1979
 permalink: /anderson-intervals-VII/
 image: anderson-intervals-set-007.png
 ---

@@ -7,7 +7,7 @@ permalink: /al-ahmad-on-the-bright-side/
 document:
 ---
 
-In *On the Bright side: for trumpet and piano.* King Of Prussia : Theodore Presser Co. 2023.
+In *On the Bright side: for trumpet and piano.* King Of Prussia: Theodore Presser Co. 2023.
 
 **Instrumentation summary**: trumpet (1), piano (1)
 

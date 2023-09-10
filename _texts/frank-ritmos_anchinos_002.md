@@ -3,6 +3,7 @@ layout: mei
 title: Ritmos Anchinos, II. Charangos de Chincha
 author: Frank, Gabriela Lena 
 ensemble: chamber-instrument 
+period: 2000-2009
 permalink: /frank-ritmos-anchinos-ii/
 document: 
 ---

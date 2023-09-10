@@ -3,6 +3,7 @@ layout: mei
 title: Symphony in three movements, II. Adagio ciaccona
 author: Anderson, T.J.
 ensemble: orchestra
+period: 1960-1969
 permalink: /anderson-symphony-in-three-movements-II/
 document: anderson_symphony_in_three_movements_002.mei
 ---

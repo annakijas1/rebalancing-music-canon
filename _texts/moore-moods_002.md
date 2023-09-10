@@ -3,6 +3,7 @@ layout: mei
 title: Moods, II. Molto adagio
 author: Moore, Dorothy Rudd
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /moore-moods-ii/
 document: moore_moods_002.mei
 ---

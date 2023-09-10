@@ -3,6 +3,7 @@ layout: mei
 title: Moods, III. Allegro
 author: Moore, Dorothy Rudd
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /moore-moods-iii/
 document: moore_moods_003.mei
 ---

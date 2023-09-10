@@ -3,6 +3,7 @@ layout: mei
 title: Dream and variations, V. Allegro
 author: Moore, Dorothy Rudd
 ensemble: solo
+period: 1970-1979
 permalink: /moore-dream-allegro005/
 document: moore_dream_and_variations_005.mei
 ---

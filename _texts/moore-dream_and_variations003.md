@@ -3,6 +3,7 @@ layout: mei
 title: Dream and variations, III. Pesante
 author: Moore, Dorothy Rudd
 ensemble: solo
+period: 1970-1979
 permalink: /moore-dream-pesante003/
 document: moore_dream_and_variations_003.mei
 ---

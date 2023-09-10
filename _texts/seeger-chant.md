@@ -3,6 +3,7 @@ layout: mei
 title: Chant, 1930
 author: Seeger, Ruth Crawford
 ensemble: choral
+period: 1930-1939
 permalink: /seeger-chant/
 document: seeger_chant_1930.mei
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Piano 2 for solo piano (1986), mvt. 3
 author: Eastman, Julius
 ensemble: solo
+period: 1980-1989
 permalink: /eastman-piano_2_mvt3/
 image: eastman_piano_2_mvt3.png
 ---

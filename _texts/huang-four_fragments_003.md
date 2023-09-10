@@ -7,7 +7,7 @@ permalink: /huang-four-fragments-iii/
 document: 
 ---
 
-In *Four Fragments: for solo cello* King Of Prussia, Pennsylvania : Theodore Presser Company 2013
+In *Four Fragments: for solo cello* King Of Prussia, Pennsylvania: Theodore Presser Company 2013.
 
 **Instrumentation summary**: cello (1) 
 

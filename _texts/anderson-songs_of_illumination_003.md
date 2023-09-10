@@ -3,6 +3,7 @@ layout: post
 title: Songs of illumination, III. Income
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-songs-of-illumination-III/
 image: anderson-songs-of-illumination-003.png
 ---

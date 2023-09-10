@@ -3,6 +3,7 @@ layout: mei
 title: Bombs of Beirut, II. The war
 author: Kouyoumdjian, Mary
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /kouyoumdjian-beirut-war/
 document: kouyoumdjian_bombs_of_beirut002_the_war.mei
 ---

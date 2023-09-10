@@ -3,6 +3,7 @@ layout: mei
 title: Reminiscence V
 author: Þorvaldsdóttir, Anna S.  
 ensemble: solo
+period: 2010-2019
 permalink: /thorvaldsdottir-reminiscence5/
 document: thorvaldsdottir_reminiscence_no5.mei
 ---

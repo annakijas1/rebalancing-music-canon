@@ -3,6 +3,7 @@ layout: post
 title: Songs of illumination, VIII. Corner Court
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-songs-of-illumination-VIII/
 image: anderson-songs-of-illumination-008.png
 ---

@@ -7,7 +7,7 @@ permalink: /price-fantasie-negre-no-4/
 document: price_fantasie_negre_no4.mei
 ---
 
-In *Fantasie nègre no. 4: in B minor for piano.* New York, NY : G. Schirmer, Inc., 2020.
+In *Fantasie nègre no. 4: in B minor for piano.* New York, NY: G. Schirmer, Inc., 2020.
 
 **Instrumentation summary**: piano (1)
 

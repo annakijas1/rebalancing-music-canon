@@ -3,6 +3,7 @@ layout: mei
 title: Songs of illumination, IV. Moon
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-songs-of-illumination-IV/
 document: anderson_songs_of_illumination_004.mei
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Songs of illumination, IX. Frankie, Dead
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-songs-of-illumination-IX/
 image: anderson-songs-of-illumination-009.png
 ---

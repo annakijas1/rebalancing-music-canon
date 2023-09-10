@@ -3,6 +3,7 @@ layout: mei
 title: Bombs of Beirut, I. Before the war
 author: Kouyoumdjian, Mary
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /kouyoumdjian-beirut-before/
 document: kouyoumdjian_bombs_of_beirut001_before_the_war.mei
 ---

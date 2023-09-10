@@ -3,6 +3,7 @@ layout: mei
 title: Dream variations, III. Monotony
 author: Thompson, Richard
 ensemble: chamber-vocal
+period: 2000-2009
 permalink: /thompson-dream-variations-monotony/
 document: thompson_dream_variations003.mei
 ---

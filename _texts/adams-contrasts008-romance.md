@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, VIII. Romance
 author: Adams, Leslie
 ensemble: solo
+period: 2000-2009
 permalink: /adams-contrasts-romance/
 document: adams_contrasts008_romance.mei
 ---

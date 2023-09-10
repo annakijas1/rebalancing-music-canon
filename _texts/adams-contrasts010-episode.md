@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, X. Episode
 author: Adams, Leslie
 ensemble: solo
+period: 2000-2009
 permalink: /adams-contrasts-episode/
 document: adams_contrasts010_episode.mei
 ---

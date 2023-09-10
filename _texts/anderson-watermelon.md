@@ -3,6 +3,7 @@ layout: post
 title: Watermelon
 author: Anderson, T.J.
 ensemble: solo 
+period: 1970-1979
 permalink: /anderson-watermelon/
 image: anderson-watermelon.png
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Five bagatelles, IV. Blues
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-five-bagatelles-IV/
 document: anderson_five_bagatelles_004.mei
 ---

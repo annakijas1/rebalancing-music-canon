@@ -3,6 +3,7 @@ layout: mei
 title: Sonnets on love, rosebuds, and death. VI. Idolatry
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal
+period: 1970-1979
 permalink: /moore-sonnets-idolatry/
 document: moore_sonnets006-idolatry.mei
 ---

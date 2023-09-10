@@ -3,6 +3,7 @@ layout: mei
 title: Songs of illumination, II. Cody and the Chicken
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-songs-of-illumination-II/
 document: anderson_songs_of_illumination_002.mei
 ---

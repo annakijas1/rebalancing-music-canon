@@ -3,6 +3,7 @@ layout: mei
 title: Sonnets on love, rosebuds, and death. V. Song for a dark girl
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal
+period: 1970-1979
 permalink: /moore-sonnets-song/
 document: moore_sonnets005-song.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Piano trio in G minor, Allegro agitato, Mvt. 1
 author: Andrée, Elfrida
 ensemble: chamber-instrument
+period: 1880-1889
 permalink: /andree-piano_trio_g_mvt1/
 document: andree_piano_trio_g_minor_mvt1.mei
 ---

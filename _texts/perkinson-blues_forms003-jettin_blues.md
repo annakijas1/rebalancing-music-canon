@@ -3,6 +3,7 @@ layout: post
 title: Blue/s forms, iii. Jettin' blue/s
 author: Perkinson, Coleridge-Taylor
 ensemble: solo
+period: 1970-1979
 permalink: /perkinson-blues-forms-jettin-blues/
 image: perkinson_blues_forms_for_unaccompanied_violin_jettin_blues.png
 ---

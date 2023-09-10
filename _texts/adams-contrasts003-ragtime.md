@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, III. Ragtime
 author: Adams, Leslie
 ensemble: solo 
+period: 2000-2009
 permalink: /adams-contrasts-ragtime/
 document: adams_contrasts003_ragtime.mei
 ---

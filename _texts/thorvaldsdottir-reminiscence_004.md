@@ -3,6 +3,7 @@ layout: mei
 title: Reminiscence IV
 author: Þorvaldsdóttir, Anna S.  
 ensemble: solo
+period: 2010-2019
 permalink: /thorvaldsdottir-reminiscence4/
 document: thorvaldsdottir_reminiscence_no4.mei
 ---

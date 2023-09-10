@@ -3,6 +3,7 @@ layout: mei
 title: Dream variations, II. The Negro speaks of Rivers
 author: Thompson, Richard
 ensemble: chamber-vocal
+period: 2000-2009
 permalink: /thompson-dream-variations-rivers/
 document: thompson_dream_variations002.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title:  Five portraits, 4. Larghetto
 author: Kay, Ulysses
 ensemble: chamber-instrument
+period: 1970-1979
 permalink: /kay-five-portraits-iv/
 document: kay_five_portraits_004.mei
 ---

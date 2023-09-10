@@ -3,6 +3,7 @@ layout: mei
 title: Piano trio in G minor, Rondo, Mvt. 3
 author: Andrée, Elfrida
 ensemble: chamber-instrument
+period: 1880-1889
 permalink: /andree-piano_trio_g_mvt3/
 document: andree_piano_trio_g_minor_mvt3.mei
 ---

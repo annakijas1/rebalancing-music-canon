@@ -3,6 +3,7 @@ layout: mei
 title: Dream variations, I. I, too, sing America
 author: Thompson, Richard
 ensemble: chamber-vocal
+period: 2000-2009
 permalink: /thompson-dream-variations-sing/
 document: thompson_dream_variations001.mei
 ---

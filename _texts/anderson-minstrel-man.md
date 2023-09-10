@@ -3,6 +3,7 @@ layout: post
 title: Minstrel man
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1970-1979
 permalink: /anderson-minstrel-man/
 image: anderson-minstrel-man.png
 ---

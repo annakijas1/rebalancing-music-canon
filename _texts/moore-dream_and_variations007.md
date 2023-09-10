@@ -3,6 +3,7 @@ layout: mei
 title: Dream and variations, VII. Molto Adagio
 author: Moore, Dorothy Rudd
 ensemble: solo
+period: 1970-1979
 permalink: /moore-dream-adagio-molto-adagio007/
 document: moore_dream_and_variations_007.mei
 ---

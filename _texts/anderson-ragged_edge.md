@@ -3,6 +3,7 @@ layout: post
 title: Ragged edge (a ragtime reflection)
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 2000-2009
 permalink: /anderson-ragged-edge/
 image: anderson-ragged-edge.png
 ---

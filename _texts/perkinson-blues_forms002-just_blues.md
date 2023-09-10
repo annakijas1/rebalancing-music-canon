@@ -3,6 +3,7 @@ layout: mei
 title: Blue/s forms, ii. Just blue/s
 author: Perkinson, Coleridge-Taylor
 ensemble: solo
+period: 1970-1979
 permalink: /perkinson-blues-forms-just-blues/
 document: perkinson_blues_forms_just_blues_02.mei
 ---

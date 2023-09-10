@@ -3,6 +3,7 @@ layout: mei
 title: Modes for String Quartet (1968), mvt. 2
 author: Moore, Dorothy Rudd
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /moore-modes-2/
 document: moore_modes_002.mei
 ---

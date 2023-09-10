@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, II. Lament
 author: Adams, Leslie
 ensemble: solo 
+period: 2000-2009
 permalink: /adams-contrasts-lament/
 document: adams_contrasts002_lament.mei
 ---

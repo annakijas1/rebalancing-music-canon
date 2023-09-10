@@ -3,6 +3,7 @@ layout: mei
 title: Piano trio in G minor, Andante con espressione, Mvt. 2
 author: Andrée, Elfrida
 ensemble: chamber-instrument
+period: 1880-1889
 permalink: /andree-piano_trio_g_mvt2/
 document: andree_piano_trio_g_minor_mvt2.mei
 ---

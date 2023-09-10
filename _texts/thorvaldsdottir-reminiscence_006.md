@@ -3,6 +3,7 @@ layout: mei
 title: Reminiscence VI 
 author: Þorvaldsdóttir, Anna S.   
 ensemble: solo
+period: 2010-2019
 permalink: /thorvaldsdottir-reminiscence6/
 document: thorvaldsdottir_reminiscence_no6.mei
 ---

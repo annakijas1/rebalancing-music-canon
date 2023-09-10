@@ -7,7 +7,7 @@ permalink: /shirazi-blood-moon/
 document: shirazi_blood_moon.mei
 ---
 
-In *Blood moon: for clarinet quintet.* Paris, France: Babel Scores 2020 
+In *Blood moon: for clarinet quintet.* Paris, France: Babel Scores 2020. 
 
 **Instrumentation summary**: clarinet (1), violin I (1), violin II (1), viola (1), cello (1)
 

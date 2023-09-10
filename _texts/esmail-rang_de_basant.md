@@ -3,6 +3,7 @@ layout: post
 title: Rang de Basant   
 author: Esmail, Reena
 ensemble: solo
+period: 2010-2019
 permalink: /esmail-rang-de-basant/
 image: esmail_rang-de-basant.png
 ---

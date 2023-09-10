@@ -3,6 +3,7 @@ layout: mei
 title: Five Millay Songs, Branch by branch
 author: Adams, Leslie
 ensemble: chamber-vocal
+period: 1970-1979
 permalink: /adams-five-millay-songs-branch-by-branch/
 document: adams_fms_002_branch_by_branch.mei
 ---

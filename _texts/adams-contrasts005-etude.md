@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, V. Etude
 author: Adams, Leslie
 ensemble: solo
+period: 2000-2009
 permalink: /adams-contrasts-etude/
 document: adams_contrasts005_etude.mei
 ---

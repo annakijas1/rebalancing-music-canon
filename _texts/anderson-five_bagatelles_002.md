@@ -3,6 +3,7 @@ layout: mei
 title: Five bagatelles, II. Barcarolle
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-five-bagatelles-II/
 document: anderson_five_bagatelles_002.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Cantus
 author: de Leon, Mario Diaz
 ensemble: solo
+period: 2010-2019
 permalink: /de-leon-cantus/
 document: de_leon_cantus.mei
 ---

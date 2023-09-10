@@ -3,6 +3,7 @@ layout: mei
 title: We wear the mask
 author: Nabors, Brian
 ensemble: chamber-vocal
+period: 2010-2019
 permalink: /nabors-mask/
 document: nabors_we_wear_the_mask.mei
 ---

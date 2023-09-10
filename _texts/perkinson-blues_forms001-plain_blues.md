@@ -3,6 +3,7 @@ layout: mei
 title: Blue/s forms, i. Plain blue/s
 author: Perkinson, Coleridge-Taylor
 ensemble: solo 
+period: 1970-1979
 permalink: /perkinson-blues-forms-plain-blues/
 document: perkinson_blues_forms_plain_blues_01.mei
 ---

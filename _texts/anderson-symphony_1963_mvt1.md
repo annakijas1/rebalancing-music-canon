@@ -3,6 +3,7 @@ layout: mei
 title: Symphony in three movements, I. Allegro
 author: Anderson, T.J.
 ensemble: orchestra
+period: 1960-1969
 permalink: /anderson-symphony-in-three-movements-I/
 document: anderson_symphony_in_three_movements_001.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Sonnets on love, rosebuds, and death. I. I had no thought of violets of late
 author: Moore, Dorothy Rudd
 ensemble: chamber-vocal 
+period: 1970-1979
 permalink: /moore-sonnets-violets/
 document: moore_sonnets001-violets.mei
 ---

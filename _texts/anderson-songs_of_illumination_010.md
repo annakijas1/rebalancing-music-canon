@@ -3,6 +3,7 @@ layout: mei
 title: Songs of illumination, X. Nina
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-songs-of-illumination-X/
 document: anderson_songs_of_illumination_010.mei
 ---

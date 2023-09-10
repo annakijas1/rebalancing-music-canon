@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, IX. Dialogue
 author: Adams, Leslie
 ensemble: solo 
+period: 2000-2009
 permalink: /adams-contrasts-dialogue/
 document: adams_contrasts009_dialogue.mei
 ---

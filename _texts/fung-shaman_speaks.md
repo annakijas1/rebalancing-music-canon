@@ -3,6 +3,7 @@ layout: post
 title: Shaman speaks
 author: Fung, Vivian
 ensemble: chamber-instrument
+period: 2000-2009
 permalink: /fung-shaman/
 image: fung_shaman_speaks.png
 ---

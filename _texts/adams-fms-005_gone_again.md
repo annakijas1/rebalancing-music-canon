@@ -3,6 +3,7 @@ layout: mei
 title: Five Millay Songs, Gone again is summer the lovely
 author: Adams, Leslie
 ensemble: chamber-vocal
+period: 1970-1979
 permalink: /adams-five-millay-songs-gone-again-is-summer-the-lovely/
 document: adams_fms_005_gone_again_is_summer.mei
 ---

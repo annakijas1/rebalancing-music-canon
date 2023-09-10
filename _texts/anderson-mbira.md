@@ -3,6 +3,7 @@ layout: mei
 title: Mbira
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 2020-2029
 permalink: /anderson-mbira/
 document: anderson_mbira.mei
 ---

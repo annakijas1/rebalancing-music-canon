@@ -2,7 +2,8 @@
 layout: mei
 title: Five Millay Songs, Wild swans
 author: Adams, Leslie
-ensemble: chamber-vocal 
+ensemble: chamber-vocal
+period: 1970-1979
 permalink: /adams-five-millay-songs-wild-swans/
 document: adams_fms_001_wild_swans.mei
 ---

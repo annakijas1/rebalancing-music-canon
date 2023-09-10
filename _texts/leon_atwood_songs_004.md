@@ -7,7 +7,7 @@ permalink: /leon-atwood-songs-4/
 document: 
 ---
 
-In *Atwood songs: for soprano and piano.* New York; Hamburg: Peermusic Classical 2018
+In *Atwood songs: for soprano and piano.* New York; Hamburg: Peermusic Classical 2018.
 
 **Instrumentation summary**: soprano voice (1), piano (1) 
 

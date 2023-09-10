@@ -3,6 +3,7 @@ layout: mei
 title: Dream and variations, I. Intro Largo
 author: Moore, Dorothy Rudd
 ensemble: solo
+period: 1970-1979
 permalink: /moore-dream-intro001/
 document: moore_dream_and_variations_001.mei
 ---

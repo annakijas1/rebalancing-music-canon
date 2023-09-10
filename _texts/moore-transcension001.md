@@ -3,6 +3,7 @@ layout: mei
 title: Transcension, I.
 author: Moore, Dorothy Rudd
 ensemble: chamber-instrument 
+period: 1980-1989
 permalink: /moore-transcension-i/
 document: moore_transcension001.mei
 ---

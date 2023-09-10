@@ -3,6 +3,7 @@ layout: mei
 title: Trial Bed
 author: Archer, Violet 
 ensemble: chamber-vocal
+period: 2010-2019
 permalink: /archer_trial_bed/
 document: archer_together_and_apart_trial_bed.mei
 ---

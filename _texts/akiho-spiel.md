@@ -3,6 +3,7 @@ layout: mei
 title: Spiel
 author: Akiho, Andy
 ensemble: solo
+period: 2010-2019
 permalink: /akiho-spiel/
 document: 
 ---

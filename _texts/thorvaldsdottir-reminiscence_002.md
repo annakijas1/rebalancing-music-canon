@@ -3,6 +3,7 @@ layout: mei
 title: Reminiscence II
 author: Þorvaldsdóttir, Anna S. 
 ensemble: solo
+period: 2010-2019
 permalink: /thorvaldsdottir-reminiscence2/
 document: thorvaldsdottir_reminiscence_no2.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Elegía a los silencios
 author: Urteaga, Irma
 ensemble: chamber-vocal
+period: 2010-2019
 permalink: /urteaga-elegia/
 document: urteaga_elegia_a_los_silencios.mei
 ---

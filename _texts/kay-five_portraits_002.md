@@ -3,6 +3,7 @@ layout: mei
 title:  Five portraits, 2. Adagio
 author: Kay, Ulysses
 ensemble: chamber-instrument
+period: 1970-1979
 permalink: /kay-five-portraits-ii/
 document: kay_five_portraits_002.mei
 ---

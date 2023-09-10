@@ -7,7 +7,7 @@ permalink: /ware-purgatorio/
 document: 
 ---
    
-In *Piano sonata no. 1: "Dante": based on Dante Alighieri's The divine comedy /.* Madison, Wisconsin: B. Ware Works Publishing, 2022.
+In *Piano sonata no. 1: "Dante": based on Dante Alighieri's The divine comedy.* Madison, Wisconsin: B. Ware Works Publishing, 2022.
 
 **Instrumentation summary**: piano (1) 
 

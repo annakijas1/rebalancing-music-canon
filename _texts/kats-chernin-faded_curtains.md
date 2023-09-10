@@ -2,7 +2,8 @@
 layout: mei
 title: Faded Curtains
 author: Kats-Chernin, Elena
-ensemble: chamber-instrument
+ensemble: chamber-instrument'
+period: 2010-2019
 permalink: /kats-chernin-faded-curtains/
 document: 
 ---

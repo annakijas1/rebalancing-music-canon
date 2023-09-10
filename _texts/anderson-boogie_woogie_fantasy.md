@@ -3,6 +3,7 @@ layout: post
 title: Boogie woogie fantasy
 author: Anderson, T.J. 
 ensemble: solo
+period: 1990-1999
 permalink: /anderson-boogie-woogie-fantasy/
 image: anderson-boogie-woogie-fantasy.png
 ---

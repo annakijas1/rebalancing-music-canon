@@ -3,6 +3,7 @@ layout: mei
 title: Fantasy no. 2 for violin and piano
 author: Price, Florence B.
 ensemble: chamber-instrument
+period: 1940-1949
 permalink: /price-fantasy_no2/
 document: price_fantasy_no2.mei
 ---

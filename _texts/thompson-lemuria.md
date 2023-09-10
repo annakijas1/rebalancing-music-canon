@@ -3,6 +3,7 @@ layout: mei
 title: Lemuria Fantasy for piano (1996)
 author: Thompson, Richard
 ensemble: solo
+period: 1990-1999
 permalink: /thompson-lemuria/
 document: thompson_lemuria_fantasy.mei
 ---

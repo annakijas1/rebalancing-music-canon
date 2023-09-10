@@ -3,6 +3,7 @@ layout: mei
 title: Contrasts, IV. Procession
 author: Adams, Leslie
 ensemble: solo
+period: 2000-2009
 permalink: /adams-contrasts-procession/
 document: adams_contrasts004_procession.mei
 ---

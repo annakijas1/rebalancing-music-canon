@@ -3,6 +3,7 @@ layout: mei
 title: Umukoro songs, I. Doubts
 author: Cheatham, Wallace
 ensemble: chamber-vocal
+period: 2000-2009
 permalink: /cheatham-umukoro-songs-doubts/
 document: cheatham_umukoro_songs_doubts001.mei
 ---

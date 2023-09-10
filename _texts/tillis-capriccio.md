@@ -3,6 +3,7 @@ layout: mei
 title: Capriccio
 author: Tillis, Frederick C.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /tillis-capriccio/
 document: tillis_capriccio.mei
 ---

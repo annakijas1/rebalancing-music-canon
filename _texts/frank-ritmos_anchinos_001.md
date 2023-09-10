@@ -3,6 +3,7 @@ layout: mei
 title: Ritmos Anchinos, I. Harawi para Colquipocro
 author: Frank, Gabriela Lena 
 ensemble: chamber-instrument
+period: 2000-2009
 permalink: /frank-ritmos-anchinos-i/
 document: 
 ---

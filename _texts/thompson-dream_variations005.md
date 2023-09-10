@@ -3,6 +3,7 @@ layout: mei
 title: Dream variations, V. Dream Variations
 author: Thompson, Richard
 ensemble: chamber-vocal 
+period: 2000-2009
 permalink: /thompson-dream-variations-variations/
 document: thompson_dream_variations005.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: L's and S's 
 author: Archer, Violet 
 ensemble: chamber-vocal
+period: 2010-2019
 permalink: /archer_ls_and_ss/
 document: archer_together_and_apart_ls_and_ss.mei
 ---

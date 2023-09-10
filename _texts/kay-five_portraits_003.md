@@ -3,6 +3,7 @@ layout: mei
 title:  Five portraits, 3. Allegretto
 author: Kay, Ulysses
 ensemble: chamber-instrument
+period: 1970-1979
 permalink: /kay-five-portraits-iii/
 document: kay_five_portraits_003.mei
 ---

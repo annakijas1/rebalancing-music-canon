@@ -3,6 +3,7 @@ layout: post
 title: Songs of illumination, VI. Confession
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-songs-of-illumination-VI/
 image: anderson-songs-of-illumination-006.png
 ---

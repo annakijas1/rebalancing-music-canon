@@ -3,6 +3,7 @@ layout: mei
 title: Ritmos Anchinos, III. Kachampa 
 author: Frank, Gabriela Lena 
 ensemble: chamber-instrument 
+period: 2000-2009
 permalink: /frank-ritmos-anchinos-iii/
 document: 
 ---

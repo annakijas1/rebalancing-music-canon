@@ -3,6 +3,7 @@ layout: mei
 title: Humanoid
 author: Fung, Vivian
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /fung-humanoid/
 document: fung_humanoid.mei
 ---

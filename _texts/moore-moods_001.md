@@ -3,6 +3,7 @@ layout: mei
 title: Moods, I. Agitated and erratic
 author: Moore, Dorothy Rudd
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /moore-moods-i/
 document: moore_moods_001.mei
 ---

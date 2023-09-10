@@ -3,6 +3,7 @@ layout: mei
 title: Let America be America again
 author: Simon, Carlos
 ensemble: chamber-vocal
+period: 2010-2019
 permalink: /simon-america/
 document: simon_let_america_be_america_again.mei
 ---

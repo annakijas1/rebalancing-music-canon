@@ -3,6 +3,7 @@ layout: mei
 title: Sonata in one movement
 author: Day, Kevin
 ensemble: chamber-instrument
+period: 2020-2019
 permalink: /day-sonata/
 document: day_sonata.mei
 ---

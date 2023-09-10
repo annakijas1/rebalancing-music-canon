@@ -3,6 +3,7 @@ layout: mei
 title: Nocturne
 author: Perry, Zenobia Powell
 ensemble: solo
+period: 1960-1969
 permalink: /perry-nocturne/
 document: perry_nocturne_for_piano_solo.mei
 ---

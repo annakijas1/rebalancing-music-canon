@@ -3,6 +3,7 @@ layout: mei
 title:  Five portraits, 1. Scherzando
 author: Kay, Ulysses
 ensemble: chamber-instrument
+period: 1970-1979
 permalink: /kay-five-portraits-i/
 document: kay_five_portraits_001.mei
 ---

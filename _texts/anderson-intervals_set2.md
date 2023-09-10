@@ -3,6 +3,7 @@ layout: mei
 title: Intervals, set II
 author: Anderson, T.J.
 ensemble: orchestra 
+period: 1970-1979
 permalink: /anderson-intervals-II/
 document: anderson_intervals_set_002.mei
 ---

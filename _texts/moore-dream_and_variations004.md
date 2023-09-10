@@ -3,6 +3,7 @@ layout: mei
 title: Dream and variations, IV. Adagio
 author: Moore, Dorothy Rudd
 ensemble: solo
+period: 1970-1979
 permalink: /moore-dream-adagio004/
 document: moore_dream_and_variations_004.mei
 ---

@@ -7,7 +7,7 @@ permalink: /hailstork-st-pauls-blues/
 document: 
 ---
 
-In *St. Paul's blues: for solo flute.* King Of Prussia, PA : Theodore Presser 2023.
+In *St. Paul's blues: for solo flute.* King Of Prussia, PA: Theodore Presser 2023.
 
 **Instrumentation summary**: flute (1)
 

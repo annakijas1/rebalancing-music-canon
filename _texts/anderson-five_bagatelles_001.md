@@ -3,6 +3,7 @@ layout: mei
 title: Five bagatelles, I. Boea
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-five-bagatelles-I/
 document: anderson_five_bagatelles_001.mei
 ---

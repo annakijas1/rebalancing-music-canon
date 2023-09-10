@@ -3,6 +3,7 @@ layout: mei
 title: Voices from the light
 author: Moore, Dorothy Rudd
 ensemble: choral 
+period: 1990-1999
 permalink: /moore-voices-from-the-light/
 document: moore_voices_from_the_light.mei
 ---

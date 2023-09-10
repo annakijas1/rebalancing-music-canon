@@ -3,6 +3,7 @@ layout: mei
 title: Play me something
 author: Anderson, T.J.
 ensemble: solo
+eriod: 1970-1979
 permalink: /anderson-play-me-something/
 document: anderson_play_me_something.mei
 ---

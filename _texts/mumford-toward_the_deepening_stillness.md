@@ -3,6 +3,7 @@ layout: mei
 title: toward the deepening stillness beyond visible light
 author: Mumford, Jeffrey
 ensemble: chamber-instrument
+period: 2000-2009
 permalink: /mumford-deepening-stillness/
 document: mumford_toward_the_deepening_stillness_beyond_visible_light.mei
 ---

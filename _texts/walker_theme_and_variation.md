@@ -3,6 +3,7 @@ layout: mei
 title: Theme and variation for flute and piano (1979)
 author: Walker, Gwyneth
 ensemble: chamber-instrument 
+period: 1970-1979
 permalink: /walker_theme_and_variation/
 document: walker_theme_and_variation.mei
 ---

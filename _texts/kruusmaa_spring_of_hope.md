@@ -7,7 +7,7 @@ permalink: /kruusmaa_spring_of_hope/
 document: kruusmaa_spring_of_hope.mei 
 ---
 
-In *Spring of Hope : = Lootuse läte for cello quartet = tšcellokvartetile* Tallinn, Estonia : Eesti Muusika Infokeskus 2021 
+In *Spring of Hope: = Lootuse läte for cello quartet = tšcellokvartetile* Tallinn, Estonia: Eesti Muusika Infokeskus 2021. 
 
 **Instrumentation summary**: cello (4) 
 

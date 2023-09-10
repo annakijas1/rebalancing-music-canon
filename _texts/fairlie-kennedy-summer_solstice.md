@@ -3,6 +3,7 @@ layout: mei
 title: Summer Solstice 
 author: Fairlie-Kennedy, Margaret 
 ensemble: chamber-instrument
+period: 2000-2009
 permalink: /fairlie-kennedy-summer-solstice/
 document:
 ---

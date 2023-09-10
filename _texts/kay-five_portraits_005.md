@@ -3,6 +3,7 @@ layout: mei
 title:  Five portraits, 5. Allegro
 author: Kay, Ulysses
 ensemble: chamber-instrument
+period: 1970-1979
 permalink: /kay-five-portraits-v/
 document: kay_five_portraits_005.mei
 ---

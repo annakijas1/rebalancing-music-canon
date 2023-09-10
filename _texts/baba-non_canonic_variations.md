@@ -7,7 +7,7 @@ permalink: /baba-non-canonic-variations/
 document: baba_noncanonic_variations.mei
 ---
 
-In *Non-canonic variations: pour flute (piccolo), clarinette, alto e violoncelle* Paris : Jobert Editions 2021
+In *Non-canonic variations: pour flute (piccolo), clarinette, alto e violoncelle* Paris: Jobert Editions 2021
 
 **Instrumentation summary**: flute, clarinet, viola, cello 
 

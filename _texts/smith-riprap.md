@@ -3,6 +3,7 @@ layout: mei
 title: Riprap
 author: Smith, Gabriella
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /smith-riprap/
 document: 
 ---

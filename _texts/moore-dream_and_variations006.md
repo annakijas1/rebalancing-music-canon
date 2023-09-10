@@ -3,6 +3,7 @@ layout: mei
 title: Dream and variations, VI. Adagio - Agitato
 author: Moore, Dorothy Rudd
 ensemble: solo
+period: 1970-1979
 permalink: /moore-dream-adagio-agitato006/
 document: moore_dream_and_variations_006.mei
 ---

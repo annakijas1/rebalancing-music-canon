@@ -3,6 +3,7 @@ layout: mei
 title: In memoriam Zach Walker
 author: Anderson, T.J.
 ensemble: band 
+period: 1960-1969
 permalink: /anderson-in-memoriam/
 document: anderson_in_memoriam_zach_walker.mei
 ---
