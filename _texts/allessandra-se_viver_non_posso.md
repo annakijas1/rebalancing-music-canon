@@ -3,6 +3,7 @@ layout: mei
 title: Se viver non posso for soprano, violin and keyboard
 author: Allessandra, Caterina
 ensemble: chamber-vocal
+period: unknown
 permalink: /allessandra-se_viver/
 document: allessandra_se_viver_non_posso.mei
 ---
