@@ -3,6 +3,7 @@ layout: mei
 title: Ein Stern der Lieb' am Himmelslauf
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: 1840-1849
 permalink: /arnim-stern_der_liebam_himmelslauf/
 document: arnim_stern_der_liebam_himmelslauf.mei
 ---

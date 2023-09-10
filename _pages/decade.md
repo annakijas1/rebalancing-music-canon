@@ -33,32 +33,6 @@ Browse incipits by decade during which composition was published or composed.
     {% endfor %}
 </ul>
 
-<h3>1770-1779</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1770-1779" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
- <h3>1780-1789</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1780-1789" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
   <h3>1790-1799</h3>
     <ul class="texts">
     {% for item in site.texts %}

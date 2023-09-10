@@ -3,6 +3,7 @@ layout: mei
 title: Abendstille
 author: Arnim, Bettina von
 ensemble: chamber-vocal 
+period: 1840-1849
 permalink: /arnim-abendstille/
 document: arnim_abendstille_offnet_turen.mei
 ---

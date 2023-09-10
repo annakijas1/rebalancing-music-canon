@@ -3,6 +3,7 @@ layout: mei
 title: Den trägen Tag verfolgt der Mond 
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: 1840-1849
 permalink: /arnim-traegen_tag/
 document: arnim_traegen_tag_verfolgt_der_mond.mei
 ---

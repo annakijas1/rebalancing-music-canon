@@ -3,6 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, Herbstgefühl
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: 1840-1849
 permalink: /arnim-goethe-vertonungen-herbstgefuhl/
 document: arnim_goethe_vertonungen_003.mei
 ---

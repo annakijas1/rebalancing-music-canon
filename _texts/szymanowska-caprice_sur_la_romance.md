@@ -3,6 +3,7 @@ layout: mei
 title: Caprice sur la Romance de Joconde pour le pianoforte
 author: Szymanowska, Maria
 ensemble: solo
+period: 1810-1819
 permalink: /szymanowska-caprice/
 document: szymanowska_caprice_sur_la_romance.mei
 ---

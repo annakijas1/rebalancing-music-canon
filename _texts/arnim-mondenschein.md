@@ -3,6 +3,7 @@ layout: mei
 title: Mondenschein
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: 1840-1849
 permalink: /arnim-mondenschein/
 document: arnim_mondenschein.mei
 ---

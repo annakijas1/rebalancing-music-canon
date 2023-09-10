@@ -3,6 +3,7 @@ layout: mei
 title: Vom Nachen getragen
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: 1840-1849
 permalink: /arnim-vom_nachen_getragen/
 document: arnim_vom_nachen_getragen.mei
 ---

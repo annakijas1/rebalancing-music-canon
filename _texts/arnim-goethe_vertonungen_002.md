@@ -3,6 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, O schaudre nicht (aus Faust)
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: 1840-1849
 permalink: /arnim-goethe-vertonungen-o-schaudre-nicht/
 document: arnim_goethe_vertonungen_002.mei
 ---
