@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: "Dante" I. The Inferno
+title: Dante I. The Inferno
 author: Ware, Lawren Brianna
 ensemble: solo  
 permalink: /ware-the-inferno/
