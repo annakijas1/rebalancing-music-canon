@@ -10,11 +10,11 @@ image: png filename
 
 In * //type in the citation details about this composition based on the exact score used to create the incipits// *
 
-**Composition/Publication date**: 
+**Composition/Publication date**: [include the date when composition was created or published, if known]
 
-**Instrumentation summary**: 
+**Instrumentation summary**: [include number of instruments if provided]
 
-**Instrument group**:
+**Instrumentation group**: [use commas between instruments]
 
 //Add the link to Primo and the call number// 
 **Location**: <a href="Primo Link" target="_blank"><Music Library Stacks Call Number</a>
