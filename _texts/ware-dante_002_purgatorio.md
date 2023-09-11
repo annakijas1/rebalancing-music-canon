@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: "Dante" II. Purgatorio
+title: Dante II. Purgatorio
 author: Ware, Lawren Brianna
 ensemble: solo  
 permalink: /ware-purgatorio/
