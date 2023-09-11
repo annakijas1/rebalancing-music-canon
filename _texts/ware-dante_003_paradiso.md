@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: "Dante" III. Paradiso
+title: Dante III. Paradiso
 author: Ware, Lawren Brianna
 ensemble: solo  
 permalink: /ware-paradiso/
