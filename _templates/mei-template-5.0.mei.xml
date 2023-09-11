@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+          <!--Verify the title of the work and corresponding opus and number if available-->
+            <title>Bombs of Beirut, i. Before the War</title>
+            <title type="subtitle"></title>
+            <respStmt>
+            <!--Verify the name of the composer-->
+               <persName xml:id="mk01" role="composer">Mary Kouyoumdjian</persName>
+               <!--Add the name(s) of the transcriber and reviewer-->
+               <persName xml:id="pgw01" role="transcriber">Phillip G. Wright</persName>
+               <persName xml:id="aek01" role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+          <!--The date is automatically generated when file is exported from MuseScore-->
+         <date isodate="2022-07-12" type="encoding-date">2022-07-12</date>
+         <!--add the publisher info-->
+         <publisher>Rebalancing the Music Canon</publisher>
+         <!--add the info about how the incipits can be used-->
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <!--add the URL to the site-->
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-wncqn5">
+         <appInfo xml:id="appinfo-ce3ory">
+            <application xml:id="application-3dj0io" isodate="2022-07-12T12:46:00" version="3.10.0-845ab54">
+               <name xml:id="name-47oba4">Verovio</name>
+               <p xml:id="p-5grj34">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="micaoov">
+            <score xml:id="sqopjgv">
+               <scoreDef xml:id="s6hf82r">
+                  <pgHead xml:id="ppb3u0a">
+                  <!--Verify the name of the composer-->
+                     <rend xml:id="rh3zrfu" halign="right" valign="bottom">Mary Kouyoumdjian</rend>
+                     <!--Remove the title of the work and corresponding opus and number if it is listed here-->
+                     <rend xml:id="rend-0000001835101377" halign="center" valign="top"></rend>
+                     <rend xml:id="rend-0000000650322178" halign="center" valign="top"></rend>
+                  </pgHead>
+               </scoreDef>
+               <!--encoded incipit will go in here; this is exported from MuseScore-->            
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
