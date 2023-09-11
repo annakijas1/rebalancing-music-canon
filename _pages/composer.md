@@ -57,6 +57,7 @@ Composer's names appear in alphabetical order and are organized chronologically 
     </li>
       {% endif %}
     {% endfor %}
+    
 </ul>
 
 
