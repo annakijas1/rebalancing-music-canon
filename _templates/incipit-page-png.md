@@ -3,11 +3,14 @@ layout: post
 title: Title of Composition
 author: Composer Last Name, First Name
 ensemble:
+period:
 permalink: /last-name-short-title or opus/number/
 image: png filename
 ---
 
 In * //type in the citation details about this composition based on the exact score used to create the incipits// *
+
+**Composition/Publication date**: 
 
 **Instrumentation summary**: 
 
