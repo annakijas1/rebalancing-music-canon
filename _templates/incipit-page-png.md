@@ -3,15 +3,18 @@ layout: post
 title: Title of Composition
 author: Composer Last Name, First Name
 ensemble:
+period:
 permalink: /last-name-short-title or opus/number/
 image: png filename
 ---
 
 In * //type in the citation details about this composition based on the exact score used to create the incipits// *
 
-**Instrumentation summary**: 
+**Composition/Publication date**: [include the date when composition was created or published, if known]
 
-**Instrument group**:
+**Instrumentation summary**: [include number of instruments if provided]
+
+**Instrumentation group**: [use commas between instruments]
 
 //Add the link to Primo and the call number// 
 **Location**: <a href="Primo Link" target="_blank"><Music Library Stacks Call Number</a>
