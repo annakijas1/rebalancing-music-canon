@@ -7,7 +7,7 @@ permalink: /ardovino-quibble/
 document: 
 ---
 
-In *Parley for winds: oboe + clarinet in B♭ + bassoon  /.* Anniston, Alabama: Potenza Music, 2022.
+In *Parley for winds: oboe + clarinet in B♭ + bassoon.* Anniston, Alabama: Potenza Music, 2022.
 
 **Instrumentation summary**: oboe (1), Bb clarinet (1), bassoon (1) 
 
