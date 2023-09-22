@@ -3,11 +3,14 @@ layout: mei
 title: L'amour éternel, I. Allegretto fluente
 author: Adams, Leslie
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /adams-lamour-eternel-i/
 document: adams_lamour_eternel001.mei
 ---
 
 In *L'amour éternel: for flute and piano.* New York, NY: American Composers Alliance Inc., 2020.
+
+**Composition/Publication Date**: 2012
 
 **Instrumentation summary**: flute (1), piano (1)
 
