@@ -42,11 +42,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.1" justify="center" valign="top" font-size="22">ADAGIO PARA AMANTANÍ</credit-words>
+    <credit-words default-x="616.935" default-y="1511.15" justify="center" valign="top" font-size="22">ADAGIO PARA AMANTANÍ</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.1" justify="right" valign="top">Gabriela Lena Frank </credit-words>
+    <credit-words default-x="1148.15" default-y="1411.15" justify="right" valign="top">Gabriela Lena Frank </credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -191,6 +191,12 @@
         </note>
       </measure>
     <measure number="2" width="141.06">
+      <direction placement="below">
+        <direction-type>
+          <wedge type="crescendo" number="1" default-y="-71.66"/>
+          </direction-type>
+        <staff>1</staff>
+        </direction>
       <note default-x="13.00" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -203,12 +209,6 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <wedge type="crescendo" number="1" default-y="-80.58" relative-x="10.83"/>
-          </direction-type>
-        <staff>1</staff>
-        </direction>
       <note default-x="76.13" default-y="-10.00">
         <pitch>
           <step>D</step>
@@ -281,6 +281,12 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <wedge type="stop" number="1" relative-x="-2.78"/>
+          </direction-type>
+        <staff>1</staff>
+        </direction>
       <backup>
         <duration>72</duration>
         </backup>
@@ -300,7 +306,7 @@
         </attributes>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="5.32" default-y="-59.35" relative-y="-25.00">
+          <dynamics default-x="5.32" default-y="-58.49" relative-y="-18.17">
             <mp/>
             </dynamics>
           </direction-type>
@@ -309,7 +315,7 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <wedge type="diminuendo" number="2" default-y="-79.35"/>
+          <wedge type="diminuendo" number="1" default-y="-71.66"/>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -334,12 +340,6 @@
           <slur type="start" placement="above" number="1"/>
           </notations>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <wedge type="stop" number="1" relative-x="-72.87"/>
-          </direction-type>
-        <staff>1</staff>
-        </direction>
       <note default-x="99.69" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -364,7 +364,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <wedge type="stop" number="2"/>
+          <wedge type="stop" number="1"/>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -387,7 +387,7 @@
         </attributes>
       <direction placement="below">
         <direction-type>
-          <wedge type="crescendo" number="1" default-y="-88.75"/>
+          <wedge type="crescendo" number="1" default-y="-84.20"/>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -456,7 +456,7 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="2.32" default-y="-68.75" relative-y="-25.00">
+          <dynamics default-x="2.32" default-y="-64.20" relative-y="-25.00">
             <f/>
             </dynamics>
           </direction-type>
@@ -496,7 +496,7 @@
             <left-margin>61.92</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>319.22</system-distance>
+          <system-distance>293.08</system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>-40.00</staff-distance>
@@ -566,7 +566,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <wedge type="crescendo" number="1" default-y="-82.75" relative-x="-1.14"/>
+          <wedge type="crescendo" number="1" default-y="-66.81"/>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -601,7 +601,7 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <words relative-x="-25.05" relative-y="37.49" font-weight="bold" font-style="italic" font-size="12">accel. </words>
+          <words relative-x="-30.74" relative-y="37.49" font-weight="bold" font-style="italic" font-size="12">accel. </words>
           </direction-type>
         <staff>1</staff>
         <sound tempo="120"/>
@@ -637,7 +637,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <words default-y="-40.00" relative-x="-30.74" relative-y="-31.99" font-weight="bold" font-style="italic">liberamente</words>
+          <words default-y="-68.62" relative-y="-25.00" font-weight="bold" font-style="italic">liberamente</words>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -768,7 +768,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <wedge type="stop" number="1" relative-x="-1.14"/>
+          <wedge type="stop" number="1"/>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -785,7 +785,7 @@
     <measure number="7" width="449.63">
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="2.32" default-y="-62.75" relative-y="-25.00">
+          <dynamics default-x="2.32" default-y="-46.81" relative-y="-25.00">
             <f/>
             </dynamics>
           </direction-type>
@@ -794,7 +794,7 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <wedge type="diminuendo" number="1" default-y="-82.75"/>
+          <wedge type="diminuendo" number="1" default-y="-66.81"/>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -1000,7 +1000,7 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="3.10" default-y="-62.75" relative-y="-25.00">
+          <dynamics default-x="3.10" default-y="-46.81" relative-y="-25.00">
             <pp/>
             </dynamics>
           </direction-type>
@@ -1043,7 +1043,7 @@
     <measure number="1" width="251.14">
       <print>
         <staff-layout number="1">
-          <staff-distance>180.46</staff-distance>
+          <staff-distance>168.95</staff-distance>
           </staff-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -1068,7 +1068,7 @@
           <line>4</line>
           </clef>
         </attributes>
-      <note default-x="149.66" default-y="-190.46">
+      <note default-x="149.66" default-y="-178.95">
         <rest measure="yes"/>
         <duration>72</duration>
         <voice>1</voice>
@@ -1077,7 +1077,7 @@
       <backup>
         <duration>72</duration>
         </backup>
-      <note default-x="149.66" default-y="-295.46">
+      <note default-x="149.66" default-y="-283.95">
         <rest measure="yes"/>
         <duration>72</duration>
         <voice>5</voice>
@@ -1085,7 +1085,7 @@
         </note>
       </measure>
     <measure number="2" width="141.06">
-      <note default-x="63.13" default-y="-190.46">
+      <note default-x="63.13" default-y="-178.95">
         <rest measure="yes"/>
         <duration>72</duration>
         <voice>1</voice>
@@ -1094,7 +1094,7 @@
       <backup>
         <duration>72</duration>
         </backup>
-      <note default-x="63.13" default-y="-295.46">
+      <note default-x="63.13" default-y="-283.95">
         <rest measure="yes"/>
         <duration>72</duration>
         <voice>5</voice>
@@ -1102,7 +1102,7 @@
         </note>
       </measure>
     <measure number="3" width="161.66">
-      <note default-x="73.43" default-y="-190.46">
+      <note default-x="73.43" default-y="-178.95">
         <rest measure="yes"/>
         <duration>72</duration>
         <voice>1</voice>
@@ -1111,7 +1111,7 @@
       <backup>
         <duration>72</duration>
         </backup>
-      <note default-x="73.43" default-y="-295.46">
+      <note default-x="73.43" default-y="-283.95">
         <rest measure="yes"/>
         <duration>72</duration>
         <voice>5</voice>
@@ -1125,7 +1125,7 @@
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="74.70" default-y="-190.46">
+      <note default-x="74.70" default-y="-178.95">
         <rest measure="yes"/>
         <duration>48</duration>
         <voice>1</voice>
@@ -1134,7 +1134,7 @@
       <backup>
         <duration>48</duration>
         </backup>
-      <note default-x="74.70" default-y="-295.46">
+      <note default-x="74.70" default-y="-283.95">
         <rest measure="yes"/>
         <duration>48</duration>
         <voice>5</voice>
@@ -1148,7 +1148,7 @@
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="136.60" default-y="-190.46">
+      <note default-x="136.60" default-y="-178.95">
         <rest measure="yes"/>
         <duration>96</duration>
         <voice>1</voice>
@@ -1157,7 +1157,7 @@
       <backup>
         <duration>96</duration>
         </backup>
-      <note default-x="136.60" default-y="-295.46">
+      <note default-x="136.60" default-y="-283.95">
         <rest measure="yes"/>
         <duration>96</duration>
         <voice>5</voice>
@@ -1167,7 +1167,7 @@
     <measure number="6" width="550.87">
       <print new-system="yes">
         <staff-layout number="1">
-          <staff-distance>180.46</staff-distance>
+          <staff-distance>168.95</staff-distance>
           </staff-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -1179,7 +1179,7 @@
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="299.52" default-y="-190.46">
+      <note default-x="299.52" default-y="-178.95">
         <rest measure="yes"/>
         <duration>60</duration>
         <voice>1</voice>
@@ -1188,7 +1188,7 @@
       <backup>
         <duration>60</duration>
         </backup>
-      <note default-x="299.52" default-y="-295.46">
+      <note default-x="299.52" default-y="-283.95">
         <rest measure="yes"/>
         <duration>60</duration>
         <voice>5</voice>
@@ -1196,7 +1196,7 @@
         </note>
       </measure>
     <measure number="7" width="449.63">
-      <note default-x="217.42" default-y="-190.46">
+      <note default-x="217.42" default-y="-178.95">
         <rest measure="yes"/>
         <duration>60</duration>
         <voice>1</voice>
@@ -1208,7 +1208,7 @@
       <backup>
         <duration>60</duration>
         </backup>
-      <note default-x="217.42" default-y="-295.46">
+      <note default-x="217.42" default-y="-283.95">
         <rest measure="yes"/>
         <duration>60</duration>
         <voice>5</voice>
