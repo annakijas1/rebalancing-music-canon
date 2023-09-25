@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Lunar paraphrase
+title: Infanta Marina, Lunar paraphrase
 author: Talma, Louise
 ensemble: chamber-vocal
 permalink: /talma-lunar

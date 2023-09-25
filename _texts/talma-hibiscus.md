@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Hibiscus on the sleeping shores
+title: Infanta Marina, Hibiscus on the sleeping shores
 author: Talma, Louise
 ensemble: chamber-vocal 
 permalink: /talma-hisbiscus

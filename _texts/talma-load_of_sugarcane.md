@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: The load of sugar-cane -- Re-statement of romance -- The pleasures of merely circulating 
+title: Infanta Marina, The load of sugar-cane -- Re-statement of romance -- The pleasures of merely circulating 
 author: Talma, Louise
 ensemble: chamber-vocal
 permalink: /talma-load_of_sugarcane

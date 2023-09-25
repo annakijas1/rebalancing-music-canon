@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Ploughing on Sunday
+title: Infanta Marina, Ploughing on Sunday
 author: Talma, Louise
 ensemble: chamber-vocal
 permalink: /talma-ploughing

@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Infanta Marina, voice and piano
+title: Infanta Marina
 author: Talma, Louise
 ensemble: chamber-vocal
 permalink: /talma-infanta_marina

@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Domination of black
+title: Infanta Marina, Domination of black
 author: Talma, Louise
 ensemble: chamber-vocal 
 permalink: /talma-domination

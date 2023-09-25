@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: The brave man
+title: Infanta Marina, The brave man
 author: Talma, Louise
 ensemble: chamber-vocal 
 permalink: /talma-brave
