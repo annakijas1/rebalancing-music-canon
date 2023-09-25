@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Mirrors
+title: Three Studies, Mirrors
 author: Vercoe, Elizabeth
 ensemble: solo  
 period: 1970-1979

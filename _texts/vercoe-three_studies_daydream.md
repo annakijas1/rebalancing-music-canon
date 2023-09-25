@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Daydream
+title: Three Studies, Daydream
 author: Vercoe, Elizabeth
 ensemble: solo  
 period: 1970-1979

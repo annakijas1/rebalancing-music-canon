@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Fugue
+title: Three Studies, Fugue
 author: Vercoe, Elizabeth
 ensemble: solo  
 period: 1970-1979
