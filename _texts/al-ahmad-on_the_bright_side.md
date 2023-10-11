@@ -3,11 +3,14 @@ layout: mei
 title: On the Bright Side
 author: Al-Ahmad, Lora 
 ensemble: chamber-instrument
+period: 2020-2029
 permalink: /al-ahmad-on-the-bright-side/
 document:
 ---
 
 In *On the Bright side: for trumpet and piano.* King Of Prussia: Theodore Presser Co. 2023.
+
+**Original Composition/Publication Date**: 2023
 
 **Instrumentation summary**: trumpet (1), piano (1)
 

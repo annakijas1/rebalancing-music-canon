@@ -10,6 +10,8 @@ document:
 
 In *mARImbA: solo for marimba & vibraphone (2021).* New York, New York: Aki Rhythm Press 2022.
 
+**Original Composition/Publication Date**: 2021
+
 **Instrumentation summary**: marimba, vibraphone
 
 **Instrumentation group**: pitched percussion

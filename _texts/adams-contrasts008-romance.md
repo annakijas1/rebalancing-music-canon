@@ -10,6 +10,8 @@ document: adams_contrasts008_romance.mei
 
 In *Contrasts: for piano: 2001.* New York, NY: American Composers Alliance, 2021.
 
+**Original Composition/Publication Date**: 2001
+
 **Instrumentation summary**: piano (1)
 
 **Instrumentation group**: keyboard

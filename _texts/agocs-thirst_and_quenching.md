@@ -10,6 +10,8 @@ document: agocs_thirst_and_quenching.mei
 
 In *Thirst and quenching: solo violin (2020).* Needham, Massachusetts: Kati Agócs Music, 2020.
 
+**Original Composition/Publication Date**: 2020
+
 **Instrumentation summary**: violin (1)
 
 **Instrumentation group**: strings 

@@ -10,6 +10,8 @@ document: abe_dream_of_the_cherry_blossom002.mei
 
 In *Dream of the cherry blossoms: für Marimba = for marimba.* Frankfurt: Musikverlag Zimmermann, 1984.
 
+**Original Composition/Publication Date**: 1984
+
 **Instrumentation summary**: marimba (1)
 
 **Instrumentation group**: pitched percussion

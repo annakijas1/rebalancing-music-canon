@@ -10,6 +10,8 @@ document: agnesi_sonata_in_g.mei
 
 In *Sonata in G, Allegro,* edited by Carolyn Britton. Bryn Mawr, PA: Hildegard Pub., 1998.
 
+**Original Composition/Publication Date**: unknown
+
 **Instrumentation summary**: piano (1)
 
 **Instrumentation group**: keyboard
