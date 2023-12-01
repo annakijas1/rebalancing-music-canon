@@ -3,10 +3,14 @@ layout: mei
 title: Under Water III. The Oyster  
 author: Ardovino, Lori
 ensemble: chamber-vocal 
+period: 2010-2019
 permalink: /ardovino-the-oyster/
+document: 
 ---
 
-In *Under water: narrator + clarinet + piano /.* Anniston, Alabama: Potenza Music, 2023.
+In *Under water: narrator + clarinet + piano.* Anniston, Alabama: Potenza Music, 2023.
+
+**Original Composition/Publication Date**: 2016
 
 **Instrumentation summary**: narrator (1), Bb clarinet (1), piano (1)  
 
