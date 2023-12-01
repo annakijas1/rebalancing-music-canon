@@ -4,7 +4,7 @@ title: Techno Etudes II, 3
 author: Tanaka, Karen 
 ensemble: solo
 permalink: /tanaka-techno-etudes-II-3/
-document: 
+document: tanaka_techno_etudes_II_003.mei
 ---
 
 In *Techno etudes II: for piano.* New York: Project Schott New York 2020.
