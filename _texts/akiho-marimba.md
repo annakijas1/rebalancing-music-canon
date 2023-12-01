@@ -1,11 +1,11 @@
 ---
-layout: mei
+layout: post
 title: mARImbA
 author: Akiho, Andy
 ensemble: chamber-instrument
 period: 2020-2029
 permalink: /akiho-marimba/
-document: 
+image: akiho-marimba.png
 ---
 
 In *mARImbA: solo for marimba & vibraphone (2021).* New York, New York: Aki Rhythm Press 2022.
