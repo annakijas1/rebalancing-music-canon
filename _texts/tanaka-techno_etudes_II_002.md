@@ -4,7 +4,7 @@ title: Techno Etudes II, 2 Color and Emotion Study
 author: Tanaka, Karen 
 ensemble: solo
 permalink: /tanaka-techno-etudes-II-2/
-document: tanaka_techno_etudes_II_002.mei
+document: 
 ---
 
 In *Techno etudes II: for piano.* New York: Project Schott New York 2020.
