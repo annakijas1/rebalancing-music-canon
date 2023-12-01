@@ -3,11 +3,14 @@ layout: mei
 title: African Dance 
 author: Bonds, Margaret
 ensemble: chamber-vocal
+period: 1950-1959
 permalink: /bonds-african-dance/
-document: 
+document: bonds-african_dance.mei
 ---
 
 In *African dance: for two voices and piano.* Bryn Mawr, Pennsylvania: Hildegard Publishing Company, 2022.
+
+**Original Composition/Publication Date**: 1953
 
 **Instrumentation summary**: voice (2), piano (1)
 
