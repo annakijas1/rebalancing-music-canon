@@ -3,11 +3,14 @@ layout: mei
 title: Parley for Winds IV. Heated Discussion  
 author: Ardovino, Lori
 ensemble: chamber-instrument 
+period: 2010-2019  
 permalink: /ardovino-heated-discussion/
-document: 
+document: ardovino-parley_for_winds_004_heated_discussion.mei
 ---
 
 In *Parley for winds: oboe + clarinet in B♭ + bassoon.* Anniston, Alabama: Potenza Music, 2022.
+
+**Original Composition/Publication Date**: 2017
 
 **Instrumentation summary**: oboe (1), Bb clarinet (1), bassoon (1) 
 

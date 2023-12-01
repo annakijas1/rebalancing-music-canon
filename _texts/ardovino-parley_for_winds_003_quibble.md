@@ -3,11 +3,14 @@ layout: mei
 title: Parley for Winds III. Quibble  
 author: Ardovino, Lori
 ensemble: chamber-instrument 
+period: 2010-2019  
 permalink: /ardovino-quibble/
-document: 
+document: ardovino-parley_for_winds_003_quibble.mei
 ---
 
 In *Parley for winds: oboe + clarinet in B♭ + bassoon.* Anniston, Alabama: Potenza Music, 2022.
+
+**Original Composition/Publication Date**: 2017
 
 **Instrumentation summary**: oboe (1), Bb clarinet (1), bassoon (1) 
 
