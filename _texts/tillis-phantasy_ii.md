@@ -1,10 +1,10 @@
 ---
 layout: mei
-title: Phantasy for viola and piano, mvt. I 
+title: Phantasy for viola and piano, mvt. II 
 author: Tillis, Frederick C.
 ensemble: chamber-instrument
-permalink: /tillis-phantasy-i/
-document: tillis_phantasy_i.mei
+permalink: /tillis-phantasy-ii/
+document: tillis_phantasy_ii.mei
 ---
 
 In *Phantasy for viola and piano.* New York, NY: American Composers Alliance Inc., 2020.
