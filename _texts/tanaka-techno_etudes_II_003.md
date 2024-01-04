@@ -3,11 +3,14 @@ layout: mei
 title: Techno Etudes II, 3
 author: Tanaka, Karen 
 ensemble: solo
+period: 2020-2029
 permalink: /tanaka-techno-etudes-II-3/
 document: 
 ---
 
 In *Techno etudes II: for piano.* New York: Project Schott New York, 2020.
+
+**Original Composition/Publication Date**: 2020
 
 **Instrumentation summary**: piano (1) 
 
