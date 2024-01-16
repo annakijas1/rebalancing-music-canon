@@ -3,7 +3,7 @@ layout: page
 title: Smith, Linda Catlin (1957-)
 category: incipits
 century: 20th
-permalink: /catlin-smith/
+permalink: /smith-l/
 ---
 
 *Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Linda_Catlin_Smith" target="_blank">https://en.wikipedia.org/wiki/Linda_Catlin_Smith</a>*
