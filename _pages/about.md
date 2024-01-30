@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 ## 2020-Ongoing
-The current project is focused on encoding musical incipits (initial melodic line of a composition or each movement) that can be used as a thematic index for locating compositions by women, people of color, and underrepresented composers. We are currently focusing on compositions available in the <a href="https://tischlibrary.tufts.edu/use-library/lilly-music-library" target="_blank">Lilly Music Library</a> collection at Tufts University.
+The current project is focused on encoding musical incipits (initial melodic line of a composition or each movement) that can be used as a thematic index for locating compositions by women, people of color, historically marginalized, and underrepresented composers. We are currently focusing on compositions available in the <a href="https://tischlibrary.tufts.edu/use-library/lilly-music-library" target="_blank">Lilly Music Library</a> collection at Tufts University.
 
 The incipits are transcribed and reviewed by student contributors (listed below) under the direction of music librarian, Anna Kijas (Head, Lilly Music Library). In addition to making works by underrepresented composers in our collection more visible and discoverable, the students are developing expertise in transcription and editing methods, as well as expanding their knowledge of a diverse music repertoire.
 
