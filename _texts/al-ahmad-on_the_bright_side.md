@@ -16,4 +16,4 @@ In *On the Bright side: for trumpet and piano.* King Of Prussia: Theodore Presse
 
 **Instrumentation group**: keyboard, brass
 
-**Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991019011582003851" target="_blank">Music Library Inquire @ Desk; MSC10060</a>
+**Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991019011582003851" target="_blank">Music Library Stacks M261.A43 O5 2023</a>
