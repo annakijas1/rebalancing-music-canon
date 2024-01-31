@@ -13,4 +13,4 @@ In *St. Paul's blues: for solo flute.* King Of Prussia, PA: Theodore Presser 202
 
 **Instrumentation group**: woodwinds
 
-**Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991019011681503851" target="_blank">Music Library Stacks Inquire @ Desk; MSC10073</a>
+**Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991019011681503851" target="_blank">Music Library Stacks M62.H35 S7 2023</a>
