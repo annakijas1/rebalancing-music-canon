@@ -2,7 +2,7 @@
 layout:mei
 title:Women have loved before as I love now
 author:Bonds, Margaret
-period:2020
+ensemble:chamber
 permalink:/Bonds-Women-have-loved-before-as/
 document:Bonds-Women have loved before as I love now.mei
 ---
