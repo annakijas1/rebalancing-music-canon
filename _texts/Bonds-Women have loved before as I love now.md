@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Women have loved before as I love now
+title:Women have loved before as I love now
 author:Bonds, Margaret
 ensemble:
 period:2020
