@@ -1,10 +1,10 @@
 ---
-layout:mei
-title:Women have loved before as I love now
-author:Bonds, Margaret
-ensemble:chamber
-permalink:/Bonds-Women-have-loved-before-as/
-document:Bonds-Women have loved before as I love now.mei
+layout: mei
+title: Women have loved before as I love now
+author: Bonds, Margaret
+ensemble: chamber
+permalink: /Bonds-Women-have-loved-before-as/
+document: Bonds-Women_have_loved_before_as_I_love_now.mei
 ---
 
 In *Six songs on poems by Edna St. Vincent Millay.* Bryn Mawr, Pennsylvania:  Hildegard Publishing Company., 2020.
