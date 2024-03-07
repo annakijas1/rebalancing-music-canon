@@ -1,13 +1,16 @@
 ---
-layout: mei
+layout: post
 title: Musica Spolia
 author: Balch, Katherine
 ensemble: chamber-instrument 
+period: 2020-2029
 permalink: /balch-musica-spolia/
-document: 
+document: balch-musica_spolia.png
 ---
 
 In *Musica spolia: version for flute, violin, percussion, and piano.* Mainz; London; Madrid; Paris; New York; Tokyo; Beijing: Schott 2022.
+
+**Original Composition/Publication Date**: 2021
 
 **Instrumentation summary**: flute (1), violin (1), percussion (misc.), piano (1) 
 
