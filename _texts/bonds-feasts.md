@@ -11,7 +11,7 @@ In *Six songs on poems by Edna St. Vincent Millay: for voice and piano* Bryn Maw
 
 **Original Composition/Publication Date**: 2020
 
-**Instrumentation summary**: medium (voice), piano
+**Instrumentation summary**: medium voice (1), piano (1)
 
 **Instrumentation group**: voice, keyboard 
 
