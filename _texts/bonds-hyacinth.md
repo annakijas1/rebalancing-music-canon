@@ -2,12 +2,12 @@
 layout: mei
 title: Hyacinth
 author: Bonds, Margaret
-period: 2020
+period: 2020-2029
 permalink: /Bonds-Hyacinth/
 document: Bonds_Hyacinth.mei
 ---
 
-In *Six songs on poems by Edna St. Vincent Millay : for voice and piano* Bryn Mawr, PA: Hildegard Publishing Company, 2020.
+In *Six songs on poems by Edna St. Vincent Millay: for voice and piano* Bryn Mawr, PA: Hildegard Publishing Company, 2020.
 
 **Original Composition/Publication Date**: 2020
 
