@@ -1,14 +1,16 @@
 ---
-layout: mei
+layout: post
 title: Three Cameos, II
 author: Coleridge-Taylor, Samuel
 ensemble: solo
 period: 1900-1909
 permalink: /coleridge-taylor-three-cameos-ii/
-document: 
+image: coleridge-taylor_three_cameos_II.png
 ---
 
 In *Three cameos: op. 56, for solo piano (1904).* Mainz; London; Madrid; Paris; New York; Tokyo; Beijing: Schott 2022.
+
+**Original Composition/Publication Date**: 1904
 
 **Instrumentation summary**: piano (1)
 
