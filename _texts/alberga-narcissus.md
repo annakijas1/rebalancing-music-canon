@@ -7,7 +7,7 @@ permalink: /alberga-narcissus/
 document: 
 ---
 
-In *Narcissus: violin concerto no. 2.* Herefordshire: Eleanor Alberga 2020.
+In *Narcissus: violin concerto no. 2.* Herefordshire: Eleanor Alberga, 2020.
 
 **Instrumentation summary**: flute, piccolo, clarinet in Bb, bass clarinet in Bb, trumpet in Bb, timpani, percussion (vibraphone), harp, piano, violin solo, violin I (div. a 2), violin II (div. a 3), viola, cello, bass 
 
