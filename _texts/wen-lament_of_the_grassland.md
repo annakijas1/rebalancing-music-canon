@@ -10,7 +10,7 @@ document: wen_lament_of_the_grassland.png
 
 In *Lament of the grassland: for string quartet (2019).* Luzern: Edition Musicale Suisse 2021.
 
-**Original Composition/Publication Date**: 2021
+**Original Composition/Publication Date**: 2019
 
 **Instrumentation summary**: violin I (1), violin II (1), viola (1), cello (1)
 
