@@ -5,10 +5,10 @@ author: Ince, Kamran
 ensemble: chamber-instrument 
 period: 1990-1999
 permalink: /ince-evil-eye-deflector/
-document: ince-evil_eye_deflector.png
+image: ince-evil_eye_deflector.png
 ---
 
-In *Evil eye deflector - Turkish rock: for chamber ensemble (1995).* New York, NY: Schott 2021.
+In *Evil Eye Deflector - Turkish Rock: For Chamber Ensemble (1995).* New York, NY: Schott 2021.
 
 **Original Composition/Publication Date**: 1995
 

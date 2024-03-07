@@ -5,7 +5,7 @@ author: Armer, Elinor
 ensemble: solo
 period: 2000-2009
 permalink: /armer-etude-quasi-cadenza/
-document: armer_etude_quasi_cadenza.png
+image: armer_etude_quasi_cadenza.png
 ---
 
 In *Etude quasi cadenza: for piano.* Verona, New Jersey: Subito Music Publishing 2022.

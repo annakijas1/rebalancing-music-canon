@@ -5,7 +5,7 @@ author: Wen, Deqing
 ensemble: chamber-instrument
 period: 2010-2019
 permalink: /wen-lament-of-the-grassland/
-document: wen_lament_of_the_grassland.png
+image: wen_lament_of_the_grassland.png
 ---
 
 In *Lament of the grassland: for string quartet (2019).* Luzern: Edition Musicale Suisse 2021.
