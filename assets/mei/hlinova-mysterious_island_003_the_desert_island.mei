@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m12lvxah">
+      <fileDesc xml:id="ff9xmxh">
+         <titleStmt xml:id="t7fz7cn">
+            <title>3. The Desert Island>
+               <titlePart>Opuštěný ostrov</titlePart>
+            </title>
+            <respStmt>
+               <persName role="composer">Karolína Hlinová </persName>
+               <persName role="transcriber">Jordan Good</persName>
+               <persName role="reviewer">Anna Kijas</persName>               
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pvlfm3x">
+            <date isodate="2024-03-15" type="encoding-date">2024-03-15</date>
+                         <publisher>Rebalancing the Music Canon</publisher>
+             <availability>
+                <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+             </availability>
+             <identifier>
+             <ref target="https://rebalancing-music-canon.com/"/>
+             </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eyt107">
+         <appInfo xml:id="a1y0lfan">
+            <application xml:id="a1te2b8i" isodate="2024-03-15T16:06:16" version="4.1.0-c482e35">
+               <name xml:id="naaorcl">Verovio</name>
+               <p xml:id="ptkxe9x">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1b3mihj">
+            <score xml:id="scj0h73">
+               <scoreDef xml:id="s1bl2a06">
+                  <pgHead xml:id="p1i6ujaa">
+
+                  </pgHead>
+                  <staffGrp xml:id="s1kp9t7e">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="l167i2ap">I </label>
+                        <labelAbbr xml:id="lwkgxry">I</labelAbbr>
+                        <instrDef xml:id="i1ifslar" midi.channel="0" midi.instrnum="74" midi.volume="78.00%" />
+                        <clef xml:id="c1c0noc8" shape="G" line="2" />
+                        <keySig xml:id="k15mnif4" sig="0" />
+                        <meterSig xml:id="m1y1w5pz" count="2" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1stwser">
+                  <measure xml:id="m1jjorqm" n="1">
+                     <staff xml:id="sgt91ko" n="1">
+                        <layer xml:id="l1ya1u57" n="1">
+                           <note xml:id="n1uqj8jb" dur.ppq="8" dur="2" oct="5" pname="d" stem.dir="down"/>
+                           <!--Need to adjust notehead shapes with unfilled square (Unicode 1D146)-->
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t1btmcmk" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="108.000000" mm="108.000000" mm.unit="4">
+                        <rend xml:id="r18qzw6w" fontweight="bold">Allegretto misterioso <rend xml:id="rf3hupc" glyph.auth="smufl"></rend> = 108</rend> </tempo>
+                     <dynam xml:id="d1fv0sec" place="below" staff="1" tstamp="1.000000" val="49" vgrp="425">p</dynam>
+                     <dir xml:id="d1q1a7d2" place="above" staff="1" tstamp="1.000000" vgrp="2070">
+                        <rend xml:id="rh3wzr5" fontstyle="italic">quasi improvisando </rend>
+                     </dir>
+                     <tie xml:id="tgj54qi" startid="#n1uqj8jb" endid="#n1jo1khk" />
+                  </measure>
+                  <measure xml:id="m1rueb1w" n="2">
+                     <staff xml:id="s49esuz" n="1">
+                        <layer xml:id="l18jlal7" n="1">
+                           <note xml:id="n1jo1khk" dur.ppq="8" dur="2" oct="5" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="t15xectg" startid="#n1jo1khk" endid="#nrnhibt" />
+                  </measure>
+                  <measure xml:id="mh90az8" n="3">
+                     <staff xml:id="sxz2j3p" n="1">
+                        <layer xml:id="l1ouapet" n="1">
+                           <note xml:id="nrnhibt" dur.ppq="8" dur="2" oct="5" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tbxmw51" startid="#nrnhibt" endid="#n1rnq8ii" />
+                  </measure>
+                  <measure xml:id="mfp00ev" n="4">
+                     <staff xml:id="smxnfgb" n="1">
+                        <layer xml:id="laq9p8o" n="1">
+                           <note xml:id="n1rnq8ii" dur.ppq="8" dur="2" oct="5" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1519cnq" n="5">
+                     <staff xml:id="sbg52em" n="1">
+                        <layer xml:id="l1gq6hvc" n="1">
+                           <note xml:id="nn9isuf" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                              <artic xml:id="a103tdua" artic="stacc" />
+                           </note>
+                           <rest xml:id="r1psyr7b" dur.ppq="4" dur="4" />
+                           <beam xml:id="b1rg092t">
+                              <note xml:id="n12seeja" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down">
+                                 <artic xml:id="aiaetey" artic="stacc" />
+                              </note>
+                              <note xml:id="nv8gvfh" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down">
+                                 <artic xml:id="a14jqsmu" artic="stacc" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1txy1vv" n="6">
+                     <staff xml:id="sg06y8f" n="1">
+                        <layer xml:id="l19n902o" n="1">
+                           <beam xml:id="bv27zct">
+                              <note xml:id="n1q3zumq" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                                 <artic xml:id="a1n06w7a" artic="stacc" />
+                              </note>
+                              <note xml:id="n169wot9" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="down">
+                                 <artic xml:id="awq0yh4" artic="stacc" />
+                              </note>
+                           </beam>
+                           <rest xml:id="r1icgh0l" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1kw0o01" n="7">
+                     <staff xml:id="sw8q9lk" n="1">
+                        <layer xml:id="l11bm5ru" n="1">
+                           <mRest xml:id="m1au41g3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1gn3vfp" n="8">
+                     <staff xml:id="s1vwqwv6" n="1">
+                        <layer xml:id="l1rrfq9w" n="1">
+                           <mRest xml:id="mun7m6j" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
