@@ -3,11 +3,14 @@ layout: mei
 title: St. Paul's Blues
 author: Hailstork, Adolphus
 ensemble: solo
+period: 2020-2029
 permalink: /hailstork-st-pauls-blues/
-document: 
+document: hailstork_st_pauls_blues.mei
 ---
 
 In *St. Paul's blues: for solo flute.* King Of Prussia, PA: Theodore Presser 2023.
+
+**Original Composition/Publication Date**: 2020
 
 **Instrumentation summary**: flute (1)
 
