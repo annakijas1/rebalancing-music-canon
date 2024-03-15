@@ -3,11 +3,14 @@ layout: mei
 title: Mysterious Island, III. The Desert Island / Opuštěný ostrov
 author: Hlinova, Karolina
 ensemble: chamber-instrument 
+period: 2020-2029
 permalink: /hlinova-the-desert-island/
-document: 
+document: hlinova-mysterious_island_003_the_desert_island.mei
 ---
 
 In *Mysterious island: für 3 Altblockflöten.* Münster, Germany: Edition Tre Fontane, 2021.
+
+**Original Composition/Publication Date**: 2021
 
 **Instrumentation summary**: alto recorder (3) 
 
