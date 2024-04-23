@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="mcmv83v">
+      <fileDesc xml:id="ffg3gg9">
+         <titleStmt xml:id="ts6a4e1">
+            <title>Here Alone Unknown</title>
+            <respStmt>
+               <persName role="composer">Marion Bauer</persName>
+               <persName role="lyricist">Conrad Aiken</persName>
+               <persName role="transcriber">Idil Kolabas</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="ps9es4k">
+            <date isodate="2024-04-10" type="encoding-date">2024-04-10</date>
+             <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1ilv417">
+         <appInfo xml:id="acly2kv">
+            <application xml:id="aw3z3ft" isodate="2024-04-23T09:40:52" version="4.1.0-c482e35">
+               <name xml:id="n1il4to0">Verovio</name>
+               <p xml:id="pbi1rf4">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1vnl7ex">
+            <score xml:id="s1ex4ncx">
+               <scoreDef xml:id="sm8w0m6">
+                  <pgHead xml:id="psn9opy">
+                     <rend xml:id="r4geusn" halign="center" valign="top"></rend>
+                     <rend xml:id="r1tu4q4w" halign="center" valign="top"></rend>
+                     <rend xml:id="r88c2jb" halign="right" valign="bottom">Marion Bauer
+</rend>
+                  </pgHead>
+                  <pgFoot xml:id="p1r9qltp">
+                     <rend xml:id="r2dhdvl"></rend>
+                  </pgFoot>
+                  <staffGrp xml:id="sl9ysz3">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l1drd44o">Voice</label>
+                        <labelAbbr xml:id="l9zkyi7">Vo.</labelAbbr>
+                        <instrDef xml:id="i3gh2bo" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="ceqal6v" shape="G" line="2" />
+                        <keySig xml:id="k1kfdqfd" sig="2f" />
+                        <meterSig xml:id="m1kkymit" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sujoje5">
+                  <pb xml:id="pb65ha" />
+                  <measure xml:id="m1jc5mgv" n="1">
+                     <staff xml:id="s22xuwu" n="1">
+                        <layer xml:id="lcrgcz2" n="1">
+                           <multiRest xml:id="m1w99rao" num="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1ntsxar" n="4">
+                     <staff xml:id="sz8dacs" n="1">
+                        <layer xml:id="ld6rk8p" n="1">
+                           <rest xml:id="r1h5lynu" dur.ppq="2" dur="4" />
+                           <note xml:id="n1hdlcnu" dots="1" dur.ppq="3" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                              <verse xml:id="vwxizpw" n="1">
+                                 <syl xml:id="s1vwt2di" con="s" wordpos="s">Here</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n155a3fy" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v1lzau98" n="1">
+                                 <syl xml:id="s1gqys60" con="d" wordpos="i">a</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="s1qnsf00" />
+                  <measure xml:id="m15v5z5j" n="5">
+                     <staff xml:id="ss44zcu" n="1">
+                        <layer xml:id="l1whewgx" n="1">
+                           <note xml:id="n1t55a6o" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                              <verse xml:id="v1ldo3zy" n="1">
+                                 <syl xml:id="s8l99x" con="s" wordpos="t">lone</syl>
+                              </verse>
+                           </note>
+                           <rest xml:id="r1g8jal6" dur.ppq="1" dur="8" />
+                           <note xml:id="nen6hqn" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="v137l8qk" n="1">
+                                 <syl xml:id="sw2bc9x" con="d" wordpos="i">un</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nutj5s" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v1dvbtmy" n="1">
+                                 <syl xml:id="s1p4w77m" con="u" wordpos="t">known</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="ss6dzo6" startid="#nutj5s" endid="#nt27k9r" />
+                  </measure>
+                  <measure xml:id="met6ohi" n="6">
+                     <staff xml:id="s1yrcyzu" n="1">
+                        <layer xml:id="l9xl4zc" n="1">
+                           <note xml:id="nt27k9r" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up" />
+                           <rest xml:id="r9r4l3v" dur.ppq="1" dur="8" />
+                           <note xml:id="n1shhf8v" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                              <verse xml:id="v107x3tg" n="1">
+                                 <syl xml:id="sv2aua5" con="s" wordpos="s">in</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n1ff23cr" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                              <verse xml:id="v2awdk2" n="1">
+                                 <syl xml:id="s1j1ozn5" con="s" wordpos="s">the</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mgzfdrx" n="7">
+                     <staff xml:id="s1bi1bst" n="1">
+                        <layer xml:id="l1xq4k1d" n="1">
+                           <note xml:id="nrzlfoy" dur.ppq="4" dur="2" oct="5" pname="d" stem.dir="down">
+                              <verse xml:id="v1lgj2gl" n="1">
+                                 <syl xml:id="sekvr4g" con="d" wordpos="i">dark</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="njvp6f5" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down">
+                              <verse xml:id="vtbvz0h" n="1">
+                                 <syl xml:id="s1v8pwve" con="u" wordpos="t">ness</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="s1rsjwey" startid="#njvp6f5" endid="#nu7m2x7" />
+                  </measure>
+                  <measure xml:id="m101mrsg" n="8">
+                     <staff xml:id="s1h2e5d7" n="1">
+                        <layer xml:id="l1unxpde" n="1">
+                           <note xml:id="nu7m2x7" dur.ppq="2" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <space xml:id="s1qqtev8" dur.ppq="1" dur="8" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
