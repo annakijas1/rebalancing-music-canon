@@ -1,13 +1,16 @@
 ---
 layout: mei
-title: Lad and lass
+title: How Doth the Little Crocodile
 author: Bauer, Marion
 ensemble: solo 
-permalink: /bauer-lad-and-lass/
-document: bauer_lad_and_lass.mei
+period: 1920-1929
+permalink: /bauer-little-crocodile/
+document: bauer_05_howdoththelittlecrocodile.mei
 ---
 
 In *Six Songs*, edited by Peggy Holloway. Bryn Mawr, PA: Hildegard Publishing Company, 2001.
+
+**Original Composition/Publication Date**: 1928
 
 **Instrumentation summary**: voice (1)
 

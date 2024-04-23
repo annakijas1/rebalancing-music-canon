@@ -3,11 +3,14 @@ layout: mei
 title: My faun
 author: Bauer, Marion
 ensemble: solo
+period: 1910-1919
 permalink: /bauer-my_faun/
-document: bauer_my_faun.mei
+document: bauer_02_my_faun.mei
 ---
 
 In *Six Songs*, edited by Peggy Holloway. Bryn Mawr, PA: Hildegard Publishing Company, 2001.
+
+**Original Composition/Publication Date**: 1919
 
 **Instrumentation summary**: voice (1)
 
