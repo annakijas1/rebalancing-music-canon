@@ -4,7 +4,7 @@ title: The Day Before
 author: Albert, Adrienne
 ensemble: chamber-instrument
 permalink: /albert-the-day-before/
-document:
+document: albert_the_day_before.mei
 ---
 
 In *The day before: for alto flute and piano.* Los Angeles, California: Kenter Canyon Music 2022.
