@@ -5,7 +5,7 @@ author: Tabakova, Dobrinka
 ensemble: solo
 period: 1990-1999
 permalink: /tabakova-pirin-ii/
-image: tabakova-pirin_002.mei
+image: tabakova_pirin_002.mei
 ---
 
 In *Pirin: suite for solo viola.* New York, New York: PSNY; London, England: Valonius Press 2022.
