@@ -9,7 +9,7 @@ permalink: /hlinova/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Hlinova, Karolina" %}
+      {% if item.author == "Hlinová, Karolína" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
