@@ -5,7 +5,7 @@ author: Bliss, Marilyn
 ensemble: chamber-instrument 
 period: 1980-1989
 permalink: /bliss-blue-dawn/
-document: 
+document: bliss_blue_dawn.mei
 ---
 
 In *Blue dawn: for C flute or native American flute and violoncello (1998).* Bloomington, IN: JP Zalo Publications, 2022.
