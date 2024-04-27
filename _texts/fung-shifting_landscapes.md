@@ -5,7 +5,7 @@ author: Fung, Vivian
 ensemble: chamber-instrument 
 period: 2010-2019
 permalink: /fung-shifting-landscapes/
-document: 
+document: fung_shifting_landscapes.mei
 ---
 
 In *Shifting landscapes: for violin, viola, cello, and piano (2018).* Brooklyn: Vivian Fung Music: Bill Holab Music, 2021.
