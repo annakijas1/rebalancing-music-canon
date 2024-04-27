@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, 1. Générique (et Fin)
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-generique/
-document: 
+document: tailleferre_memoire_d_une_bergere_001_generique.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.
