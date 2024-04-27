@@ -4,7 +4,7 @@ title: From the Summit of Mount Fuji
 author: Ware, Lawren Brianna
 ensemble: solo
 permalink: /ware-from-the-summit-of-mount-fuji/
-document: 
+document: ware_from_the_summit_of_mount_fuji.mei
 ---
 
 In *From the summit of Mount Fuji: for piano solo.* United States: B. Ware Works Publishing, 2023.
