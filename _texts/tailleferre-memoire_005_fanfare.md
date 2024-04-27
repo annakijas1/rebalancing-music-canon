@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, V. Fanfare
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-fanfare/
-document: 
+document: tailleferre_memoire_d_une_bergere_005_fanfare.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.

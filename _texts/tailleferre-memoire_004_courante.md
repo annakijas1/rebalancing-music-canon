@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, IV. Courante
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-courante/
-document: 
+document: tailleferre_memoire_d_une_bergere_004_courante.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.
