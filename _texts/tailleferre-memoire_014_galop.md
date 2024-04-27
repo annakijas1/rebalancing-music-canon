@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, XIV. Galop
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-galop/
-document: 
+document: tailleferre_memoire_d_une_bergere_014_galop.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.
