@@ -1,10 +1,10 @@
 ---
-layout: mei
+layout: post
 title: Two Impromptus, I.
 author: Kay, Ulysses
 ensemble: solo
 permalink: /kay-two-impromptus-i/
-document: 
+image: kay_two_impromptus_i.png
 ---
 
 In *Two impromptus for solo piano.* New York, New York: Carl Fischer, 2021.
