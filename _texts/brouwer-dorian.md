@@ -4,7 +4,7 @@ title: Dorian, it is too late - in memoriam Oscar Wilde
 author: Brouwer, Leo
 ensemble: solo   
 permalink: /brouwer-dorian/
-document: 
+image: brouwer_dorian.png
 ---
    
 In *Dorian, it is too late - in memoriam Oscar Wilde: for guitar.* Havana, Cuba: Ediciones Espiral Eterna, 2021.
