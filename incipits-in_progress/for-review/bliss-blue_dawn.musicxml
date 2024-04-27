@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Marilyn Bliss</creator>
     <encoding>
-      <software>MuseScore 4.1.1</software>
-      <encoding-date>2023-08-29</encoding-date>
+      <software>MuseScore 4.2.1</software>
+      <encoding-date>2024-04-27</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -37,6 +37,31 @@
         <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
@@ -84,9 +109,9 @@ Flute</part-name>
         <system-layout>
           <system-margins>
             <left-margin>72.90</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
-          <top-system-distance>197.63</top-system-distance>
+          <top-system-distance>186.34</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -108,6 +133,18 @@ Flute</part-name>
         </attributes>
       <direction placement="above">
         <direction-type>
+          <words relative-y="20.00" font-weight="bold" font-size="12">Flowing, but in rhythm
+</words>
+          <words>(</words>
+          </direction-type>
+        <direction-type>
+          <metronome parentheses="no" relative-y="20.00">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>66</per-minute>
+            </metronome>
+          </direction-type>
+        <direction-type>
+          <words relative-y="20.00" font-weight="bold" font-size="12">-69)</words>
           </direction-type>
         <sound tempo="66"/>
         </direction>
@@ -138,7 +175,7 @@ Flute</part-name>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="5" width="197.17">
+    <measure number="5" width="187.91">
       <direction placement="below">
         <direction-type>
           <dynamics default-x="5.32" default-y="-40.00" relative-x="-8.70" relative-y="-25.00">
@@ -157,7 +194,7 @@ Flute</part-name>
         <type>eighth</type>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="26.60" default-y="-30.00">
@@ -172,7 +209,7 @@ Flute</part-name>
         <beam number="1">begin</beam>
         <notations>
           <slur type="stop" number="1"/>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="53.71" default-y="-20.00">
@@ -191,7 +228,7 @@ Flute</part-name>
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="80.31" default-y="-20.00">
+      <note default-x="78.26" default-y="-20.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -204,10 +241,10 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
-      <note default-x="114.03" default-y="-30.00">
+      <note default-x="109.38" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -219,7 +256,7 @@ Flute</part-name>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
         </note>
-      <note default-x="135.53" default-y="-20.00">
+      <note default-x="130.88" default-y="-20.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -234,7 +271,7 @@ Flute</part-name>
           </notations>
         </note>
       </measure>
-    <measure number="6" width="240.36">
+    <measure number="6" width="228.48">
       <note default-x="13.00" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -245,7 +282,7 @@ Flute</part-name>
         <type>eighth</type>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="50.68" default-y="-20.00">
@@ -260,7 +297,7 @@ Flute</part-name>
         <accidental>flat</accidental>
         <stem>down</stem>
         </note>
-      <note default-x="96.27" default-y="-15.00">
+      <note default-x="92.76" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -272,7 +309,7 @@ Flute</part-name>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
-      <note default-x="116.54" default-y="-10.00">
+      <note default-x="111.46" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -292,7 +329,7 @@ Flute</part-name>
           <wedge type="crescendo" number="1" default-y="-60.00" relative-x="27.06"/>
           </direction-type>
         </direction>
-      <note default-x="134.03" default-y="5.00">
+      <note default-x="128.96" default-y="5.00">
         <grace slash="yes"/>
         <pitch>
           <step>G</step>
@@ -302,10 +339,10 @@ Flute</part-name>
         <type>eighth</type>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
-      <note default-x="150.36" default-y="-15.00">
+      <note default-x="145.28" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -317,10 +354,10 @@ Flute</part-name>
         <stem>down</stem>
         <notations>
           <slur type="stop" number="1"/>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
-      <note default-x="208.16" default-y="-10.00">
+      <note default-x="198.63" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -339,7 +376,7 @@ Flute</part-name>
           </direction-type>
         </direction>
       </measure>
-    <measure number="7" width="307.40">
+    <measure number="7" width="341.07">
       <direction placement="below">
         <direction-type>
           <wedge type="diminuendo" number="1" default-y="-58.77" relative-x="9.84"/>
@@ -356,7 +393,7 @@ Flute</part-name>
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <direction placement="below">
@@ -364,7 +401,7 @@ Flute</part-name>
           <wedge type="stop" number="1" relative-x="9.84"/>
           </direction-type>
         </direction>
-      <note default-x="51.00" default-y="-10.00">
+      <note default-x="48.07" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -375,7 +412,7 @@ Flute</part-name>
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="68.49" default-y="-15.00">
+      <note default-x="65.57" default-y="-15.00">
         <grace slash="yes"/>
         <pitch>
           <step>C</step>
@@ -386,7 +423,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="81.09" default-y="-10.00">
+      <note default-x="78.16" default-y="-10.00">
         <grace slash="yes"/>
         <pitch>
           <step>D</step>
@@ -397,7 +434,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="97.42" default-y="-15.00">
+      <note default-x="94.49" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -409,7 +446,7 @@ Flute</part-name>
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="145.58" default-y="-20.00">
+      <note default-x="138.94" default-y="-20.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -423,7 +460,7 @@ Flute</part-name>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
         </note>
-      <note default-x="163.08" default-y="-15.00">
+      <note default-x="156.44" default-y="-15.00">
         <grace slash="yes"/>
         <pitch>
           <step>C</step>
@@ -437,20 +474,19 @@ Flute</part-name>
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="183.21" default-y="-25.00">
+      <note default-x="169.04" default-y="-20.00">
         <grace slash="yes"/>
         <pitch>
-          <step>A</step>
-          <alter>1</alter>
+          <step>B</step>
+          <alter>-1</alter>
           <octave>4</octave>
           </pitch>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
         <stem>up</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="199.53" default-y="-15.00">
+      <note default-x="185.36" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -461,12 +497,9 @@ Flute</part-name>
         <stem>down</stem>
         </note>
       <backup>
-        <duration>64</duration>
-        </backup>
-      <forward>
         <duration>32</duration>
-        </forward>
-      <note default-x="199.53" default-y="-15.00">
+        </backup>
+      <note default-x="185.36" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -477,13 +510,13 @@ Flute</part-name>
         <stem>none</stem>
         <notehead>none</notehead>
         <notations>
-          <slide line-type="solid" number="1" type="start" default-y="-17.88"/>
+          <slide line-type="solid" number="1" type="start" default-y="-16.83"/>
           </notations>
         </note>
       <forward>
         <duration>20</duration>
         </forward>
-      <note default-x="277.61" default-y="-40.00">
+      <note default-x="308.10" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -525,7 +558,7 @@ Flute</part-name>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="78.90" default-y="-30.00">
@@ -572,7 +605,7 @@ Flute</part-name>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="182.91" default-y="-15.00">
@@ -607,11 +640,8 @@ Flute</part-name>
           </notations>
         </note>
       <backup>
-        <duration>64</duration>
+        <duration>16</duration>
         </backup>
-      <forward>
-        <duration>48</duration>
-        </forward>
       <note default-x="221.30" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -668,7 +698,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="25.56" default-y="-15.00">
@@ -711,7 +741,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="93.69" default-y="-10.00">
@@ -756,7 +786,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="23.65" default-y="-5.00">
@@ -799,7 +829,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="91.79" default-y="0.00">
@@ -844,7 +874,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" orientation="over" placement="above" number="1"/>
           </notations>
         </note>
       <note default-x="23.65" default-y="-15.00">
@@ -882,7 +912,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="91.79" default-y="-20.00">
@@ -926,7 +956,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="25.56" default-y="-30.00">
@@ -965,7 +995,7 @@ Flute</part-name>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="102.21" default-y="-10.00">
