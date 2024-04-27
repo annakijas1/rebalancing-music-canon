@@ -5,7 +5,7 @@ author: Smith, Gabriella
 ensemble: chamber-instrument
 period: 2010-2019
 permalink: /smith-riprap/
-document: 
+document: smith_riprap.mei
 ---
 
 In *Riprap: for marimba and string quartet, 2013.* Nashville, Tennessee: Modern Works 2019.
