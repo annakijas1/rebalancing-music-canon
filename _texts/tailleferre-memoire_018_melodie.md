@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, XVIII. Mélodie
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-melodie/ 
-document: 
+document: tailleferre_memoire_d_une_bergere_018_melodie.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.

@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, XXII. Valse Musette
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-valse-musette/ 
-document: 
+document: tailleferre_memoire_d_une_bergere_022_valse_musette.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.

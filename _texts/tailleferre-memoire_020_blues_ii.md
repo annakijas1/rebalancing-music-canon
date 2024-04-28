@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, XX. Blues II
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-blues-ii/ 
-document: 
+document: tailleferre_memoire_d_une_bergere_020_blues_ii.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.

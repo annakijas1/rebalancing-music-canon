@@ -4,7 +4,7 @@ title: Mémoire d'une Bergère, XXIV. Air Triomphal
 author: Tailleferre, Germaine
 ensemble: solo
 permalink: /tailleferre-air-triomphal/ 
-document: 
+document: tailleferre_memoire_d_une_bergere_024_air_triomphal.mei
 ---
 
 In *Mémoire d'une bergère: pour piano.* Lagny/Marne, France: Musik Fabrik, 2023.
