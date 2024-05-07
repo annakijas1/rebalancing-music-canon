@@ -3,6 +3,7 @@ layout: mei
 title: Au bal, op. 15, no. 2
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1880-1889
 permalink: /backer-grondahl-15.2/
 document: backer-grondahl_au_bal_op15_no2.mei
 ---

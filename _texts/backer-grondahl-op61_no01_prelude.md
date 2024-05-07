@@ -3,6 +3,7 @@ layout: mei
 title: Prélude, op. 61, no. 1
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1900-1909
 permalink: /backer-grondahl-61.1/
 document: backer-grondahl_prelude_op61_no1.mei
 ---

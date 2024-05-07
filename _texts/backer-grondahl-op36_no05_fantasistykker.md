@@ -3,6 +3,7 @@ layout: mei
 title: Fantasistykker, op. 36, no. 5 - Ballade
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-36.5/
 document: backer-grondahl_fantasistykker_op36_no5.mei
 ---

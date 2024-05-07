@@ -3,6 +3,7 @@ layout: mei
 title: Etude de concert, op. 11, no. 6
 author: Backer-Grøndahl, Agathe
 ensemble: solo 
+period: 1880-1889
 permalink: /backer-grondahl-11.6/
 document: backer-grondahl_etude_de_concert_op11_no6.mei
 ---

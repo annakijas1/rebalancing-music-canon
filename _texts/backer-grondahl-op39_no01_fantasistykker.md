@@ -3,6 +3,7 @@ layout: mei
 title: Fantasistykker, op. 39, no. 1 - Souvenir
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-39.1/
 document: backer-grondahl_fantasistykker_op39_no1.mei
 ---

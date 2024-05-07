@@ -3,6 +3,7 @@ layout: mei
 title: Fantasistykker, op. 39, no. 5 - I baaden
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-39.5/
 document: backer-grondahl_fantasistykker_op39_no5.mei
 ---

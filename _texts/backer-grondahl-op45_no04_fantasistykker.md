@@ -3,6 +3,7 @@ layout: mei
 title: Fantasistykker, op. 45, no. 4 - Gyngende
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-45.4/
 document: backer-grondahl_fantasistykker_op45_no4.mei
 ---

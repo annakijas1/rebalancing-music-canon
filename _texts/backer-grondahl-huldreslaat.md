@@ -3,6 +3,7 @@ layout: mei
 title: Huldreslaat
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1880-1889
 permalink: /backer-grondahl-huldreslaat/
 document: backer-grondahl_huldreslaat.mei
 ---

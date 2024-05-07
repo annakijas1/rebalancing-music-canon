@@ -3,6 +3,7 @@ layout: mei
 title: Gavotte, op. 20, no. 3
 author: Backer-Grøndahl, Agathe
 ensemble: solo 
+period: 1880-1889
 permalink: /backer-grondahl-29.3/
 document: backer-grondahl_gavotte_op20_no3.mei
 ---

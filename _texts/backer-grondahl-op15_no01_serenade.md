@@ -3,6 +3,7 @@ layout: mei
 title: Sérénade, op. 15, no. 1
 author: Backer-Grøndahl, Agathe
 ensemble: solo 
+period: 1880-1889
 permalink: /backer-grondahl-15.1/
 document: backer-grondahl_serenade_op15_no1.mei
 ---

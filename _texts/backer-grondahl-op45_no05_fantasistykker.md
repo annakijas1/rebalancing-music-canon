@@ -3,6 +3,7 @@ layout: mei
 title: Fantasistykker, op. 45, no. 5 - Vals
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-45.5/
 document: backer-grondahl_fantasistykker_op45_no5.mei
 ---

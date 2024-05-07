@@ -3,6 +3,7 @@ layout: mei
 title: Etude de concert, op. 47, no. 2
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1900-1909
 permalink: /backer-grondahl-47.2/
 document: backer-grondahl_etude_de_concert_op47_no02.mei
 ---

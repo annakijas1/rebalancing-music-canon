@@ -3,6 +3,7 @@ layout: mei
 title: Etude, op. 32, no. 3
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-32.3/
 document: backer-grondahl_etude_de_concert_op32_no3.mei
 ---

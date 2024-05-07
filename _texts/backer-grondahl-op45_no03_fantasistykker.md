@@ -3,6 +3,7 @@ layout: mei
 title: Fantasistykker, op. 45, no. 3 - Sommervise
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-45.3/
 document: backer-grondahl_fantasistykker_op45_no3.mei
 ---

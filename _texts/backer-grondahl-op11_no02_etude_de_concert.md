@@ -3,6 +3,7 @@ layout: mei
 title: Etude de concert, op. 11, no. 2
 author: Backer-Grøndahl, Agathe
 ensemble: solo 
+period: 1880-1889
 permalink: /backer-grondahl-11.2/
 document: backer-grondahl_etude_de_concert_op11_no2.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Fantasistykker, op. 36, no. 1 - Klage
 author: Backer-Grøndahl, Agathe 
 ensemble: solo
+period: 1890-1899
 permalink: /backer-grondahl-36.1/
 document: backer-grondahl_fantasistykker_op36_no1.mei
 ---

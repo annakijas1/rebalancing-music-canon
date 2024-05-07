@@ -3,6 +3,7 @@ layout: mei
 title: Prélude, op. 20, no. 1
 author: Backer-Grøndahl, Agathe
 ensemble: solo
+period: 1880-1889
 permalink: /backer-grondahl-20.1/
 document: backer-grondahl_prelude_op20_no1.mei
 ---
