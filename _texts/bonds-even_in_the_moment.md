@@ -2,7 +2,7 @@
 layout: mei
 title: Even in the moment
 author: Bonds, Margaret
-ensemble: voice and piano
+ensemble: chamber-vocal
 period: unknown
 permalink: /bonds-even-in-the-moment/
 document: bonds_even_in_the_moment.mei

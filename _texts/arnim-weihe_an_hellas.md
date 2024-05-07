@@ -3,6 +3,7 @@ layout: mei
 title: Weihe an Hellas
 author: Arnim, Bettina von
 ensemble: chamber-vocal 
+period: unknown
 permalink: /arnim-weihe_an_hellas/
 document: arnim_weihe_an_hellas.mei
 ---

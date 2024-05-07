@@ -10,8 +10,6 @@ image: ince-evil_eye_deflector.png
 
 In *Evil Eye Deflector - Turkish Rock: For Chamber Ensemble (1995).* New York, NY: Schott 2021.
 
-**Original Composition/Publication Date**: 1995
-
 **Instrumentation summary**: piccolo, Eb clarinet, oboe, alto saxophone, bassoon, baritone saxophone, trumpet, french horn, trombone, drum set, synth, piano, electric bass, violin I, violin II, viola, cello, bass
 
 **Instrumentation group**: woodwinds, brass, percussion, keyboard, strings, electronics 

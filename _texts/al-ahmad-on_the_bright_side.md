@@ -10,8 +10,6 @@ document:
 
 In *On the Bright side: for trumpet and piano.* King Of Prussia: Theodore Presser Co. 2023.
 
-**Original Composition/Publication Date**: 2023
-
 **Instrumentation summary**: trumpet (1), piano (1)
 
 **Instrumentation group**: keyboard, brass

@@ -1,8 +1,9 @@
 ---
 layout: mei
-title: Six songs on poems, 3. I Know My Mind
+title: I Know My Mind
 author: Bonds, Margaret
 ensemble: chamber-vocal
+period: unknown
 permalink: /bonds-i-know-my-mind/
 document: bonds_i_know_my_mind.mei 
 ---

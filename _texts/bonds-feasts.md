@@ -2,14 +2,13 @@
 layout: mei
 title: Feasts
 author: Bonds, Margaret
-period: 2020-2029
+ensemble: chamber-vocal
+period: unknown
 permalink: /bonds-feasts/
 document: bonds_feasts.mei
 ---
 
-In *Six songs on poems by Edna St. Vincent Millay: for voice and piano* Bryn Mawr, PA: Hildegard Publishing Company, 2020.
-
-**Original Composition/Publication Date**: 2020
+In *Six songs on poems by Edna St. Vincent Millay: for voice and piano.* Bryn Mawr, PA: Hildegard Publishing Company, 2020.
 
 **Instrumentation summary**: medium voice (1), piano (1)
 

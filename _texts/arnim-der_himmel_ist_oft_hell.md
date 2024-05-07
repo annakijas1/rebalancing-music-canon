@@ -3,6 +3,7 @@ layout: mei
 title: Der Himmel ist oft hell
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-der_himmel_ist_oft_hell/
 document: arnim_der_himmel_ist_oft_hell.mei
 ---

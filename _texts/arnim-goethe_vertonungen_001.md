@@ -3,6 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, Ach neige, du Schmerzenreiche (aus Faust)
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-goethe-vertonungen-ach-neige/
 document: arnim_goethe_vertonungen_001.mei
 ---

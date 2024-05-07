@@ -3,6 +3,7 @@ layout: mei
 title: Zu dir, mein Herzenssehnen
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-zu_dir_mein_herzenssehnen/
 document: arnim_zu_dir_mein_herzenssehnen.mei
 ---

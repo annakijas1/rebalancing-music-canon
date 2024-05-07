@@ -10,8 +10,6 @@ document: bauer_05_howdoththelittlecrocodile.mei
 
 In *Six Songs*, edited by Peggy Holloway. Bryn Mawr, PA: Hildegard Publishing Company, 2001.
 
-**Original Composition/Publication Date**: 1928
-
 **Instrumentation summary**: voice (1)
 
 **Instrumentation group**: voice 

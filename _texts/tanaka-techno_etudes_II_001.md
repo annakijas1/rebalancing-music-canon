@@ -10,8 +10,6 @@ document: tanaka_techno_etudes_II_001.mei
 
 In *Techno etudes II: for piano.* New York: Project Schott New York, 2020.
 
-**Original Composition/Publication Date**: 2020
-
 **Instrumentation summary**: piano (1) 
 
 **Instrumentation group**: keyboard

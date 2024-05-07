@@ -10,8 +10,6 @@ document: adams_fms_003_for_you_there_is_no_song.mei
 
 In *Five Millay songs: five songs on texts of Edna St. Vincent Millay: for high voice and piano.* Madison, Ohio: H. Carl Music, 1977.
 
-**Original Composition/Publication Date**: 1977
-
 **Instrumentation summary**: high voice (1), piano (1)
 
 **Instrumentation group**: voice, piano

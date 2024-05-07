@@ -10,8 +10,6 @@ document: tabakova_pirin_001.mei
 
 In *Pirin: suite for solo viola.* New York, New York: PSNY; London, England: Valonius Press 2022.
 
-**Original Composition/Publication Date**: 1999
-
 **Instrumentation summary**: viola (1) 
 
 **Instrumentation group**: strings

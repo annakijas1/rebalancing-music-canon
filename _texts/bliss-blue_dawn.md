@@ -3,7 +3,7 @@ layout: mei
 title: Blue Dawn 
 author: Bliss, Marilyn
 ensemble: chamber-instrument 
-period: 1980-1989
+period: 1990-1999
 permalink: /bliss-blue-dawn/
 document: bliss_blue_dawn.mei
 ---

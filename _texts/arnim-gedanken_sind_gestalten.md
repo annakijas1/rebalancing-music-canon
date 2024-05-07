@@ -2,7 +2,8 @@
 layout: mei
 title: Gedanken sind Gestalten
 author: Arnim, Bettina von
-ensemble: chamber-vocal
+ensemble: chamber-vocal 
+period: unknown
 permalink: /arnim-gedanken_sind_gestalten/
 document: arnim_gedanken_sind_gestalten.mei
 ---

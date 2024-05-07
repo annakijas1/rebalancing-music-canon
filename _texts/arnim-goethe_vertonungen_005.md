@@ -3,6 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, Suleika
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-goethe-vertonungen-suleika/
 document: arnim_goethe_vertonungen_005.mei
 ---

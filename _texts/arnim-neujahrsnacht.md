@@ -3,6 +3,7 @@ layout: mei
 title: Neujahrsnacht
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-neujahrsnacht/
 document: arnim_neujahrsnacht.mei
 ---

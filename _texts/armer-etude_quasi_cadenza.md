@@ -10,8 +10,6 @@ image: armer_etude_quasi_cadenza.png
 
 In *Etude quasi cadenza: for piano.* Verona, New Jersey: Subito Music Publishing 2022.
 
-**Original Composition/Publication Date**: 2006
-
 **Instrumentation summary**: piano (1)
 
 **Instrumentation group**: keyboard

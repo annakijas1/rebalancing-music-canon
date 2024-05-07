@@ -3,6 +3,7 @@ layout: mei
 title: Die dunkle Nacht
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-die_dunkle_nacht/
 document: arnim_die_dunkle_nacht.mei
 ---

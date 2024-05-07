@@ -3,6 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, Wanderers Nachtlied
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-goethe-vertonungen-wanderers-nachtlied/
 document: arnim_goethe_vertonungen_004.mei
 ---

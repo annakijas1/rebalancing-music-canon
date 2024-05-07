@@ -3,14 +3,12 @@ layout: mei
 title: Sonata in G, Allegro
 author: Agnesi, Maria Teresa
 ensemble: solo 
-period: 1760-1769
+period: unknown
 permalink: /agnesi-sonata-g/
 document: agnesi_sonata_in_g.mei
 ---
 
 In *Sonata in G, Allegro,* edited by Carolyn Britton. Bryn Mawr, PA: Hildegard Pub., 1998.
-
-**Original Composition/Publication Date**: unknown
 
 **Instrumentation summary**: piano (1)
 

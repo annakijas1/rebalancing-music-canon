@@ -10,8 +10,6 @@ document: bauer_06_herealoneunknown.mei
 
 In *Six Songs*, edited by Peggy Holloway. Bryn Mawr, PA: Hildegard Publishing Company, 2001.
 
-**Original Composition/Publication Date**: 1950
-
 **Instrumentation summary**: voice (1)
 
 **Instrumentation group**: voice 

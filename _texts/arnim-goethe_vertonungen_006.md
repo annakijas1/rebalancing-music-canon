@@ -3,6 +3,7 @@ layout: mei
 title: Goethe-Vertonungen, An Luna
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-goethe-vertonungen-an-luna/
 document: arnim_goethe_vertonungen_006.mei
 ---

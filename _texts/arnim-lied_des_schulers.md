@@ -3,6 +3,7 @@ layout: mei
 title: Lied des Schülers
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-lied-des-schulers/
 document: arnim_lied_des_schulers.mei
 ---

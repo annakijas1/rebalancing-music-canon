@@ -3,6 +3,7 @@ layout: mei
 title: Hafis
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-hafis/
 document: arnim_hafis.mei
 ---

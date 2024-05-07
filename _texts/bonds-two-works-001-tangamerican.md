@@ -3,6 +3,7 @@ layout: mei
 title: Two Works for Solo Piano, Tangamerican
 author: Bonds, Margaret
 ensemble: solo
+period: unknown
 permalink: /bonds-two-works-tangamerican/
 document: bonds_two_works_for_solo_piano_tangamerican.mei
 ---

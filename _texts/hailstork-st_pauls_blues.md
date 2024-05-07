@@ -10,8 +10,6 @@ document: hailstork_st_pauls_blues.mei
 
 In *St. Paul's blues: for solo flute.* King Of Prussia, PA: Theodore Presser 2023.
 
-**Original Composition/Publication Date**: 2020
-
 **Instrumentation summary**: flute (1)
 
 **Instrumentation group**: woodwinds

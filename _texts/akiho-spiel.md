@@ -10,8 +10,6 @@ image: akiho-spiel.png
 
 In *Spiel: solo for glockenspiel (2013, rev. 2020).* New York, New York: Aki Rhythm Press 2022.
 
-**Original Composition/Publication Date**: 2013
-
 **Instrumentation summary**: glockenspiel (1)
 
 **Instrumentation group**: pitched percussion

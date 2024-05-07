@@ -9,8 +9,6 @@ document: adams_lamour_eternel003.mei
 
 In *L'amour éternel: for flute and piano.* New York, NY: American Composers Alliance Inc., 2020.
 
-**Original Composition/Publication Date**: 2012
-
 **Instrumentation summary**: flute (1), piano (1)
 
 **Instrumentation group**: woodwinds, keyboard

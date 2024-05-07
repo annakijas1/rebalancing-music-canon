@@ -2,6 +2,7 @@
 layout: mei
 title: Hyacinth
 author: Bonds, Margaret
+ensemble: chamber-vocal
 period: unknown
 permalink: /Bonds-Hyacinth/
 document: Bonds_Hyacinth.mei

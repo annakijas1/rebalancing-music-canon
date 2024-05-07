@@ -10,8 +10,6 @@ document: adams_sence_you_went_away.mei
 
 In *Sence you went away: from "Nightsongs"*: for medium voice and chamber orchestra on poetry of James Weldon Johnson: 2019. New York, NY: American Composers Alliance Inc., 2019.
 
-**Original Composition/Publication Date**: 2019
-
 **Instrumentation summary**: medium voice (1), flute (1), oboe (1), clarinet (1), bassoon (1), horns (2), harp (1), violin I (1), violin II (1), viola (1), cello (1), bass (1) 
 
 **Instrumentation group**: voice, woodwinds, brass, strings 

@@ -10,8 +10,6 @@ document: agnesi_drei_sonaten_fur_cembalo_sonata_prima.mei
 
 In *Drei Sonaten für Cembalo*, edited by Fine Zimmermann. MusicaLady; 8. Köln: P.J. Tonger, 1999.  
 
-**Original Composition/Publication Date**: unknown
-
 **Instrumentation summary**: harpsichord (1)
 
 **Instrumentation group**: keyboard 

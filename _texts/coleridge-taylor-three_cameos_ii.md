@@ -10,8 +10,6 @@ image: coleridge-taylor_three_cameos_II.png
 
 In *Three cameos: op. 56, for solo piano (1904).* Mainz; London; Madrid; Paris; New York; Tokyo; Beijing: Schott 2022.
 
-**Original Composition/Publication Date**: 1904
-
 **Instrumentation summary**: piano (1)
 
 **Instrumentation group**: keyboard

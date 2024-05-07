@@ -3,6 +3,7 @@ layout: mei
 title: Laß los von der Welt
 author: Arnim, Bettina von
 ensemble: chamber-vocal
+period: unknown
 permalink: /arnim-lass_los_von_der_welt/
 document: arnim_lass_los_von_der_welt.mei
 ---

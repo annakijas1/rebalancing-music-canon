@@ -10,8 +10,6 @@ document: bauer_01_lad_and_lass.mei
 
 In *Six Songs*, edited by Peggy Holloway. Bryn Mawr, PA: Hildegard Publishing Company, 2001.
 
-**Original Composition/Publication Date**: 1915
-
 **Instrumentation summary**: voice (1)
 
 **Instrumentation group**: voice 
