@@ -37,21 +37,6 @@ Browse incipits by decade of first known publication date.
 </ul>
 
 
-  <h3>1820-1829</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1820-1829" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-         {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-
   <h3>1840-1849</h3>
     <ul class="texts">
     {% for item in site.texts %}
@@ -66,48 +51,6 @@ Browse incipits by decade of first known publication date.
     {% endfor %}
 </ul>
 
-
-  <h3>1850-1859</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1850-1859" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-  <h3>1860-1869</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1860-1869" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-  <h3>1870-1879</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1870-1879" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
 
   <h3>1880-1889</h3>
     <ul class="texts">
