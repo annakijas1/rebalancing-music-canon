@@ -3,13 +3,12 @@ layout: mei
 title: Even in the moment
 author: Bonds, Margaret
 ensemble: voice and piano
-period: 2020
+period: unknown
 permalink: /bonds-even-in-the-moment/
 document: bonds_even_in_the_moment.mei
 ---
 
-In *Six songs on poems by Edna St. Vincent Millay : for voice and piano*  Bryn Mawr, Pennsylvania: Hildegard Publishing Company, 2020
-**Original Composition/Publication Date**: 2020
+In *Six songs on poems by Edna St. Vincent Millay: for voice and piano.* Bryn Mawr, Pennsylvania: Hildegard Publishing Company, 2020.
 
 **Instrumentation summary**: medium (voice), piano
 
