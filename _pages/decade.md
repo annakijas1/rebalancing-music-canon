@@ -7,52 +7,10 @@ Browse incipits by decade of first known publication date.
 
 <div class="toc">
 
-<h3>Date Unknown</h3>
+<h3>Date Unknown (Unpublished during composer's lifetime)</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.period == "unknown" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-<h3>1760-1769</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1760-1769" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-  <h3>1790-1799</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1790-1799" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-  <h3>1800-1809</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "1800-1809" %}
           <li class="text-author.text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.author }} -
