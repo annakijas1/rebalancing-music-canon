@@ -3,7 +3,7 @@ layout: default
 title: Browse by Decade
 permalink: /decade/
 ---
-Browse incipits by decade during which composition was published or composed.
+Browse incipits by decade of first known publication date.
 
 <div class="toc">
 
