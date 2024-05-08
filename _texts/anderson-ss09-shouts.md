@@ -3,6 +3,7 @@ layout: mei
 title: Spirit songs, III. Shouts
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /anderson-spirit-songs-shouts/
 document: anderson_spirit-songs_iii-shouts_009.mei
 ---

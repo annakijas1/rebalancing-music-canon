@@ -3,11 +3,12 @@ layout: mei
 title: Five pieces for cello and piano, Pastorale 
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-instrument
+period: 1890-1899
 permalink: /beach-five-pieces-pastorale/
 document: beach_five_pieces_005_pastorale.mei
 ---
 
-In *Five pieces for cello and piano.* Bryn Mawr, Pa. Box 332, Bryn Mawr 19010: Hildegard Pub. Co. 1995.
+In *Five pieces for cello and piano.* Bryn Mawr, Pa. Box 332, Bryn Mawr 19010: Hildegard Pub. Co., 1995.
 
 **Instrumentation summary**: cello (1), piano (1) 
 

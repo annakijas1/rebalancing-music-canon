@@ -3,6 +3,7 @@ layout: mei
 title: Las aguas lustrales I
 author: Arismendi, Diana 
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /arismendi-las-aguas-lustrales-i/
 document: arismendi_las_aguas_lustrales_mvt1.mei
 ---

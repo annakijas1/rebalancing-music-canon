@@ -3,6 +3,7 @@ layout: post
 title: Dreaming, op. 15, no. 3
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1890-1899
 permalink: /beach-15.3/
 image: beach_dreaming_op15_no3.png
 ---

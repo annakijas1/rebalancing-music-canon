@@ -3,6 +3,7 @@ layout: mei
 title: A Thanksgiving fable, op. 75, no. 2
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /beach-75.2/
 document: beach_thanksgiving_fable_op75_no2.mei
 ---

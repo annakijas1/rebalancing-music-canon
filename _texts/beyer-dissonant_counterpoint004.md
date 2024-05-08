@@ -3,6 +3,7 @@ layout: mei
 title: Dissonant counterpoint, IV
 author: Beyer, Johanna
 ensemble: solo
+period: unknown
 permalink: /beyer-dissonant-counterpoint-iv/
 document: beyer_dissonant_counterpoint_4.mei
 ---

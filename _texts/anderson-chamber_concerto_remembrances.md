@@ -2,6 +2,8 @@
 layout: post
 title: Chamber concerto (Remembrances)
 author: Anderson, T.J.
+ensemble: chamber-instrument
+period: 1980-1989
 permalink: /anderson-chamber-concerto-remembrances/
 image: anderson-chamber-concerto-remembrances.png
 ---

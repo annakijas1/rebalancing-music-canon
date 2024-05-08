@@ -3,6 +3,7 @@ layout: mei
 title: Spirit songs, Vamp I
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /anderson-spirit-songs-vamp-i/
 document: anderson-spirit_songs-vamp_i_005.mei
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Chamber symphony
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-chamber-symphony/
 image: anderson-chamber-symphony.png
 ---

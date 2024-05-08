@@ -3,6 +3,7 @@ layout: mei
 title: Dolladine, op. 75, no. 3
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /beach-75.3/
 document: beach_dolladine_op75_no3.mei
 ---

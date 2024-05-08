@@ -3,6 +3,7 @@ layout: mei
 title: A hermit thrush at eve, op. 92, no. 1
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1920-1929
 permalink: /beach-92.1/
 document: beach_hermit_thrush_at_eve_op92_no1.mei
 ---

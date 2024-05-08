@@ -3,6 +3,7 @@ layout: post
 title: Phantoms, op. 15, no. 2
 author: Beach, Amy Marcy Cheney
 ensemble: solo 
+period: 1890-1899
 permalink: /beach-15.2/
 image: beach_phantoms_op15_no2-1.png
 ---

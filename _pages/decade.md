@@ -3,8 +3,8 @@ layout: default
 title: Browse by Decade
 permalink: /decade/
 ---
-## Browse incipits by decade of first known publication date.
-#### Works with an unknown publication date or unpublished during composer's lifetime are listed at the end.
+## Browse incipits by decade of earliest known publication date
+#### Works not published during composer's lifetime are listed under "unpublished during composer's lifetime."
 
 <div class="toc">
 
@@ -248,7 +248,7 @@ permalink: /decade/
     {% endfor %}
 </ul>
 
-<h3>First Publication Date Unknown or Unpublished during composer's lifetime</h3>
+<h3>Unpublished during composer's lifetime</h3>
     <ul class="texts">
     {% for item in site.texts %}
       {% if item.period == "unknown" %}

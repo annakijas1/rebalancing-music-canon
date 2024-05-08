@@ -3,6 +3,7 @@ layout: mei
 title: Improvisations, op. 148, no. 5, Largo maestoso  
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1930-1939
 permalink: /beach-148.5/
 document: beach_five_improvisations_op148_no5.mei
 ---

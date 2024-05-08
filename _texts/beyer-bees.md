@@ -3,6 +3,7 @@ layout: mei
 title: Bees
 author: Beyer, Johanna
 ensemble: solo
+period: 1990-1999
 permalink: /beyer-bees/
 document: beyer_bees.mei
 ---

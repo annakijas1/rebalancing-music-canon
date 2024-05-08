@@ -3,6 +3,7 @@ layout: mei
 title: Le prince gracieux, op. 65, no. 2
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1900-1909
 permalink: /beach-65-2/
 document: beach_prince_gracieux_op65_no2.mei
 ---

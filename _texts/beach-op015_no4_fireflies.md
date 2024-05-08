@@ -3,6 +3,7 @@ layout: mei
 title: Fireflies, op. 15, no. 4
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1890-1899
 permalink: /beach-15-4/
 document: beach_fireflies_op15_no4.mei
 ---

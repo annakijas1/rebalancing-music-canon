@@ -3,6 +3,7 @@ layout: mei
 title: Broke baroque, III. Banchieri
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /anderson-broke-baroque-III/
 document: anderson_broke_baroque_003.mei
 ---

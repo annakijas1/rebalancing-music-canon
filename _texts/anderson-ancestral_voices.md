@@ -3,6 +3,7 @@ layout: post
 title: Ancestral voices
 author: Anderson, T.J.
 ensemble: chamber-vocal
+period: 1980-1989
 permalink: /anderson-ancestral-voices/
 image: anderson-ancestral-voices.png
 ---

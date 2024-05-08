@@ -3,6 +3,7 @@ layout: mei
 title: Variations on Balkan themes, op. 60
 author: Beach, Amy Marcy Cheney 
 ensemble: solo
+period: 1900-1909
 permalink: /beach-60/
 document: beach_balkan_themes_op60.mei
 ---

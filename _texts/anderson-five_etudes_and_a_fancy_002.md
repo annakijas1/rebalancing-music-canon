@@ -3,6 +3,7 @@ layout: mei
 title: Five etudes and a fancy, II. Complements
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-five-etudes-II/
 document: anderson_five_etudes_and_a_fancy_ii_complements.mei
 ---

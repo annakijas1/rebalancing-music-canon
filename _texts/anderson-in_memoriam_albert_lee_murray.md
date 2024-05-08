@@ -3,6 +3,7 @@ layout: post
 title: In memoriam Albert Lee Murray
 author: Anderson, T.J.
 ensemble: solo
+period: 2010-2019
 permalink: /anderson-in-memoriam-albert-lee-murray/
 image: anderson-in-memoriam-albert-lee-murray.png
 ---

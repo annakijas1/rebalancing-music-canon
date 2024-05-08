@@ -3,6 +3,7 @@ layout: mei
 title: Yaraví and scherzo
 author: Alvarado, Jannet
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /alvarado-yaravi-and-scherzo/
 document: alvarado_delgado_yaravi_and_scherzo.mei
 ---

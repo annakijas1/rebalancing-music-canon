@@ -3,6 +3,7 @@ layout: mei
 title: Spirit songs, Serenade III
 author: Anderson, T.J.
 ensemble: solo
+period: 1990-1999
 permalink: /anderson-spirit-songs-serenade-iii/
 document: anderson-spirit_songs-serenade_iii_006.mei
 ---

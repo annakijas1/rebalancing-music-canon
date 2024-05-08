@@ -3,6 +3,7 @@ layout: mei
 title: Improvisations, op. 148, no. 3, Allegro con delicatezza 
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1930-1939
 permalink: /beach-148.3/
 document: beach_five_improvisations_op148_no3.mei
 ---

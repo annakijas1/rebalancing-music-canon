@@ -3,11 +3,12 @@ layout: mei
 title: Suite for String Orchestra, III. Alla Marci
 author: Williams, Grace
 ensemble: orchestra
+period: 1940-1949
 permalink: /williams-suite-for-string-orch-III/
 document: williams_suite_for_string_orchestra_003.mei
 ---
 
-In *Suite for string orchestra.* Oriana Publications.
+In *Suite for string orchestra.* Oriana Publications Limited = Cwmni Cyhoeddi Oriana, 2021.
 
 **Instrumentation summary**: violin I, violin II, viola, cello, bass
 

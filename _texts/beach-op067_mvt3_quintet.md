@@ -3,11 +3,12 @@ layout: mei
 title: Quintet in F-sharp minor, for piano and strings, op. 67, Allegro agitato
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-instrument
+period: 1900-1909
 permalink: /beach-67.mvt3/
 document: beach_quintet_iii.mei
 ---
 
-In *Quintet: In F-sharp Minor, for piano and strings, op. 67.* Da Capo Press Music Reprint Series. 1979.
+In *Quintet: In F-sharp Minor, for piano and strings, op. 67.* Da Capo Press Music Reprint Series, 1979.
 
 **Instrumentation summary**: piano (1), violin (2), viola (1), cello (1)
 

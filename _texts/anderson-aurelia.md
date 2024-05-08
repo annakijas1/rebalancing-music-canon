@@ -3,6 +3,7 @@ layout: mei
 title: Aurelia, in memoriam
 author: Anderson, T.J.
 ensemble: solo
+period: 2020-2029
 permalink: /anderson-aurelia/
 document: anderson_aurelia_in_memoriam.mei
 ---

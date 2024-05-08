@@ -3,6 +3,7 @@ layout: mei
 title: Valse amoureuse, op. 65, no. 3
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1900-1909
 permalink: /beach-65.3/
 document: beach_valse_amoureuse_op65_no3.mei
 ---

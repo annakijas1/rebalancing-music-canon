@@ -3,6 +3,7 @@ layout: mei
 title: Valse caprice, op. 4
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1880-1889
 permalink: /beach-4/
 document: beach_valse_caprice_op4.mei
 ---

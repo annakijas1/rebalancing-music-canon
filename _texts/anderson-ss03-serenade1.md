@@ -3,6 +3,7 @@ layout: mei
 title: Spirit songs, III. Serenade I
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /anderson-spirit-songs-serenade-i/
 document: anderson_spirit_songs_serenade_i_003.mei
 ---

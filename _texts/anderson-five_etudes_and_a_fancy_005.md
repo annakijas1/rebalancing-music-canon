@@ -3,6 +3,7 @@ layout: post
 title: Five etudes and a fancy, V. Recurrence
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-five-etudes-V/
 image: anderson-five-etudes-and-fancy-005.png
 ---

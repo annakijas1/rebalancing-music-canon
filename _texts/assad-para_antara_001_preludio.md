@@ -3,11 +3,12 @@ layout: mei
 title: Para Antara, Preludio
 author: Assad, Clarice
 ensemble: solo
+period: 2020-2029
 permalink: /assad-preludio/
 document: assad_para_antara_001_preludio.mei
 ---
 
-In *Para Antara.* Lévis Québec Canada: Les Productions d'Oz 2021.
+In *Para Antara.* Lévis Québec Canada: Les Productions d'Oz, 2021.
 
 **Instrumentation summary**: guitar (1) 
 

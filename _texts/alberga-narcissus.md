@@ -3,6 +3,7 @@ layout: mei
 title: Narcissus ("A Perfect Pool")
 author: Alberga, Eleanor
 ensemble: orchestra
+period: 2010-2019
 permalink: /alberga-narcissus/
 document: 
 ---

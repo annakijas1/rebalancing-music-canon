@@ -3,6 +3,7 @@ layout: mei
 title: A hermit thrush at morn, op. 92, no. 2
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1920-1929
 permalink: /beach-92.2/
 document: beach_hermit_thrush_at_morn_op92_no2.mei
 ---

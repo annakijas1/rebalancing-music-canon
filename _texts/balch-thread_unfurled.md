@@ -8,7 +8,7 @@ permalink: /balch-thread-unfurled/
 image: balch-thread_unfurled.png
 ---
 
-In *Thread, unfurled: for flute and piano: (2016).* New York, NY: Project Schott New York 2020.
+In *Thread, unfurled: for flute and piano: (2016).* New York, NY: Project Schott New York, 2020.
 
 **Instrumentation summary**: flute (1), piano (1)
 

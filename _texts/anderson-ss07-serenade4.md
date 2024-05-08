@@ -3,6 +3,7 @@ layout: mei
 title: Spirit songs, Serenade IV
 author: Anderson, T.J.
 ensemble: solo
+period: 1990-1999
 permalink: /anderson-spirit-songs-serenade-iv/
 document: anderson-spirit_songs-serenade_iv_007.mei
 ---

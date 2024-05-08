@@ -3,6 +3,7 @@ layout: mei
 title: Prayer of a tired child, op. 75, no. 4
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /beach-75.4/
 document: beach_prayer_of_a_tired_child_op75_no4.mei
 ---

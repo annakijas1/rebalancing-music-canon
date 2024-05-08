@@ -3,6 +3,7 @@ layout: mei
 title: Broke baroque, I. Tartini
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /anderson-broke-baroque-I/
 document: anderson_broke_baroque_001.mei
 ---

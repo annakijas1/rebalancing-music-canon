@@ -3,6 +3,7 @@ layout: mei
 title: The candy lion, op. 75, no. 1
 author: Beach, Amy Marcy Cheney
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /beach-75.1/
 document: beach_candy_lion_op75_no1.mei
 ---

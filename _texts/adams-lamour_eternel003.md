@@ -2,6 +2,7 @@
 layout: mei
 title: L'amour éternel, III. Moderato e molto espressivo
 author: Adams, Leslie
+ensemble: chamber-instrument
 period: 2010-2019
 permalink: /adams-lamour-eternel-iii/
 document: adams_lamour_eternel003.mei

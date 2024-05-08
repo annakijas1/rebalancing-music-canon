@@ -3,6 +3,7 @@ layout: mei
 title: Duo, for oboe and clarinet, op. 25
 author: Bauer, Marion
 ensemble: chamber-instrument
+period: 1950-1959
 permalink: /bauer-25/
 document: bauer_duo_for_oboe_and_clarinet_op25.mei  
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Five etudes and a fancy, VI. Fancy
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1960-1969
 permalink: /anderson-five-etudes-VI/
 document: anderson_five_etudes_and_a_fancy_006.mei
 ---

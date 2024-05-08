@@ -2,6 +2,7 @@
 layout: mei
 title: L'amour éternel, II. Andantino e poco agitato
 author: Adams, Leslie
+ensemble: chamber-instrument
 period: 2010-2019
 permalink: /adams-lamour-eternel-ii/
 document: adams_lamour_eternel002.mei

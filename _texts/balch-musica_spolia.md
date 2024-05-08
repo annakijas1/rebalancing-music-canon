@@ -8,7 +8,7 @@ permalink: /balch-musica-spolia/
 image: balch-musica_spolia.png
 ---
 
-In *Musica spolia: version for flute, violin, percussion, and piano.* Mainz; London; Madrid; Paris; New York; Tokyo; Beijing: Schott 2022.
+In *Musica spolia: version for flute, violin, percussion, and piano.* Mainz; London; Madrid; Paris; New York; Tokyo; Beijing: Schott, 2022.
 
 **Instrumentation summary**: flute (1), violin (1), percussion (misc.), piano (1) 
 

@@ -8,7 +8,7 @@ permalink: /akiho-marimba/
 image: akiho-marimba.png
 ---
 
-In *mARImbA: solo for marimba & vibraphone (2021).* New York, New York: Aki Rhythm Press 2022.
+In *mARImbA: solo for marimba & vibraphone (2021).* New York, New York: Aki Rhythm Press, 2022.
 
 **Instrumentation summary**: marimba, vibraphone
 

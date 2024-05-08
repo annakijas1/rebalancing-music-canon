@@ -3,6 +3,7 @@ layout: mei
 title: Para Antara, Perpetual Motion
 author: Assad, Clarice
 ensemble: solo
+period: 2020-2029
 permalink: /assad-perpetual-motion/
 document: assad_para_antara_002_perpetual_motion.mei
 ---

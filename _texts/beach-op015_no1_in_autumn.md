@@ -3,6 +3,7 @@ layout: mei
 title: In autumn, op. 15, no. 1
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1890-1899
 permalink: /beach-15.1/
 document: beach_in_autumn_op15_no1.mei
 ---

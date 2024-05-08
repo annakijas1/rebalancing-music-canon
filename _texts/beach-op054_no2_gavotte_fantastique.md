@@ -3,6 +3,7 @@ layout: mei
 title: Gavotte fantastique, op. 54, no. 2
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1900-1909
 permalink: /beach-54.2/
 document: beach_gavotte_fantastique_op54_no2.mei
 ---

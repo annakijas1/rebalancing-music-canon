@@ -2,13 +2,15 @@
 layout: post
 title: Bahia, Bahia
 author: Anderson, T.J.
+ensemble: chamber-instrument
+period: 1990-1999
 permalink: /anderson-bahia-bahia/
 image: anderson-bahia-bahia.png
 ---
 
 In *Bahia, Bahia: for chamber orchestra.* United States: T.J. Anderson Music Publishing; Verona, N.J.: Distributed by Subito, 2012.
 
-**Instrumentation summary**:
+**Instrumentation summary**: 
 
 **Instrumentation group**:
 

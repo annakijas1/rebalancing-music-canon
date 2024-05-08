@@ -3,11 +3,12 @@ layout: mei
 title: Grand Mass in E-flat major, opus 5 - Graduale
 author: Beach, Amy Marcy Cheney
 ensemble: choral 
+period: 1890-1899
 permalink: /beach-5-graduale/
 document: beach_grand_mass_op5_graduale.mei
 ---
 
-In *Grand Mass: in E-flat major, opus 5*, edited by Matthew Phelps. Recent Researches in American Music; v. 84. 2018.
+In *Grand Mass: in E-flat major, opus 5*, edited by Matthew Phelps. Recent Researches in American Music; v. 84, 2018.
 
 **Instrumentation summary**: chorus and soloists: soprano voice, alto voice, tenor voice, bass voice, instruments: flute (2), oboe (2), english horn (1), clarinet in Bb/A (2), bassoon (2), french horn (4), trumpet in F (3), trombone (3), timpani, harp, organ, violin I, violin II, viola, cello, bass 
 

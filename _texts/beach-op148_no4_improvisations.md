@@ -3,6 +3,7 @@ layout: mei
 title: Improvisations, op. 148, no. 4, Molto lento e tranquillo 
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1930-1939
 permalink: /beach-148.4/
 document: beach_five_improvisations_op148_no4.mei
 ---

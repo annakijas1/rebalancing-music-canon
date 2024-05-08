@@ -3,6 +3,7 @@ layout: mei
 title: Scottish legend, op. 54, no. 1
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1900-1909
 permalink: /beach-54-1/
 document: beach_scottish_legend_op54_no1.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Broke baroque, II. Alberti
 author: Anderson, T.J.
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /anderson-broke-baroque-II/
 document: anderson_broke_baroque_002.mei
 ---

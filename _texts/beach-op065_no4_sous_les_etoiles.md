@@ -3,6 +3,7 @@ layout: mei
 title: Sous les étoiles, op. 65, no. 4
 author: Beach, Amy Marcy Cheney
 ensemble: solo
+period: 1900-1909
 permalink: /beach-65.4/
 document: beach_sous_les_etoiles.mei
 ---
