@@ -247,7 +247,6 @@ permalink: /decade/
       {% endif %}
     {% endfor %}
 </ul>
-</div>
 
 <h3>First Publication Date Unknown or Unpublished during composer's lifetime</h3>
     <ul class="texts">
@@ -262,3 +261,4 @@ permalink: /decade/
       {% endif %}
     {% endfor %}
 </ul>
+</div>
