@@ -4,7 +4,7 @@ title: Prelude (1973)
 author: Perry, Zenobia Powell 
 ensemble: chamber-instrument
 permalink: /perry-prelude/
-document: perry_prelude.mei
+document: perry-z_prelude.mei
 ---
 
 In *Three pieces for horn and piano.* La Crescenta, CA: Jaygayle Music, 2020.

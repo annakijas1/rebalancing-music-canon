@@ -4,7 +4,7 @@ title: Episode II (1983)
 author: Perry, Zenobia Powell 
 ensemble: chamber-instrument
 period:
-permalink: /perry-episode-ii/
+permalink: /perry-z-episode-ii/
 document: 
 ---
 

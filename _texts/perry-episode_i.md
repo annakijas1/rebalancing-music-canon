@@ -4,7 +4,7 @@ title: Episode I (1992)
 author: Perry, Zenobia Powell 
 ensemble: chamber-instrument
 period:
-permalink: /perry-episode-i/
+permalink: /perry-z-episode-i/
 document: 
 ---
 

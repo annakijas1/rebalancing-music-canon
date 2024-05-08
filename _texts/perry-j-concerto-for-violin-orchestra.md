@@ -3,7 +3,7 @@ layout: mei
 title: Concerto for Violin and Orchestra
 author: Perry, Julia
 ensemble: chamber-instrument
-period: [unknown]
+period: unknown
 permalink: /perry-julia-concerto/
 document: perry-j_concerto_for_violin_and_orchestra.mei
 ---
