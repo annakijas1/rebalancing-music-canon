@@ -3,24 +3,10 @@ layout: default
 title: Browse by Decade
 permalink: /decade/
 ---
-Browse incipits by decade of first known publication date.
+## Browse incipits by decade of first known publication date.
+#### Works with an unknown publication date or unpublished during composer's lifetime are listed at the end.
 
 <div class="toc">
-
-<h3>Date Unknown (Unpublished during composer's lifetime)</h3>
-    <ul class="texts">
-    {% for item in site.texts %}
-      {% if item.period == "unknown" %}
-          <li class="text-author.text-title">
-          <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.author }} -
-         {{ item.title }}
-              </a>
-    </li>
-      {% endif %}
-    {% endfor %}
-</ul>
-
 
   <h3>1810-1819</h3>
     <ul class="texts">
@@ -262,3 +248,17 @@ Browse incipits by decade of first known publication date.
     {% endfor %}
 </ul>
 </div>
+
+<h3>First Publication Date Unknown or Unpublished during composer's lifetime</h3>
+    <ul class="texts">
+    {% for item in site.texts %}
+      {% if item.period == "unknown" %}
+          <li class="text-author.text-title">
+          <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.author }} -
+         {{ item.title }}
+              </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>
