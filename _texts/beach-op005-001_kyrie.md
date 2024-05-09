@@ -3,7 +3,7 @@ layout: mei
 title: Grand Mass in E-flat major, opus 5 - Kyrie
 author: Beach, Amy Marcy Cheney
 ensemble: choral 
-period:
+period: 1890-1899
 permalink: /beach-5-kyrie/
 document: beach_grand_mass_op5_kyrie.mei
 ---
