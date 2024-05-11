@@ -5,7 +5,7 @@ author: Kats-Chernin, Elena
 ensemble: chamber-instrument
 period: 2010-2019
 permalink: /kats-chernin-ballade/
-document: kats_chernin_ballade.mei
+document: kats-chernin_ballade.mei
 ---
 
 In *Ballade: for clarinet, cello and piano (2012).* Berlin: Boosey & Hawkes: Bote & Bock, 2021.
