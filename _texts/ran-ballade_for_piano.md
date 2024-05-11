@@ -1,10 +1,10 @@
 ---
-layout: mei
+layout: post
 title: Ballade for piano
 author: Ran, Shulamit
 ensemble: solo
 permalink: /ran-ballade-for-piano/
-document:
+image: ran_ballade_for_piano.png
 ---
 
 In *Ballade for piano.* Malvern, Pennsylvania: Presser 2021.
