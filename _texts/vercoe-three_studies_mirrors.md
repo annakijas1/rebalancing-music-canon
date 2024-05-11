@@ -5,7 +5,7 @@ author: Vercoe, Elizabeth
 ensemble: solo  
 period: 1970-1979
 permalink: /vercoe-mirrors/
-document: 
+document: vercoe_three_studies_mirrors.mei
 ---
    
 In *Three studies: for piano (1973).* New York, NY: American Composers Alliance, Inc., 2023.
