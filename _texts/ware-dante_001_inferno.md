@@ -3,8 +3,9 @@ layout: mei
 title: Dante I. The Inferno
 author: Ware, Lawren Brianna
 ensemble: solo  
-permalink: /ware-the-inferno/
-document: 
+period: 2020-2029
+permalink: /ware-inferno/
+document: ware_dante_001_inferno.mei
 ---
    
 In *Piano sonata no. 1: "Dante": based on Dante Alighieri's The divine comedy.* Madison, Wisconsin: B. Ware Works Publishing, 2022.
