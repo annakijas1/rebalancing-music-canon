@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Mysterious Island, II. Shipwrecking / Ztroskotání
-author: Hlinova, Karolina
+author: Hlinová, Karolína
 ensemble: chamber-instrument 
 period: 2020-2029
 permalink: /hlinova-shipwrecking/

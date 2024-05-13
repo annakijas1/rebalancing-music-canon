@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Mysterious Island, I. Pirate Dance / Pirátský tanec
-author: Hlinova, Karolina
+author: Hlinová, Karolína
 ensemble: chamber-instrument 
 period: 2020-2029
 permalink: /hlinova-pirate-dance/
