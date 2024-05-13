@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Allison Loggins-Hull 2018</creator>
     <encoding>
-      <software>MuseScore 4.1.0</software>
-      <encoding-date>2023-07-20</encoding-date>
+      <software>MuseScore 4.2.1</software>
+      <encoding-date>2024-05-13</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -37,6 +37,31 @@
         <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
@@ -77,7 +102,7 @@
             <left-margin>59.19</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>196.98</top-system-distance>
+          <top-system-distance>196.21</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -96,10 +121,10 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-37.68" default-y="46.12" relative-x="-30.37" relative-y="28.28" font-weight="bold" font-size="12">Rubato, with Anguish </words>
+          <words default-x="-37.68" default-y="45.34" relative-x="-30.37" relative-y="28.28" font-weight="bold" font-size="12">Rubato, with Anguish </words>
           </direction-type>
         <direction-type>
-          <metronome parentheses="no" default-x="-37.68" default-y="46.12" relative-x="-30.37" relative-y="28.28">
+          <metronome parentheses="no" default-x="-37.68" default-y="45.34" relative-x="-30.37" relative-y="28.28">
             <beat-unit>quarter</beat-unit>
             <per-minute>56</per-minute>
             </metronome>
@@ -133,7 +158,7 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="48.80"/>
+            <wavy-line type="start" number="1" default-y="48.15"/>
             </ornaments>
           </notations>
         </note>
@@ -196,7 +221,7 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="36.97"/>
+            <wavy-line type="start" number="1" default-y="38.34"/>
             </ornaments>
           </notations>
         </note>
@@ -364,7 +389,7 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="48.80"/>
+            <wavy-line type="start" number="1" default-y="48.15"/>
             </ornaments>
           </notations>
         </note>
@@ -427,7 +452,7 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="36.97"/>
+            <wavy-line type="start" number="1" default-y="38.34"/>
             </ornaments>
           </notations>
         </note>
@@ -504,9 +529,9 @@
         <notations>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="42.04"/>
+            <wavy-line type="start" number="1" default-y="42.08"/>
             </ornaments>
-          <slide line-type="solid" number="1" type="start" default-y="10.00"/>
+          <slide line-type="solid" number="1" type="start" default-y="8.44"/>
           </notations>
         </note>
       <direction placement="below">
@@ -531,8 +556,8 @@
         <accidental>quarter-sharp</accidental>
         <stem>down</stem>
         <notations>
-          <slide line-type="solid" number="2" type="start" default-y="14.93" relative-x="-0.55"/>
-          <slide line-type="solid" number="1" type="stop" relative-x="-1.10"/>
+          <slide line-type="solid" number="2" type="start" default-y="16.80" relative-x="-0.55"/>
+          <slide line-type="solid" number="1" type="stop"/>
           </notations>
         </note>
       <direction placement="below">
@@ -570,7 +595,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="5" width="289.32">
+    <measure number="5" width="287.95">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -606,7 +631,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="126.24" default-y="20.00">
+      <note default-x="125.84" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -620,11 +645,11 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="36.35"/>
+            <wavy-line type="start" number="1" default-y="37.83"/>
             </ornaments>
           </notations>
         </note>
-      <note default-x="162.08" default-y="20.00">
+      <note default-x="161.46" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -642,7 +667,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="197.92" default-y="10.00">
+      <note default-x="197.09" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -657,11 +682,11 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="26.35"/>
+            <wavy-line type="start" number="1" default-y="27.83"/>
             </ornaments>
           </notations>
         </note>
-      <note default-x="233.76" default-y="10.00">
+      <note default-x="232.71" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -679,7 +704,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="6" width="229.83">
+    <measure number="6" width="228.55">
       <note default-x="13.00" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -702,7 +727,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="66.76" default-y="-30.00">
+      <note default-x="66.44" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -726,7 +751,7 @@
           <wedge type="diminuendo" number="1" default-y="-60.00"/>
           </direction-type>
         </direction>
-      <note default-x="120.51" default-y="-15.00">
+      <note default-x="119.88" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -761,7 +786,7 @@
           </direction-type>
         <sound dynamics="36.67"/>
         </direction>
-      <note default-x="174.27" default-y="-35.00">
+      <note default-x="173.31" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -775,7 +800,7 @@
           </time-modification>
         <stem>up</stem>
         <notations>
-          <fermata type="upright" default-y="50.13" relative-y="-15.00"/>
+          <fermata type="upright" default-y="50.12" relative-y="-15.00"/>
           <articulations>
             <caesura/>
             </articulations>
@@ -785,7 +810,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="7" width="244.22">
+    <measure number="7" width="242.85">
       <direction placement="below">
         <direction-type>
           <dynamics default-x="3.10" default-y="-40.00" relative-y="-25.00">
@@ -812,7 +837,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="81.15" default-y="20.00">
+      <note default-x="80.74" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -826,11 +851,11 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="36.35"/>
+            <wavy-line type="start" number="1" default-y="37.83"/>
             </ornaments>
           </notations>
         </note>
-      <note default-x="116.99" default-y="20.00">
+      <note default-x="116.37" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -848,7 +873,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="152.82" default-y="10.00">
+      <note default-x="151.99" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -863,11 +888,11 @@
           <tied type="start"/>
           <ornaments>
             <trill-mark/>
-            <wavy-line type="start" number="1" default-y="26.35"/>
+            <wavy-line type="start" number="1" default-y="27.83"/>
             </ornaments>
           </notations>
         </note>
-      <note default-x="188.66" default-y="10.00">
+      <note default-x="187.62" default-y="10.00">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -885,7 +910,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="8" width="265.67">
+    <measure number="8" width="269.68">
       <note default-x="13.00" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -900,7 +925,7 @@
           </time-modification>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <tenuto/>
             </articulations>
@@ -909,7 +934,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="48.84" default-y="-30.00">
+      <note default-x="48.63" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -929,7 +954,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="84.68" default-y="-15.00">
+      <note default-x="84.25" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -943,7 +968,7 @@
           </time-modification>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <tenuto/>
             </articulations>
@@ -952,7 +977,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="120.51" default-y="-35.00">
+      <note default-x="119.88" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -974,10 +999,10 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <wedge type="diminuendo" number="1" default-y="-66.45"/>
+          <wedge type="diminuendo" number="1" default-y="-66.43"/>
           </direction-type>
         </direction>
-      <note default-x="156.35" default-y="-15.00">
+      <note default-x="155.50" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -991,7 +1016,7 @@
           </time-modification>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <tenuto/>
             </articulations>
@@ -1007,13 +1032,13 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="5.96" default-y="-46.45" relative-y="-25.00">
+          <dynamics default-x="5.96" default-y="-46.43" relative-y="-25.00">
             <other-dynamics>n</other-dynamics>
             </dynamics>
           </direction-type>
         <sound dynamics="54.44"/>
         </direction>
-      <note default-x="210.11" default-y="-40.00">
+      <note default-x="208.94" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1028,7 +1053,7 @@
         <stem>up</stem>
         <notations>
           <slur type="stop" number="1"/>
-          <fermata type="upright" default-y="50.13" relative-y="-15.00"/>
+          <fermata type="upright" default-y="50.12" relative-y="-15.00"/>
           <articulations>
             <caesura/>
             </articulations>
@@ -1037,6 +1062,9 @@
             </ornaments>
           </notations>
         </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+        </barline>
       </measure>
     </part>
   </score-partwise>
