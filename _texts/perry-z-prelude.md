@@ -3,7 +3,8 @@ layout: mei
 title: Prelude (1973)
 author: Perry, Zenobia Powell 
 ensemble: chamber-instrument
-permalink: /perry-prelude/
+period: 1970-1979
+permalink: /perry-z-prelude/
 document: perry-z_prelude.mei
 ---
 
