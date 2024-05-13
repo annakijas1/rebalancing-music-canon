@@ -3,9 +3,9 @@ layout: mei
 title: Episode II (1983) 
 author: Perry, Zenobia Powell 
 ensemble: chamber-instrument
-period:
+period: 1980-1989
 permalink: /perry-z-episode-ii/
-document: 
+document: perry-z_episode_ii.mei
 ---
 
 In *Three pieces for horn and piano.* La Crescenta, CA: Jaygayle Music, 2020.

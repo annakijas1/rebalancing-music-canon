@@ -3,9 +3,9 @@ layout: mei
 title: Episode I (1992) 
 author: Perry, Zenobia Powell 
 ensemble: chamber-instrument
-period:
+period: 1990-1999
 permalink: /perry-z-episode-i/
-document: 
+document: perry-z_episode_i.mei
 ---
 
 In *Three pieces for horn and piano.* La Crescenta, CA: Jaygayle Music, 2020.
