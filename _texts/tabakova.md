@@ -6,7 +6,7 @@ century: 20th
 permalink: /tabakova/
 ---
 
-<a title="Dobrinka Com, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Dobrinka_Tabakova_composer.jpg"><img width="256" alt="Dobrinka Tabakova composer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dobrinka_Tabakova_composer.jpg/256px-Dobrinka_Tabakova_composer.jpg"></a>
+<a title="Muziek Centrum Nederland, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Dobrinka_Tabakova.jpg"><img width="128" alt="Dobrinka Tabakova" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Dobrinka_Tabakova.jpg?20170411042344"></a>
 
 
 *Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Dobrinka_Tabakova" target="_blank">https://en.wikipedia.org/wiki/Dobrinka_Tabakova</a>*
