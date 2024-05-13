@@ -3,8 +3,9 @@ layout: mei
 title: Towers
 author: Washington, Shelley
 ensemble: solo
+period: 2010-2019
 permalink: /washington-towers/
-document:
+document: washington_towers.mei
 ---
 
 In *Towers: for solo piano.* New York, New York: PSNY: EAM 2018.
