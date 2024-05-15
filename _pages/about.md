@@ -11,17 +11,18 @@ The current project is focused on encoding musical incipits (initial melodic lin
 The incipits are transcribed and reviewed by student contributors (listed below) under the direction of music librarian, Anna Kijas (Head, Lilly Music Library). In addition to making works by underrepresented composers in our collection more visible and discoverable, the students are developing expertise in transcription and editing methods, as well as expanding their knowledge of a diverse music repertoire.
 
 ### Current Contributors
-- Kate M. Chang (Spring 2023-current), undergraduate
-- Matthew Chen (Spring 2023-current), undergraduate
-- Marie Comuzzo (Summer 2023), graduate (Brandeis University)
-- Jordan Good (Spring 2023-current), graduate
-- Eli M. Marcus (Spring 2023-current), undergraduate
-- Ronja Mokráňová (Spring 2023-current), graduate
+- Jordan Good (Spring 2023-2024), graduate
 
 ### Project Alumni
+- Kate M. Chang (Spring 2023), undergraduate
+- Matthew Chen (Spring 2023), undergraduate
+- Marie Comuzzo (Summer 2023), graduate (Brandeis University)
 - Ismenia Ginebra (Spring 2020-2022), undergraduate
 - Chelsea Hong (Spring 2020), undergraduate
+- Idil Kolabas (Spring 2024), undergraduate
+- Eli M. Marcus (Spring 2023), undergraduate
 - Aviva Michaeli (Fall 2021-2022), undergraduate
+- Ronja Mokráňová (Spring 2023-2024), graduate
 - Nitya Nadgir (Spring 2023), undergraduate
 - Simon K. Perry (Spring 2021), undergraduate
 - Delilah Righter (Spring 2020-2021), undergraduate
