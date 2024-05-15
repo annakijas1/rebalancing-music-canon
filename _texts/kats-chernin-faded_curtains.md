@@ -5,7 +5,7 @@ author: Kats-Chernin, Elena
 ensemble: chamber-instrument
 period: 2010-2019
 permalink: /kats-chernin-faded-curtains/
-document: 
+document: kats-chernin_faded_curtains.mei
 ---
 
 In *Faded curtains: for bassoon and piano (2010).* Berlin: Boosey & Hawkes / Bote & Bock 2021.
