@@ -4,7 +4,7 @@ title: Homeland
 author: Loggins-Hull, Allison
 ensemble: solo
 permalink: /loggins-hull-homeland/
-image: logigns-hull_homeland.png
+image: loggins-hull_homeland.png
 ---
 
 In *Homeland: for solo flute.* New York, New York: Flutronix Publishing 2022.
