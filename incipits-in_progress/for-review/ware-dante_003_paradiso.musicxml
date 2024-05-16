@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Lawren Brianna Ware</creator>
     <encoding>
-      <software>MuseScore 4.1.1</software>
-      <encoding-date>2023-08-25</encoding-date>
+      <software>MuseScore 4.2.1</software>
+      <encoding-date>2024-05-16</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -37,6 +37,31 @@
         <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
@@ -66,12 +91,12 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="357.84">
+    <measure number="1" width="359.04">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50.00</left-margin>
-            <right-margin>4.50</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
           </system-layout>
@@ -114,7 +139,7 @@
         <type>quarter</type>
         <staff>1</staff>
         </note>
-      <note default-x="194.89" default-y="10.00">
+      <note default-x="195.17" default-y="10.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -127,7 +152,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="227.76" default-y="30.00">
+      <note default-x="228.24" default-y="30.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -140,7 +165,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note default-x="260.64" default-y="0.00">
+      <note default-x="261.30" default-y="0.00">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -151,7 +176,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note default-x="293.52" default-y="20.00">
+      <note default-x="294.37" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -163,7 +188,7 @@
         <stem>down</stem>
         <staff>1</staff>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <backup>
@@ -180,7 +205,7 @@
         </direction>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-142.08"/>
+          <pedal type="resume" line="yes" sign="yes" default-y="-142.08"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -216,7 +241,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="2" width="219.05">
+    <measure number="2" width="220.06">
       <note default-x="13.96" default-y="20.00">
         <pitch>
           <step>C</step>
@@ -231,7 +256,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="63.28" default-y="20.00">
+      <note default-x="63.56" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -250,7 +275,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="89.21" default-y="15.00">
+      <note default-x="89.64" default-y="15.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -267,7 +292,7 @@
         <staff>1</staff>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="115.15" default-y="10.00">
+      <note default-x="115.73" default-y="10.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -287,7 +312,7 @@
           <tuplet type="stop"/>
           </notations>
         </note>
-      <note default-x="143.28" default-y="5.00">
+      <note default-x="143.86" default-y="5.00">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -334,7 +359,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="3" width="226.22">
+    <measure number="3" width="227.43">
       <note default-x="13.96" default-y="-20.00">
         <rest/>
         <duration>12</duration>
@@ -342,7 +367,7 @@
         <type>quarter</type>
         <staff>1</staff>
         </note>
-      <note default-x="63.28" default-y="10.00">
+      <note default-x="63.56" default-y="10.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -355,7 +380,7 @@
         <staff>1</staff>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="96.15" default-y="30.00">
+      <note default-x="96.62" default-y="30.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -368,7 +393,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note default-x="129.03" default-y="20.00">
+      <note default-x="129.69" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -379,7 +404,7 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <note default-x="161.91" default-y="40.00">
+      <note default-x="162.76" default-y="40.00">
         <pitch>
           <step>G</step>
           <octave>6</octave>
@@ -401,7 +426,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-142.08"/>
+          <pedal type="change" line="yes" sign="no" default-y="-142.08"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -452,14 +477,8 @@
           <tied type="start"/>
           </notations>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <pedal type="stop" line="yes"/>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       </measure>
-    <measure number="4" width="204.80">
+    <measure number="4" width="205.89">
       <note default-x="13.96" default-y="40.00">
         <pitch>
           <step>G</step>
@@ -475,7 +494,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="63.28" default-y="40.00">
+      <note default-x="63.56" default-y="40.00">
         <pitch>
           <step>G</step>
           <octave>6</octave>
@@ -495,7 +514,7 @@
             </ornaments>
           </notations>
         </note>
-      <note default-x="96.15" default-y="30.00">
+      <note default-x="96.62" default-y="30.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -508,7 +527,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         </note>
-      <note default-x="129.03" default-y="35.00">
+      <note default-x="129.69" default-y="35.00">
         <pitch>
           <step>F</step>
           <octave>6</octave>
@@ -668,7 +687,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-69.60"/>
+          <pedal type="change" line="yes" sign="no" default-y="-69.60"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -686,12 +705,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <pedal type="stop" line="yes"/>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       <note default-x="151.34" default-y="-145.00">
         <pitch>
           <step>E</step>
@@ -971,7 +984,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-69.60"/>
+          <pedal type="change" line="yes" sign="no" default-y="-69.60"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -989,12 +1002,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <pedal type="stop" line="yes"/>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       <note default-x="41.85" default-y="-145.00">
         <pitch>
           <step>E</step>
@@ -1364,7 +1371,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-65.00"/>
+          <pedal type="change" line="yes" sign="no" default-y="-65.00"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -1382,12 +1389,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <pedal type="stop" line="yes"/>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       <note default-x="151.34" default-y="-110.00">
         <pitch>
           <step>E</step>
@@ -1747,7 +1748,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-65.00"/>
+          <pedal type="change" line="yes" sign="no" default-y="-65.00"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -1765,12 +1766,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <pedal type="stop" line="yes"/>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       <note default-x="41.85" default-y="-110.00">
         <pitch>
           <step>E</step>
@@ -2284,7 +2279,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-69.60"/>
+          <pedal type="change" line="yes" sign="no" default-y="-69.60"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -2302,12 +2297,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <pedal type="stop" line="yes"/>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       <note default-x="151.09" default-y="-145.00">
         <pitch>
           <step>E</step>
@@ -2814,7 +2803,7 @@
         </backup>
       <direction placement="below">
         <direction-type>
-          <pedal type="start" line="yes" default-y="-69.60"/>
+          <pedal type="change" line="yes" sign="no" default-y="-69.60"/>
           </direction-type>
         <staff>2</staff>
         </direction>
@@ -2832,12 +2821,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <pedal type="stop" line="yes"/>
-          </direction-type>
-        <staff>2</staff>
-        </direction>
       <note default-x="41.60" default-y="-145.00">
         <pitch>
           <step>E</step>
@@ -3046,7 +3029,7 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <pedal type="stop" line="yes"/>
+          <pedal type="discontinue" line="yes" sign="no"/>
           </direction-type>
         <staff>2</staff>
         </direction>
