@@ -3,8 +3,9 @@ layout: mei
 title: Dante II. Purgatorio
 author: Ware, Lawren Brianna
 ensemble: solo  
+period: 2020=2029
 permalink: /ware-purgatorio/
-document: 
+document: ware_dante_002_purgatorio.mei
 ---
    
 In *Piano sonata no. 1: "Dante": based on Dante Alighieri's The divine comedy.* Madison, Wisconsin: B. Ware Works Publishing, 2022.
