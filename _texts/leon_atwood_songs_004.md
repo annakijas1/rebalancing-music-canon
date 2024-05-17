@@ -1,10 +1,10 @@
 ---
-layout: mei
+layout: post
 title: Atwood Songs, 4. Habitation
 author: León, Tania
 ensemble: chamber-vocal
 permalink: /leon-atwood-songs-4/
-document: 
+image: leon_atwood_songs_004.png
 ---
 
 In *Atwood songs: for soprano and piano.* New York; Hamburg: Peermusic Classical 2018.
