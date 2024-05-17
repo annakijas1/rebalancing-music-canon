@@ -1,10 +1,11 @@
 ---
-layout: image 
+layout: post
 title: Atwood Songs, 2. Memory
 author: León, Tania
 ensemble: chamber-vocal
+period: 2010-2019
 permalink: /leon-atwood-songs-2/
-post: leon_atwood_songs_002.png
+image: leon_atwood_songs_002.png
 ---
 
 In *Atwood songs: for soprano and piano.* New York; Hamburg: Peermusic Classical 2018.

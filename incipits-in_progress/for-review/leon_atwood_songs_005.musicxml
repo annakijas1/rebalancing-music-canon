@@ -8,8 +8,8 @@
     <creator type="composer">Composer / arranger</creator>
     <creator type="lyricist">Margaret Atwood </creator>
     <encoding>
-      <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-06-19</encoding-date>
+      <software>MuseScore 4.2.1</software>
+      <encoding-date>2024-05-16</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -19,25 +19,50 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
@@ -47,11 +72,11 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.05" justify="right" valign="bottom">Tania León </credit-words>
+    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Tania León </credit-words>
     </credit>
   <credit page="1">
     <credit-type>lyricist</credit-type>
-    <credit-words default-x="85.7252" default-y="1411.05" justify="left" valign="bottom">Margaret Atwood </credit-words>
+    <credit-words default-x="85.725" default-y="1411.05" justify="left" valign="bottom">Margaret Atwood </credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -59,6 +84,7 @@
       <part-abbreviation>S.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Soprano</instrument-name>
+        <instrument-sound>voice.soprano</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -70,7 +96,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="182.68">
+    <measure number="1" width="219.56">
       <print>
         <system-layout>
           <system-margins>
@@ -96,93 +122,102 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-37.68" default-y="18.45" relative-y="20.00" font-weight="bold" font-size="12">Quasi blues 
+          <words default-x="-37.68" relative-y="32.61" font-weight="bold" font-size="12">Quasi blues 
 </words>
           </direction-type>
         <direction-type>
-          <metronome parentheses="no" default-x="-37.68" default-y="18.45" relative-y="20.00">
+          <metronome parentheses="no" default-x="-37.68" relative-y="32.61">
             <beat-unit>quarter</beat-unit>
             <per-minute>65</per-minute>
             </metronome>
           </direction-type>
         <direction-type>
-          <words default-x="-37.68" default-y="18.45" relative-y="20.00" font-weight="bold" font-size="12">-70 </words>
+          <words default-x="-37.68" relative-y="32.61" font-weight="bold" font-size="12">-70 </words>
           </direction-type>
         <sound tempo="65"/>
         </direction>
-      <note default-x="114.05" default-y="-10.00">
+      <note default-x="132.49" default-y="-10.00">
         <rest measure="yes"/>
         <duration>48</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="2" width="124.35">
+    <measure number="2" width="154.96">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="66.77" default-y="-10.00">
+      <note default-x="81.79" default-y="-10.00">
         <rest measure="yes"/>
         <duration>36</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="3" width="139.94">
+    <measure number="3" width="176.26">
       <attributes>
         <time>
           <beats>4</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="74.56" default-y="-10.00">
+      <note default-x="92.44" default-y="-10.00">
         <rest measure="yes"/>
         <duration>48</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="4" width="124.35">
+    <measure number="4" width="154.96">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="66.77" default-y="-10.00">
+      <note default-x="81.79" default-y="-10.00">
         <rest measure="yes"/>
         <duration>36</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="5" width="106.39">
+    <measure number="5" width="130.41">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="57.78" default-y="-10.00">
+      <note default-x="69.52" default-y="-10.00">
         <rest measure="yes"/>
         <duration>24</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="6" width="139.94">
+    <measure number="6" width="176.26">
       <attributes>
         <time>
           <beats>4</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="74.56" default-y="-10.00">
+      <note default-x="92.44" default-y="-10.00">
         <rest measure="yes"/>
         <duration>48</duration>
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="7" width="194.78">
-      <note default-x="13.00" default-y="-20.00">
+    <measure number="7" width="408.05">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>241.04</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="58.10" default-y="-20.00">
         <rest/>
         <duration>24</duration>
         <voice>1</voice>
@@ -196,13 +231,13 @@
           </direction-type>
         <sound dynamics="88.89"/>
         </direction>
-      <note default-x="80.11" default-y="-20.00">
+      <note default-x="194.33" default-y="-20.00">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
-      <note default-x="124.85" default-y="5.00">
+      <note default-x="285.15" default-y="5.00">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -215,14 +250,14 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.50" default-y="-40.00" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-44.92" relative-y="-30.00">
           <syllabic>begin</syllabic>
           <text>Sit</text>
           </lyric>
         </note>
-      <note default-x="163.15" default-y="0.00">
+      <note default-x="345.70" default-y="0.00">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -235,23 +270,14 @@
         <notations>
           <slur type="stop" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.50" default-y="-40.00" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-44.92" relative-y="-30.00">
           <syllabic>end</syllabic>
           <text>ting</text>
           </lyric>
         </note>
       </measure>
-    <measure number="8" width="639.54">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
-            </system-margins>
-          <system-distance>252.60</system-distance>
-          </system-layout>
-        </print>
-      <note default-x="58.10" default-y="-5.00">
+    <measure number="8" width="654.37">
+      <note default-x="13.00" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -266,14 +292,14 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="yes"/>
+          <tuplet type="start" bracket="yes" placement="above"/>
           </notations>
         <lyric number="1" default-x="6.50" default-y="-44.92" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>in</text>
           </lyric>
         </note>
-      <note default-x="100.13" default-y="-5.00">
+      <note default-x="60.76" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -292,7 +318,7 @@
           <text>this</text>
           </lyric>
         </note>
-      <note default-x="142.15" default-y="-5.00">
+      <note default-x="108.53" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -310,7 +336,7 @@
         <notations>
           <tied type="start"/>
           <tuplet type="stop"/>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         <lyric number="1" default-x="0.40" default-y="-44.92" relative-y="-30.00">
           <syllabic>single</syllabic>
@@ -318,7 +344,7 @@
           <extend/>
           </lyric>
         </note>
-      <note default-x="184.18" default-y="-5.00">
+      <note default-x="156.29" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -336,10 +362,10 @@
         <beam number="1">begin</beam>
         <notations>
           <tied type="stop"/>
-          <tuplet type="start" bracket="yes"/>
+          <tuplet type="start" bracket="yes" placement="above"/>
           </notations>
         </note>
-      <note default-x="226.21" default-y="-5.00">
+      <note default-x="204.05" default-y="-5.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -359,11 +385,11 @@
         <notations>
           <slur type="stop" number="1"/>
           <articulations>
-            <breath-mark/>
+            <breath-mark>comma</breath-mark>
             </articulations>
           </notations>
         </note>
-      <note default-x="268.24" default-y="-15.00">
+      <note default-x="251.82" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -389,7 +415,7 @@
           <text>hou</text>
           </lyric>
         </note>
-      <note default-x="305.54" default-y="-15.00">
+      <note default-x="289.11" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -407,7 +433,7 @@
         <beam number="2">end</beam>
         <notations>
           <tuplet type="stop"/>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <tenuto/>
             </articulations>
@@ -425,7 +451,7 @@
           </direction-type>
         <sound dynamics="71.11"/>
         </direction>
-      <note default-x="379.79" default-y="0.00">
+      <note default-x="363.36" default-y="0.00">
         <grace slash="yes"/>
         <pitch>
           <step>F</step>
@@ -438,10 +464,10 @@
         <stem>up</stem>
         <notations>
           <slur type="stop" number="1"/>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
-      <note default-x="408.59" default-y="0.00">
+      <note default-x="392.16" default-y="0.00">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -457,7 +483,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="yes"/>
+          <tuplet type="start" bracket="yes" placement="above"/>
           <slur type="stop" number="1"/>
           </notations>
         <lyric number="1" default-x="-1.77" default-y="-44.92" relative-y="-30.00">
@@ -465,7 +491,7 @@
           <text>&amp;win</text>
           </lyric>
         </note>
-      <note default-x="450.62" default-y="-5.00">
+      <note default-x="439.93" default-y="-5.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -481,7 +507,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         <lyric number="1" default-y="-44.92" relative-y="-30.00">
           <syllabic>end</syllabic>
@@ -489,7 +515,7 @@
           <extend/>
           </lyric>
         </note>
-      <note default-x="492.65" default-y="-10.00">
+      <note default-x="487.69" default-y="-10.00">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -510,7 +536,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="534.68" default-y="-20.00">
+      <note default-x="535.45" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -526,7 +552,7 @@
           <text>out</text>
           </lyric>
         </note>
-      <note default-x="570.20" default-y="-25.00">
+      <note default-x="575.82" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -548,10 +574,25 @@
           </lyric>
         </note>
       </measure>
-    <measure number="9" width="422.88">
+    <measure number="9" width="1062.42">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>-0.00</right-margin>
+            </system-margins>
+          <system-distance>241.04</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <time>
+          <beats>5</beats>
+          <beat-type>1</beat-type>
+          </time>
+        </attributes>
       <direction placement="above">
         <direction-type>
-          <words relative-x="11.88" relative-y="32.16" font-weight="bold">Poco accel.</words>
+          <words relative-x="113.19" relative-y="48.72" font-weight="bold">Poco accel.</words>
           </direction-type>
         </direction>
       <direction placement="above">
@@ -559,12 +600,7 @@
           <bracket type="start" number="1" line-end="none" line-type="solid" default-y="-24.36" relative-x="13.67"/>
           </direction-type>
         </direction>
-      <direction placement="above">
-        <direction-type>
-          <wedge type="diminuendo" number="1" default-y="20.00" relative-x="37.16"/>
-          </direction-type>
-        </direction>
-      <note default-x="13.00" default-y="-25.00">
+      <note default-x="78.06" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -580,10 +616,10 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <dashes type="start" number="2"/>
+          <wedge type="diminuendo" number="1" default-y="20.00" relative-x="1.90"/>
           </direction-type>
         </direction>
-      <note default-x="164.85" default-y="-20.00" print-object="no">
+      <note default-x="192.81" default-y="-20.00" print-object="no">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
@@ -591,30 +627,41 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <bracket type="stop" number="1" line-end="none" relative-x="-9.43"/>
+          <words relative-x="555.25" relative-y="50.80" font-weight="bold">Poco rall. </words>
           </direction-type>
         </direction>
       <direction placement="above">
         <direction-type>
-          <wedge type="stop" number="1"/>
+          <dashes type="start" number="2"/>
           </direction-type>
         </direction>
-      <direction placement="above">
-        <direction-type>
-          <words relative-x="55.78" relative-y="33.24" font-weight="bold">Poco rall. </words>
-          </direction-type>
-        </direction>
-      <note default-x="250.26" default-y="-20.00" print-object="no">
+      <note default-x="307.56" default-y="-20.00" print-object="no">
         <rest/>
-        <duration>24</duration>
+        <duration>192</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>long</type>
         </note>
+      <direction placement="above">
+        <direction-type>
+          <bracket type="stop" number="1" line-end="none" relative-x="-358.83"/>
+          </direction-type>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <wedge type="stop" number="1" relative-x="-363.54"/>
+          </direction-type>
+        </direction>
       <direction placement="above">
         <direction-type>
           <dashes type="stop" number="2"/>
           </direction-type>
         </direction>
+      <note default-x="888.49" default-y="-20.00" print-object="no">
+        <rest/>
+        <duration>24</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
       </measure>
     </part>
   </score-partwise>
