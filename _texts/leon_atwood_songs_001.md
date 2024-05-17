@@ -3,7 +3,7 @@ layout: mei
 title: Atwood Songs, 1. Notes towards a poem that can never be written
 author: León, Tania
 ensemble: chamber-vocal
-period: 2000-2019
+period: 2010-2019
 permalink: /leon-atwood-songs-1/
 document: leon_atwood_songs_001.mei
 ---

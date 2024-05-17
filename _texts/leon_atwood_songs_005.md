@@ -3,8 +3,9 @@ layout: mei
 title: Atwood Songs, 5. Four Evasions
 author: León, Tania
 ensemble: chamber-vocal
+period: 2010-2019
 permalink: /leon-atwood-songs-5/
-document: 
+document: leon_atwood_songs_005.png
 ---
 
 In *Atwood songs: for soprano and piano.* New York; Hamburg: Peermusic Classical 2018.
