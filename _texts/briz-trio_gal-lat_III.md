@@ -3,8 +3,9 @@ layout: mei
 title: Trio Gal-lat, III
 author: Briz, Anna
 ensemble: chamber-instrument 
+period: 2020-2029
 permalink: /briz-trio-gal-lat-iii/
-document: 
+document: briz_trio_gal-lat_iii.mei
 ---
 
 In *Trio Gal-lat: violin, alto saxophone and piano.* Barcelona: Editorial de Musica Boileau 2020.
