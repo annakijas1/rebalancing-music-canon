@@ -5,7 +5,7 @@ author: Smith, Linda Catlin
 ensemble: chamber-instrument
 period: 2010-2019
 permalink: /catlin-smith-rose-with-thorns/
-document: 
+document: smith_rose_with_thorns.mei
 ---
 
 In *Rose with thorns: for violin and harpsichord (2012).* Chipping Norton, England: CE, Composers Edition 2022.
