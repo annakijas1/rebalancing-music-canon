@@ -3,8 +3,9 @@ layout: mei
 title: Window to Eternity's Threshold I. Dancing for Fire 
 author: Lee, James, III
 ensemble: solo
+period: 2010-2019
 permalink: /lee-window-to-eternitys-threshold-i/
-document: 
+document: lee_window_to_eternitys_threshold_i.mei
 ---
 
 In *Window to eternity's threshold: for piano.* Verona, New Jersey: Subito Music 2020.

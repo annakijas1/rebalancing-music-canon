@@ -3,8 +3,9 @@ layout: mei
 title: Window to Eternity's Threshold II. Jacob's Song
 author: Lee, James, III
 ensemble: solo
+period: 2010-2019
 permalink: /lee-window-to-eternitys-threshold-ii/
-document: 
+document: lee_window_to_eternitys_threshold_ii.mei
 ---
 
 In *Window to eternity's threshold: for piano.* Verona, New Jersey: Subito Music 2020.

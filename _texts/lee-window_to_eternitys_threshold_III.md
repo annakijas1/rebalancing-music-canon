@@ -3,8 +3,9 @@ layout: mei
 title: Window to Eternity's Threshold III. Blowing Winds
 author: Lee, James, III
 ensemble: solo
+period: 2010-2019
 permalink: /lee-window-to-eternitys-threshold-iii/
-document: 
+document: lee_window_to_eternitys_threshold_iii.mei
 ---
 
 In *Window to eternity's threshold: for piano.* Verona, New Jersey: Subito Music 2020.
