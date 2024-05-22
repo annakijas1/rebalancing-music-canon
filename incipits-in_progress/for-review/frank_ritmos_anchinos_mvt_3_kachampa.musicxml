@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Gabriela Lena Frank</creator>
     <encoding>
-      <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-06-14</encoding-date>
+      <software>MuseScore 4.2.1</software>
+      <encoding-date>2024-05-22</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -37,6 +37,31 @@
         <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
@@ -54,6 +79,7 @@
       <part-abbreviation>Vln.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Violin</instrument-name>
+        <instrument-sound>strings.violin</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -65,14 +91,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="296.13">
+    <measure number="1" width="296.30">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>66.45</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>185.81</top-system-distance>
+          <top-system-distance>194.87</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -91,17 +117,17 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-37.68" default-y="43.23" relative-y="20.00" font-weight="bold" font-size="12">¡Feroz! </words>
+          <words default-x="-37.68" default-y="52.29" relative-y="20.00" font-weight="bold" font-size="12">¡Feroz! </words>
           <words font-family="Leland Text"></words>
           </direction-type>
         <direction-type>
-          <metronome parentheses="no" default-x="-37.68" default-y="43.23" relative-y="20.00">
+          <metronome parentheses="no" default-x="-37.68" default-y="52.29" relative-y="20.00">
             <beat-unit></beat-unit>
             <per-minute>136</per-minute>
             </metronome>
           </direction-type>
         <direction-type>
-          <words default-x="-37.68" default-y="43.23" relative-y="20.00" font-weight="bold" font-size="12"></words>
+          <words default-x="-37.68" default-y="52.29" relative-y="20.00" font-weight="bold" font-size="12"></words>
           </direction-type>
         <sound tempo="136"/>
         </direction>
@@ -119,7 +145,7 @@
           </direction-type>
         <sound dynamics="124.44"/>
         </direction>
-      <note default-x="111.66" default-y="25.00">
+      <note default-x="111.83" default-y="25.00">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -131,13 +157,13 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <accent/>
             </articulations>
           </notations>
         </note>
-      <note default-x="133.76" default-y="35.00">
+      <note default-x="133.92" default-y="35.00">
         <pitch>
           <step>F</step>
           <octave>6</octave>
@@ -149,7 +175,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="155.85" default-y="25.00">
+      <note default-x="156.02" default-y="25.00">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -161,7 +187,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="177.95" default-y="20.00">
+      <note default-x="178.12" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -176,7 +202,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="200.05" default-y="25.00">
+      <note default-x="200.21" default-y="25.00">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -188,13 +214,13 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <accent/>
             </articulations>
           </notations>
         </note>
-      <note default-x="222.14" default-y="35.00">
+      <note default-x="222.31" default-y="35.00">
         <pitch>
           <step>F</step>
           <octave>6</octave>
@@ -206,7 +232,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="244.24" default-y="25.00">
+      <note default-x="244.41" default-y="25.00">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -218,7 +244,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="266.34" default-y="20.00">
+      <note default-x="266.51" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -234,14 +260,14 @@
           </notations>
         </note>
       </measure>
-    <measure number="2" width="139.83">
+    <measure number="2" width="139.67">
       <attributes>
         <time>
           <beats>2</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="37.48" default-y="25.00">
+      <note default-x="36.92" default-y="25.00">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -256,13 +282,13 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="61.66" default-y="-20.00">
+      <note default-x="61.24" default-y="-20.00">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="85.85" default-y="-20.00">
+      <note default-x="85.55" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -273,13 +299,13 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <accent/>
             </articulations>
           </notations>
         </note>
-      <note default-x="110.04" default-y="-5.00">
+      <note default-x="109.87" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -291,6 +317,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
