@@ -3,6 +3,7 @@ layout: mei
 title: Bagatelles, V. Togetherness
 author: Chang, Dorothy
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /chang-bagatelles-togetherness/
 document: chang_bagatelles005.mei
 ---

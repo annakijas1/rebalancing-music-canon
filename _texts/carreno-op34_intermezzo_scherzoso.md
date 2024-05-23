@@ -3,6 +3,7 @@ layout: mei
 title: Intermezzo scherzoso, op. 34
 author: Carreño, Teresa
 ensemble: solo
+period: 1870-1879
 permalink: /carreno-34/
 document: carreno_intermezzo_scherzoso_op34.mei
 ---

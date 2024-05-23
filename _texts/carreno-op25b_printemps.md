@@ -3,11 +3,12 @@ layout: mei
 title: Le printemps, op. 25, Valse
 author: Carreño, Teresa
 ensemble: solo
+period: 1860-1869
 permalink: /carreno-25.2/
 document: carreno_printemps_op25_valse.mei
 ---
 
-In *Music for piano*, edited by Carmen  Rodriguez-Peralta. Bryn Mawr, Pa.: Hildegard Pub., 1996.
+In *Music for piano*, edited by Carmen Rodriguez-Peralta. Bryn Mawr, Pa.: Hildegard Pub., 1996.
 
 **Instrumentation summary**: piano (1)
 

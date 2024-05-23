@@ -3,6 +3,7 @@ layout: mei
 title: American Vein, V. Barn Raising, Bourbon and Bluegrass (BB&B)
 author: Coleman, Valerie
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /coleman-american-vein-barn-raising/
 document: coleman_american_vein005.mei
 ---

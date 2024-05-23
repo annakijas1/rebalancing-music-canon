@@ -3,6 +3,7 @@ layout: mei
 title: Negro dance for solo piano   
 author: Holt, Nora Douglas
 ensemble: solo 
+period: unknown
 permalink: /holt-negro-dance/
 document: holt_negro_dance.mei
 ---

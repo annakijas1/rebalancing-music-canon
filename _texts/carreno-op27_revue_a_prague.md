@@ -3,11 +3,12 @@ layout: mei
 title: Une revue à Prague, op. 27
 author: Carreño, Teresa
 ensemble: solo
+period: 1860-1869
 permalink: /carreno-27/
 document: carreno_revue_a_prague_op27.mei
 ---
 
-In *Music for piano*, edited by Carmen  Rodriguez-Peralta. Bryn Mawr, Pa.: Hildegard Pub., 1996.
+In *Music for piano*, edited by Carmen Rodriguez-Peralta. Bryn Mawr, Pa.: Hildegard Pub., 1996.
 
 **Instrumentation summary**: piano (1)
 

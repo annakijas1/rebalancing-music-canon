@@ -3,6 +3,7 @@ layout: mei
 title: Bagatelles, I. The palest of blues
 author: Chang, Dorothy
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /chang-bagatelles-blues/
 document: chang_bagatelles001.mei
 ---

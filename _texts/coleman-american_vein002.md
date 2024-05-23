@@ -3,6 +3,7 @@ layout: mei
 title: American Vein, II. On Route 66
 author: Coleman, Valerie
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /coleman-american-vein-route-66/
 document: coleman_american_vein002.mei
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Frenetic memories (Clarinet quintet)
 author: Fung, Vivian
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /fung-frenetic-memories/
 image: fung_frenetic-memories.png
 ---

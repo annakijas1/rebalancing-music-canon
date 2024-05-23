@@ -3,6 +3,7 @@ layout: post
 title: In distance
 author: Dun, Tan
 ensemble: chamber-instrument
+period: 1980-1989
 permalink: /dun-in-distance/
 image: dun_in-distance.png
 ---

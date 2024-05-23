@@ -3,6 +3,7 @@ layout: mei
 title: Zetsu
 author: Koh, Emily
 ensemble: chamber-instrument 
+period: 2010-2019
 permalink: /koh-zetsu/
 document: koh_zetsu.mei
 ---

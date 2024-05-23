@@ -1,8 +1,9 @@
 ---
 layout: mei
-title: Caprice étude, op. 7
+title: Caprice Étude, op. 7
 author: Carreño, Teresa
 ensemble: solo
+period: unknown
 permalink: /carreno-caprice-etude/
 document: carreno_caprice_etude.mei
 ---

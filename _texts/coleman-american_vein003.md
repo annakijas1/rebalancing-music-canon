@@ -3,6 +3,7 @@ layout: mei
 title: American Vein, III. Woodstock, Summer of 1952
 author: Coleman, Valerie
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /coleman-american-vein-woodstock/
 document: coleman_american_vein003.mei
 ---

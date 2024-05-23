@@ -3,6 +3,7 @@ layout: mei
 title: String quartet in C minor, mvt. 3, Allegro ma non troppo
 author: Carreño, Teresa
 ensemble: chamber-instrument
+period: 1890-1899
 permalink: /carreno-string_quartet_mvt3/
 document: carreno_string_quartet_mvt3.mei
 ---
