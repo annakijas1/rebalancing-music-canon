@@ -3,6 +3,7 @@ layout: mei
 title: Attente, (Quatre chants)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-attente/
 document: boulanger_quatre_chants_attente.mei
 ---
