@@ -3,6 +3,7 @@ layout: mei
 title: Un poète disait ..., (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-poete_disait/
 document: boulanger_poete_disait.mei
 ---

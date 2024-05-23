@@ -3,6 +3,7 @@ layout: mei
 title: Au pied de mon lit, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-au_pied/
 document: boulanger_au_pied_de_mon_lit.mei
 ---

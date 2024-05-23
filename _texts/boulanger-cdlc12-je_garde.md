@@ -3,6 +3,7 @@ layout: mei
 title: Je garde un médaille d'elle, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-je_garde/
 document: boulanger_je_garde_une_medaille_d_elle.mei
 ---
