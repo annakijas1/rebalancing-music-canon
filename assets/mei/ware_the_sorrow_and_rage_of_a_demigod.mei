@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m1w6uunc">
+      <fileDesc xml:id="f1fdo6my">
+         <titleStmt xml:id="t193izxu">
+            <title>The Sorrow and Rage of a Demigod</title>
+            <respStmt>
+               <persName role="composer">Lawren Brianna Ware</persName>
+               <persName role="transcriber">Jordan Good</persName>
+               <persName role="reviewer">Jordan Good</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="po7e3vc">
+            <date isodate="2023-08-25" type="encoding-date">2023-08-25</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="ef5u3mz">
+         <appInfo xml:id="ay77eez">
+            <application xml:id="a1t7umim" isodate="2024-05-23T19:48:24" version="4.2.0-8a772f5">
+               <name xml:id="n1uwwdbw">Verovio</name>
+               <p xml:id="p544oar">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mr6lqwi">
+            <score xml:id="s1inb6r8">
+               <scoreDef xml:id="s1wjyas8">
+                  <pgHead xml:id="pu2fb40">
+                     <rend xml:id="r4c1du2" halign="right" valign="bottom">Lawren Brianna Ware</rend>
+                  </pgHead>
+                  <staffGrp xml:id="sx2jj5i">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="lp8qvm2">Violoncello</label>
+                        <labelAbbr xml:id="lyg7bux">Vc.</labelAbbr>
+                        <instrDef xml:id="ifc3mv" midi.channel="0" midi.instrnum="42" midi.volume="78.00%" />
+                        <clef xml:id="c1jlm3jz" shape="F" line="4" />
+                        <keySig xml:id="k1tlxrzy" sig="3f" />
+                        <meterSig xml:id="ms4247" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s14xrr3g">
+                  <pb xml:id="pz4j95s" />
+                  <measure xml:id="m1ljuypc" n="1">
+                     <staff xml:id="s1dhext8" n="1">
+                        <layer xml:id="l1xl2m7j" n="1">
+                           <note xml:id="n1rhzghi" dur.ppq="16" dur="1" oct="4" pname="f">
+                              <artic xml:id="a1ocmzc6" artic="acc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="t7gyu7m" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000">
+                        <rend xml:id="rsty6n6" fontweight="bold">Adagio </rend>
+                     </tempo>
+                     <dynam xml:id="dfu2obg" place="below" staff="1" tstamp="1.000000" val="96" vgrp="425">fp</dynam>
+                  </measure>
+                  <measure xml:id="mvtqbq9" n="2">
+                     <staff xml:id="s1hsyykr" n="1">
+                        <layer xml:id="l16w9o1y" n="1">
+                           <note xml:id="n1vgo0hz" dur.ppq="16" dur="1" oct="4" pname="d" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d64qcef" place="below" staff="1" tstamp="1.000000" val="49" vgrp="425">p</dynam>
+                     <slur xml:id="s1tq2aa0" startid="#n1vgo0hz" endid="#nsf6ppr" curvedir="above" />
+                  </measure>
+                  <measure xml:id="m1tmqtl8" n="3">
+                     <staff xml:id="s1qfasln" n="1">
+                        <layer xml:id="l22fbcc" n="1">
+                           <note xml:id="nsf6ppr" dots="1" dur.ppq="12" dur="2" oct="4" pname="d" stem.dir="down" />
+                           <rest xml:id="r1jioewt" dur.ppq="4" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="msykdoi" n="4">
+                     <staff xml:id="s20i3ob" n="1">
+                        <layer xml:id="l14dvct7" n="1">
+                           <rest xml:id="r1admrae" dur.ppq="4" dur="4" />
+                           <rest xml:id="rozk9r" dur.ppq="2" dur="8" />
+                           <note xml:id="n1om7709" dur.ppq="2" dur="8" oct="4" pname="c" stem.dir="down" />
+                           <note xml:id="nsf9a14" dur.ppq="2" dur="8" oct="3" pname="g" stem.dir="down" />
+                           <note xml:id="noflm2q" dur.ppq="4" dur="4" oct="3" pname="a" stem.dir="down" accid.ges="f" />
+                           <note xml:id="na6mwee" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dz9e7l1" place="below" staff="1" tstamp="2.500000" val="80" vgrp="425">mf</dynam>
+                     <slur xml:id="s1g45z8e" startid="#nsf9a14" endid="#noflm2q" curvedir="above" />
+                  </measure>
+                  <measure xml:id="m12kpjar" n="5">
+                     <staff xml:id="sou2ddc" n="1">
+                        <layer xml:id="l1884v7o" n="1">
+                           <beam xml:id="b10sng6j">
+                              <note xml:id="nso6ymd" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="down" accid.ges="f" />
+                              <note xml:id="nv6otq5" dur.ppq="2" dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note xml:id="n1cix0n8" dur.ppq="2" dur="8" oct="3" pname="b" stem.dir="down" accid.ges="f" />
+                              <note xml:id="nwnuteq" dur.ppq="2" dur="8" oct="4" pname="c" stem.dir="down" />
+                           </beam>
+                           <beam xml:id="b1wa5toi">
+                              <note xml:id="n1ttly14" dur.ppq="2" dur="8" oct="3" pname="f" stem.dir="down">
+                                 <artic xml:id="akjqyf9" artic="ten" />
+                              </note>
+                              <note xml:id="ndjb6ty" dur.ppq="2" dur="8" oct="3" pname="g" stem.dir="down" />
+                           </beam>
+                           <note xml:id="n17mg8he" dur.ppq="4" dur="4" oct="3" pname="g" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="swf2uxt" startid="#nso6ymd" endid="#nv6otq5" curvedir="above" />
+                     <slur xml:id="s1v7iflg" startid="#n1cix0n8" endid="#nwnuteq" curvedir="above" />
+                     <slur xml:id="s1mswhcp" startid="#n1ttly14" endid="#ndjb6ty" curvedir="above" />
+                     <slur xml:id="s12pmwce" startid="#ndjb6ty" endid="#n17mg8he" curvedir="above" />
+                  </measure>
+                  <sb xml:id="svkh002" />
+                  <measure xml:id="m2bh3lj" n="6">
+                     <staff xml:id="s15utlqp" n="1">
+                        <layer xml:id="lbbjh01" n="1">
+                           <note xml:id="n1utaf15" dur.ppq="2" dur="8" oct="3" pname="d" stem.dir="down" />
+                           <rest xml:id="r1cyo423" dur.ppq="1" dur="16" />
+                           <note xml:id="ntcqh40" dur.ppq="1" dur="16" oct="3" pname="d" stem.dir="down" />
+                           <note xml:id="n1a0itdm" dots="1" dur.ppq="12" dur="2" oct="3" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dz6k5pe" place="below" staff="1" tstamp="1.000000" val="49" vgrp="455">p</dynam>
+                     <slur xml:id="s1fist2j" startid="#n1a0itdm" endid="#n17cr6un" curvedir="above" />
+                  </measure>
+                  <measure xml:id="m13pt3of" n="7">
+                     <staff xml:id="sguj68f" n="1">
+                        <layer xml:id="l1776hhl" n="1">
+                           <note xml:id="n17cr6un" dur.ppq="16" dur="1" oct="3" pname="d" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
