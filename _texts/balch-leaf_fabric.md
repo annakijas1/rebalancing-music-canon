@@ -5,7 +5,7 @@ author: Balch, Katherine
 ensemble: orchestra
 period: 2010-2019
 permalink: /balch-leaf-fabric/
-document: balch-leaf_fabric.png
+image: balch-leaf_fabric.png
 ---
 
 In *Leaf fabric: for orchestra.* New York: Schott New York, 2017.
