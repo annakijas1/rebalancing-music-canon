@@ -3,6 +3,7 @@ layout: mei
 title: Deux ancolies, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-deux_ancolies/
 document: boulanger_deux_ancolies.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Nous nous aimerons tant, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-nous_nous/
 document: boulanger_nous_nous_aimerons_tant.mei
 ---

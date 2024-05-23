@@ -3,6 +3,7 @@ layout: mei
 title: Le corbeille de fleurs, op. 9
 author: Carreño, Teresa
 ensemble: solo
+period: 1870-1879
 permalink: /carreno-9/
 document: carreno_corbeille_des_fleurs.mei
 ---

@@ -1,8 +1,9 @@
 ---
 layout: mei
-title: Gottschalk waltz, op. 1 I. Introduction
+title: Gottschalk Waltz, op. 1 I. Introduction
 author: Carreño, Teresa
 ensemble: solo
+period: 1860-1869
 permalink: /carreno-gottschalk-waltz-I/
 document: carreno_gottschalk_waltz_intro.mei
 ---

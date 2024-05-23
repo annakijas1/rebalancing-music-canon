@@ -3,6 +3,7 @@ layout: mei
 title: String quartet in C minor, mvt. 1, Allegro
 author: Carreño, Teresa
 ensemble: chamber-instrument
+period: 1890-1899
 permalink: /carreno-string_quartet_mvt1/
 document: carreno_string_quartet_mvt1.mei
 ---

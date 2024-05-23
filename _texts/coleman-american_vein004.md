@@ -3,6 +3,7 @@ layout: mei
 title: American Vein, IV. The Melting Pot
 author: Coleman, Valerie
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /coleman-american-vein-melting-pot/
 document: coleman_american_vein004.mei
 ---

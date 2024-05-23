@@ -3,6 +3,7 @@ layout: mei
 title: La fausse note, op. 39, Introduction
 author: Carreño, Teresa
 ensemble: solo
+period: 1870-1879
 permalink: /carreno-39.1/
 document: carreno_fausse_note_op39_intro.mei
 ---

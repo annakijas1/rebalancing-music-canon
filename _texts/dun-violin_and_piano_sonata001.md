@@ -3,6 +3,7 @@ layout: mei
 title: Violin and piano sonata (hero), I. Hero
 author: Dun, Tan
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /dun-sonata-hero/
 document: dun_violin_and_piano_sonata001.mei
 ---

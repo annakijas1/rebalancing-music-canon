@@ -3,6 +3,7 @@ layout: post
 title: Duo Lirico for violin and harpsichord
 author: Brogue, Roslyn
 ensemble: chamber-instrument
+period: unknown
 permalink: /brogue-duo-lirico/
 image: brogue_duo_lirico.png
 ---

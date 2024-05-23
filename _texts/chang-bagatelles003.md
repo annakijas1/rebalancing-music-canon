@@ -3,6 +3,7 @@ layout: post
 title: Bagatelles, III. Elixir
 author: Chang, Dorothy
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /chang-bagatelles-elixir/
 image: chang-bagatelles003.png
 ---

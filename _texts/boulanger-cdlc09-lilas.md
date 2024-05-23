@@ -3,6 +3,7 @@ layout: mei
 title: Les lilas qui avaient fleuri, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-lilas/
 document: boulanger_les_lilas_qui_avaient_fleuri.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Adagio Para Amantani
 author: Frank, Gabriela Lena
 ensemble: solo 
+period: 2000-2009
 permalink: /frank-adagio-para-amantani/
 document: 
 ---

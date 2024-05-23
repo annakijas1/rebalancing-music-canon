@@ -3,6 +3,7 @@ layout: mei
 title: Dans l'immense tristesse, (Quatre chants)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-dans/
 document: boulanger_quatre_chants_dans_immense_tristesse.mei
 ---

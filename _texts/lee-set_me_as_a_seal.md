@@ -3,6 +3,7 @@ layout: mei
 title: Set me as a seal upon thine heart
 author: Lee, James, III
 ensemble: chamber-vocal
+period: 2000-2009
 permalink: /lee-set-me-as-a-seal/
 document: lee_set_me_as_a_seal_upon_thine_heart.mei
 ---

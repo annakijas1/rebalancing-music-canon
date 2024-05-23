@@ -2,7 +2,8 @@
 layout: mei
 title: Un bal en rêve, op. 26
 author: Carreño, Teresa
-ensemble: solo 
+ensemble: solo
+period: 1860-1869 
 permalink: /carreno-26/
 document: carreno_un_bal_en_reve_op26.mei
 ---

@@ -3,6 +3,7 @@ layout: mei
 title: Si tout ceci n'est qu'un pauvre rêve, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-si_tout-ceci/
 document: boulanger_si_tout_ceci_nest_quun_pauvre_reve.mei
 ---

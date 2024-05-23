@@ -3,6 +3,7 @@ layout: mei
 title: Chanson de La riviére
 author: Coleman, Valerie
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /coleman-chanson/
 document: coleman_chanson_de_la_riviere.mei
 ---

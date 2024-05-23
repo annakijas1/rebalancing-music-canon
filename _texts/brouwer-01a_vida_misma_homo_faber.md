@@ -3,6 +3,7 @@ layout: mei
 title: La Vida Misma, I. Homo Faber
 author: Brouwer, Leo
 ensemble: chamber-instrument 
+period: 1990-1999
 permalink: /brouwer-la-vida-misma-homo-faber/
 document: brouwer_vida_misma_homo_faber.mei
 ---

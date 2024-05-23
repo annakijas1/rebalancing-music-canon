@@ -3,6 +3,7 @@ layout: mei
 title: La Vida Misma, III. Homo Ludens
 author: Brouwer, Leo
 ensemble: chamber-instrument 
+period: 1990-1999
 permalink: /brouwer-la-vida-misma-homo-ludens/
 document: brouwer_vida_misma_homo_ludens.mei
 ---

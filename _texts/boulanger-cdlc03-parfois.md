@@ -3,6 +3,7 @@ layout: mei
 title: Parfois, je suis triste, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-parfois/
 document: boulanger_parfois_je_suis_triste.mei
 ---

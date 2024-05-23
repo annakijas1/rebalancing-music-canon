@@ -3,6 +3,7 @@ layout: mei
 title: Par ce que j'ai souffert, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-souffert/
 document: boulanger_par_ce_que_jai_souffert.mei
 ---

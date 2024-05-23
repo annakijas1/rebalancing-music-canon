@@ -3,6 +3,7 @@ layout: mei
 title: La Vida Misma, II. Homo Sapiens
 author: Brouwer, Leo
 ensemble: chamber-instrument
+period: 1990-1999
 permalink: /brouwer-la-vida-misma-homo-sapiens/
 document: brouwer_vida_misma_homo_sapiens.mei
 ---

@@ -3,11 +3,12 @@ layout: mei
 title: Kleiner Walzer (Mi Teresita)
 author: Carreño, Teresa
 ensemble: solo
+period: 1890-1899
 permalink: /carreno-kleiner_walzer/
 document: carreno_kleiner_walzer.mei
 ---
 
-In *Music for piano*, edited by Carmen  Rodriguez-Peralta. Bryn Mawr, Pa.: Hildegard Pub., 1996.
+In *Music for piano*, edited by Carmen Rodriguez-Peralta. Bryn Mawr, Pa.: Hildegard Pub., 1996.
 
 **Instrumentation summary**: piano (1)
 

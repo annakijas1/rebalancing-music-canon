@@ -3,6 +3,7 @@ layout: mei
 title: Two Impromptus, II.
 author: Kay, Ulysses
 ensemble: solo
+period: unknown
 permalink: /kay-two-impromptus-ii/
 document: kay_two_impromptus_ii.mei
 ---
