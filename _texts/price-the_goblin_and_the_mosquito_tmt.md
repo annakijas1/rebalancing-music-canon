@@ -8,10 +8,10 @@ permalink: price-goblin-and-mosquito
 document: price_the_goblin_and_the_mosquito_tmt (1).mei
 ---
 
-Florece R Price, The Goblin and the Mosquito 
+In *The Goblin and the Mosquito*
 
-**Instrumentation summary**: Solo Piano
+**Instrumentation summary**: piano (1)
 
-**Instrumentation group**: [use commas between instruments]
+**Instrumentation group**: keyboard
 
 **Location**: Unsure
