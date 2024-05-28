@@ -3,6 +3,7 @@ layout: mei
 title: Plainte! op. 17 (Plaìntes au bord d'une tombe. Six melodies, No. 1)
 author: Carreño, Teresa
 ensemble: solo
+period: 1860-1869
 permalink: /carreno-17/
 document: carreno_plainte.mei
 ---

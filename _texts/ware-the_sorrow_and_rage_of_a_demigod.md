@@ -3,8 +3,9 @@ layout: mei
 title: The Sorrow and Rage of a Demigod 
 author: Ware, Lawren Brianna
 ensemble: chamber-instrument
+period: 2020-2029
 permalink: /ware-the-sorrow-and-rage-of-a-demigod/
-document: 
+document: ware_the_sorrow_and_rage_of_a_demigod.mei
 ---
 
 In *The Sorrow and Rage of a Demigod.* United States: B. Ware Works Publishing, 2022.

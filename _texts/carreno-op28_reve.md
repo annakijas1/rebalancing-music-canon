@@ -3,6 +3,7 @@ layout: post
 title: Un rêve en mer (Étude-Méditation), op. 28
 author: Carreño, Teresa
 ensemble: solo 
+period: 1860-1869
 permalink: /carreno-28/
 image: carreno_reve_en_mer_op28.png
 ---

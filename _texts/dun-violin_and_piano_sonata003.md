@@ -3,6 +3,7 @@ layout: mei
 title: Violin and piano sonata (hero), III. Wind sword
 author: Dun, Tan
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /dun-sonata-sword/
 document: dun_violin_and_piano_sonata003.mei
 ---

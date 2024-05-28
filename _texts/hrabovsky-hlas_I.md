@@ -3,6 +3,7 @@ layout: mei
 title: Hlas I 
 author: Hrabovsky, Leonid
 ensemble: solo
+period: 1990-1999
 permalink: /hrabovsky-hlas-i/
 document: hrabovsky_hlas_I.mei
 ---

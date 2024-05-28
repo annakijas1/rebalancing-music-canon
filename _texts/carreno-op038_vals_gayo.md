@@ -3,6 +3,7 @@ layout: mei
 title: Vals gayo
 author: Carreño, Teresa
 ensemble: solo
+period: 1900-1909
 permalink: /carreno-vals-gayo/
 document: carreno_vals_gayo.mei
 ---

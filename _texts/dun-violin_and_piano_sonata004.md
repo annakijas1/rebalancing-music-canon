@@ -3,6 +3,7 @@ layout: mei
 title: Violin and piano sonata (hero), IV. Sorrow in the desert
 author: Dun, Tan
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /dun-sonata-desert/
 document: dun_violin_and_piano_sonata004.mei
 ---

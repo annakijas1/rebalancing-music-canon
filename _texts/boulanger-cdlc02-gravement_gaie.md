@@ -3,6 +3,7 @@ layout: mei
 title: Elle est gravement gaie, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-gravement_gaie/
 document: boulanger_elle_est_gravement_gaie.mei
 ---

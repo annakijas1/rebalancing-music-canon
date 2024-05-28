@@ -3,6 +3,7 @@ layout: post
 title: Two Impromptus, I.
 author: Kay, Ulysses
 ensemble: solo
+period: unknown
 permalink: /kay-two-impromptus-i/
 image: kay_two_impromptus_i.png
 ---

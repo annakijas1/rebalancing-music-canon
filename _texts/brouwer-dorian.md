@@ -2,7 +2,8 @@
 layout: post
 title: Dorian, it is too late - in memoriam Oscar Wilde
 author: Brouwer, Leo
-ensemble: solo   
+ensemble: solo
+period: 2020-2029   
 permalink: /brouwer-dorian/
 image: brouwer_dorian.png
 ---

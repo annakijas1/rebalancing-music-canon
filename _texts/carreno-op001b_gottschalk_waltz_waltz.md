@@ -1,8 +1,9 @@
 ---
 layout: mei
-title: Gottschalk waltz, op. 1 II. Waltz
+title: Gottschalk Waltz, op. 1 II. Waltz
 author: Carreño, Teresa
 ensemble: solo
+period: 1860-1869
 permalink: /carreno-gottschalk-waltz-II/
 document: carreno_gottschalk_waltz_II_waltz.mei
 ---

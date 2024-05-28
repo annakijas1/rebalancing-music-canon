@@ -3,6 +3,7 @@ layout: mei
 title: Reflets, (Quatre chants)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-reflets/
 document: boulanger_quatre_chants_reflets.mei
 ---

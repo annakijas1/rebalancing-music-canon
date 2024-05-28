@@ -3,6 +3,7 @@ layout: mei
 title: Demain fera un an, (Clairières dans le ciel, 13 mélodies)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-demain_fera/
 document: boulanger_demain_fera_un_an.mei
 ---

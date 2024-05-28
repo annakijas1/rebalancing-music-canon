@@ -1,8 +1,9 @@
 ---
 layout: mei
-title: Gottschalk waltz, op. 1 III. Coda
+title: Gottschalk Waltz, op. 1 III. Coda
 author: Carreño, Teresa
 ensemble: solo 
+period: 1860-1869
 permalink: /carreno-gottschalk-waltz-III/
 document: carreno_gottschalk_waltz_coda.mei
 ---

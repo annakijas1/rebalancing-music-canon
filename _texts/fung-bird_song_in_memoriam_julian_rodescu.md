@@ -1,13 +1,14 @@
 ---
 layout: mei
-title: Bird Song - In Memoriam Julian Rodescu
+title: Birdsong - In Memoriam Julian Rodescu
 author: Fung, Vivian
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /fung-bird-song-in-memoriam-julian-rodescu/
 document: fung_bird_song_in_memoriam_julian_rodescu.mei
 ---
 
-In *Bird Song: In Memoriam Julian Rodescu: for violin and piano.* Brooklyn: Bill Holab Music, 2015.
+In *Birdsong: In Memoriam Julian Rodescu: for violin and piano.* Brooklyn: Bill Holab Music, 2015.
 
 **Instrumentation summary**: violin (1), piano (1)
 

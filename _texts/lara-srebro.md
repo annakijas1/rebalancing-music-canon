@@ -3,6 +3,7 @@ layout: mei
 title: Srebro for three flutes
 author: Lara, Ana
 ensemble: chamber-instrument
+period: 2000-2009
 permalink: /lara-srebro/
 document: lara_srebro.mei
 ---

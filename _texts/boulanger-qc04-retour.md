@@ -3,6 +3,7 @@ layout: mei
 title: Le retour, (Quatre chants)
 author: Boulanger, Lili
 ensemble: chamber-vocal
+period: 1910-1919
 permalink: /boulanger-retour/
 document: boulanger_quatre_chants_ le_retour.mei
 ---

@@ -1,8 +1,9 @@
 ---
 layout: mei
-title: Bagatelles, VI. Rhythm study no. 1.
+title: Bagatelles, VI. Rhythm study no. 1
 author: Chang, Dorothy
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /chang-bagatelles-study/
 document: chang_bagatelles006.mei
 ---

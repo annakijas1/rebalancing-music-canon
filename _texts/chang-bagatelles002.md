@@ -3,6 +3,7 @@ layout: mei
 title: Bagatelles, II. Rondino
 author: Chang, Dorothy
 ensemble: chamber-instrument
+period: 2010-2019
 permalink: /chang-bagatelles-rondino/
 document: chang_bagatelles002.mei
 ---

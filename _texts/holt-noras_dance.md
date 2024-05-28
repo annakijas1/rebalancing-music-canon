@@ -3,6 +3,7 @@ layout: mei
 title: Nora's dance
 author: Holt, Nora Douglas
 ensemble: solo
+period: unknown
 permalink: /holt-noras-dance/
 document: holt_noras_dance_op25_no1.mei
 ---

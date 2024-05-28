@@ -3,6 +3,7 @@ layout: mei
 title: Partie! op. 18 (Plaìntes au bord d'une tombe. Six melodies, No. 2)
 author: Carreño, Teresa
 ensemble: solo 
+period: 1860-1869
 permalink: /carreno-18/
 document: carreno_partie.mei
 ---
