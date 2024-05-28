@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adams, Leslie (1932-)
+title: Adams, Leslie (1932-2024)
 category: incipits
 century: 20th
 permalink: /adams/
