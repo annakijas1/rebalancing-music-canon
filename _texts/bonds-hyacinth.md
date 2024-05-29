@@ -8,7 +8,7 @@ permalink: /bonds-hyacinth/
 document: bonds_hyacinth.mei
 ---
 
-In *Six songs on poems by Edna St. Vincent Millay : for voice and piano.* Bryn Mawr, Pennsylvania : Hildegard Publishing Company, 2020. 
+In *Six songs on poems by Edna St. Vincent Millay: For Voice and Piano.* Bryn Mawr, Pennsylvania : Hildegard Publishing Company, 2020. 
 
 **Instrumentation summary**: medium voice (1), piano (1)
 
