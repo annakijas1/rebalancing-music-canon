@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="md0csj9">
+      <fileDesc xml:id="f1fu1ga6">
+         <titleStmt xml:id="t1jlamo2">
+            <title>Four Songs</title>
+            <title type="subtitle">Even in the Moment</title>
+            <respStmt>
+               <persName role="composer">Margaret Bonds</persName>
+               <persName xml:id="js01" role="transcriber">Jo Strogatz and Nitya Nadgir</persName>
+               <persName xml:id="tmt01" role="reviewer">Teresa M.Turnage</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p133eqiq">
+            <date isodate="2024-05-29" type="encoding-date">2024-05-29</date>
+             <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="erxzq6l">
+         <appInfo xml:id="ateyafu">
+            <application xml:id="aj1k9ij" isodate="2024-05-29T12:36:58" version="4.2.0-8a772f5">
+               <name xml:id="nbxv9hv">Verovio</name>
+               <p xml:id="pf9bqib">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mhg77r3">
+            <score xml:id="sy9fhnb">
+               <scoreDef xml:id="s1ti32xa">
+                  <pgHead xml:id="p1ymday">
+                     <rend xml:id="rd2nh05" halign="right" valign="top">Margaret Bonds (1913-1972)</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s15wtvw9">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="6">
+                        <label xml:id="lc8iz2l">Voice</label>
+                        <labelAbbr xml:id="l1k6vdt3">Vo.</labelAbbr>
+                        <instrDef xml:id="if0zs3c" midi.channel="0" midi.instrnum="52" midi.volume="78.00%" />
+                        <clef xml:id="cp9f055" shape="G" line="2" />
+                        <keySig xml:id="k19kjppk" sig="1s" />
+                        <meterSig xml:id="mb1q88x" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1qo4m38">
+                  <measure xml:id="md5w5wj" n="1">
+                     <staff xml:id="shy6fxa" n="1">
+                        <layer xml:id="l17zwa4p" n="1">
+                           <note xml:id="n9kyelk" dur.ppq="3" dur="8" oct="3" pname="b" stem.dir="up">
+                              <verse xml:id="vp32eq7" n="1">
+                                 <syl xml:id="s1nrmbp9" con="d" wordpos="i">E</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nrzxbsb" dur.ppq="3" dur="8" oct="3" pname="b" stem.dir="up">
+                              <verse xml:id="vp5g742" n="1">
+                                 <syl xml:id="s9kqxtc" con="u" wordpos="t">ven</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n152xkkt" dur.ppq="12" dur="2" oct="3" pname="b" stem.dir="up" />
+                           <note xml:id="nr9os7o" dur.ppq="3" dur="8" oct="4" pname="c" stem.dir="up">
+                              <verse xml:id="v102e8ug" n="1">
+                                 <syl xml:id="skmmgl0" con="s" wordpos="s">in</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n5pgib9" dur.ppq="3" dur="8" oct="4" pname="d" stem.dir="up">
+                              <verse xml:id="v1ci54sx" n="1">
+                                 <syl xml:id="szsg88r" con="s" wordpos="s">the</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="ddxhit8" place="above" staff="1" tstamp="1.000000" val="49" vgrp="2015">p</dynam>
+                     <tie xml:id="t16fq73o" startid="#nrzxbsb" endid="#n152xkkt" />
+                  </measure>
+                  <measure xml:id="m2fyt82" n="2">
+                     <staff xml:id="s8leae3" n="1">
+                        <layer xml:id="lsfxas8" n="1">
+                           <note xml:id="n1cyemct" dur.ppq="3" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="vxu7oqz" n="1">
+                                 <syl xml:id="sv2k26f" con="d" wordpos="i">mo</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nub7gml" dur.ppq="3" dur="8" oct="4" pname="e" stem.dir="up">
+                              <verse xml:id="v1r6t0gq" n="1">
+                                 <syl xml:id="sino2av" con="s" wordpos="t">ment</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="n1uz2qrx" dur.ppq="12" dur="2" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="nten3mo" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                              <verse xml:id="v1qeoav9" n="1">
+                                 <syl xml:id="sv8zhzj" con="s" wordpos="s">of</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="np8t2df" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up">
+                              <verse xml:id="v1nym7k4" n="1">
+                                 <syl xml:id="siwasri" con="s" wordpos="s">our</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="t24v35m" startid="#nub7gml" endid="#n1uz2qrx" />
+                  </measure>
+                  <measure xml:id="mppnzzl" n="3">
+                     <staff xml:id="s1xuriya" n="1">
+                        <layer xml:id="lu3u9sw" n="1">
+                           <tuplet xml:id="ti451yf" num="3" numbase="2" bracket.visible="true">
+                              <note xml:id="nvg5kvl" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                                 <verse xml:id="vr4ir83" n="1">
+                                    <syl xml:id="s1axhxmp" con="d" wordpos="i">ear</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="nvpos4k" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="v1iy31d3" n="1">
+                                    <syl xml:id="s49m9p9" con="d" wordpos="m">li</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="ngu4aq7" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up">
+                                 <verse xml:id="v1rfb7sn" n="1">
+                                    <syl xml:id="sxa6uuu" con="s" wordpos="t">est</syl>
+                                 </verse>
+                              </note>
+                           </tuplet>
+                           <note xml:id="n1ysc4oc" dots="1" dur.ppq="18" dur="2" oct="4" pname="f" stem.dir="up" accid.ges="s">
+                              <verse xml:id="vrl4ii1" n="1">
+                                 <syl xml:id="s2i7czp" con="u" wordpos="s">kiss,</syl>
+                              </verse>
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="t7vsbj9" startid="#n1ysc4oc" endid="#n1szh5v4" />
+                  </measure>
+                  <measure xml:id="m1st93px" n="4">
+                     <staff xml:id="saycq3" n="1">
+                        <layer xml:id="laf29yl" n="1">
+                           <note xml:id="n1szh5v4" dur.ppq="24" dur="1" oct="4" pname="f" accid.ges="s" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
