@@ -3,7 +3,7 @@ layout: mei
 title: Even in the Moment
 author: Bonds, Margaret
 ensemble: chamber-vocal
-period: 2020-2029
+period: unknown
 permalink: /bonds-even-in-the-moment/
 document: bonds_even_in_the_moment.mei
 ---
