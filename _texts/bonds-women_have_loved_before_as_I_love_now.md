@@ -3,7 +3,7 @@ layout: mei
 title: Women Have Loved Before As I Love Now 
 author: Bonds, Margaret
 ensemble: chamber-vocal
-period: 2020-2029
+period: unknown
 permalink: /bonds-women-have-loved-before-as-i-love-now/
 document: bonds_women_have_loved_before_as_i_love_now.mei
 ---
