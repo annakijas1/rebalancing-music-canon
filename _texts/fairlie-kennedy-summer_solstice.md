@@ -5,7 +5,7 @@ author: Fairlie-Kennedy, Margaret
 ensemble: chamber-instrument
 period: 2000-2009
 permalink: /fairlie-kennedy-summer-solstice/
-document:
+document: fairlie-kennedy-summer_solstice.mei
 ---
 
 In *Summer solstice: flute/alto/piccolo, clarinet, violin, cello, piano and percussion, 2007.* New York, New York: American Composers Alliance: New York Women Composers, Inc. 2022.
