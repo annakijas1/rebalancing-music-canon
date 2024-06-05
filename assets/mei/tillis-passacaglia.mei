@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m1j7hfu6">
+      <fileDesc xml:id="fbpd3in">
+         <titleStmt xml:id="t1eh4uc4">
+            <title>Passacaglia for Brass Quintet</title>
+            <respStmt>
+               <persName role="composer">Frederick C. Tillis</persName>
+               <persName xml:id="jg01" role="transcriber">Jordan Good</persName>
+               <persName xml:id="tmt01" role="reviewer">Teresa M. Turnage</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1vkutva">
+            <date isodate="2023-07-29" type="encoding-date">2023-07-29</date>
+                     <publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="ejiem07">
+         <appInfo xml:id="a9roy4u">
+            <application xml:id="atih509" isodate="2024-06-04T21:29:12" version="4.2.0-8a772f5">
+               <name xml:id="n1h2xp23">Verovio</name>
+               <p xml:id="pw76lay">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="ms9ck8c">
+            <score xml:id="s1qdz0wb">
+               <scoreDef xml:id="s17f2vme">
+                  <pgHead xml:id="p11jklb6">
+                     <rend xml:id="ra22fvt" halign="right" valign="bottom">Frederick C. Tillis</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1mwozq">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1" trans.diat="-1" trans.semi="-2">
+                        <label xml:id="l187ow1">Trumpet in B♭</label>
+                        <labelAbbr xml:id="l1ftnadz">Tpt. in B♭</labelAbbr>
+                        <instrDef xml:id="idh69va" midi.channel="0" midi.instrnum="56" midi.volume="78.00%" />
+                        <clef xml:id="c910lne" shape="G" line="2" />
+                        <keySig xml:id="k1h6ucq7" sig="2f" />
+                        <meterSig xml:id="m1cxdoj9" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sp372yu">
+                  <pb xml:id="p1otwja0" />
+                  <measure xml:id="m1pq5hy2" n="1">
+                     <staff xml:id="s13ylyrb" n="1">
+                        <layer xml:id="l19tpd12" n="1">
+                           <multiRest xml:id="m18kzwe" num="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s1ksdbvp">
+                     <meterSig xml:id="m1a8bmji" count="2" unit="2" />
+                  </scoreDef>
+                  <measure xml:id="m1gmrnqe" n="5">
+                     <staff xml:id="s1736hsr" n="1">
+                        <layer xml:id="l1de23ax" n="1">
+                           <mRest xml:id="mes2kwz" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mprkffu" n="6">
+                     <staff xml:id="s14m2xpc" n="1">
+                        <layer xml:id="l1wylj4k" n="1">
+                           <multiRest xml:id="mgjbzq" num="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s1a0p7il">
+                     <meterSig xml:id="mcayz3" count="2" unit="2" />
+                  </scoreDef>
+                  <measure xml:id="mvluvbb" n="9">
+                     <staff xml:id="s1oalpzb" n="1">
+                        <layer xml:id="l1fz3gnv" n="1">
+                           <mRest xml:id="m1h8vwa" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m17d0rox" n="10">
+                     <staff xml:id="s1li4oxb" n="1">
+                        <layer xml:id="ln7kr3x" n="1">
+                           <multiRest xml:id="mjj60d6" num="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1qy1sl0" n="14">
+                     <staff xml:id="s141g7yf" n="1">
+                        <layer xml:id="l1sjrwt0" n="1">
+                           <multiRest xml:id="m18sq490" num="3" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="sb1mhpc" />
+                  <scoreDef xml:id="s1whu5qs">
+                     <meterSig xml:id="mr7uu7s" count="3" unit="2" />
+                  </scoreDef>
+                  <measure xml:id="mb4g64u" n="17">
+                     <staff xml:id="s1jhbd34" n="1">
+                        <layer xml:id="leee0pm" n="1">
+                           <rest xml:id="rd3gwul" dur.ppq="2" dur="2" />
+                           <note xml:id="n124d608" dur.ppq="4" dur="1" oct="4" pname="b" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dhevkij" place="below" staff="1" tstamp="2.000000" val="80" vgrp="425">mf</dynam>
+                  </measure>
+                  <measure xml:id="mbto5f6" n="18">
+                     <staff xml:id="sf4yny3" n="1">
+                        <layer xml:id="l1szg008" n="1">
+                           <note xml:id="nfppx6e" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="nka0nxc" dur.ppq="4" dur="1" oct="4" pname="g" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="s1d8uhdr" startid="#nfppx6e" endid="#nka0nxc" curvedir="below" />
+                  </measure>
+                  <measure xml:id="mqry30d" n="19">
+                     <staff xml:id="sogrebq" n="1">
+                        <layer xml:id="lbl8k5l" n="1">
+                           <rest xml:id="ry9umiq" dur.ppq="2" dur="2" />
+                           <note xml:id="n16xlavs" dur.ppq="4" dur="1" oct="5" pname="e" accid.ges="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1m8lg9c" n="20">
+                     <staff xml:id="s1wk3ml" n="1">
+                        <layer xml:id="l1c0lefe" n="1">
+                           <note xml:id="nxwubm0" dur.ppq="2" dur="2" oct="5" pname="d" stem.dir="down" />
+                           <note xml:id="n7di8oa" dur.ppq="4" dur="1" oct="5" pname="c" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="s15m4cs" startid="#nxwubm0" endid="#n7di8oa" curvedir="above" />
+                  </measure>
+                  <measure xml:id="m1m11iqq" n="21">
+                     <staff xml:id="sc3s6j9" n="1">
+                        <layer xml:id="lok16f" n="1">
+                           <rest xml:id="r15iqd72" dur.ppq="2" dur="2" />
+                           <note xml:id="n1ag83d5" dur.ppq="4" dur="1" oct="4" pname="g" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="ml3za1f" n="22">
+                     <staff xml:id="snwxywm" n="1">
+                        <layer xml:id="l5d9lp4" n="1">
+                           <note xml:id="n1bb2r81" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="nr531id" dur.ppq="4" dur="1" oct="5" pname="d" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="s90vvs5" startid="#n1bb2r81" endid="#nr531id" curvedir="below" />
+                  </measure>
+                  <measure xml:id="m180c56o" n="23">
+                     <staff xml:id="s1uxnmue" n="1">
+                        <layer xml:id="l1fwd9r9" n="1">
+                           <rest xml:id="ruqsifn" dur.ppq="2" dur="2" />
+                           <note xml:id="n1uodm4p" dur.ppq="4" dur="1" oct="5" pname="e" accid.ges="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mkf118d" n="24">
+                     <staff xml:id="s1wxzqav" n="1">
+                        <layer xml:id="l7iksie" n="1">
+                           <note xml:id="nrm8luu" dur.ppq="4" dur="1" oct="5" pname="d" />
+                           <note xml:id="nwpdsrr" dur.ppq="2" dur="2" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="h1uv3d44" staff="1" tstamp="1.000000" tstamp2="0m+4.0000" form="dim" place="below" vgrp="600" />
+                     <slur xml:id="s9bn58q" startid="#nrm8luu" endid="#nwpdsrr" curvedir="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
