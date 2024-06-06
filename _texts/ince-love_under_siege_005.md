@@ -8,7 +8,7 @@ permalink: /ince-war-theme/
 document: ince_love_under_siege_005.mei
 ---
 
-In *Love under siege : music for film (1997)* New York, NY: Schott, 2021.
+In *Love under siege: music for film (1997)* New York, NY: Schott, 2021.
 
 **Composition/Publication date**: 1997
 

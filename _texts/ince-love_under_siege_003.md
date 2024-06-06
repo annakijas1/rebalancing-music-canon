@@ -1,14 +1,14 @@
 ---
-layout: mei
+layout: post
 title: Love Under Siege, III - Anna's Death
 author: Ince, Kamran
 ensemble: chamber-vocal
 period: 1990-1999
 permalink: /ince-annas-death/
-document: ince_love_under_siege_003.mei
+document: ince-love_under_siege_003.png
 ---
 
-In *Love under siege : music for film (1997)* New York, NY: Schott, 2021.
+In *Love under siege: music for film (1997)* New York, NY: Schott, 2021.
 
 **Composition/Publication date**: 1997
 
