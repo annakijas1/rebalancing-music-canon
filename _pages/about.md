@@ -12,6 +12,7 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 
 ### Current Contributors
 - Jordan Good (Spring 2023-2024), graduate
+- Teresa Turnage (Summer 2024)
 
 ### Project Alumni
 - Kate M. Chang (Spring 2023), undergraduate
