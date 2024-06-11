@@ -18,23 +18,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -75,7 +75,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.05" justify="right" valign="bottom">Silvina Milstein</credit-words>
+    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Silvina Milstein</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -119,6 +119,16 @@
           <line>2</line>
           </clef>
         </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words relative-y="10.00">Oedipus</words>
+          </direction-type>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="30.88" relative-y="10.00" font-weight="bold">Cantabile, l'istesso tempo</words>
+          </direction-type>
+        </direction>
       <note default-x="80.22" default-y="-20.00">
         <rest/>
         <duration>48</duration>
@@ -620,6 +630,11 @@
           </direction-type>
         <sound dynamics="54.44"/>
         </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="42.65" relative-y="10.00" font-style="italic">like a sigh</words>
+          </direction-type>
+        </direction>
       <note default-x="170.82" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -873,7 +888,7 @@
           </direction-type>
         <sound dynamics="36.67"/>
         </direction>
-      <note default-x="250.11" default-y="-45.00">
+      <note default-x="250.10" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
