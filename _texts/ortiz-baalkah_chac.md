@@ -5,7 +5,7 @@ author: Ortiz, Gabriela
 ensemble: chamber-vocal
 period: 1990-1999
 permalink: /ortiz-baalkah-chac/
-document: buortiz_baalkah_chac.mei
+document: ortiz_baalkah_chac.mei
 ---
 
 In *Baalkah : for soprano and string quartet.* New York, NY: Hendon Music: Boosey & Hawkes 2023.
