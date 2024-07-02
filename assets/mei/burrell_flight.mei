@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m1b5j12v">
+      <fileDesc xml:id="ffate81">
+         <titleStmt xml:id="t1rh9b9m">
+            <title>Untitled score</title>
+            <respStmt>
+               <persName role="composer">Composer / arranger</persName>
+                <persName role="transcriber">Joanna Strogatz</persName>
+               <persName  role="reviewer">Teresa M. Turnage</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="ppy7zcs">
+            <date isodate="2024-04-17" type="encoding-date">2024-04-17</date>
+           	<publisher>Rebalancing the Music Canon</publisher>
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="enzofe8">
+         <appInfo xml:id="a1m66lrg">
+            <application xml:id="a1i80gqf" isodate="2024-07-02T16:01:36" version="4.2.0-8a772f5">
+               <name xml:id="nl8r7zp">Verovio</name>
+               <p xml:id="p1fifr2y">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m7eisnk">
+            <score xml:id="sohgrxy">
+               <scoreDef xml:id="s1xah1n">
+                  <pgHead xml:id="p5bd9rw">
+                     <rend xml:id="rjj2ccv" halign="right" valign="bottom">Diana Burrell (b. 1948)</rend>
+                  </pgHead>
+                  <staffGrp xml:id="soa9827">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="60">
+                        <label xml:id="liruhmv">Oboe</label>
+                        <labelAbbr xml:id="l13b4mc">Ob.</labelAbbr>
+                        <instrDef xml:id="i1l8cswv" midi.channel="0" midi.instrnum="68" midi.volume="78.00%" />
+                        <clef xml:id="c1utjijx" shape="G" line="2" />
+                        <keySig xml:id="kax0w7r" sig="0" />
+                        <meterSig xml:id="m1iju2b5" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s17runl1">
+                  <pb xml:id="p1sxgocu" />
+                  <measure xml:id="m16dsdc7" n="1">
+                     <staff xml:id="sqj5guo" n="1">
+                        <layer xml:id="l6l09m5" n="1">
+                           <note xml:id="n6c1yvi" dur.ppq="120" dur="2" oct="5" pname="b" stem.dir="down">
+                              <accid xml:id="atrv4ri" accid="f" />
+                           </note>
+                           <beam xml:id="b1lz8c83">
+                              <tuplet xml:id="t46m3qd" num="5" numbase="4" bracket.visible="false">
+                                 <note xml:id="n1vkhhuc" dur.ppq="12" dur="16" oct="5" pname="a" stem.dir="down" />
+                                 <note xml:id="n1dpu6kz" dur.ppq="12" dur="16" oct="5" pname="f" stem.dir="down">
+                                    <accid xml:id="aewk47h" accid="s" />
+                                 </note>
+                                 <note xml:id="n1ol37jd" dur.ppq="12" dur="16" oct="5" pname="c" stem.dir="down">
+                                    <accid xml:id="a19pgx9w" accid="s" />
+                                 </note>
+                                 <note xml:id="n139ovf8" dur.ppq="12" dur="16" oct="4" pname="g" stem.dir="down">
+                                    <accid xml:id="aenvpvh" accid="s" />
+                                 </note>
+                                 <note xml:id="n1lwvsln" dur.ppq="12" dur="16" oct="4" pname="f" stem.dir="down">
+                                    <accid xml:id="a1ov8u4a" accid="n" />
+                                 </note>
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="b1odt7v5">
+                              <note xml:id="n1tq5eeo" dur.ppq="15" dur="16" oct="4" pname="b" stem.dir="down">
+                                 <accid xml:id="an9yr48" accid="f" />
+                              </note>
+                              <note xml:id="n6y8no3" dur.ppq="15" dur="16" oct="5" pname="e" stem.dir="down">
+                                 <accid xml:id="a17il2fl" accid="f" />
+                              </note>
+                              <note xml:id="nqod6ty" dur.ppq="15" dur="16" oct="5" pname="f" stem.dir="down">
+                                 <accid xml:id="a171uk5n" accid="n" />
+                              </note>
+                              <note xml:id="n4lznpu" dur.ppq="15" dur="16" oct="5" pname="b" stem.dir="down">
+                                 <accid xml:id="a1jfn1w0" accid="n" />
+                              </note>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="drwbsyk" place="below" staff="1" tstamp="1.000000" val="80" vgrp="425">mf</dynam>
+                     <dir xml:id="djzcq42" place="above" staff="1" tstamp="1.000000" vgrp="2046">
+                        <rend xml:id="r4p3or1" fontfam="FreeSerif" fontweight="bold">Brightly. With freedom.</rend>
+                     </dir>
+                     <tempo xml:id="tgiu1hw" place="above" staff="1" tstamp="1.000000" midi.bpm="88.000000" mm="88.000000" mm.unit="4">
+                        <rend xml:id="rj78wtd" glyph.auth="smufl"></rend> = c. 88</tempo>
+                     <slur xml:id="s1fdfqop" startid="#n1vkhhuc" endid="#n1dpu6kz" />
+                  </measure>
+                  <measure xml:id="mwiicb6" n="2">
+                     <staff xml:id="sx8vvos" n="1">
+                        <layer xml:id="l7echuj" n="1">
+                           <note xml:id="n1cy7e8p" dots="1" dur.ppq="90" dur="4" oct="6" pname="c" stem.dir="down">
+                              <accid xml:id="ari9vuu" accid="s" />
+                           </note>
+                           <rest xml:id="ryzsoqa" dur.ppq="30" dur="8" />
+                           <tuplet xml:id="t4qhyej" num="3" numbase="2" bracket.visible="true">
+                              <note xml:id="nwjagsi" dur.ppq="40" dur="4" oct="5" pname="a" stem.dir="down">
+                                 <accid xml:id="a1dppam2" accid="s" />
+                                 <artic xml:id="agiws6h" artic="ten" />
+                              </note>
+                              <note xml:id="n9qz93v" dur.ppq="40" dur="4" oct="5" pname="f" stem.dir="down">
+                                 <accid xml:id="aemaa4f" accid="s" />
+                                 <artic xml:id="ax17d1i" artic="ten" />
+                              </note>
+                              <note xml:id="nzviu0y" dur.ppq="40" dur="4" oct="5" pname="e" stem.dir="down">
+                                 <accid xml:id="a1q1h22w" accid="n" />
+                                 <artic xml:id="ay6ownk" artic="ten" />
+                              </note>
+                           </tuplet>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s1se3k2s">
+                     <meterSig xml:id="mbcxa3h" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="m6ql6p0" n="3">
+                     <staff xml:id="s1owtg1a" n="1">
+                        <layer xml:id="l1ge9rgt" n="1">
+                           <note xml:id="nwio4x" dur.ppq="120" dur="2" oct="5" pname="b" stem.dir="down" />
+                           <note xml:id="n1clp575" dur.ppq="30" dur="8" oct="5" pname="b" stem.dir="down" />
+                           <rest xml:id="rnfcdf6" dur.ppq="30" dur="8" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="t1g4xpuw" startid="#nwio4x" endid="#n1clp575" />
+                  </measure>
+                  <sb xml:id="sz0par1" />
+                  <scoreDef xml:id="so8e3ei">
+                     <meterSig xml:id="m1rsl2bz" count="4" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mx5njn" n="4">
+                     <staff xml:id="saaexqh" n="1">
+                        <layer xml:id="l1m7gp45" n="1">
+                           <note xml:id="n1parts4" dur.ppq="120" dur="2" oct="5" pname="b" stem.dir="down">
+                              <accid xml:id="a7a5tvr" accid="f" />
+                           </note>
+                           <beam xml:id="bjas56">
+                              <tuplet xml:id="t1gujn9f" num="5" numbase="4" bracket.visible="false">
+                                 <note xml:id="n1pgkj4c" dur.ppq="12" dur="16" oct="6" pname="d" stem.dir="down" />
+                                 <note xml:id="n1a1kz0" dur.ppq="12" dur="16" oct="5" pname="f" stem.dir="down" />
+                                 <note xml:id="nkoqz1s" dur.ppq="12" dur="16" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                                 <note xml:id="n1vb0519" dur.ppq="12" dur="16" oct="6" pname="c" stem.dir="down">
+                                    <accid xml:id="a2gk8an" accid="s" />
+                                 </note>
+                                 <note xml:id="nwlfzsy" dur.ppq="12" dur="16" oct="5" pname="a" stem.dir="down" />
+                              </tuplet>
+                           </beam>
+                           <beam xml:id="bvkxtf0">
+                              <note xml:id="n9eboty" dur.ppq="15" dur="16" oct="5" pname="f" stem.dir="down">
+                                 <accid xml:id="a2qeqz7" accid="s" />
+                              </note>
+                              <note xml:id="n125bos9" dur.ppq="15" dur="16" oct="5" pname="b" stem.dir="down">
+                                 <accid xml:id="a1p1qtuf" accid="n" />
+                              </note>
+                              <note xml:id="n4f5yqs" dur.ppq="15" dur="16" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="nxjncup" dur.ppq="15" dur="16" oct="6" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur xml:id="s1dcb3o1" startid="#n1pgkj4c" endid="#n1a1kz0" />
+                     <slur xml:id="s110eqlu" startid="#n9eboty" endid="#n125bos9" />
+                  </measure>
+                  <measure xml:id="m1prxpxa" n="5">
+                     <staff xml:id="sdhopqd" n="1">
+                        <layer xml:id="lmbspdf" n="1">
+                           <note xml:id="n13hxey6" dots="1" dur.ppq="90" dur="4" oct="6" pname="f" stem.dir="down">
+                              <accid xml:id="a5n6ucs" accid="n" />
+                           </note>
+                           <rest xml:id="r169yfga" dur.ppq="30" dur="8" />
+                           <tuplet xml:id="t17o6bug" num="3" numbase="2" bracket.visible="true">
+                              <note xml:id="n109g9mc" dur.ppq="40" dur="4" oct="5" pname="a" stem.dir="down">
+                                 <accid xml:id="ahpl671" accid="s" />
+                                 <artic xml:id="ap2fuep" artic="ten" />
+                              </note>
+                              <note xml:id="nvcf3mc" dur.ppq="40" dur="4" oct="5" pname="f" stem.dir="down">
+                                 <accid xml:id="ao8d5u6" accid="s" />
+                                 <artic xml:id="a1ajrtuo" artic="ten" />
+                              </note>
+                              <note xml:id="n1avm43c" dur.ppq="40" dur="4" oct="5" pname="e" stem.dir="down">
+                                 <artic xml:id="a4189bg" artic="ten" />
+                              </note>
+                           </tuplet>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <scoreDef xml:id="s4zg9s7">
+                     <meterSig xml:id="mps22y7" count="3" unit="4" />
+                  </scoreDef>
+                  <measure xml:id="mwhvc4i" n="6">
+                     <staff xml:id="s1dvoq7m" n="1">
+                        <layer xml:id="l21qvor" n="1">
+                           <note xml:id="n6nb8nr" dur.ppq="120" dur="2" oct="5" pname="b" stem.dir="down" />
+                           <note xml:id="n1181t5s" dur.ppq="30" dur="8" oct="5" pname="b" stem.dir="down" />
+                           <rest xml:id="r1x2owq1" dur.ppq="30" dur="8" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tfybwfu" startid="#n6nb8nr" endid="#n1181t5s" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
