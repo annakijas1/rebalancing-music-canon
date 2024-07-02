@@ -2,13 +2,13 @@
 layout: mei
 title: Flight
 author: Burrell, Diana
-ensemble:
+ensemble: solo oboe
 period:
 permalink: /burrell-flight/
 document: burrell_flight.mei
 ---
 
-In *Spirit songs: for cello and piano.* New York, NY: American Composers Alliance Inc., 2018.
+In *Flight : for solo oboe* Edmunds, Suffolk: United Music Publishing Ltd. 2020
 
 **Instrumentation summary**: oboe (1)
 
