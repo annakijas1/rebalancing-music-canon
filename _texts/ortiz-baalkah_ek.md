@@ -4,7 +4,7 @@ title: Baalkah, 1. Chac
 author: Ortiz, Gabriela
 ensemble: chamber-vocal
 period: 1990-1999
-permalink: /ortiz-baalkah_3_3k/
+permalink: /ortiz-baalkah_3_ek/
 document: ortiz_baalkah_ek.mei
 ---
 
