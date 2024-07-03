@@ -8,7 +8,7 @@ permalink: /burrell-flight/
 document: burrell_flight.mei
 ---
 
-In *Flight : for solo oboe* Edmunds, Suffolk: United Music Publishing Ltd. 2020
+In *Flight: for solo oboe.* Edmunds, Suffolk: United Music Publishing Ltd., 2020.
 
 **Instrumentation summary**: oboe (1)
 

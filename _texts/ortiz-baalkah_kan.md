@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Baalkah, 1. Chac
+title: Baalkah, 4. Kan
 author: Ortiz, Gabriela
 ensemble: chamber-vocal
 period: 1990-1999
@@ -8,7 +8,7 @@ permalink: /ortiz-baalkah_4_kan/
 document: ortiz_baalkah_kan.mei
 ---
 
-In *Baalkah : for soprano and string quartet.* New York, NY: Hendon Music: Boosey & Hawkes 2023.
+In *Baalkah: for soprano and string quartet.* New York, NY: Hendon Music: Boosey & Hawkes, 2023.
 
 
 **Instrumentation summary**: Soprano (voice), violin I (1), violin II (1), viola (1), cello (1)
