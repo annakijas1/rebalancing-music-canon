@@ -3,7 +3,7 @@ layout: mei
 title: "Five Miniatures for Piano: Movement I"
 author: Karabyts, Ivan Fedorovych
 ensemble: solo piano
-period: 2020-2029
+period: 1990-1999
 permalink: /karabyts-five_miniatures_mvt1/
 document: karabyts_five_miniatures_mvt1.mei
 ---
