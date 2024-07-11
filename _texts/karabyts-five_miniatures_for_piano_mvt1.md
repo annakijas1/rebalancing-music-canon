@@ -8,7 +8,7 @@ permalink: /karabyts-five_miniatures_mvt1/
 document: karabyts_five_miniatures_mvt1.mei
 ---
 
-In *Five Miniatures: for piano"* Woodbridge, NJ: Duma Music Inc. 
+In *Five Miniatures: for piano.* Woodbridge, NJ: Duma Music Inc., 2023. 
 
 **Instrumentation summary**: piano
 
