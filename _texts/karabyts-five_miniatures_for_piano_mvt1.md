@@ -14,4 +14,4 @@ In *Five Miniatures: for piano.* Woodbridge, NJ: Duma Music Inc., 2023.
 
 **Instrumentation group**: keyboard
 
-**Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018945681503851"_blank>Music Library Stacks M25.K38 M5 2023</a>
+**Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018945681503851"target="_blank">Music Library Stacks M25.K38 M5 2023</a>
