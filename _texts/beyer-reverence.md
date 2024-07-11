@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Reverence
-author: Beyer, Johanna Magdalena
+author: Beyer, Johanna
 ensemble: band
 period: 1930-1939
 permalink: /beyer-reverence/
