@@ -16,7 +16,7 @@ permalink: /leiviskä/
 <ul class="texts">
     {% for item in site.texts %}
     //Type in the last name and first name of the composer, as above//
-      {% if item.author == "Last Name, First Name" %}
+      {% if item.author == "Leiviska, Helvi" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
