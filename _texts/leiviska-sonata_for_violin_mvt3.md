@@ -1,11 +1,11 @@
 ---
 layout: mei
-title: Sonata for violin and piano= Viulusonaatti, op. 21 (1945)
+title: Sonata for violin and piano--Viulusonaatti, op. 21, Movement 3 (1945)
 author: Leiviska, Helvi
 ensemble: chamber-instrument
 period: 1940-1949
 permalink: /leiviska-sonata-for-violin-and-piano-mvt3/
-document: leiviska_sonata_for_violin_mvt3.mei
+document: leiviska_sonata_for_violin_and_piano_mvt3.mei
 ---
 
 In *Sonata for violin and piano= Viulusonaatti, op. 21 (1945).* Helsinki, Finland:Fennica Gehrman, 2022.
