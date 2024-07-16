@@ -8,7 +8,7 @@ permalink: /leiviska-sonata-for-violin-and-piano-mvt1/
 document: leiviska_sonata_for_violin_and_piano_mvt1.mei
 ---
 
-In *Sonata for violin and piano= Viulusonaatti, op. 21 (1945).* Helsinki, Finland: Fennica Gehrman, 2022.
+In *Sonata for violin and piano = Viulusonaatti, op. 21 (1945).* Helsinki, Finland: Fennica Gehrman, 2022.
 
 **Instrumentation summary**: violin (1), piano (1)
 
