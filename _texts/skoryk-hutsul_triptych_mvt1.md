@@ -1,6 +1,6 @@
 ---
 layout: mei
-title: Hutsul Triptych 1. Childhood
+title: Hutsul Triptych for Symphony Orchestra--1. Childhood
 author: Skoryk, Myroslav
 ensemble: orchestra
 period: 2010-2019
