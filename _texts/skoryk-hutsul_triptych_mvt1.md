@@ -5,7 +5,7 @@ author: Skoryk, Myroslav
 ensemble: orchestra
 period: 2010-2019
 permalink: /skoryk-hutsul-triptych-childhood/
-document: askoryk_hutsul_triptych_mvt1.mei
+document: skoryk_hutsul_triptych_mvt1.mei
 ---
 
 In *Hutsul Triptych for Symphony Orchestra.* Woodbridge, NJ: Duma Music, Inc., 2013.
