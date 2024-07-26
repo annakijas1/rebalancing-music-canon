@@ -1,7 +1,7 @@
 ---
 layout: mei
 title: Tone Grafting
-author: Holland, Johnathon Bailey
+author: Holland, Jonathan Bailey
 ensemble: chamber-instrument
 period: 2000-2009
 permalink: /holland-tone-grafting/
@@ -10,7 +10,7 @@ document: holland_tone_grafting.mei
 
 In *Tone Grafting for String Quartet and Flute/Alto Flute.* Vienna, Austria: Klangfarbe Music, 2023.
 
-**Instrumentation summary**: flut(1), alto flute (1), violin (2), viola (1), cello (1)
+**Instrumentation summary**: flute (1), alto flute (1), violin (2), viola (1), cello (1)
 
 **Instrumentation group**: woodwinds, strings
 
