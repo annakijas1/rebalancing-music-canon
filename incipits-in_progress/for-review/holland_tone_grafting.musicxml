@@ -314,6 +314,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="234.12" default-y="30.00">
         <pitch>
@@ -328,6 +331,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
+          <slur type="stop" number="1"/>
           <technical>
             <harmonic default-x="6.50" default-y="39.30">
               <natural/>
@@ -485,7 +489,7 @@
           <tied type="start"/>
           <slur type="start" number="1"/>
           <technical>
-            <harmonic default-x="6.50" default-y="42.35">
+            <harmonic default-x="6.50" default-y="38.35">
               <natural/>
               </harmonic>
             </technical>
