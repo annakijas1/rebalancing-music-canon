@@ -8,7 +8,7 @@ permalink: /loggins-hull-changes/
 document: loggins-hull_changes.mei
 ---
 
-In *Changes fir viola and percussion.* Brooklyn, NY: Flutronix Publishing, 2020.
+In *Changes for viola and percussion.* Brooklyn, NY: Flutronix Publishing, 2020.
 
 **Instrumentation summary**: viola, dumbek, bass drum
 
