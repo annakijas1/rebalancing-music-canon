@@ -10,7 +10,7 @@ document: montgomery_play.mei
 
 In *Play* New York, NY: Jessie Montgomery Music Publishing, 2023.
 
-**Instrumentation summary**: flute (1), Bb Clarinet (1), violin (1), violoncello (1)
+**Instrumentation summary**: flute (1), Bb clarinet (1), violin (1), violoncello (1)
 
 **Instrumentation group**: woodwinds, strings
 
