@@ -10,7 +10,7 @@ document: loggins-hull_changes.mei
 
 In *Changes for viola and percussion.* Brooklyn, NY: Flutronix Publishing, 2020.
 
-**Instrumentation summary**: viola, dumbek, bass drum
+**Instrumentation summary**: viola (1), dumbek (1), bass drum (1)
 
 **Instrumentation group**: strings, percussion
 
