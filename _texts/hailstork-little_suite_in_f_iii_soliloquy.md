@@ -5,7 +5,7 @@ author: Hailstork, Adolphus
 ensemble: chamber-instrument
 period: 2020-2029
 permalink: /hailstork-little_suite_in_f_iii_soliloquy/
-document: hailstork_little_suite_in_f_III.mei
+document: hailstork_little_suite_in_f_iii.mei
 ---
 
 In *Little Suite in F for violin and piano.* Malvern, PA: Theodore Presser Co., 2023.
