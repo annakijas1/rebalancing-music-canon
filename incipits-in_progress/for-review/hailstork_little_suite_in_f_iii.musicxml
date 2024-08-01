@@ -185,7 +185,6 @@
         <stem>down</stem>
         <notations>
           <tied type="start"/>
-          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="13.00" default-y="-15.00">
@@ -195,9 +194,13 @@
           <octave>5</octave>
           </pitch>
         <duration>8</duration>
+        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
         </note>
       <note default-x="86.27" default-y="-25.00">
         <pitch>
@@ -211,7 +214,6 @@
         <stem>down</stem>
         <notations>
           <tied type="stop"/>
-          <slur type="stop" number="1"/>
           </notations>
         </note>
       <note default-x="86.27" default-y="-15.00">
@@ -221,9 +223,13 @@
           <octave>5</octave>
           </pitch>
         <duration>2</duration>
+        <tie type="stop"/>
         <voice>1</voice>
         <type>eighth</type>
         <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       <note default-x="118.83" default-y="-20.00">
         <rest/>
@@ -421,7 +427,6 @@
         <stem>down</stem>
         <notations>
           <tied type="start"/>
-          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="17.12" default-y="-15.00">
@@ -431,9 +436,13 @@
           <octave>5</octave>
           </pitch>
         <duration>8</duration>
+        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
         </note>
       <note default-x="90.39" default-y="-25.00">
         <pitch>
@@ -448,7 +457,6 @@
         <stem>down</stem>
         <notations>
           <tied type="stop"/>
-          <slur type="stop" number="1"/>
           </notations>
         </note>
       <note default-x="90.39" default-y="-15.00">
@@ -458,9 +466,13 @@
           <octave>5</octave>
           </pitch>
         <duration>2</duration>
+        <tie type="stop"/>
         <voice>1</voice>
         <type>eighth</type>
         <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       <note default-x="122.95" default-y="-20.00">
         <rest/>
