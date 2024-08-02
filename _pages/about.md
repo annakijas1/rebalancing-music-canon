@@ -11,7 +11,6 @@ The current project is focused on encoding musical incipits (initial melodic lin
 The incipits are transcribed and reviewed by student contributors (listed below) under the direction of music librarian, Anna Kijas (Head, Lilly Music Library). In addition to making works by underrepresented composers in our collection more visible and discoverable, the students are developing expertise in transcription and editing methods, as well as expanding their knowledge of a diverse music repertoire.
 
 ### Current Contributors
-- Jordan Good (Spring 2023-2024), graduate
 - Teresa Turnage (Summer 2024)
 
 ### Project Alumni
@@ -19,6 +18,7 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 - Matthew Chen (Spring 2023), undergraduate
 - Marie Comuzzo (Summer 2023), graduate (Brandeis University)
 - Ismenia Ginebra (Spring 2020-2022), undergraduate
+- Jordan Good (Spring 2023-2024), graduate
 - Chelsea Hong (Spring 2020), undergraduate
 - Idil Kolabas (Spring 2024), undergraduate
 - Eli M. Marcus (Spring 2023), undergraduate
@@ -34,6 +34,8 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 - Hailing Wang (Spring 2020), undergraduate
 - Phillip G. Wright (Spring 2021-2022), graduate
 
+### Class Collaboration
+Students in the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner at Columbus State University transcribed and encoded a selection of incipits. Students included: Erin Fowler, Riley Bryan, Ana Dinis Perez, Melissa Krakow, Mary Claire Buchanan, Chris Thomas, Kisun Kim, Blys Brinkley, Natalie Crosby, Jada Smith, Destinie Mims, and María Victoria Chirinos.   
 
 ---
 
