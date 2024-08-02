@@ -15,3 +15,5 @@ In *Loss: for cello and piano.* Woodbridge, New Jersey: Duma Music, Inc., 2020
 **Instrumentation group**: strings, keyboard
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018952479803851" target="_blank">Music Library Stacks M233.V96 L6 2020</a>
+
+*This incipit was created by Jada Smith as part of the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner (Columbus State University).* 

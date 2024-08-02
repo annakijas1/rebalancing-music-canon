@@ -15,3 +15,5 @@ In *Three Poems of Taras Shevchenko: 1. If I Only Had Shoes.* Woodbridge, NJ: Du
 **Instrumentation group**: keyborad, vocals
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018945681003851" target="_blank">Music Library Stacks M1621.S58 P5 2012</a>
+
+*This incipit was created by Destinie Mims as part of the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner (Columbus State University).* 

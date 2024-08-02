@@ -15,3 +15,5 @@ In *Five Miniatures: for piano.* Woodbridge, NJ: Duma Music Inc., 2023.
 **Instrumentation group**: keyboard
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018945681503851" target="_blank">Music Library Stacks M25.K38 M5 2023</a>
+
+*This incipit was created by Melissa Krakow as part of the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner (Columbus State University).* 

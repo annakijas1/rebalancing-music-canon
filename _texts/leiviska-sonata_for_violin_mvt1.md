@@ -15,3 +15,5 @@ In *Sonata for violin and piano = Viulusonaatti, op. 21 (1945).* Helsinki, Finla
 **Instrumentation group**: strings, keyboard
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018809261903851" target="_blank">Music Library Stacks M219 .L47 op.21 2022</a>
+
+*This incipit was created by Marie Claire Buchanan as part of the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner (Columbus State University).* 
