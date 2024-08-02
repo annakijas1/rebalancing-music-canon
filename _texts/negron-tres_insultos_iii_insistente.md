@@ -5,7 +5,7 @@ author: Negrón, Angélica
 ensemble: chamber-instrument
 period: 2000-2009
 permalink: /negron-tres-insultos-iii-insistente/
-document: negron_tres_insultos_secco.mei
+document: negron_tres_insultos_insistente.mei
 ---
 
 In *Tres Insultos para dos violines (2004).* London, UK: Decca Publishing, 2023.
