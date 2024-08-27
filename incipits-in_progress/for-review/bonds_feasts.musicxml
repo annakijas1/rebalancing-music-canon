@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Margaret Bonds</creator>
     <encoding>
-      <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-05-03</encoding-date>
+      <software>MuseScore 4.3.2</software>
+      <encoding-date>2024-08-26</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -18,25 +18,50 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
@@ -50,7 +75,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.05" justify="right" valign="bottom">Margaret Bonds</credit-words>
+    <credit-words default-x="1148.14" default-y="1411.05" justify="right" valign="bottom">Margaret Bonds</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -58,6 +83,7 @@
       <part-abbreviation>Vo.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Voice</instrument-name>
+        <instrument-sound>voice.vocals</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -69,7 +95,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="293.45">
+    <measure number="1" width="0.00">
       <print>
         <system-layout>
           <system-margins>
@@ -92,25 +118,63 @@
           <sign>G</sign>
           <line>2</line>
           </clef>
+        <measure-style>
+          <multiple-rest>5</multiple-rest>
+          </measure-style>
         </attributes>
-      <note default-x="131.69" default-y="-20.00">
+      <note default-x="103.11" default-y="-10.00">
+        <rest measure="yes"/>
+        <duration>12</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="2" width="0.00">
+      <note default-x="-221.41" default-y="-10.00">
+        <rest measure="yes"/>
+        <duration>12</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="3" width="0.00">
+      <note default-x="-312.04" default-y="-10.00">
+        <rest measure="yes"/>
+        <duration>12</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="4" width="0.00">
+      <note default-x="-402.68" default-y="-10.00">
+        <rest measure="yes"/>
+        <duration>12</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="5" width="0.00">
+      <note default-x="-493.31" default-y="-10.00">
+        <rest measure="yes"/>
+        <duration>12</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="6" width="144.53">
+      <note default-x="13.00" default-y="-20.00">
         <rest/>
         <duration>8</duration>
         <voice>1</voice>
         <type>half</type>
         </note>
-      <note default-x="216.37" default-y="-20.00">
+      <note default-x="79.58" default-y="-20.00">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <direction placement="above">
+      <direction>
         <direction-type>
           <words relative-x="-27.32" relative-y="18.11" font-style="italic">leggiero</words>
           </direction-type>
         </direction>
-      <note default-x="254.01" default-y="-40.00">
+      <note default-x="109.18" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -126,8 +190,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="2" width="214.12">
-      <note default-x="22.25" default-y="-35.00">
+    <measure number="7" width="181.59">
+      <note default-x="23.25" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -142,7 +206,7 @@
           <text>drank</text>
           </lyric>
         </note>
-      <note default-x="93.82" default-y="-25.00">
+      <note default-x="79.52" default-y="-25.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -157,7 +221,7 @@
           <text>at</text>
           </lyric>
         </note>
-      <note default-x="131.46" default-y="-20.00">
+      <note default-x="109.12" default-y="-20.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -173,7 +237,7 @@
           <text>ev'</text>
           </lyric>
         </note>
-      <note default-x="179.17" default-y="-35.00">
+      <note default-x="146.63" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -188,7 +252,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="3" width="174.76">
+    <measure number="8" width="144.53">
       <note default-x="13.00" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -208,7 +272,7 @@
           <extend/>
           </lyric>
         </note>
-      <note default-x="97.68" default-y="-30.00">
+      <note default-x="79.58" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -222,7 +286,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="135.32" default-y="-50.00">
+      <note default-x="109.18" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -237,7 +301,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="4" width="205.11">
+    <measure number="9" width="179.61">
       <note default-x="13.00" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -254,7 +318,7 @@
           <text>last</text>
           </lyric>
         </note>
-      <note default-x="84.57" default-y="-20.00">
+      <note default-x="69.27" default-y="-20.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -269,7 +333,7 @@
           <text>was</text>
           </lyric>
         </note>
-      <note default-x="122.44" default-y="-35.00">
+      <note default-x="107.14" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -284,7 +348,7 @@
           <text>like</text>
           </lyric>
         </note>
-      <note default-x="170.15" default-y="-55.00">
+      <note default-x="144.66" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -300,7 +364,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="5" width="124.99">
+    <measure number="10" width="102.05">
       <note default-x="15.84" default-y="-40.00">
         <pitch>
           <step>E</step>
