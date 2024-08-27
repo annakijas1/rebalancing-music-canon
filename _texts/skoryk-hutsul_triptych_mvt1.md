@@ -16,4 +16,4 @@ In *Hutsul Triptych for Symphony Orchestra.* Woodbridge, NJ: Duma Music, Inc., 2
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018952480203851" target="_blank">Music Library Stacks M1003.S64 H8 2013</a>
 
-*This incipit was created by Natalie Crosby as part of the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner (Columbus State University).* 
+*This incipit was created by Natalie Crosby and María Victoria Chirinos as part of the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner (Columbus State University).* 
