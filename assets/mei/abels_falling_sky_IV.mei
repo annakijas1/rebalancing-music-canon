@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="mucyzen">
+      <fileDesc xml:id="fj7de1a">
+         <titleStmt xml:id="t19c3yhv">
+            <title>Falling Sky--IV</title>
+            <respStmt>
+               <persName role="composer">Michael Abels</persName>
+               <persName role="transcriber">Teresa M. Turnage</persName>
+               <persName role="reviewer">Teresa M. Turnage</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pqby7c8">
+            <date isodate="2024-06-12" type="encoding-date">2024-06-12</date>
+            <!--add the publisher info-->
+         <publisher>Rebalancing the Music Canon</publisher>
+         <!--add the info about how the incipits can be used-->
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <!--add the URL to the site-->
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eqsdsd1">
+         <appInfo xml:id="a1cb36ds">
+            <application xml:id="akxxg2q" isodate="2024-08-26T21:28:20" version="4.2.0-8a772f5">
+               <name xml:id="nx3a5lf">Verovio</name>
+               <p xml:id="p1galisv">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1l67ahr">
+            <score xml:id="s195gn8v">
+               <scoreDef xml:id="s1d9gw9z">
+                  <pgHead xml:id="pcuap91">
+                     <rend xml:id="r1419c0x" halign="right" valign="bottom">Michael Abels</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s1w9pitv">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1" trans.diat="-1" trans.semi="-2">
+                        <label xml:id="l1qjaq8y">Clarinet in B♭</label>
+                        <labelAbbr xml:id="l45hpp1">Cl. in B♭</labelAbbr>
+                        <instrDef xml:id="i34bqfy" midi.channel="0" midi.instrnum="71" midi.volume="78.00%" />
+                        <clef xml:id="c1sf74jn" shape="G" line="2" />
+                        <keySig xml:id="k432vyr" sig="0" />
+                        <meterSig xml:id="miy5cew" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s9xtxja">
+                  <measure xml:id="mshzig3" n="1">
+                     <staff xml:id="su3l7os" n="1">
+                        <layer xml:id="lgrkql0" n="1">
+                           <multiRest xml:id="m16cjvxn" num="9" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="my97hmj" n="10">
+                     <staff xml:id="s1sw56w4" n="1">
+                        <layer xml:id="l1vpcofd" n="1">
+                           <rest xml:id="r64kb1p" dur.ppq="2" dur="2" />
+                           <note xml:id="n1ecy7xe" dur.ppq="2" dur="2" oct="4" pname="e" stem.dir="up">
+                              <accid xml:id="agm36gb" accid="n" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="dcidoe0" place="below" staff="1" tstamp="3.000000" val="49" vgrp="455">p</dynam>
+                     <tie xml:id="tzepoch" startid="#n1ecy7xe" endid="#n19ez3ln" />
+                  </measure>
+                  <measure xml:id="m9k3fs4" n="11">
+                     <staff xml:id="s18td72n" n="1">
+                        <layer xml:id="l1fxv5ss" n="1">
+                           <note xml:id="n19ez3ln" dur.ppq="4" dur="1" oct="4" pname="e" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hbt0z50" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="710" />
+                     <tie xml:id="t1uropq9" startid="#n19ez3ln" endid="#nwikfr6" />
+                  </measure>
+                  <measure xml:id="md8gbbs" n="12">
+                     <staff xml:id="sq8ot9r" n="1">
+                        <layer xml:id="lh8zv0e" n="1">
+                           <note xml:id="nwikfr6" dur.ppq="4" dur="1" oct="4" pname="e" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hvjpz6m" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="650" />
+                  </measure>
+                  <measure xml:id="mbudiu3" n="13">
+                     <staff xml:id="s1evb9j2" n="1">
+                        <layer xml:id="l1l7xbha" n="1">
+                           <rest xml:id="r11a74i2" dur.ppq="2" dur="2" />
+                           <note xml:id="n1aizeff" dur.ppq="2" dur="2" oct="4" pname="e" stem.dir="up">
+                              <accid xml:id="alqi5ca" accid="n" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <dynam xml:id="d105wuv8" place="below" staff="1" tstamp="3.000000" val="49" vgrp="455">p</dynam>
+                     <tie xml:id="t1xogezu" startid="#n1aizeff" endid="#n14ker8l" />
+                  </measure>
+                  <measure xml:id="m1kohcl2" n="14">
+                     <staff xml:id="smzpxlw" n="1">
+                        <layer xml:id="lpkq5u5" n="1">
+                           <note xml:id="n14ker8l" dur.ppq="4" dur="1" oct="4" pname="e" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="h1phribr" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="cres" place="below" vgrp="710" />
+                     <tie xml:id="t113encf" startid="#n14ker8l" endid="#n62u22" />
+                  </measure>
+                  <measure xml:id="m1v3elxi" n="15">
+                     <staff xml:id="serntoq" n="1">
+                        <layer xml:id="l10yb0wd" n="1">
+                           <note xml:id="n62u22" dur.ppq="4" dur="1" oct="4" pname="e" />
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="hutdpm" staff="1" tstamp="1.000000" tstamp2="0m+5.0000" form="dim" place="below" vgrp="710" />
+                     <tie xml:id="t1cogzs7" startid="#n62u22" endid="#nhv82vo" />
+                  </measure>
+                  <measure xml:id="mgkufd3" n="16">
+                     <staff xml:id="s10tfoki" n="1">
+                        <layer xml:id="l5mjyja" n="1">
+                           <note xml:id="nhv82vo" dur.ppq="2" dur="2" oct="4" pname="e" stem.dir="up" />
+                           <note xml:id="nsjadm2" dur.ppq="2" dur="2" oct="4" pname="d" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
