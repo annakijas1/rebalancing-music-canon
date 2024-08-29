@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m15t1ska">
+      <fileDesc xml:id="f1347532">
+         <titleStmt xml:id="t31aklu">
+            <title>String Quartet No. 1</title>
+            <respStmt>
+               <persName role="composer">Eleanor Alberga</persName>
+               <persName role="transcriber">Joanna Strogatz</persName>
+               <persName role="reviewer">Teresa M. Turnage</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p12ip7fm">
+            <date isodate="2024-03-07" type="encoding-date">2024-03-07</date>
+            <!--add the publisher info-->
+         <publisher>Rebalancing the Music Canon</publisher>
+         <!--add the info about how the incipits can be used-->
+         <availability>
+            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+         </availability>
+         <!--add the URL to the site-->
+         <identifier>
+         <ref target="https://rebalancing-music-canon.com/"/>
+         </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eog1dsc">
+         <appInfo xml:id="a1d6cto2">
+            <application xml:id="apulzfi" isodate="2024-08-29T15:49:45" version="4.2.0-8a772f5">
+               <name xml:id="n1ijf687">Verovio</name>
+               <p xml:id="psr2ep8">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m67mm50">
+            <score xml:id="s18wddep">
+               <scoreDef xml:id="s35pra2">
+                  <pgHead xml:id="pzwi2uy">
+                     <rend xml:id="r1ln4bnq" halign="right" valign="bottom">Eleanor Alberga</rend>
+                  </pgHead>
+                  <staffGrp xml:id="scpjmwe">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="l1uo6h5d">Violin</label>
+                        <labelAbbr xml:id="l10veuc6">Vln.</labelAbbr>
+                        <instrDef xml:id="i1mttbjo" midi.channel="0" midi.instrnum="40" midi.volume="78.00%" />
+                        <clef xml:id="co7cd03" shape="G" line="2" />
+                        <keySig xml:id="koh5exd" sig="0" />
+                        <meterSig xml:id="m13wf520" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sd1h33z">
+                  <measure xml:id="m160fbej" n="1">
+                     <staff xml:id="s14e02l3" n="1">
+                        <layer xml:id="lv37kl1" n="1">
+                           <note xml:id="nbhly2m" dots="1" dur.ppq="6" dur="2" oct="5" pname="f" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="tbt7nnd" place="above" staff="1" tstamp="1.000000" midi.bpm="76.000000" mm="76.000000" mm.unit="4">
+                        <rend xml:id="r1ku3j3r" glyph.auth="smufl"></rend> = 76</tempo>
+                     <dynam xml:id="d66lfrc" place="below" staff="1" tstamp="1.000000" val="33" vgrp="425">pp</dynam>
+                     <dir xml:id="d1xzw5c8" place="above" staff="1" tstamp="1.000000" vgrp="2078">
+                        <rend xml:id="r1nmodh5" fontfam="FreeSerif">Espressivo, with wonder and yearning.</rend>
+                     </dir>
+                     <dir xml:id="deagcl4" staff="1" tstamp="1.000000" vgrp="2017">
+                        <rend xml:id="r16eht94" fontfam="FreeSerif">sul tasto legato</rend>
+                     </dir>
+                  </measure>
+                  <measure xml:id="m18qpoy6" n="2">
+                     <staff xml:id="si8j1oo" n="1">
+                        <layer xml:id="lrm8gql" n="1">
+                           <note xml:id="n7w4yqk" dots="1" dur.ppq="6" dur="2" oct="5" pname="f" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mp3fn7n" n="3">
+                     <staff xml:id="sp8dxj6" n="1">
+                        <layer xml:id="lk4ysym" n="1">
+                           <note xml:id="n148uwg1" dots="1" dur.ppq="6" dur="2" oct="5" pname="f" stem.dir="down">
+                              <accid xml:id="a1y5cv5t" accid="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mqm2kdy" n="4">
+                     <staff xml:id="s7xqxp2" n="1">
+                        <layer xml:id="lnvqwlj" n="1">
+                           <note xml:id="n1na1i5z" dots="1" dur.ppq="6" dur="2" oct="5" pname="f" stem.dir="down">
+                              <accid xml:id="a438q95" accid="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1l7x5it" n="5">
+                     <staff xml:id="s1b8tld2" n="1">
+                        <layer xml:id="l17b5re0" n="1">
+                           <note xml:id="n1rx21m5" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down" />
+                           <note xml:id="n10dl8wp" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dir xml:id="duyqqtd" place="above" staff="1" tstamp="1.000000" vgrp="2070">
+                        <rend xml:id="r3hv9pa" fontfam="FreeSerif">gradually to ordinary</rend>
+                     </dir>
+                     <dynam xml:id="dctzn7k" staff="1" tstamp="1.000000" vgrp="425">
+                        <rend xml:id="r13zw672" fontfam="FreeSerif" fontstyle="italic">cresc</rend>
+                        <rend xml:id="r8g954k" fontfam="Edwin">.</rend>
+                     </dynam>
+                  </measure>
+                  <measure xml:id="mqs3xdc" n="6">
+                     <staff xml:id="snjef03" n="1">
+                        <layer xml:id="l18rh36d" n="1">
+                           <note xml:id="n1f1m40r" dots="1" dur.ppq="3" dur="4" oct="5" pname="f" stem.dir="down" />
+                           <note xml:id="nt9o7yb" dots="1" dur.ppq="3" dur="4" oct="5" pname="f" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1v2wb9a" n="7">
+                     <staff xml:id="s1nh40gh" n="1">
+                        <layer xml:id="lc8dcgt" n="1">
+                           <note xml:id="nfg89aj" dur.ppq="2" dur="4" oct="5" pname="d" stem.dir="down">
+                              <accid xml:id="ai1nb5h" accid="f" />
+                           </note>
+                           <note xml:id="nvgiwsr" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down">
+                              <accid xml:id="a9aiqf3" accid="f" />
+                           </note>
+                           <note xml:id="nzctduh" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
