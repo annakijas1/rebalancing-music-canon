@@ -4,8 +4,8 @@ title: String Quartet No. 2
 author: Alberga, Eleanor
 ensemble: chamber-instrument
 period: 2020-2029
-permalink: /alberga-string-quartet-no.2/
-document: alberga_string_quartet_no.2.mei
+permalink: /alberga-string-quartet-no2/
+document: alberga_string_quartet_no2.mei
 ---
 
 In *String Quartet No. 2.* Herefordshire, England: Eleanor Alberga, 2021.

@@ -4,8 +4,8 @@ title: String Quartet No. 1--III
 author: Alberga, Eleanor
 ensemble: chamber-instrument
 period: 2020-2029
-permalink: /alberga-string-quartet-no.1-iii/
-document: alberga_string_quartet_no.1_III.mei
+permalink: /alberga-string-quartet-no1-iii/
+document: alberga_string_quartet_no1_III.mei
 ---
 
 In *String Quartet No. 1.* Herefordshire, England: Eleanor Alberga, 2021.
