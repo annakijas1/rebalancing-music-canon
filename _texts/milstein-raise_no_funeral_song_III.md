@@ -8,7 +8,7 @@ permalink: /milstein-raise-no-funeral-song-iii/
 document: milstein_raise_no_funeral_song_III.mei
 ---
 
-In *Raise No Funeral Song... from 'Sophocles' Oedipus at Colonus: A Version for the Modern Stage by W.B. Yeats for low soprano and piano* Oxfordshire, England: Composers Edition, 2022.
+In *Raise No Funeral Song... from ''Sophocles' Oedipus at Colonus: A Version for the Modern Stage' by W.B. Yeats for low soprano and piano* Oxfordshire, England: Composers Edition, 2022.
 
 **Instrumentation summary**: soprano (1), piano (1)
 
