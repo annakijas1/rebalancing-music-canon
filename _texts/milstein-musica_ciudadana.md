@@ -8,7 +8,7 @@ permalink: /milstein-musica-ciudadana/
 document: milstein_musica_ciudadana.mei
 ---
 
-In *Música ciudadana...los atardecers y noches de Buenos Aires* Chipping Norton, England: Composers Edition, 2021.
+In *Música ciudadana...los atardecers y noches de Buenos Aires.* Chipping Norton, England: Composers Edition, 2021.
 
 **Instrumentation summary**: Piccolo, Flute, Oboe, English Horn, Clarinet, Bass Clarinet, Bassoon, Contrabassoon, French Horn (2),Trumpet, Trombone, Bass Trombone, Tuba, Crostati, VIbes, Marimba, Timpani, Percussion, Harp, Celesta, Violin (3), Viola (3), Cello (3), Bass (2)
 
