@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Adina Izarra</creator>
     <encoding>
-      <software>MuseScore 4.0.0</software>
-      <encoding-date>2023-06-16</encoding-date>
+      <software>MuseScore 4.4.3</software>
+      <encoding-date>2024-11-22</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -18,39 +18,64 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">A Dos</credit-words>
+    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-size="22">A Dos</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935" default-y="1453.9" justify="center" valign="top" font-size="14">For Flute and Guitar</credit-words>
+    <credit-words default-x="616.9347" default-y="1453.897088" justify="center" valign="top" font-size="14">For Flute and Guitar</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.05" justify="right" valign="bottom">Adina Izarra</credit-words>
+    <credit-words default-x="1148.144364" default-y="1411.047129" justify="right" valign="bottom">Adina Izarra</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -58,6 +83,7 @@
       <part-abbreviation>Fl.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Flute</instrument-name>
+        <instrument-sound>wind.flutes.flute</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -69,14 +95,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="238.29">
+    <measure number="1" width="240.29">
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>50.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <left-margin>50</left-margin>
+            <right-margin>-0</right-margin>
             </system-margins>
-          <top-system-distance>170.00</top-system-distance>
+          <top-system-distance>170</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -95,7 +121,7 @@
         </attributes>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="2.32" default-y="-40.00" relative-y="-25.00">
+          <dynamics default-x="2.31" default-y="-40" relative-y="-25">
             <f/>
             </dynamics>
           </direction-type>
@@ -103,11 +129,11 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words default-x="-37.68" relative-y="20.00" font-weight="bold" font-size="12">Vivace</words>
+          <words default-x="-37.67" relative-y="20" font-weight="bold" font-size="12">Vivace</words>
           </direction-type>
         <sound tempo="172"/>
         </direction>
-      <note default-x="80.22" default-y="-25.00">
+      <note default-x="80.21" default-y="-25">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -122,7 +148,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="132.31" default-y="-5.00">
+      <note default-x="132.97" default-y="-5">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -137,7 +163,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="184.40" default-y="15.00">
+      <note default-x="185.73" default-y="15">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -147,15 +173,15 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <tenuto/>
             </articulations>
           </notations>
         </note>
       </measure>
-    <measure number="2" width="223.16">
-      <note default-x="13.00" default-y="20.00">
+    <measure number="2" width="225.83">
+      <note default-x="13" default-y="20">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -172,7 +198,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="47.73" default-y="25.00">
+      <note default-x="48.17" default-y="25">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -188,13 +214,13 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="82.45" default-y="-20.00">
+      <note default-x="83.34" default-y="-20">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="117.18" default-y="20.00">
+      <note default-x="118.52" default-y="20">
         <pitch>
           <step>C</step>
           <octave>6</octave>
@@ -209,13 +235,13 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="151.91" default-y="-20.00">
+      <note default-x="153.69" default-y="-20">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="186.64" default-y="15.00">
+      <note default-x="188.86" default-y="15">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -231,8 +257,8 @@
           </notations>
         </note>
       </measure>
-    <measure number="3" width="176.83">
-      <note default-x="18.76" default-y="-10.00">
+    <measure number="3" width="178.83">
+      <note default-x="18.76" default-y="-10">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -244,10 +270,10 @@
         <accidental>sharp</accidental>
         <stem>down</stem>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
-      <note default-x="70.85" default-y="-20.00">
+      <note default-x="71.51" default-y="-20">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -257,7 +283,7 @@
         <type>quarter</type>
         <stem>down</stem>
         </note>
-      <note default-x="122.94" default-y="-15.00">
+      <note default-x="124.27" default-y="-15">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -268,14 +294,14 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="4" width="193.59">
+    <measure number="4" width="195">
       <attributes>
         <time>
           <beats>5</beats>
           <beat-type>8</beat-type>
           </time>
         </attributes>
-      <note default-x="35.52" default-y="5.00">
+      <note default-x="34.92" default-y="5">
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -292,7 +318,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="70.25" default-y="30.00">
+      <note default-x="70.1" default-y="30">
         <pitch>
           <step>E</step>
           <octave>6</octave>
@@ -307,7 +333,7 @@
           <tied type="start"/>
           </notations>
         </note>
-      <note default-x="104.97" default-y="30.00">
+      <note default-x="105.27" default-y="30">
         <pitch>
           <step>E</step>
           <octave>6</octave>
@@ -322,7 +348,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="139.70" default-y="35.00">
+      <note default-x="140.44" default-y="35">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -334,21 +360,21 @@
         <accidental>sharp</accidental>
         <stem>down</stem>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           <articulations>
             <tenuto/>
             </articulations>
           </notations>
         </note>
       </measure>
-    <measure number="5" width="180.55">
+    <measure number="5" width="172.48">
       <attributes>
         <time>
           <beats>3</beats>
           <beat-type>4</beat-type>
           </time>
         </attributes>
-      <note default-x="37.48" default-y="15.00">
+      <note default-x="36.92" default-y="15">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -356,10 +382,10 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot default-x="54.91" default-y="15"/>
         <stem>down</stem>
         </note>
-      <note default-x="103.51" default-y="-5.00">
+      <note default-x="103.8" default-y="-5">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -367,15 +393,12 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot default-x="121.79" default-y="-5"/>
         <stem>down</stem>
         <notations>
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
       </measure>
     </part>
   </score-partwise>
