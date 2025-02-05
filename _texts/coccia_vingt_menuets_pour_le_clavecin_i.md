@@ -8,7 +8,7 @@ permalink: /coccia-vingt_menuets_pour_le_cavecin_i/
 document: coccia_minuetto_d_major_01.mei
 ---
 
-In *Vingt Menuets pour le Clavecin: Minuetto I"* Kassel, Germany: Furore Verlag.
+In *Vingt Menuets pour le Clavecin: Minuetto I.* Kassel, Germany: Furore Verlag.
 
 **Instrumentation summary**: violin (2), piano
 
