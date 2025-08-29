@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Chamber Symphony No. 12</title>
+            <title type="movement">II. Praying for Peace...</title>
+            <composer>
+               <persName role="creator">Yevhen Stankovych</persName>
+               <persName role="encoder">Diego Montes</persName>
+            </composer>
+         </titleStmt>
+         <pubStmt>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eu90jyt1">
+         <appInfo xml:id="aofxjua">
+            <application xml:id="adrw57d" enddate="2025-03-06T22:51:21" startdate="2025-01-22T16:12:56" version="1.2.2">
+               <name xml:id="n5i1t5t2">mei-friend</name>
+               <p xml:id="pcgiut51">First edit by mei-friend 1.2.1, 20 January 2025.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+<music>
+  <body>
+    <mdiv>
+      <score>
+        <scoreDef meter.count="4" meter.unit="4">
+            <pgHead>
+               <rend fontweight="bold" halign="center" valign="middle">
+                  <rend fontsize="140.00%" halign="center" valign="top">Chamber Symphony No. 12</rend>
+               </rend>
+               <rend halign="center" valign="middle">
+                  <rend fontsize="120.00%" halign="center" valign="top">for</rend>
+               </rend>
+               <rend halign="center" valign="middle">
+                  <rend fontsize="120.00%" halign="center" valign="top">Chamber Orchestra</rend>
+               </rend>
+               <rend fontweight="bold" halign="center" valign="middle">
+                  <rend fontsize="130.00%" halign="center" valign="top">II. Praying for Peace...</rend>
+               </rend>
+               <rend fontsize="80.00%" halign="right">YEVHEN STANKOVYCH</rend>
+            </pgHead>
+            <staffGrp>
+               <staffDef clef.line="2" clef.shape="G" lines="5" n="1"/>
+            </staffGrp>
+         </scoreDef>
+         <section>
+            <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest/>
+                        </layer>
+                     </staff>
+                     <tempo place="above" staff="1" tstamp="1" midi.bpm="50" mm="50" mm.unit="4">
+                        <rend glyph.auth="smufl"></rend> = 50</tempo>
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <rest dur.ppq="12" dur="2"/>
+                           <note xml:id="n1moopis" dur="2" dur.ppq="12" oct="5" pname="g" stem.dir="down"/>
+                        </layer>
+                     </staff>
+                     <dynam place="below" staff="1" tstamp="3" val="64" vgrp="427">mp  espress.</dynam>
+                     <hairpin staff="1" tstamp="3" tstamp2="1m+2" form="cres" place="below" vgrp="620"/>
+                     <tie startid="#n1moopis" endid="#n10es6nv"/>
+                  </measure>
+                  <measure n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note xml:id="n10es6nv" dur="8" dur.ppq="3" oct="5" pname="g" stem.dir="down"/>
+                              <note xml:id="n1z0m4dv" dur="8" dur.ppq="3" oct="5" pname="b" stem.dir="down">
+                                 <artic artic="acc"/>
+                              </note>
+                           </beam>
+                           <beam>
+                              <note xml:id="n1mj8f7b" dur="8" dur.ppq="3" oct="5" pname="b" stem.dir="down"/>
+                              <note xml:id="n1n4r6zx" dur="8" dur.ppq="3" oct="5" pname="a" stem.dir="down"/>
+                           </beam>
+                           <tuplet num="3" numbase="2" bracket.visible="true">
+                              <note xml:id="nkxxavh" dur="4" dur.ppq="4" oct="5" pname="c" stem.dir="down"/>
+                              <note xml:id="nt01sp3" dur="8" dur.ppq="2" oct="4" pname="e" stem.dir="up"/>
+                           </tuplet>
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note xml:id="noz7sun" dur="8" dur.ppq="2" oct="4" pname="d" stem.dir="down">
+                                    <accid accid="s"/>
+                                 </note>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="b" stem.dir="down"/>
+                              </tuplet>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur startid="#n1z0m4dv" endid="#n1n4r6zx" curvedir="above"/>
+                     <tie startid="#n1z0m4dv" endid="#n1mj8f7b"/>
+                     <slur startid="#nkxxavh" endid="#nt01sp3" curvedir="above"/>
+                     <slur startid="#noz7sun" endid="#nivc4gr" curvedir="above"/>
+                  </measure>
+                  <measure n="4">
+                     <staff n="1">
+                        <layer n="1">
+                           <note xml:id="nivc4gr" dur="1" dur.ppq="24" oct="5" pname="f">
+                              <accid accid="s"/>
+                           </note>
+                        </layer>
+                     </staff>
+                     <hairpin staff="1" tstamp="1" tstamp2="0m+5" form="dim" place="below" vgrp="600"/>
+                     <breath staff="1" tstamp="4.5"/>
+                  </measure>
+                  <sb/>
+                  <measure n="5">
+                     <staff n="1">
+                        <layer n="1">
+                           <note xml:id="n1xkwzuz" dur="2" dur.ppq="12" oct="5" pname="e" stem.dir="down"/>
+                           <beam>
+                              <note xml:id="n6x955z" dur="8" dur.ppq="3" oct="5" pname="e" stem.dir="down"/>
+                              <note xml:id="n19n4kvn" dur="8" dur.ppq="3" oct="5" pname="b" stem.dir="down"/>
+                           </beam>
+                           <beam>
+                              <note dur.ppq="3" dur="8" oct="5" pname="a" stem.dir="down"/>
+                              <note xml:id="n1x8yz3u" dur="8" dur.ppq="3" oct="5" pname="c" stem.dir="down"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir place="above" staff="1" tstamp="1" vgrp="2120">(solo)</dir>
+                     <hairpin staff="1" tstamp="1" tstamp2="0m+3.5" form="cres" place="below" vgrp="600"/>
+                     <tie startid="#n1xkwzuz" endid="#n6x955z"/>
+                     <slur startid="#n19n4kvn" endid="#n1x8yz3u" curvedir="above"/>
+                  </measure>
+                  <scoreDef>
+                     <meterSig count="3" unit="4"/>
+                  </scoreDef>
+                  <measure n="6">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note xml:id="nkhrya4" dur="8" dur.ppq="2" oct="4" pname="e" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="f" stem.dir="down">
+                                    <accid accid="s"/>
+                                 </note>
+                              </tuplet>
+                           </beam>
+                           <beam>
+                              <note dur.ppq="3" dur="8" oct="5" pname="g" stem.dir="down"/>
+                              <note xml:id="n12f7zgk" dur="8" dur.ppq="3" oct="5" pname="a" stem.dir="down"/>
+                           </beam>
+                           <beam>
+                              <note xml:id="nfulzzq" dur="8" dur.ppq="3" oct="5" pname="a" stem.dir="down"/>
+                              <note xml:id="n134ehij" dur="8" dur.ppq="3" oct="5" pname="b" stem.dir="down"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur startid="#nkhrya4" endid="#n134ehij" curvedir="above"/>
+                     <tie startid="#n12f7zgk" endid="#nfulzzq"/>
+                  </measure>
+                  <scoreDef>
+                     <meterSig count="4" unit="4"/>
+                  </scoreDef>
+                  <measure n="7">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur.ppq="24" dur="1" oct="5" pname="d">
+                              <accid accid="s"/>
+                           </note>
+                        </layer>
+                     </staff>
+                     <hairpin staff="1" tstamp="1" tstamp2="0m+5" form="dim" place="below" vgrp="600"/>
+                  </measure>
+                  <sb/>
+                  <measure n="8">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note xml:id="n80j4z7" dur="8" dur.ppq="3" oct="5" pname="c" stem.dir="down">
+                                 <accid accid="n"/>
+                              </note>
+                              <note dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="down"/>
+                           </beam>
+                           <beam>
+                              <note dur.ppq="3" dur="8" oct="4" pname="d" stem.dir="up">
+                                 <accid accid="n"/>
+                              </note>
+                              <note xml:id="n1uy2uif" dur="8" dur.ppq="3" oct="4" pname="e" stem.dir="up"/>
+                           </beam>
+                           <rest dur.ppq="12" dur="2"/>
+                        </layer>
+                     </staff>
+                     <tempo place="above" staff="1" tstamp="1" xml:lang="it" midi.bpm="48" mm="48" mm.unit="4">
+                        <rend fontweight="bold">Meno mosso </rend>
+                        <rend glyph.auth="smufl"></rend> = 48</tempo>
+                     <slur startid="#n80j4z7" endid="#n1uy2uif" curvedir="above"/>
+                  </measure>
+                  <measure n="9">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="10">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note xml:id="nnl1q38" dur="8" dur.ppq="2" oct="4" pname="g" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                                    <accid accid="f"/>
+                                 </note>
+                              </tuplet>
+                           </beam>
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="down">
+                                    <accid accid="s"/>
+                                 </note>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="f" stem.dir="down">
+                                    <accid accid="n"/>
+                                 </note>
+                              </tuplet>
+                           </beam>
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note dur.ppq="2" dur="8" oct="5" pname="b" stem.dir="down">
+                                    <accid accid="f"/>
+                                 </note>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="a" stem.dir="down">
+                                    <accid accid="f"/>
+                                 </note>
+                                 <note dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down">
+                                    <accid accid="n"/>
+                                 </note>
+                              </tuplet>
+                           </beam>
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                                    <accid accid="n"/>
+                                 </note>
+                              </tuplet>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <dir place="above" staff="1" tstamp="1" vgrp="2100">solo</dir>
+                     <reh place="above" staff="1" xml:lang="it">
+                        <rend rend="box" fontweight="bold">10</rend>
+                     </reh>
+                     <slur startid="#nnl1q38" endid="#n1y2hz1e" curvedir="above"/>
+                     <dynam place="below" staff="1" tstamp="1.3333" val="64" vgrp="458">mp  espress.</dynam>
+                  </measure>
+                  <sb/>
+                  <measure n="11">
+                     <staff n="1">
+                        <layer n="1">
+                           <note xml:id="n1y2hz1e" dur="4" dur.ppq="6" oct="5" pname="e" stem.dir="down">
+                              <accid accid="f"/>
+                           </note>
+                           <rest dur.ppq="6" dur="4"/>
+                           <rest dur.ppq="12" dur="2"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure n="12">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note xml:id="n1xiyd8k" dur="8" dur.ppq="2" oct="4" pname="b" stem.dir="down">
+                                    <accid accid="f"/>
+                                 </note>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="f" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="f" stem.dir="down">
+                                    <accid accid="s"/>
+                                 </note>
+                              </tuplet>
+                           </beam>
+                           <beam>
+                              <tuplet num="3" numbase="2" bracket.visible="false">
+                                 <note dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="down"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="f" stem.dir="down" accid.ges="s"/>
+                                 <note dur.ppq="2" dur="8" oct="5" pname="g" stem.dir="down"/>
+                              </tuplet>
+                           </beam>
+                           <note xml:id="nncd4bs" dur="2" dur.ppq="12" oct="5" pname="f" stem.dir="down">
+                              <accid accid="n"/>
+                           </note>
+                        </layer>
+                     </staff>
+                     <dir place="above" staff="1" tstamp="1" vgrp="2090">solo</dir>
+                     <slur startid="#n1xiyd8k" endid="#nncd4bs" curvedir="above"/>
+                     <dir place="above" staff="1" tstamp="3" vgrp="2495">
+                        <rend fontstyle="italic">molto rit</rend>.</dir>
+                  </measure>
+                  <measure n="13">
+                     <staff n="1">
+                        <layer n="1">
+                           <mRest/>
+                        </layer>
+                     </staff>
+                     <tempo place="above" staff="1" tstamp="1" midi.bpm="50" mm="50" mm.unit="4">
+                        <rend glyph.auth="smufl"></rend> = 50</tempo>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
