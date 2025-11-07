@@ -15,3 +15,5 @@ In *Chamber symphony no. 12: for chamber orchestra.* St. Louis, Missouri: Keiser
 **Instrumentation group**: oboe, clarinet in Bb, percussion, harp, piano, strings 
 
 **Location**: <a href="https://tufts.primo.exlibrisgroup.com/permalink/01TUN_INST/1kc9gia/alma991018952480003851" target="_blank">Music Library Stacks M1001.S754 K3 no.12 2022</a>
+
+*This incipit was created by Diego Montes as part of the Spring 2025 Public Musicology course taught by Dr. Reba A. Wissner (Columbus State University).*

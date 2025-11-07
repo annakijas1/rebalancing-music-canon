@@ -11,7 +11,12 @@ The current project is focused on encoding musical incipits (initial melodic lin
 The incipits are transcribed and reviewed by student contributors (listed below) under the direction of music librarian, Anna Kijas (Head, Lilly Music Library). In addition to making works by underrepresented composers in our collection more visible and discoverable, the students are developing expertise in transcription and editing methods, as well as expanding their knowledge of a diverse music repertoire.
 
 ### Current Contributors
-- Teresa Turnage (Summer 2024)
+- Mofe C. Akinyanmi
+- Isabella S. Bogaty Rodriguez
+- Joshua M. Field
+- Tessa L. Moore
+- Dylan T. Tanouye
+- Jimmy Wang
 
 ### Project Alumni
 - Kate M. Chang (Spring 2023), undergraduate
@@ -31,6 +36,7 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 - Joanna Strogatz (Spring 2021-current), undergraduate
 - Sebastian Tringale (Spring 2020-2021), undergraduate
 - Samantha A. Tripp (Spring 2023), graduate
+- Teresa Turnage (Summer 2024), undergraduate
 - Hailing Wang (Spring 2020), undergraduate
 - Phillip G. Wright (Spring 2021-2022), graduate
 
