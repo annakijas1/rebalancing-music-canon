@@ -4,8 +4,10 @@
   <work>
     <work-title>Chamber Symphony No. 12</work-title>
     </work>
+  <movement-number>2</movement-number>
+  <movement-title>Praying for Peace</movement-title>
   <identification>
-    <creator type="composer">YEVHEN STANKOVTCH</creator>
+    <creator type="composer">Yehven Stankovych</creator>
     <encoding>
       <software>MuseScore Studio 4.6.3</software>
       <encoding-date>2025-11-07</encoding-date>
@@ -71,15 +73,7 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.045" justify="center" valign="top" font-weight="bold" font-size="16">Chamber Symphony No. 12</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935" default-y="1453.894958" justify="center" valign="top" font-size="11">II. Praying for Peace...</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>composer</credit-type>
-    <credit-words default-x="1148.145" default-y="1411.045127" justify="right" valign="bottom">YEVHEN STANKOVYCH</credit-words>
+    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-weight="bold" font-size="16">Chamber Symphony No. 12</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -99,7 +93,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="233.01">
+    <measure number="1" width="233">
       <print>
         <system-layout>
           <system-margins>
@@ -125,21 +119,17 @@
         </attributes>
       <direction placement="above" system="only-top">
         <direction-type>
-          <words default-x="-37.67" default-y="7.19" relative-y="20" font-weight="bold"> </words>
-          </direction-type>
-        <direction-type>
-          <metronome parentheses="no" default-x="-37.67" default-y="7.19" relative-y="20">
+          <metronome parentheses="no" default-x="-37.67" relative-y="20">
             <beat-unit>quarter</beat-unit>
             <per-minute>50</per-minute>
             </metronome>
           </direction-type>
         <direction-type>
-          <words default-x="-37.67" default-y="7.19" relative-y="20"> </words>
+          <words default-x="-37.67" relative-y="20"> </words>
           <words font-weight="bold">(</words>
           <words font-weight="normal" font-family="Leland Text"></words>
           <words font-family="Edwin"> =</words>
-          <words font-weight="bold"> </words>
-          <words font-weight="normal" font-family="Leland Text"></words>
+          <words font-family="Leland Text"></words>
           <words font-weight="bold" font-family="Edwin">)</words>
           </direction-type>
         <sound tempo="50"/>
@@ -222,7 +212,7 @@
         <beam number="1">end</beam>
         <notations>
           <tied type="start"/>
-          <slur type="start" bezier-x="24.802072" bezier-y="12.878087" number="1"/>
+          <slur type="start" bezier-x="24.802062" bezier-y="12.878083" number="1"/>
           <articulations>
             <accent default-x="-0.72" default-y="31.98"/>
             </articulations>
@@ -259,7 +249,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-21.42781" bezier-y="17.939812"/>
+          <slur type="stop" number="1" bezier-x="-21.427799" bezier-y="17.939809"/>
           </notations>
         </note>
       <note default-x="191.45" default-y="-15">
@@ -278,7 +268,7 @@
         <stem>down</stem>
         <notations>
           <tuplet type="start" bracket="yes"/>
-          <slur type="start" bezier-x="16.271813" bezier-y="8.724202" number="1"/>
+          <slur type="start" bezier-x="16.271807" bezier-y="8.724199" number="1"/>
           </notations>
         </note>
       <note default-x="244.39" default-y="-40">
@@ -297,7 +287,7 @@
         <stem>up</stem>
         <notations>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-11.079442" bezier-y="14.769209"/>
+          <slur type="stop" number="1" bezier-x="-11.079436" bezier-y="14.769206"/>
           </notations>
         </note>
       <note default-x="283.6" default-y="-45">
@@ -318,7 +308,7 @@
         <beam number="1">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="8.546474" bezier-y="40.245128" number="1"/>
+          <slur type="start" bezier-x="8.546461" bezier-y="40.245122" number="1"/>
           </notations>
         </note>
       <note default-x="318.9" default-y="-15">
@@ -372,7 +362,7 @@
         <type>whole</type>
         <accidental>sharp</accidental>
         <notations>
-          <slur type="stop" number="1" bezier-x="-32.736417" bezier-y="32.310877"/>
+          <slur type="stop" number="1" bezier-x="-32.736411" bezier-y="32.310874"/>
           <articulations>
             <breath-mark default-y="5">comma</breath-mark>
             </articulations>
@@ -391,12 +381,12 @@
             <left-margin>0</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <system-distance>191.72</system-distance>
+          <system-distance>192.29</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
         <direction-type>
-          <words default-y="25.21" relative-y="10">(solo)</words>
+          <words default-y="10.35" relative-y="10">(solo)</words>
           </direction-type>
         </direction>
       <direction placement="below">
@@ -449,7 +439,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="start" bezier-x="28.682826" bezier-y="13.479188" number="1"/>
+          <slur type="start" bezier-x="28.682817" bezier-y="13.479184" number="1"/>
           </notations>
         </note>
       <note default-x="301.9" default-y="10">
@@ -474,7 +464,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-18.739749" bezier-y="24.575774"/>
+          <slur type="stop" number="1" bezier-x="-18.739738" bezier-y="24.57577"/>
           </notations>
         </note>
       </measure>
@@ -501,7 +491,7 @@
         <beam number="1">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="33.81921" bezier-y="50.662211" number="1"/>
+          <slur type="start" bezier-x="33.819192" bezier-y="50.662196" number="1"/>
           </notations>
         </note>
       <note default-x="82.17" default-y="-15">
@@ -591,7 +581,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-50.579502" bezier-y="37.163181"/>
+          <slur type="stop" number="1" bezier-x="-50.579485" bezier-y="37.163169"/>
           </notations>
         </note>
       </measure>
@@ -631,15 +621,15 @@
             <left-margin>0</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <system-distance>191.72</system-distance>
+          <system-distance>192.29</system-distance>
           </system-layout>
         </print>
       <direction placement="above" system="only-top">
         <direction-type>
-          <words default-y="15.63" relative-y="20" font-weight="bold" font-size="12">Meno mosso </words>
+          <words relative-y="20" font-weight="bold" font-size="12">Meno mosso </words>
           </direction-type>
         <direction-type>
-          <metronome parentheses="no" default-y="15.63" relative-y="20">
+          <metronome parentheses="no" relative-y="20">
             <beat-unit>quarter</beat-unit>
             <per-minute>48</per-minute>
             </metronome>
@@ -658,7 +648,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" bezier-x="32.268269" bezier-y="20.928745" number="1"/>
+          <slur type="start" bezier-x="32.268257" bezier-y="20.928741" number="1"/>
           </notations>
         </note>
       <note default-x="109.43" default-y="-20">
@@ -695,7 +685,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-32.80847" bezier-y="20.07132"/>
+          <slur type="stop" number="1" bezier-x="-32.808457" bezier-y="20.071316"/>
           </notations>
         </note>
       <note default-x="262.42" default-y="-20">
@@ -715,12 +705,12 @@
     <measure number="10" width="497.04">
       <direction placement="above">
         <direction-type>
-          <words default-y="20.04" relative-y="10">solo</words>
+          <words default-y="5.19" relative-y="10">solo</words>
           </direction-type>
         </direction>
       <direction placement="above" system="only-top">
         <direction-type>
-          <rehearsal default-x="-12.5" default-y="42.07" relative-y="20" font-weight="bold" font-size="14">10</rehearsal>
+          <rehearsal default-x="-12.5" default-y="22.37" relative-y="20" justify="center" font-weight="bold" font-size="14">10</rehearsal>
           </direction-type>
         </direction>
       <direction placement="below">
@@ -747,7 +737,7 @@
         <beam number="1">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="53.866601" bezier-y="70.366072" number="1"/>
+          <slur type="start" bezier-x="53.866578" bezier-y="70.366052" number="1"/>
           </notations>
         </note>
       <note default-x="52.73" default-y="-10">
@@ -966,7 +956,7 @@
             <left-margin>0</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <system-distance>191.72</system-distance>
+          <system-distance>192.29</system-distance>
           </system-layout>
         </print>
       <note default-x="58.71" default-y="-5">
@@ -1000,7 +990,7 @@
     <measure number="12" width="452.31">
       <direction placement="above">
         <direction-type>
-          <words default-y="21.45" relative-y="10">solo</words>
+          <words default-y="6.6" relative-y="10">solo</words>
           </direction-type>
         </direction>
       <note default-x="17.12" default-y="-20">
@@ -1021,7 +1011,7 @@
         <beam number="1">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="41.03985" bezier-y="36.398922" number="1"/>
+          <slur type="start" bezier-x="41.039832" bezier-y="36.398914" number="1"/>
           </notations>
         </note>
       <note default-x="66.08" default-y="0">
@@ -1128,14 +1118,14 @@
         <accidental>natural</accidental>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-44.900727" bezier-y="31.512426"/>
+          <slur type="stop" number="1" bezier-x="-44.90071" bezier-y="31.512418"/>
           </notations>
         </note>
       </measure>
     <measure number="13" width="223.76">
       <direction placement="above" system="only-top">
         <direction-type>
-          <metronome parentheses="no" default-y="6.73" relative-y="20">
+          <metronome parentheses="no" relative-y="20">
             <beat-unit>quarter</beat-unit>
             <per-minute>50</per-minute>
             </metronome>
