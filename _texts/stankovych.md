@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stankovych, Yevhen Fedorovych (1942-) | Станко́вич, Євге́н Фе́дорович 
+title: Stankovych, Yevhen Fedorovych (1942-)
 category: incipits
 century: 20th
 permalink: /stankovych/
