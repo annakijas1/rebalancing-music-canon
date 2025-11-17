@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="m1kychu5">
+      <fileDesc xml:id="fpp5cro">
+         <titleStmt xml:id="tpg83wk">
+            <title>American Ballad</title>
+            <respStmt>
+               <persName role="composer">Toshiko Akiyoshi</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+					<persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pgo2gm0">
+            <date isodate="2025-11-17" type="encoding-date">2025-11-17</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="emfukhj">
+         <appInfo xml:id="a1enbpf6">
+            <application xml:id="a1hkzna2" isodate="2025-11-17T16:39:01" version="5.6.0-85e7620">
+               <name xml:id="ns984mr">Verovio</name>
+               <p xml:id="p1tv7p7l">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="d99wnms">
+            <score xml:id="e6iudhg">
+               <scoreDef xml:id="fxgbm4v">
+                  <pgHead xml:id="j12oyhxf" func="first">
+                     <rend xml:id="h187u8b3" halign="center" valign="top">American Ballad</rend>
+                     <rend xml:id="k14d0kjc" halign="right" valign="bottom">Toshiko Akiyoshi</rend>
+                  </pgHead>
+                  <staffGrp xml:id="m1tdsli2">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2" trans.diat="-5" trans.semi="-9">
+                        <label xml:id="n1ua1en6">Alto Saxophone</label>
+                        <labelAbbr xml:id="p1cu28q">A. Sax.</labelAbbr>
+                        <instrDef xml:id="rol2dss" midi.channel="0" midi.instrnum="65" midi.volume="78%" />
+                        <clef xml:id="apj7uqr" shape="G" line="2" />
+                        <keySig xml:id="boqexiq" sig="0" />
+                        <meterSig xml:id="cdv9lde" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="g4rvnul">
+                  <measure xml:id="d1bli158" metcon="false" n="1">
+                     <staff xml:id="mky27p" n="1">
+                        <layer xml:id="vc5e8mc" n="1">
+                           <rest xml:id="w2tqvuy" dur.ppq="1" dur="8" />
+                           <rest xml:id="xagb79j" dur.ppq="2" dur="4" />
+                        </layer>
+                     </staff>
+                     <tempo xml:id="n1vi48fz" place="above" staff="1" tstamp="1" xml:lang="it" midi.bpm="60" mm.unit="4">
+                        <rend xml:id="o1766a8r" fontfam="FreeSerif">Slow Swing <rend glyph.auth="smufl"></rend> = c. 60 </rend>
+                         </tempo>
+                  </measure>
+                  <measure xml:id="yr2c0jz" n="2">
+                     <staff xml:id="h1lulnf0" n="1">
+                        <layer xml:id="i1krh0fq" n="1">
+                           <rest xml:id="jx4kqpj" dur.ppq="1" dur="8" />
+                           <note xml:id="m1e4r0te" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down">
+                              <artic xml:id="owcjzxo" artic="acc" />
+                           </note>
+                           <note xml:id="py94ogy" dur.ppq="4" dur="2" oct="5" pname="f" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <dynam xml:id="kv9kojv" place="below" staff="1" tstamp="1.5" val="112" vgrp="440">ff</dynam>
+                     <slur xml:id="n1vx3z1x" startid="#m1e4r0te" endid="#cj0pwrp" />
+                     <tie xml:id="q13hsoa1" startid="#py94ogy" endid="#cj0pwrp" />
+                  </measure>
+                  <measure xml:id="r1u3q3sb" n="3">
+                     <staff xml:id="azneuoe" n="1">
+                        <layer xml:id="b1yh79io" n="1">
+                           <note xml:id="cj0pwrp" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down" />
+                           <note xml:id="d6xv47g" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down" />
+                           <note xml:id="fnsi5go" dur.ppq="4" dur="2" oct="5" pname="f" stem.dir="down">
+                              <accid xml:id="ge0elsf" accid="s" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <slur xml:id="exungps" startid="#d6xv47g" endid="#t2gadee" />
+                  </measure>
+                  <measure xml:id="hezu22r" n="4">
+                     <staff xml:id="q19yvvac" n="1">
+                        <layer xml:id="rvhv810" n="1">
+                           <note xml:id="sz923lr" dur.ppq="2" dur="4" oct="5" pname="g" stem.dir="down" />
+                           <note xml:id="t2gadee" dur.ppq="4" dur="2" oct="5" pname="g" stem.dir="down">
+                              <accid xml:id="u1ptu7ib" accid="s" />
+                           </note>
+                           <note xml:id="x1txca08" dur.ppq="2" dur="4" oct="5" pname="a" stem.dir="down">
+                              <artic xml:id="y1orkm78" artic="ten" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <breath staff="1" tstamp="3.5"/>
+                     <dynam xml:id="v11qg1jm" place="below" staff="1" tstamp="4" val="96" vgrp="440">f</dynam>
+                  </measure>
+                  <measure xml:id="zdbq33s" n="5">
+                     <staff xml:id="i10r2ejd" n="1">
+                        <layer xml:id="jvugtlo" n="1">
+                           <note xml:id="kc6r3m8" dur.ppq="4" dur="2" oct="5" pname="d" stem.dir="down" />
+                           <note xml:id="mq2qe5y" dur.ppq="4" dur="2" oct="5" pname="c" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <slur xml:id="ltmgdbb" startid="#kc6r3m8" endid="#r1bzad2r" />
+                  </measure>
+                  <measure xml:id="n1rcjzv8" right="dbl" n="6">
+                     <staff xml:id="w1qcqhw6" n="1">
+                        <layer xml:id="xckbjwj" n="1">
+                           <note xml:id="y66lf10" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="a18eqkf3" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down">
+                              <accid xml:id="b18td03h" accid="f" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <hairpin xml:id="zw8cz0u" staff="1" tstamp="3" tstamp2="1m+5" form="dim" place="below" vgrp="630" />
+                  </measure>
+                  <measure xml:id="cqvziny" n="7">
+                     <staff xml:id="l1u4wnw1" n="1">
+                        <layer xml:id="p1ajq7b1" n="1">
+                           <note xml:id="quq4dt0" dur.ppq="4" dur="2" oct="4" pname="a" stem.dir="up" />
+                           <note xml:id="r1bzad2r" dur.ppq="4" dur="2" oct="4" pname="g" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <reh xml:id="moaqyh4" place="above" staff="1" xml:lang="it">
+                        <rend xml:id="n4g2d7z" rend="box" fontweight="bold">A</rend>
+                     </reh>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
