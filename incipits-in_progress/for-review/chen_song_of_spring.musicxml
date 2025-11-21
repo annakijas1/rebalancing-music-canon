@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="3.1">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
   <work>
     <work-title>Song of Spring</work-title>
     </work>
   <identification>
     <creator type="composer">Chen Yi</creator>
     <encoding>
-      <software>MuseScore 3.6.2</software>
-      <encoding-date>2024-11-13</encoding-date>
+      <software>MuseScore Studio 4.6.3</software>
+      <encoding-date>2025-11-20</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="creationDate">2025-11-20</miscellaneous-field>
+      <miscellaneous-field name="platform">Microsoft Windows</miscellaneous-field>
+      </miscellaneous>
     </identification>
   <defaults>
     <scaling>
@@ -37,16 +41,41 @@
         <bottom-margin>85.7252</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">Song of Spring</credit-words>
+    <credit-words default-x="616.935" default-y="1511.0448" justify="center" valign="top" font-size="22">Song of Spring</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.05" justify="right" valign="bottom">Chen Yi</credit-words>
+    <credit-words default-x="1148.1448" default-y="1411.044784" justify="right" valign="bottom">Chen Yi</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -54,6 +83,7 @@
       <part-abbreviation>Vln.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Violin</instrument-name>
+        <instrument-sound>strings.violin</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -65,14 +95,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="325.37">
+    <measure number="1" width="365.1">
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>50.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <left-margin>50</left-margin>
+            <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>170.00</top-system-distance>
+          <top-system-distance>170</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -89,16 +119,16 @@
           <line>2</line>
           </clef>
         </attributes>
-      <direction placement="above">
+      <direction placement="above" system="only-top">
         <direction-type>
-          <metronome parentheses="no" default-x="-38.52" relative-y="20.00">
+          <metronome parentheses="no" default-x="-38.52" default-y="6.52" relative-y="20">
             <beat-unit>quarter</beat-unit>
             <per-minute>60</per-minute>
             </metronome>
           </direction-type>
         <sound tempo="60"/>
         </direction>
-      <note>
+      <note default-x="81.61" default-y="-20">
         <rest/>
         <duration>8</duration>
         <voice>1</voice>
@@ -106,13 +136,13 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="6.50" default-y="-52.22" relative-y="-25.00">
+          <dynamics default-x="5.32" default-y="-48.43" relative-y="-20">
             <mp/>
             </dynamics>
           </direction-type>
         <sound dynamics="71.11"/>
         </direction>
-      <note default-x="157.23" default-y="-35.00">
+      <note default-x="180.39" default-y="-35">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -126,10 +156,10 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="29.384045" bezier-y="-24.763732" number="1"/>
           </notations>
         </note>
-      <note default-x="184.06" default-y="-40.00">
+      <note default-x="209.65" default-y="-40">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -141,7 +171,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="210.89" default-y="-35.00">
+      <note default-x="238.92" default-y="-35">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -154,7 +184,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="237.72" default-y="-40.00">
+      <note default-x="268.19" default-y="-40">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -166,10 +196,10 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="start" placement="below" number="2"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="7.043847" bezier-y="-8.531495" number="2"/>
           </notations>
         </note>
-      <note default-x="264.55" default-y="-40.00">
+      <note default-x="297.45" default-y="-40">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -179,13 +209,18 @@
         <type>quarter</type>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="2"/>
-          <slur type="start" placement="below" number="2"/>
+          <slur type="stop" number="2" bezier-x="-7.043847" bezier-y="-8.531495"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="20.437301" bezier-y="-14.53222" number="2"/>
           </notations>
         </note>
       </measure>
-    <measure number="2" width="173.86">
-      <note default-x="13.00" default-y="-40.00">
+    <measure number="2" width="163.42">
+      <direction placement="below">
+        <direction-type>
+          <wedge type="crescendo" default-y="-73.13" spread="11.5" number="1"/>
+          </direction-type>
+        </direction>
+      <note default-x="12.5" default-y="-40">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -194,24 +229,29 @@
         <voice>1</voice>
         <type>whole</type>
         <notations>
-          <slur type="stop" number="1"/>
-          <slur type="stop" number="2"/>
+          <slur type="stop" number="1" bezier-x="-32.051182" bezier-y="-21.198732"/>
+          <slur type="stop" number="2" bezier-x="-20.437301" bezier-y="-14.53222"/>
           <ornaments>
             <tremolo type="single">3</tremolo>
             </ornaments>
           </notations>
         </note>
-      </measure>
-    <measure number="3" width="249.06">
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="6.50" default-y="-40.00" relative-y="-25.00">
+          <wedge type="stop" number="1"/>
+          </direction-type>
+        </direction>
+      </measure>
+    <measure number="3" width="256.58">
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="5.32" default-y="-57.73" relative-y="-20">
             <mf/>
             </dynamics>
           </direction-type>
         <sound dynamics="88.89"/>
         </direction>
-      <note default-x="13.00" default-y="-20.00">
+      <note default-x="12.5" default-y="-20">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -223,10 +263,10 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="22.686323" bezier-y="-19.712267" number="1"/>
           </notations>
         </note>
-      <note default-x="45.76" default-y="-25.00">
+      <note default-x="41.77" default-y="-25">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -238,7 +278,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="78.52" default-y="-20.00">
+      <note default-x="71.03" default-y="-20">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -250,7 +290,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="111.28" default-y="-25.00">
+      <note default-x="100.3" default-y="-25">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -262,10 +302,15 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="start" placement="below" number="2"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="7.560514" bezier-y="-8.838851" number="2"/>
           </notations>
         </note>
-      <note default-x="144.03" default-y="-25.00">
+      <direction placement="below">
+        <direction-type>
+          <wedge type="diminuendo" default-y="-61" number="1"/>
+          </direction-type>
+        </direction>
+      <note default-x="129.57" default-y="-25">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -273,27 +318,32 @@
         <duration>12</duration>
         <voice>1</voice>
         <type>half</type>
-        <dot/>
+        <dot default-x="147.56" default-y="-25"/>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1"/>
-          <slur type="stop" number="2"/>
+          <slur type="stop" number="1" bezier-x="-25.700964" bezier-y="-15.578935"/>
+          <slur type="stop" number="2" bezier-x="-7.560514" bezier-y="-8.838851"/>
           <ornaments>
             <tremolo type="single">3</tremolo>
             </ornaments>
           </notations>
         </note>
-      </measure>
-    <measure number="4" width="230.41">
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="3.25" default-y="-43.79" relative-y="-25.00">
+          <wedge type="stop" spread="11.5" number="1"/>
+          </direction-type>
+        </direction>
+      </measure>
+    <measure number="4" width="227.31">
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="5.32" default-y="-45.6" relative-y="-20">
             <mp/>
             </dynamics>
           </direction-type>
         <sound dynamics="71.11"/>
         </direction>
-      <note default-x="13.00" default-y="-20.00">
+      <note default-x="12.5" default-y="-20">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -304,10 +354,10 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" orientation="over" placement="above" bezier-x="20.94348" bezier-y="17.843422" number="1"/>
           </notations>
         </note>
-      <note default-x="60.38" default-y="-15.00">
+      <note default-x="56.4" default-y="-15">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -320,10 +370,15 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="start" placement="above" number="2"/>
+          <slur type="start" orientation="over" placement="above" bezier-x="11.34077" bezier-y="10.825338" number="2"/>
           </notations>
         </note>
-      <note default-x="107.76" default-y="-15.00">
+      <direction placement="below">
+        <direction-type>
+          <wedge type="crescendo" default-y="-68.35" spread="11.5" number="1"/>
+          </direction-type>
+        </direction>
+      <note default-x="100.3" default-y="-15">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -332,36 +387,41 @@
         <duration>12</duration>
         <voice>1</voice>
         <type>half</type>
-        <dot/>
+        <dot default-x="118.29" default-y="-15"/>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1"/>
-          <slur type="stop" number="2"/>
+          <slur type="stop" number="1" bezier-x="-24.419601" bezier-y="12.676756"/>
+          <slur type="stop" number="2" bezier-x="-11.34077" bezier-y="10.825338"/>
           <ornaments>
             <tremolo type="single">3</tremolo>
             </ornaments>
           </notations>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <wedge type="stop" number="1"/>
+          </direction-type>
+        </direction>
       </measure>
-    <measure number="5" width="404.46">
+    <measure number="5" width="229.35">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>624.24</right-margin>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
             </system-margins>
-          <system-distance>235.00</system-distance>
+          <system-distance>235</system-distance>
           </system-layout>
         </print>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="3.25" default-y="-50.67" relative-y="-25.00">
+          <dynamics default-x="2.31" default-y="-54.42" relative-y="-20">
             <f/>
             </dynamics>
           </direction-type>
         <sound dynamics="106.67"/>
         </direction>
-      <note default-x="58.59" default-y="-20.00">
+      <note default-x="58.09" default-y="-20">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -373,10 +433,10 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" orientation="over" placement="above" bezier-x="8.891635" bezier-y="13.835879" number="1"/>
           </notations>
         </note>
-      <note default-x="96.82" default-y="-15.00">
+      <note default-x="86.84" default-y="-15">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -390,7 +450,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="135.05" default-y="-5.00">
+      <note default-x="103.34" default-y="-5">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -402,10 +462,10 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="stop" number="1"/>
+          <slur type="stop" number="1" bezier-x="-14.484299" bezier-y="7.79088"/>
           </notations>
         </note>
-      <note>
+      <note default-x="121.29" default-y="-20">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -413,19 +473,19 @@
         </note>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="4.70" default-y="-40.00" relative-y="-25.00">
+          <dynamics default-x="5.32" default-y="-40" relative-y="-20">
             <mp/>
             </dynamics>
           </direction-type>
         <sound dynamics="71.11"/>
         </direction>
-      <note>
+      <note default-x="140.05" default-y="-20">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
-      <note>
+      <note default-x="175.05" default-y="-20">
         <rest/>
         <duration>8</duration>
         <voice>1</voice>
