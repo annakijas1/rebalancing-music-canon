@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="3.1">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
   <work>
     <work-title>Calligraffiti</work-title>
     </work>
   <identification>
     <creator type="composer">Huang Ruo</creator>
     <encoding>
-      <software>MuseScore 3.6.2</software>
-      <encoding-date>2024-10-30</encoding-date>
+      <software>MuseScore Studio 4.6.3</software>
+      <encoding-date>2025-11-24</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="creationDate">2025-11-24</miscellaneous-field>
+      <miscellaneous-field name="platform">Microsoft Windows</miscellaneous-field>
+      </miscellaneous>
     </identification>
   <defaults>
     <scaling>
@@ -37,20 +41,45 @@
         <bottom-margin>85.7252</bottom-margin>
         </page-margins>
       </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+      </appearance>
+    <music-font font-family="Leland"/>
     <word-font font-family="Edwin" font-size="10"/>
     <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">Calligraffiti</credit-words>
+    <credit-words default-x="616.935" default-y="1511.0448" justify="center" valign="top" font-size="22">Calligraffiti</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935" default-y="1453.9" justify="center" valign="top" font-size="16">String Quartet No. 3 (2012)</credit-words>
+    <credit-words default-x="616.935" default-y="1453.894677" justify="center" valign="top" font-size="16">String Quartet No. 3 (2012)</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.15" default-y="1411.05" justify="right" valign="bottom">Huang Ruo</credit-words>
+    <credit-words default-x="1148.1448" default-y="1389.109282" justify="right" valign="bottom">Huang Ruo</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -58,6 +87,7 @@
       <part-abbreviation>Vln.</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Violin</instrument-name>
+        <instrument-sound>strings.violin</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
@@ -69,21 +99,18 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="203.54">
+    <measure number="1" width="223.49">
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>50.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <left-margin>50</left-margin>
+            <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>170.00</top-system-distance>
+          <top-system-distance>191.94</top-system-distance>
           </system-layout>
         </print>
-      <barline location="left">
-        <ending number="3" type="start" default-y="31.45" relative-x="-6.65"/>
-        </barline>
       <attributes>
-        <divisions>4</divisions>
+        <divisions>28</divisions>
         <key>
           <fifths>0</fifths>
           </key>
@@ -98,296 +125,329 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <metronome parentheses="no" default-x="-38.52" relative-x="260.47" relative-y="39.95">
+          <words relative-y="10" font-style="italic">30 Sec.</words>
+          </direction-type>
+        </direction>
+      <note default-x="135.15" default-y="-10">
+        <rest measure="yes"/>
+        <duration>112</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="2" width="251.51">
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <metronome parentheses="no" relative-y="30.36">
             <beat-unit>quarter</beat-unit>
             <per-minute>42</per-minute>
             </metronome>
           </direction-type>
         <sound tempo="42"/>
         </direction>
-      <note>
-        <rest measure="yes"/>
-        <duration>16</duration>
-        <voice>1</voice>
-        </note>
-      <barline location="right">
-        <ending number="3" type="stop" relative-x="-6.65"/>
-        </barline>
-      </measure>
-    <measure number="2" width="204.73">
-      <note>
+      <note default-x="12.5" default-y="-20">
         <rest/>
-        <duration>4</duration>
+        <duration>28</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
-      <note>
+      <note default-x="74.76" default-y="-20">
         <rest/>
-        <duration>3</duration>
+        <duration>21</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot default-x="90.79" default-y="-15"/>
         </note>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="6.50" default-y="-79.84" relative-y="-25.00">
+          <dynamics default-x="2.31" default-y="-82.07" relative-y="-20">
             <f/>
             </dynamics>
           </direction-type>
         <sound dynamics="106.67"/>
         </direction>
-      <note default-x="109.35" default-y="-65.00">
+      <note default-x="127.37" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>1</duration>
+        <duration>7</duration>
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="6.963697" bezier-y="-8.482817" number="1"/>
           </notations>
         </note>
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="6.50" default-y="-75.82" relative-y="-25.00">
+          <dynamics default-x="3.1" default-y="-77.02" relative-y="-20">
             <pp/>
             </dynamics>
           </direction-type>
         <sound dynamics="36.67"/>
         </direction>
-      <note default-x="137.94" default-y="-65.00">
+      <note default-x="156.33" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>56</duration>
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1"/>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="stop" number="1" bezier-x="-6.963697" bezier-y="-8.482817"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="21.428273" bezier-y="-16.636761" number="1"/>
           </notations>
         </note>
       </measure>
-    <measure number="3" width="219.51">
-      <note default-x="16.50" default-y="-65.00">
+    <measure number="3" width="250.23">
+      <note default-x="12.5" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>28</duration>
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1"/>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="stop" number="1" bezier-x="-21.428273" bezier-y="-16.636761"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="15.566339" bezier-y="-12.68275" number="1"/>
           </notations>
         </note>
-      <note default-x="72.17" default-y="-65.00">
+      <note default-x="74.76" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>3</duration>
+        <duration>21</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot default-x="92.75" default-y="-65"/>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="stop" number="1"/>
+          <slur type="stop" number="1" bezier-x="-15.566339" bezier-y="-12.68275"/>
           </notations>
         </note>
-      <note default-x="121.55" default-y="-65.00">
+      <note default-x="127.37" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>1</duration>
+        <duration>7</duration>
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="6.631336" bezier-y="-8.27791" number="1"/>
           <technical>
-            <stopped/>
+            <stopped default-x="0.26" default-y="-95.59" placement="below"/>
             </technical>
           </notations>
         </note>
-      <note default-x="146.85" default-y="-65.00">
+      <note default-x="155.04" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>56</duration>
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1"/>
-          <slur type="start" placement="below" number="1"/>
+          <slur type="stop" number="1" bezier-x="-6.631336" bezier-y="-8.27791"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="21.118273" bezier-y="-16.515981" number="1"/>
           </notations>
         </note>
       </measure>
-    <measure number="4" width="350.92">
-      <note default-x="16.50" default-y="-65.00">
+    <measure number="4" width="287.19">
+      <note default-x="12.5" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>56</duration>
+        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1"/>
-          <slur type="start" placement="below" number="1"/>
+          <tied type="start"/>
+          <slur type="stop" number="1" bezier-x="-21.118273" bezier-y="-16.515981"/>
           </notations>
         </note>
-      <note default-x="94.35" default-y="-65.00">
+      <note default-x="105.89" default-y="-65">
         <pitch>
           <step>G</step>
           <octave>3</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>16</duration>
+        <tie type="stop"/>
         <voice>1</voice>
         <type>quarter</type>
+        <time-modification>
+          <actual-notes>7</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>eighth</normal-type>
+          </time-modification>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1"/>
+          <tied type="stop"/>
+          <tuplet type="start" bracket="yes"/>
           </notations>
         </note>
-      <note default-x="150.96" default-y="-60.00">
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="3.09" default-y="-77.52" relative-y="-20">
+            <p/>
+            </dynamics>
+          </direction-type>
+        <sound dynamics="54.44"/>
+        </direction>
+      <note default-x="150.76" default-y="-60">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
           <octave>3</octave>
           </pitch>
-        <duration>2</duration>
+        <duration>8</duration>
         <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>7</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>eighth</normal-type>
+          </time-modification>
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
           <technical>
-            <stopped/>
+            <stopped default-x="0.26" default-y="-81.92" placement="below"/>
             </technical>
           </notations>
         </note>
-      <note default-x="186.35" default-y="-60.00">
+      <note default-x="180.68" default-y="-60">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
-          <octave>3</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        </note>
-      <note default-x="221.73" default-y="-60.00">
-        <pitch>
-          <step>A</step>
-          <alter>-1</alter>
-          <octave>3</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <technical>
-            <stopped/>
-            </technical>
-          </notations>
-        </note>
-      <note print-object="no">
-        <rest/>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        </note>
-      <note default-x="292.50" default-y="-60.00">
-        <pitch>
-          <step>A</step>
-          <alter>-1</alter>
-          <octave>3</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-        <notations>
-          <slur type="start" placement="below" number="1"/>
-          </notations>
-        </note>
-      <barline location="right">
-        <ending number="1" type="stop"/>
-        </barline>
-      </measure>
-    <measure number="5" width="394.67">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>634.03</right-margin>
-            </system-margins>
-          <system-distance>235.00</system-distance>
-          </system-layout>
-        </print>
-      <note default-x="62.09" default-y="-60.00">
-        <pitch>
-          <step>A</step>
           <octave>3</octave>
           </pitch>
         <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>eighth</type>
+        <time-modification>
+          <actual-notes>7</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>eighth</normal-type>
+          </time-modification>
         <stem>up</stem>
-        <notations>
-          <slur type="stop" number="1"/>
-          </notations>
+        <beam number="1">continue</beam>
         </note>
-      <note default-x="203.37" default-y="-60.00">
+      <note default-x="210.6" default-y="-60">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
           <octave>3</octave>
           </pitch>
-        <duration>6</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <dot/>
-        <accidental>flat</accidental>
+        <type>eighth</type>
+        <time-modification>
+          <actual-notes>7</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>eighth</normal-type>
+          </time-modification>
         <stem>up</stem>
+        <beam number="1">end</beam>
         <notations>
-          <slur type="start" placement="below" number="1"/>
           <technical>
-            <stopped/>
+            <stopped default-x="0.26" default-y="-81.92" placement="below"/>
             </technical>
           </notations>
         </note>
-      <note default-x="328.66" default-y="-60.00">
+      <note default-x="240.51" default-y="-60">
         <pitch>
           <step>A</step>
+          <alter>-1</alter>
           <octave>3</octave>
           </pitch>
-        <duration>2</duration>
+        <duration>16</duration>
+        <tie type="start"/>
         <voice>1</voice>
-        <type>eighth</type>
-        <accidental>natural</accidental>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>7</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>eighth</normal-type>
+          </time-modification>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1"/>
+          <tied type="start"/>
+          <tuplet type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="5" width="190.32">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+            </system-margins>
+          <system-distance>235</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="58.09" default-y="-60">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>56</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="110.59" default-y="-60">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>42</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot default-x="128.59" default-y="-55"/>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notations>
+          <slur type="start" orientation="under" placement="below" bezier-x="11.461863" bezier-y="-10.882979" number="1"/>
+          <technical>
+            <stopped default-x="0.26" default-y="-90.03" placement="below"/>
+            </technical>
+          </notations>
+        </note>
+      <note default-x="154.96" default-y="-60">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>14</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notations>
+          <slur type="stop" number="1" bezier-x="-11.461863" bezier-y="-10.882979"/>
           </notations>
         </note>
       </measure>

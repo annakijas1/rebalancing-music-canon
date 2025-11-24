@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="m1pupubd">
+      <fileDesc xml:id="f14zfla0">
+         <titleStmt xml:id="t1le2ebm">
+            <title>Three Showpieces for Violin (unaccompanied)</title>
+            <respStmt>
+               <persName role="composer">Frederick Tillis</persName>
+               <persName role="transcriber">Idil Kolabas</persName>
+               <persName role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1uq3so6">
+            <date isodate="2025-11-24" type="encoding-date">2025-11-24</date>
+             <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e28wtva">
+         <appInfo xml:id="a1vt2z36">
+            <application xml:id="a16qt236" isodate="2025-11-24T12:42:24" version="5.6.0-85e7620">
+               <name xml:id="n1q9niez">Verovio</name>
+               <p xml:id="p19qrt2s">Transcoded from MusicXML</p>
+            </application>
+            <application xml:id="azrmoy01" startdate="2025-11-24T12:42:33" version="1.2.9" enddate="2025-11-24T12:42:33">
+               <name xml:id="nae7v9f1">mei-friend</name>
+               <p xml:id="p8ftr8">First edit by mei-friend 1.2.9.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="a5x8knf">
+            <score xml:id="be1mvk6">
+               <scoreDef xml:id="clmboed">
+                  <pgHead xml:id="g1tqde9e" func="first">
+                     <rend xml:id="euac9o1" halign="center" valign="top">Three Showpieces for Violin (unaccompanied)</rend>
+                     <rend xml:id="h42ix1o" halign="center" valign="top">1. Dialogue</rend>
+                     <rend xml:id="j363xak" halign="right" valign="bottom">Frederick Tillis</rend>
+                  </pgHead>
+                  <staffGrp xml:id="l104mdnw">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="6">
+                        <label xml:id="m1tppyzk">Violin</label>
+                        <labelAbbr xml:id="o14v7t5n">Vln.</labelAbbr>
+                        <instrDef xml:id="q1ljbryd" midi.channel="0" midi.instrnum="40" midi.volume="78%" />
+                        <clef xml:id="z1uuvo24" shape="G" line="2" />
+                        <keySig xml:id="ab52lj2" sig="0" />
+                        <meterSig xml:id="bbehob7" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="d6itvfo">
+                  <measure xml:id="c1ihswwq" n="1">
+                     <staff xml:id="lsr5u8c" n="1">
+                        <layer xml:id="rvta8so" n="1">
+                           <note xml:id="s12jrtu5" dur.ppq="0" dur="8" oct="3" pname="b" grace="unacc" stem.dir="up" stem.mod="1slash">
+                              <accid xml:id="t8syk7u" accid="f" />
+                              <artic xml:id="v2xcw1e" type="technical" artic="dnbow" />
+                           </note>
+                           <note xml:id="wugkati" dur.ppq="12" dur="2" oct="3" pname="g" stem.dir="up" />
+                           <note xml:id="yk0bbi0" dur.ppq="3" dur="8" oct="3" pname="g" stem.dir="up" />
+                           <chord xml:id="a1x2qlpz" dots="1" dur.ppq="9" dur="4" stem.dir="up">
+                              <artic xml:id="b9wojtl" type="technical" artic="upbow" />
+                              <note xml:id="zrensvk" oct="3" pname="g" />
+                              <note xml:id="c3owvst" oct="4" pname="d" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <tempo xml:id="m127gqkq" place="above" staff="1" tstamp="1" xml:lang="it" midi.bpm="200">
+                        <rend xml:id="n1ak9lmj" fontweight="bold">Free and capriciously</rend>
+                     </tempo>
+                     <dynam xml:id="pgv3389" place="below" staff="1" tstamp="1" val="96" vgrp="900">f</dynam>
+                     <slur xml:id="udigsc" startid="#s12jrtu5" endid="#zrensvk" />
+                     <slur xml:id="x1r62amj" startid="#wugkati" endid="#yk0bbi0" curvedir="below" />
+                  </measure>
+                  <measure xml:id="d1aaoxl2" n="2">
+                     <staff xml:id="m1xtrjjq" n="1">
+                        <layer xml:id="n1jduwa4" n="1">
+                           <note xml:id="o1dn0qap" dots="1" dur.ppq="9" dur="4" oct="4" pname="f" stem.dir="up">
+                              <artic xml:id="q1xjgsu8" type="technical" artic="dnbow" />
+                           </note>
+                           <note xml:id="r571zj4" dur.ppq="3" dur="8" oct="4" pname="d" stem.dir="up" />
+                           <note xml:id="t4c6ikt" dur.ppq="12" dur="2" oct="4" pname="d" stem.dir="up" />
+                        </layer>
+                        <layer xml:id="v18d1mip" n="2">
+                           <note xml:id="w1noi9rs" dur="1" dur.ppq="24" oct="3" pname="g"/>
+                        </layer>
+                     </staff>
+                     <slur xml:id="pbi8lb5" startid="#o1dn0qap" endid="#l7hdvp5" />
+                     <slur xml:id="s1jukhjp" startid="#r571zj4" endid="#t4c6ikt" curvedir="above" />
+                     <tie xml:id="uc9azp2" startid="#t4c6ikt" endid="#na26102" />
+                     <tie xml:id="x3wx9mi" startid="#w1noi9rs" endid="#l7hdvp5" />
+                  </measure>
+                  <measure xml:id="zsebklh" n="3">
+                     <staff xml:id="ice9afe" n="1">
+                        <layer xml:id="j1nd7bqv" n="1">
+                           <tuplet xml:id="k2ujw7e" num="3" numbase="2" bracket.visible="true">
+                              <chord xml:id="mvbgagu" dur.ppq="4" dur="4" stem.dir="up">
+                                 <note xml:id="l7hdvp5" oct="3" pname="g" />
+                                 <note xml:id="na26102" oct="4" pname="d" />
+                              </chord>
+                              <note xml:id="o18hl3tu" dur.ppq="4" dur="4" oct="3" pname="a" stem.dir="up">
+                                 <artic xml:id="pkjdj2e" artic="stacc" />
+                              </note>
+                              <note xml:id="q1kvxzmy" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up">
+                                 <artic xml:id="r125hwpx" artic="stacc" />
+                              </note>
+                           </tuplet>
+                           <tuplet xml:id="s123lprn" num="3" numbase="2" bracket.visible="true">
+                              <note xml:id="tubz3ra" dur.ppq="4" dur="4" oct="4" pname="d" stem.dir="up" />
+                              <note xml:id="v1pzi1rw" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up" />
+                              <note xml:id="wh7jfa3" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
+                                 <artic xml:id="ydq2tbr" artic="acc" place="above" />
+                              </note>
+                           </tuplet>
+                        </layer>
+                     </staff>
+                     <slur xml:id="uhtorrz" startid="#tubz3ra" endid="#v1pzi1rw" />
+                     <tie xml:id="x1lr92ry" startid="#wh7jfa3" endid="#kiiccu0" />
+                  </measure>
+                  <measure xml:id="zloa0ku" n="4">
+                     <staff xml:id="i1o5e4o1" n="1">
+                        <layer xml:id="jsuvyxn" n="1">
+                           <note xml:id="kiiccu0" dur.ppq="24" dur="1" oct="4" pname="g" />
+                        </layer>
+                        <layer xml:id="msccnot" n="2">
+                           <rest xml:id="n102laxx" dur.ppq="12" dur="2" ploc="e" oloc="4" />
+                           <note xml:id="o1ywml2u" dots="1" dur.ppq="9" dur="4" oct="4" pname="d" stem.dir="down">
+                              <accid xml:id="pdh4h90" accid="f" />
+                              <artic xml:id="qp9fx2m" artic="acc" />
+                           </note>
+                           <note xml:id="rbx8rss" dur.ppq="3" dur="8" oct="3" pname="b" stem.dir="down">
+                              <accid xml:id="s1o3anr4" accid="f" />
+                              <artic xml:id="ugmiguz" artic="acc" />
+                           </note>
+                        </layer>
+                     </staff>
+                     <tie xml:id="lhfzd2p" startid="#kiiccu0" endid="#kits0bg" />
+                     <tie xml:id="t1n3usxo" startid="#rbx8rss" endid="#g16ukvni" />
+                  </measure>
+                  <measure xml:id="v1a16q5t" n="5">
+                     <staff xml:id="e1w3phfb" n="1">
+                        <layer xml:id="fjnhxk3" n="1">
+                           <chord xml:id="i1lxjcot" dur.ppq="24" dur="1">
+                              <note xml:id="g16ukvni" oct="3" pname="b" accid.ges="f" />
+                              <note xml:id="kits0bg" oct="4" pname="g" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="j1v8emhg" staff="1" startid="#i1lxjcot" form="norm" place="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
