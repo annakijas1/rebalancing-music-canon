@@ -7,14 +7,19 @@
   <identification>
     <creator type="composer">Jobina Tinnemans</creator>
     <encoding>
-      <software>MuseScore 4.4.3</software>
-      <encoding-date>2024-11-22</encoding-date>
+      <software>MuseScore Studio 4.6.3</software>
+      <encoding-date>2025-12-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="creationDate">2024-10-29</miscellaneous-field>
+      <miscellaneous-field name="mscVersion">4.40</miscellaneous-field>
+      <miscellaneous-field name="platform">Microsoft Windows</miscellaneous-field>
+      </miscellaneous>
     </identification>
   <defaults>
     <scaling>
@@ -71,7 +76,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.144364" default-y="1437.233054" justify="right" valign="bottom" font-size="11">Jobina Tinnemans</credit-words>
+    <credit-words default-x="1148.144364" default-y="1437.23305" justify="right" valign="bottom" font-size="11">Jobina Tinnemans</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -98,7 +103,7 @@
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>170</top-system-distance>
+          <top-system-distance>173.98</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -115,12 +120,12 @@
           <line>2</line>
           </clef>
         </attributes>
-      <direction placement="above">
+      <direction placement="above" system="only-top">
         <direction-type>
-          <words default-x="-37.67" relative-x="5.54" relative-y="44.83" font-weight="bold" font-size="12">Tempo giusto. Dry, bold, and stylish </words>
+          <words default-x="-37.67" default-y="6.57" relative-x="5.54" relative-y="44.83" font-weight="bold" font-size="12">Tempo giusto. Dry, bold, and stylish </words>
           </direction-type>
         <direction-type>
-          <metronome parentheses="yes" default-x="-37.67" relative-x="5.54" relative-y="44.83">
+          <metronome parentheses="yes" default-x="-37.67" default-y="6.57" relative-x="5.54" relative-y="44.83">
             <beat-unit>quarter</beat-unit>
             <per-minute>108</per-minute>
             </metronome>
@@ -152,7 +157,7 @@
         <stem>up</stem>
         <notations>
           <articulations>
-            <accent/>
+            <accent default-x="-0.72" default-y="-60.4"/>
             </articulations>
           </notations>
         </note>
@@ -166,9 +171,8 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words relative-x="-3.33" relative-y="19.71" font-weight="bold" font-size="12">pont.</words>
+          <words default-y="4.05" relative-y="10">pont.</words>
           </direction-type>
-        <sound tempo="116"/>
         </direction>
       <note default-x="186.7" default-y="-25">
         <pitch>
@@ -182,7 +186,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" number="1"/>
+          <slur type="start" bezier-x="7.891236" bezier-y="15.522506" number="1"/>
           </notations>
         </note>
       <note default-x="202.32" default-y="-20">
@@ -222,14 +226,14 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="stop" number="1"/>
+          <slur type="stop" number="1" bezier-x="-16.321927" bezier-y="6.067494"/>
           </notations>
         </note>
       </measure>
     <measure number="2" width="195.1">
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="5.32" default-y="-41.92" relative-y="-25">
+          <dynamics default-x="5.32" default-y="-40" relative-y="-25">
             <mf/>
             </dynamics>
           </direction-type>
@@ -237,9 +241,8 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words relative-x="-9.98" relative-y="18.6" font-weight="bold" font-size="12">ord.</words>
+          <words default-y="2.54" relative-y="10">ord.</words>
           </direction-type>
-        <sound tempo="71"/>
         </direction>
       <note default-x="13" default-y="-10">
         <pitch>
@@ -252,7 +255,7 @@
         <stem>down</stem>
         <notations>
           <articulations>
-            <tenuto/>
+            <tenuto default-x="0.18" default-y="4.08"/>
             </articulations>
           </notations>
         </note>
@@ -267,7 +270,7 @@
         <stem>down</stem>
         <notations>
           <articulations>
-            <tenuto/>
+            <tenuto default-x="0.18" default-y="5.3"/>
             </articulations>
           </notations>
         </note>
@@ -282,7 +285,7 @@
         <stem>down</stem>
         <notations>
           <articulations>
-            <tenuto/>
+            <tenuto default-x="0.18" default-y="10.3"/>
             </articulations>
           </notations>
         </note>
@@ -293,6 +296,11 @@
             </dynamics>
           </direction-type>
         <sound dynamics="36.67"/>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="17.85" relative-y="10">pont.</words>
+          </direction-type>
         </direction>
       <note default-x="118.44" default-y="5">
         <pitch>
@@ -306,7 +314,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" number="1"/>
+          <slur type="start" bezier-x="14.857083" bezier-y="7.994576" number="1"/>
           </notations>
         </note>
       <note default-x="134.07" default-y="0">
@@ -345,7 +353,7 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="stop" number="1"/>
+          <slur type="stop" number="1" bezier-x="-9.35608" bezier-y="14.039584"/>
           </notations>
         </note>
       </measure>
@@ -372,13 +380,12 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words relative-y="18.6" font-weight="bold" font-size="12">ord.</words>
+          <words default-y="0.6" relative-y="10">ord.</words>
           </direction-type>
-        <sound tempo="71"/>
         </direction>
       <direction placement="below">
         <direction-type>
-          <wedge type="crescendo" default-y="-60.4" number="1"/>
+          <wedge type="crescendo" default-y="-60.4" spread="11.5" number="1"/>
           </direction-type>
         </direction>
       <note default-x="100.87" default-y="-10">
@@ -640,22 +647,16 @@
         <beam number="2">end</beam>
         </note>
       </measure>
-    <measure number="5" width="143.08">
+    <measure number="5" width="183.51">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0</left-margin>
-            <right-margin>885.62</right-margin>
+            <right-margin>0</right-margin>
             </system-margins>
-          <system-distance>281.17</system-distance>
+          <system-distance>265.12</system-distance>
           </system-layout>
         </print>
-      <direction placement="above">
-        <direction-type>
-          <words relative-x="69.83" relative-y="48.82" font-weight="bold" font-size="12">molto vib.</words>
-          </direction-type>
-        <sound tempo="35"/>
-        </direction>
       <note default-x="76.71" default-y="-20">
         <rest/>
         <duration>8</duration>
@@ -670,6 +671,11 @@
           </direction-type>
         <sound dynamics="54.44"/>
         </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="20.68" relative-y="15" font-style="italic">molto vib.</words>
+          </direction-type>
+        </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="5.32" default-y="-40" relative-x="70.94" relative-y="-29.43">
@@ -678,12 +684,7 @@
           </direction-type>
         <sound dynamics="88.89"/>
         </direction>
-      <direction placement="below">
-        <direction-type>
-          <wedge type="crescendo" default-y="-64.83" relative-x="17.73" number="1"/>
-          </direction-type>
-        </direction>
-      <note default-x="108.99" default-y="25">
+      <note default-x="129.21" default-y="25">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -698,6 +699,17 @@
           <wedge type="stop" number="1"/>
           </direction-type>
         </direction>
+      <backup>
+        <duration>6</duration>
+        </backup>
+      <direction placement="below">
+        <direction-type>
+          <wedge type="crescendo" default-y="-64.83" relative-x="-0.31" spread="11.5" number="1"/>
+          </direction-type>
+        </direction>
+      <forward>
+        <duration>6</duration>
+        </forward>
       </measure>
     </part>
   </score-partwise>
