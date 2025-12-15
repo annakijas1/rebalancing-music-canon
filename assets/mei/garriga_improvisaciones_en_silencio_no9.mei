@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="mmky7gk">
+      <fileDesc xml:id="fe5wwac">
+         <titleStmt xml:id="t1bwktyh">
+            <title>Improvisaciones en silencio no9</title>
+            <respStmt>
+              <persName role="composer">Carlota Garriga</persName>
+               <persName role="transcriber">Isabella Bogaty Rodriguez</persName>
+          <persName role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="py16wy1">
+            <date isodate="2025-12-15" type="encoding-date">2025-12-15</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1tirflc">
+         <appInfo xml:id="a6sowho">
+            <application xml:id="a18suml5" isodate="2025-12-15T14:35:20" version="5.7.0-7135340">
+               <name xml:id="n17ulpth">Verovio</name>
+               <p xml:id="prusqdq">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="wnvdq5h">
+            <score xml:id="x1naebqz">
+               <scoreDef xml:id="y1yf0e97">
+                  <pgHead xml:id="cu3dmqw" func="first">
+                     <rend xml:id="a1u4792t" halign="center" valign="top">Improvisaciones en silencio</rend>
+                     <rend xml:id="d3y2qe8" halign="center" valign="top">No9</rend>
+                     <rend xml:id="f1w6xgw1" halign="right" valign="bottom">Carlota Garriga
+</rend>
+                  </pgHead>
+                  <pgFoot xml:id="j1593lip">
+                     <rend xml:id="h18m188m">(1937)</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="k1balzo2">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <grpSym xml:id="l13nji76" symbol="brace" />
+                        <label xml:id="lh4nhns">Piano</label>
+                        <labelAbbr xml:id="n16a3zll">Pno.</labelAbbr>
+                        <instrDef xml:id="p1e81nxb" midi.channel="0" midi.instrnum="0" midi.volume="78%" />
+                        <staffDef xml:id="ressycs" n="1" lines="5" ppq="1">
+                           <clef xml:id="y1ruxf80" shape="G" line="2" />
+                           <keySig xml:id="zr1fhg9" sig="5s" />
+                           <meterSig xml:id="asnch20" count="3" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="b11bljbg" n="2" lines="5" ppq="1">
+                           <clef xml:id="i1vkc0vf" shape="F" line="4" />
+                           <keySig xml:id="j12mlzcq" sig="5s" />
+                           <meterSig xml:id="k1ytiktz" count="3" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="z12qe1rm">
+                  <measure xml:id="mukkeup" n="1">
+                     <staff xml:id="v1olmk5s" n="1">
+                        <layer xml:id="x1jhhia6" n="1">
+                           <chord xml:id="a1vk90xr" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="yuesd9t" oct="4" pname="g" accid.ges="s" />
+                              <note xml:id="c15goujt" oct="4" pname="b" />
+                              <note xml:id="d1cu3wo5" oct="5" pname="d" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="w8ovaxo" n="2">
+                        <layer xml:id="f1our338" n="5">
+                           <chord xml:id="irp1wlg" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="g1eg5teu" oct="3" pname="g" accid.ges="s" />
+                              <note xml:id="knsqglr" oct="3" pname="b" />
+                              <note xml:id="l1pequr6" oct="4" pname="d" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="bnph3d" staff="1" startid="#a1vk90xr" form="norm" place="above" />
+                     <fermata xml:id="j1v31d1n" staff="2" startid="#irp1wlg" form="norm" place="above" />
+                  </measure>
+                  <measure xml:id="nla0lqs" n="2">
+                     <staff xml:id="wvctn32" n="1">
+                        <layer xml:id="y1bpjyhr" n="1">
+                           <chord xml:id="b1cd8daq" dots="1" dur.ppq="3" dur="2" stem.dir="up">
+                              <note xml:id="z1nkxfft" oct="4" pname="c" accid.ges="s" />
+                              <note xml:id="dt9eopj" oct="4" pname="e" />
+                              <note xml:id="ef5ybp9" oct="4" pname="g" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="xa5bcbc" n="2">
+                        <layer xml:id="g1l5w0f8" n="5">
+                           <chord xml:id="j1fgccnr" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="hf3ldg7" oct="3" pname="f" accid.ges="s" />
+                              <note xml:id="lqxuby1" oct="3" pname="a" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="cg1tr4d" staff="1" startid="#b1cd8daq" form="norm" place="above" />
+                     <fermata xml:id="k15w4j22" staff="2" startid="#j1fgccnr" form="norm" place="above" />
+                  </measure>
+                  <measure xml:id="nv7fftg" n="3">
+                     <staff xml:id="w6xvibv" n="1">
+                        <layer xml:id="y10z1845" n="1">
+                           <chord xml:id="bxyy3kx" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="zqxecd8" oct="4" pname="g" accid.ges="s" />
+                              <note xml:id="dop8mv" oct="4" pname="b" />
+                              <note xml:id="ejdqkxe" oct="5" pname="d" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="xk5qbsl" n="2">
+                        <layer xml:id="g14edrj0" n="5">
+                           <chord xml:id="jwzx7zn" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="hy25sgu" oct="3" pname="g" accid.ges="s" />
+                              <note xml:id="l1dddfvp" oct="3" pname="b" />
+                              <note xml:id="m10xsrp8" oct="4" pname="d" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="cesfkut" staff="1" startid="#bxyy3kx" form="norm" place="above" />
+                     <fermata xml:id="kklpvxc" staff="2" startid="#jwzx7zn" form="norm" place="above" />
+                  </measure>
+                  <measure xml:id="o1pzrwju" n="4">
+                     <staff xml:id="xgzzwfh" n="1">
+                        <layer xml:id="z1gphbhd" n="1">
+                           <chord xml:id="c126meud" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="aicrip9" oct="4" pname="a" accid.ges="s" />
+                              <note xml:id="e1kjq7ck" oct="5" pname="d" accid.ges="s" />
+                              <note xml:id="g1n0bws7" oct="5" pname="g" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="y6zm132" n="2">
+                        <layer xml:id="i1ah6jrp" n="5">
+                           <chord xml:id="k1wz0228" dots="1" dur.ppq="3" dur="2" stem.dir="down">
+                              <note xml:id="j1i67w33" oct="3" pname="b" />
+                              <note xml:id="m1qgj5bl" oct="4" pname="f" accid.ges="s" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="d3ex3mg" staff="1" startid="#c126meud" form="norm" place="above" />
+                     <fermata xml:id="lvvyby9" staff="2" startid="#k1wz0228" form="norm" place="above" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

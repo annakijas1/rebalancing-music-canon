@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.3</software>
-      <encoding-date>2025-12-10</encoding-date>
+      <software>MuseScore Studio 4.6.4</software>
+      <encoding-date>2025-12-15</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -72,17 +72,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935484" default-y="1511.049022" justify="center" valign="top" font-size="22">Improvisaciones en silencio</credit-words>
+    <credit-words default-x="616.935" default-y="1511.0448" justify="center" valign="top" font-size="22">Improvisaciones en silencio</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935484" default-y="1453.898908" justify="center" valign="top" font-size="14">N</credit-words>
-    <credit-words>o</credit-words>
-    <credit-words>5</credit-words>
+    <credit-words default-x="616.935" default-y="1453.894677" justify="center" valign="top" font-size="14">No5</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.145796" default-y="1411.049022" justify="right" valign="bottom">Carlota Garriga
+    <credit-words default-x="1148.1448" default-y="1375.802826" justify="right" valign="bottom">Carlota Garriga
 </credit-words>
     <credit-words>(1937)</credit-words>
     </credit>
@@ -111,7 +109,7 @@
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>170</top-system-distance>
+          <top-system-distance>205.24</top-system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65</staff-distance>
@@ -136,7 +134,7 @@
           <line>4</line>
           </clef>
         </attributes>
-      <note default-x="82.98" default-y="-20">
+      <note default-x="82.97" default-y="-20">
         <rest/>
         <duration>3</duration>
         <voice>1</voice>
@@ -219,16 +217,16 @@
       <backup>
         <duration>18</duration>
         </backup>
-      <direction placement="below">
+      <direction placement="above">
         <direction-type>
-          <dynamics default-x="2.31" default-y="-40" relative-x="2.27" relative-y="74.66">
+          <dynamics default-x="2.31" default-y="21.7" relative-y="10">
             <f/>
             </dynamics>
           </direction-type>
         <staff>2</staff>
         <sound dynamics="106.67"/>
         </direction>
-      <note default-x="82.98" default-y="-105">
+      <note default-x="82.97" default-y="-105">
         <rest/>
         <duration>3</duration>
         <voice>5</voice>
@@ -300,7 +298,7 @@
       <backup>
         <duration>18</duration>
         </backup>
-      <note default-x="82.98" default-y="-145">
+      <note default-x="82.97" default-y="-145">
         <pitch>
           <step>G</step>
           <octave>2</octave>
@@ -312,7 +310,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="82.98" default-y="-125">
+      <note default-x="82.97" default-y="-125">
         <chord/>
         <pitch>
           <step>D</step>
@@ -634,19 +632,20 @@
       <backup>
         <duration>18</duration>
         </backup>
-      <note default-x="12.5" default-y="-140">
+      <note default-x="12.5" default-y="-145">
         <pitch>
-          <step>A</step>
+          <step>G</step>
           <octave>2</octave>
           </pitch>
         <duration>18</duration>
+        <tie type="start"/>
         <voice>6</voice>
         <type>half</type>
-        <dot default-x="30.49" default-y="-140"/>
+        <dot default-x="30.49" default-y="-150"/>
         <stem>down</stem>
         <staff>2</staff>
         <notations>
-          <slur type="start" bezier-x="42.927331" bezier-y="-28.117105" number="1"/>
+          <tied type="start"/>
           </notations>
         </note>
       </measure>
@@ -744,12 +743,13 @@
           <octave>2</octave>
           </pitch>
         <duration>12</duration>
+        <tie type="stop"/>
         <voice>6</voice>
         <type>half</type>
         <stem>down</stem>
         <staff>2</staff>
         <notations>
-          <slur type="stop" number="1" bezier-x="-43.903488" bezier-y="-26.567105"/>
+          <tied type="stop"/>
           </notations>
         </note>
       <note default-x="42.04" default-y="-115">

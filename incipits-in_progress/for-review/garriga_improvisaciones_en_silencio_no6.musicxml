@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.3</software>
-      <encoding-date>2025-12-10</encoding-date>
+      <software>MuseScore Studio 4.6.4</software>
+      <encoding-date>2025-12-15</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -72,17 +72,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935484" default-y="1511.049022" justify="center" valign="top" font-size="22">Improvisaciones en silencio</credit-words>
+    <credit-words default-x="616.935" default-y="1511.0448" justify="center" valign="top" font-size="22">Improvisaciones en silencio</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935484" default-y="1453.898908" justify="center" valign="top" font-size="14">N</credit-words>
-    <credit-words>o</credit-words>
-    <credit-words>6</credit-words>
+    <credit-words default-x="616.935" default-y="1453.894677" justify="center" valign="top" font-size="14">No6</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.145796" default-y="1411.049022" justify="right" valign="bottom">Carlota Garriga
+    <credit-words default-x="1148.1448" default-y="1375.802826" justify="right" valign="bottom">Carlota Garriga
 </credit-words>
     <credit-words>(1937)</credit-words>
     </credit>
@@ -111,7 +109,7 @@
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>170</top-system-distance>
+          <top-system-distance>205.24</top-system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65</staff-distance>
@@ -163,9 +161,6 @@
         <stem>down</stem>
         <staff>1</staff>
         <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" bezier-x="102.586478" bezier-y="64.098473" number="1"/>
-          </notations>
         </note>
       <note default-x="147.63" default-y="-15">
         <pitch>
@@ -178,9 +173,6 @@
         <stem>down</stem>
         <staff>1</staff>
         <beam number="1">continue</beam>
-        <notations>
-          <slur type="stop" number="1" bezier-x="-108.015465" bezier-y="40.557775"/>
-          </notations>
         </note>
       <note default-x="180.45" default-y="-5">
         <pitch>
@@ -313,7 +305,7 @@
         <staff>1</staff>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="176.56" default-y="-20">
+      <note default-x="176.55" default-y="-20">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -373,7 +365,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="176.56" default-y="-150">
+      <note default-x="176.55" default-y="-150">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -444,7 +436,7 @@
         <stem>up</stem>
         <staff>1</staff>
         <notations>
-          <slur type="start" bezier-x="22.716615" bezier-y="-15.321174" number="1"/>
+          <slur type="start" bezier-x="22.716597" bezier-y="-15.321166" number="1"/>
           </notations>
         </note>
       <backup>
@@ -531,12 +523,9 @@
           <line>4</line>
           </clef>
         </attributes>
-      <direction placement="above" system="only-top">
+      <direction placement="above">
         <direction-type>
-          <words>rit.</words>
-          </direction-type>
-        <direction-type>
-          <dashes type="start" number="1"/>
+          <words default-y="0.4" relative-y="10" font-weight="bold" font-style="italic">rit.</words>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -552,7 +541,7 @@
         <stem>up</stem>
         <staff>1</staff>
         <notations>
-          <slur type="stop" number="1" bezier-x="-22.716615" bezier-y="-15.321174"/>
+          <slur type="stop" number="1" bezier-x="-22.716597" bezier-y="-15.321166"/>
           </notations>
         </note>
       <backup>
