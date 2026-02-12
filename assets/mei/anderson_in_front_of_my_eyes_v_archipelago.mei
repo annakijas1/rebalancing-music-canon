@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="mbio3ey">
+      <fileDesc xml:id="f1jrs6r0">
+         <titleStmt xml:id="t187flmg">
+            <title>In front of my eyes V. Archipelago</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Idil Kolabas</persName>
+          <persName role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p191zxm6">
+            <date isodate="2026-02-12" type="encoding-date">2026-02-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="ec361kb">
+         <appInfo xml:id="a151c4mp">
+            <application xml:id="aop4qyw" isodate="2026-02-12T10:28:16" version="6.0.1-ffbc336">
+               <name xml:id="n1v5u8t8">Verovio</name>
+               <p xml:id="pn3a3b0">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="j13n2357">
+            <score xml:id="k1ila32e">
+               <scoreDef xml:id="ljuf6vg">
+                  <pgHead xml:id="qww3hlc" func="first">
+                     <rend xml:id="o1dr9jti" halign="center" valign="top">In Front of My Eyes</rend>
+                     <rend xml:id="r8mwq3z" halign="center" valign="top">V. Archipelago</rend>
+                     <rend xml:id="t1upr2rs" halign="right" valign="bottom">T.J. Anderson</rend>
+                  </pgHead>
+                  <staffGrp xml:id="v35yn09">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="w1lfiqwl">Soprano</label>
+                        <labelAbbr xml:id="yaenrzw">S.</labelAbbr>
+                        <instrDef xml:id="a1yvf3v5" midi.channel="0" midi.instrnum="52" midi.volume="78%" />
+                        <clef xml:id="j17krpad" shape="G" line="2" />
+                        <keySig xml:id="k1pmcsex" sig="0" />
+                        <meterSig xml:id="l1wpacjs" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="maehq37">
+                  <expansion plist="#drpk9jt" xml:id="egl574g" />
+                  <pb xml:id="nzybtng" />
+                  <scoreDef xml:id="z1mz13y4" ppq="4">
+                     <keySig xml:id="a1ja3wv0" sig="0" />
+                     <meterSig xml:id="b1nn2m75" count="4" unit="4" />
+                  </scoreDef>
+                  <section xml:id="drpk9jt">
+                     <measure xml:id="mshuqno" n="1">
+                        <staff xml:id="v1uwv0io" n="1">
+                           <layer xml:id="x9rcnsk" n="1">
+                               <multiRest xml:id="w156qe4n" num="8" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="c1g4atci" n="9">
+                        <staff xml:id="l12247p8" n="1">
+                           <layer xml:id="mujermp" n="1">
+                              <rest xml:id="n1o5c0zx" dur.ppq="2" dur="8" />
+                              <note xml:id="tmkz5gw" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="u9jeiil" n="1">
+                                    <syl xml:id="v1n5x5g8" con="s" wordpos="s">"No</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="xt5s3e1" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="y1jvuwag" n="1">
+                                    <syl xml:id="zuntxqk" con="u" wordpos="s">man</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="cyx9925" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up" />
+                              <beam xml:id="dn5z4t">
+                                 <note xml:id="eyjndqq" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                                    <verse xml:id="f10z568h" n="1">
+                                       <syl xml:id="gq9z38g" con="s" wordpos="s">is</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="i1txow9e" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                                    <verse xml:id="j1szzb0y" n="1">
+                                       <syl xml:id="k1xdkpz0" con="s" wordpos="s">an</syl>
+                                    </verse>
+                                 </note>
+                              </beam>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="o1ao3w8u" place="above" staff="1" tstamp="1.5" val="64" vgrp="2025">mp</dynam>
+                        <dir xml:id="q1xr5yhg" place="above" staff="1" tstamp="1.5" vgrp="2014">
+                           <rend xml:id="rx7q1hd" fontstyle="italic">dolciss.</rend>
+                        </dir>
+                        <slur xml:id="b1vj6sns" startid="#xt5s3e1" endid="#cyx9925" />
+                     </measure>
+                     <measure xml:id="mxnwqqp" n="10">
+                        <staff xml:id="v1x6wty7" n="1">
+                           <layer xml:id="wf2f0wr" n="1">
+                              <note xml:id="xmzaeki" dur.ppq="4" dur="4" oct="5" pname="c" stem.dir="down">
+                                 <verse xml:id="y14mkyf7" n="1">
+                                    <syl xml:id="z187dycm" con="d" wordpos="i">is</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="b10hi8e5" dur.ppq="8" dur="2" oct="5" pname="d" stem.dir="down">
+                                 <verse xml:id="celn9o7" n="1">
+                                    <syl xml:id="d95q3v3" con="s" wordpos="t">land."</syl>
+                                 </verse>
+                              </note>
+                              <rest xml:id="f1mfrgas" dur.ppq="2" dur="8" />
+                              <note xml:id="g1u4eapk" dur.ppq="2" dur="8" oct="5" pname="e" stem.dir="down">
+                                 <verse xml:id="h1wxm45t" n="1">
+                                    <syl xml:id="i1dlo0zf" con="s" wordpos="s">It</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="k1ahefn4" n="11">
+                        <staff xml:id="tz9jl7m" n="1">
+                           <layer xml:id="uysfy79" n="1">
+                              <beam xml:id="v1sm73ze">
+                                 <note xml:id="w19l0awd" dots="1" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down">
+                                    <verse xml:id="xbucgo0" n="1">
+                                       <syl xml:id="y1vyw3xq" con="d" wordpos="i">does</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="a1dzl8nw" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="down">
+                                    <verse xml:id="b15ng6ht" n="1">
+                                       <syl xml:id="c88q5i6" con="s" wordpos="t">n't</syl>
+                                    </verse>
+                                 </note>
+                              </beam>
+                              <beam xml:id="ecedky3">
+                                 <note xml:id="ftc19ia" dots="1" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down">
+                                    <accid xml:id="g7c5aed" accid="s" />
+                                    <verse xml:id="hku3yym" n="1">
+                                       <syl xml:id="i1hsg935" con="d" wordpos="i">al</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="k1lkkksk" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down">
+                                    <verse xml:id="l1u04s5w" n="1">
+                                       <syl xml:id="m1sn2nka" con="s" wordpos="t">ways</syl>
+                                    </verse>
+                                 </note>
+                              </beam>
+                              <note xml:id="o1obsfjb" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up">
+                                 <accid xml:id="p1poa1x4" accid="s" />
+                                 <verse xml:id="qlg9irv" n="1">
+                                    <syl xml:id="r1dr89w9" con="s" wordpos="s">feel</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="t11ea869" dur.ppq="4" dur="4" oct="5" pname="d" stem.dir="down">
+                                 <accid xml:id="u1p4zr9c" accid="s" />
+                                 <verse xml:id="vqxkdex" n="1">
+                                    <syl xml:id="w888mdi" con="s" wordpos="s">true</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="ybienti" n="12">
+                        <staff xml:id="h1yzn04i" n="1">
+                           <layer xml:id="iql6xgs" n="1">
+                              <note xml:id="jxq3ow4" dots="1" dur.ppq="6" dur="4" oct="5" pname="g" stem.dir="down">
+                                 <verse xml:id="ksai75s" n="1">
+                                    <syl xml:id="l16wksbi" con="s" wordpos="s">But</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="n9kkzed" dur.ppq="2" dur="8" oct="5" pname="g" stem.dir="down">
+                                 <verse xml:id="o11xsx98" n="1">
+                                    <syl xml:id="p1xb9o3e" con="s" wordpos="s">it</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="rap9s7s" dur.ppq="8" dur="2" oct="4" pname="a" stem.dir="up">
+                                 <accid xml:id="s1nwl4qm" accid="s" />
+                                 <verse xml:id="t1idi23x" n="1">
+                                    <syl xml:id="uv8k760" con="s" wordpos="s">is:</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <sb xml:id="g1unc5lq" />
+                     <measure xml:id="w4gtw67" n="13">
+                        <staff xml:id="f13kbde2" n="1">
+                           <layer xml:id="h1usn18g" n="1">
+                              <mRest xml:id="i14xbyyh" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="jjazgqg" n="14">
+                        <staff xml:id="syonomb" n="1">
+                           <layer xml:id="t21bij7" n="1">
+                              <note xml:id="uc7m52h" dur.ppq="4" dur="4" oct="4" pname="b" stem.dir="down">
+                                 <verse xml:id="v101p3vl" n="1">
+                                    <syl xml:id="w198z6dk" con="s" wordpos="s">I</syl>
+                                 </verse>
+                              </note>
+                              <beam xml:id="yxyorng">
+                                 <note xml:id="z1q9q68k" dots="1" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="up">
+                                    <accid xml:id="aqim88v" accid="f" />
+                                    <verse xml:id="b13b3op2" n="1">
+                                       <syl xml:id="c11wxvm7" con="s" wordpos="s">am</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="e184rkt1" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="up">
+                                    <accid xml:id="fxwj5nr" accid="f" />
+                                    <verse xml:id="g11hrqay" n="1">
+                                       <syl xml:id="hp5oqrd" con="s" wordpos="s">a</syl>
+                                    </verse>
+                                 </note>
+                              </beam>
+                              <note xml:id="jr36bue" dur.ppq="4" dur="4" oct="5" pname="d" stem.dir="down">
+                                 <accid xml:id="krz2orv" accid="f" />
+                                 <verse xml:id="luuxxqp" n="1">
+                                    <syl xml:id="m1fe7jn8" con="s" wordpos="s">piece</syl>
+                                 </verse>
+                              </note>
+                              <beam xml:id="oub1ja0">
+                                 <note xml:id="p1487mqr" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                                    <accid xml:id="q168d4q" accid="f" />
+                                    <verse xml:id="r3z5g63" n="1">
+                                       <syl xml:id="s1uemgv9" con="s" wordpos="s">of</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="u1ikpul8" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
+                                    <verse xml:id="v409zi8" n="1">
+                                       <syl xml:id="w136pcgj" con="s" wordpos="s">the</syl>
+                                    </verse>
+                                 </note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="y18ok2hq" n="15">
+                        <staff xml:id="h19ytfui" n="1">
+                           <layer xml:id="i1invs0c" n="1">
+                              <beam xml:id="j12h8zdy">
+                                 <note xml:id="k18eqpdt" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                                    <accid xml:id="lzgab1y" accid="n" func="caution" />
+                                    <verse xml:id="m2w6362" n="1">
+                                       <syl xml:id="nfq660o" con="u" wordpos="s">same</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="q1ss9g7k" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up">
+                                    <accid xml:id="rlymwer" accid="n" func="caution" />
+                                 </note>
+                              </beam>
+                              <beam xml:id="se690kn">
+                                 <note xml:id="trqhyr6" dots="1" dur.ppq="3" dur="8" oct="5" pname="d" stem.dir="down">
+                                    <accid xml:id="usj3j71" accid="n" func="caution" />
+                                    <verse xml:id="v1bgd90k" n="1">
+                                       <syl xml:id="wt3czie" con="d" wordpos="i">con</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="ykaw8mw" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down">
+                                    <verse xml:id="z1cpr68z" n="1">
+                                       <syl xml:id="aydufwd" con="d" wordpos="m">ti</syl>
+                                    </verse>
+                                 </note>
+                              </beam>
+                              <beam xml:id="ci5dt8s">
+                                 <note xml:id="dcdyna1" dur.ppq="2" dur="8" oct="5" pname="f" stem.dir="down">
+                                    <accid xml:id="emagqed" accid="s" />
+                                    <verse xml:id="fxyqx7p" n="1">
+                                       <syl xml:id="g157n7sb" con="s" wordpos="t">nent</syl>
+                                    </verse>
+                                 </note>
+                                 <note xml:id="i1627d77" dur.ppq="2" dur="8" oct="5" pname="g" stem.dir="down">
+                                    <verse xml:id="j1gliyfj" n="1">
+                                       <syl xml:id="k1oq5pv4" con="s" wordpos="s">as</syl>
+                                    </verse>
+                                 </note>
+                              </beam>
+                              <note xml:id="mzqcv01" dur.ppq="4" dur="4" oct="5" pname="a" stem.dir="down">
+                                 <verse xml:id="n1sa0t3g" n="1">
+                                    <syl xml:id="omrga7v" con="u" wordpos="s">you.</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="pmc77eg" startid="#k18eqpdt" endid="#q1ss9g7k" />
+                        <slur xml:id="qpmz5f9" startid="#mzqcv01" endid="#co061m3" />
+                     </measure>
+                     <measure xml:id="ryhv95o" n="16">
+                        <staff xml:id="ax8bijf" n="1">
+                           <layer xml:id="bjpv1s7" n="1">
+                              <note xml:id="co061m3" dur.ppq="16" dur="1" oct="5" pname="a" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

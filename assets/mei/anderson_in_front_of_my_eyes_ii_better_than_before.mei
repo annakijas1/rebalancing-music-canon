@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="m1lox2ii">
+      <fileDesc xml:id="f1y14cgs">
+         <titleStmt xml:id="tvcoyd5">
+            <title>In Front of My Eyes II. Better Than Before</title>
+            <respStmt>
+               <persName role="composer">T.J. Anderson</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+          <persName role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pu4y4az">
+            <date isodate="2026-02-12" type="encoding-date">2026-02-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1xuuxnr">
+         <appInfo xml:id="apsyqyy">
+            <application xml:id="aurfyfa" isodate="2026-02-12T10:19:52" version="6.0.1-ffbc336">
+               <name xml:id="nosqlsk">Verovio</name>
+               <p xml:id="p350wng">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="r17xb6ob">
+            <score xml:id="s9fw3ak">
+               <scoreDef xml:id="t1cbcxsl">
+                  <pgHead xml:id="x1p2mzeq" func="first">
+                     <rend xml:id="v154z6s6" halign="center" valign="top">In Front of My Eyes</rend>
+                     <rend xml:id="y85o34v" halign="center" valign="top">II. Better Than Before</rend>
+                     <rend xml:id="amar9m9" halign="right" valign="bottom">T.J. Anderson</rend>
+                  </pgHead>
+                  <staffGrp xml:id="cykpn48">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="d1r8iklw">Soprano</label>
+                        <labelAbbr xml:id="f22uh9">S.</labelAbbr>
+                        <instrDef xml:id="h15r42wd" midi.channel="0" midi.instrnum="52" midi.volume="78%" />
+                        <clef xml:id="qrh4xrg" shape="G" line="2" />
+                        <keySig xml:id="rhqb5zy" sig="0" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="ubmf93s">
+                  <expansion plist="#l1uua7vi" xml:id="m1rce5b0" />
+                  <section xml:id="l1uua7vi">
+                     <measure xml:id="sb69jor" right="invis" n="1">
+                        <staff xml:id="b1kh4hob" n="1">
+                           <layer xml:id="h13wt3k8" n="1">
+                              <note xml:id="i1085cun" dur.ppq="2" dur="4" oct="4" pname="b" stem.visible="false">
+                                 <verse xml:id="j1gh3idz" n="1">
+                                    <syl xml:id="kdpt9jh" con="s" wordpos="s">Oh,</syl>
+                                 </verse>
+                              </note>
+                              <space xml:id="p1iva2bk" dur.ppq="4" dur="2" />
+                              <space xml:id="tfshmpw" dur.ppq="2" dur="4" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="cehook3" place="above" staff="1" tstamp="1" val="33" vgrp="2030">pp</dynam>
+                        <dir xml:id="e1utwpkh" place="above" staff="1" tstamp="1" vgrp="2380">
+                           <rend xml:id="f1h5quzc" fontweight="bold">Cadenza, tempo ad lib.</rend>
+                        </dir>
+                        <bracketSpan xml:id="m185x76" staff="1" tstamp="1.5" tstamp2="0m+4.5" func="uspecified" lendsym="none" lstartsym="none" lform="solid" />
+                        <dynam xml:id="n8d79fw" place="above" staff="1" tstamp="2" val="33" vgrp="2012"> non espr.</dynam>
+                        <dir xml:id="q1fag00l" place="above" staff="1" tstamp="3" vgrp="2027">
+                           <rend xml:id="r1inafui" fontstyle="italic">non-vibr.</rend>
+                        </dir>
+                     </measure>
+                     <measure xml:id="uh82mux" right="invis" n="2">
+                        <staff xml:id="d1o04xgc" n="1">
+                           <layer xml:id="e10f3ezo" n="1">
+                              <note xml:id="fauuhzy" dur.ppq="0" dur="8" oct="5" pname="d" grace="unacc" stem.dir="up" stem.mod="1slash" />
+                              <note xml:id="hedobp4" dur.ppq="2" dur="4" oct="4" pname="b" stem.visible="false">
+                                 <verse xml:id="i9byr1y" n="1">
+                                    <syl xml:id="jywycl" con="s" wordpos="s">Oh,</syl>
+                                 </verse>
+                              </note>
+                              <space xml:id="mg3g88k" dur.ppq="2" dur="4" />
+                              <space xml:id="n8ll9p7" dur.ppq="4" dur="2" />
+                           </layer>
+                        </staff>
+                        <slur xml:id="g1q4dkoa" startid="#fauuhzy" endid="#hedobp4" />
+                        <bracketSpan xml:id="l8txwds" staff="1" tstamp="1.5" tstamp2="0m+4" func="uspecified" lendsym="none" lstartsym="none" lform="solid" />
+                     </measure>
+                     <measure xml:id="o16mjk2a" right="invis" n="3">
+                        <staff xml:id="x1mjjmjf" n="1">
+                           <layer xml:id="y168innv" n="1">
+                              <beam xml:id="z13954fk">
+                                 <note xml:id="a92zaxe" dur.ppq="0" dur="8" oct="5" pname="e" grace="acc" stem.dir="up" />
+                                 <note xml:id="c14blr9r" dur.ppq="0" dur="8" oct="5" pname="d" grace="unacc" stem.dir="up" stem.mod="1slash" />
+                              </beam>
+                              <note xml:id="dnr7vf" dur.ppq="2" dur="4" oct="4" pname="b" stem.visible="false">
+                                 <verse xml:id="e1fzcvss" n="1">
+                                    <syl xml:id="f11f80mr" con="s" wordpos="s">Oh,</syl>
+                                 </verse>
+                              </note>
+                             </layer>
+                        </staff>
+                        <slur xml:id="b1bcu2y3" startid="#a92zaxe" endid="#dnr7vf" />
+                        <bracketSpan xml:id="hn5apgk" staff="1" tstamp="1.5" tstamp2="0m+4.5" func="uspecified" lendsym="none" lstartsym="none" lform="solid" />
+                     </measure>
+                     <measure xml:id="k6qwdvc" n="4">
+                        <staff xml:id="t1hiiht2" n="1">
+                           <layer xml:id="uqy63dq" n="1">
+                              <note xml:id="vy3zmom" dur.ppq="2" dur="4" oct="4" pname="f" stem.visible="false">
+                                 <verse xml:id="w13vd3cr" n="1">
+                                    <syl xml:id="xu3u353" con="s" wordpos="s">I</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="zfdtjs2" dur.ppq="2" dur="4" oct="4" pname="g" stem.visible="false">
+                                 <verse xml:id="a1qmujsi" n="1">
+                                    <syl xml:id="bic04kw" con="u" wordpos="s">won't</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="eigdxod" dur.ppq="2" dur="4" oct="4" pname="a" stem.visible="false">
+                                 <accid xml:id="f1uce3zy" accid="f" />
+                              </note>
+                              <note xml:id="grywlkf" dur.ppq="2" dur="4" oct="4" pname="b" stem.visible="false">
+                                 <accid xml:id="h17pz1hl" accid="f" />
+                                 <verse xml:id="i1t9csfn" n="1">
+                                    <syl xml:id="j5zk7gy" con="s" wordpos="s">say</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="d1y8esv5" startid="#zfdtjs2" endid="#eigdxod" />
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

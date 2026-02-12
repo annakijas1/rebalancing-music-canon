@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="m1ri7uo">
+      <fileDesc xml:id="f1urhfoa">
+         <titleStmt xml:id="tknkue0">
+            <title>In Front of My Eyes VI. Spiritual: the angel roll the stone away</title>
+            <respStmt>
+               <persName role="composer">T. J. Anderson</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+          <persName role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1qgypen">
+            <date isodate="2026-02-12" type="encoding-date">2026-02-12</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e8mgedc">
+         <appInfo xml:id="avxlm9d">
+            <application xml:id="a1pw1bhh" isodate="2026-02-12T10:29:18" version="6.0.1-ffbc336">
+               <name xml:id="n1p7dbft">Verovio</name>
+               <p xml:id="pni7frx">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="y1k9llis">
+            <score xml:id="zt4s1ai">
+               <scoreDef xml:id="anmvigd">
+                  <pgHead xml:id="e1807bhs" func="first">
+                     <rend xml:id="cwttajb" halign="center" valign="top">In Front of My Eyes</rend>
+                     <rend xml:id="f1il7938" halign="center" valign="top">VI. Spiritual: The Angel Roll the Stone Away (with improvised Soprano)</rend>
+                     <rend xml:id="h17hn4el" halign="right" valign="bottom">T. J. Anderson</rend>
+                  </pgHead>
+                  <staffGrp xml:id="jxg0rqz">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="kh8y52a">Clarinet</label>
+                        <labelAbbr xml:id="m1vl4w6k">Cl.</labelAbbr>
+                        <instrDef xml:id="o18d8fs8" midi.channel="0" midi.instrnum="71" midi.volume="78%" />
+                        <clef xml:id="xwgv4j2" shape="G" line="2" />
+                        <keySig xml:id="y7zw3vz" sig="0" />
+                        <meterSig xml:id="zirh7hb" count="4" sym="common" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="b1obu6ja">
+                  <expansion plist="#r19zyrhs" xml:id="si5zxsu" />
+                  <section xml:id="r19zyrhs">
+                     <measure xml:id="adxqs3d" n="1">
+                        <staff xml:id="jm8jvmv" n="1">
+                           <layer xml:id="s7tm0y8" n="1">
+                              <note xml:id="t1wejqe4" dots="1" dur.ppq="3" dur="4" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="y11vai8p" dur.ppq="1" dur="8" oct="4" pname="b" stem.dir="down" />
+                              <note xml:id="z13kpdha" dur.ppq="2" dur="4" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="aik8gvp" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down" />
+                           </layer>
+                        </staff>
+                        <tempo xml:id="k1gnb6vv" place="above" staff="1" tstamp="1" xml:lang="it" midi.bpm="144" mm.unit="2"><rend xml:id="ninn0mp" glyph.auth="smufl"></rend> = c. 72 </tempo>
+                        <dynam xml:id="q1h3phly" place="below" staff="1" tstamp="1" val="64" vgrp="420">mp</dynam>
+                        <slur xml:id="u19b9mt8" startid="#t1wejqe4" endid="#q4sm1vy" />
+                        <dir xml:id="v1ccf15y" place="below" staff="1" tstamp="2" vgrp="427">
+                           <rend xml:id="wtw3oyu" fontstyle="italic">express.</rend>
+                        </dir>
+                     </measure>
+                     <measure xml:id="bedp2b1" n="2">
+                        <staff xml:id="k1fz3yl3" n="1">
+                           <layer xml:id="l40me8m" n="1">
+                              <note xml:id="mdu4hrh" dur.ppq="2" dur="4" oct="5" pname="d" stem.dir="down" />
+                              <note xml:id="nx0ojtf" dots="1" dur.ppq="6" dur="2" oct="4" pname="b" stem.dir="down" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="o1vqc5bj" n="3">
+                        <staff xml:id="x1clrzug" n="1">
+                           <layer xml:id="yppu0eq" n="1">
+                              <note xml:id="z1lwnydc" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="abvdvjy" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="b1qd33fp" dots="1" dur.ppq="3" dur="4" oct="4" pname="b" stem.dir="down">
+                                 <accid xml:id="cc5ixfw" accid="f" />
+                              </note>
+                              <note xml:id="d1sn0opj" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="e8eijqf" n="4">
+                        <staff xml:id="n1nyago5" n="1">
+                           <layer xml:id="o4jvjyv" n="1">
+                              <note xml:id="pii7x4j" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" />
+                              <note xml:id="q4sm1vy" dots="1" dur.ppq="6" dur="2" oct="5" pname="d" stem.dir="down" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

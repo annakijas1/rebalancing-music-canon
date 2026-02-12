@@ -8,7 +8,7 @@
     <creator type="composer">T.J. Anderson</creator>
     <encoding>
       <software>MuseScore Studio 4.6.5</software>
-      <encoding-date>2026-02-05</encoding-date>
+      <encoding-date>2026-02-12</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -72,15 +72,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-size="22">In Front of My Eyes</credit-words>
+    <credit-words default-x="616.935" default-y="1511.045" justify="center" valign="top" font-size="22">In Front of My Eyes</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.9347" default-y="1453.897088" justify="center" valign="top" font-size="14">II. Better Than Before</credit-words>
+    <credit-words default-x="616.935" default-y="1453.894958" justify="center" valign="top" font-size="14">II. Better Than Before</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.144364" default-y="1411.047256" justify="right" valign="bottom">T.J. Anderson</credit-words>
+    <credit-words default-x="1148.145" default-y="1401.609756" justify="right" valign="bottom">T.J. Anderson</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -100,14 +100,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="288.45">
+    <measure number="1" width="288.01">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>170</top-system-distance>
+          <top-system-distance>179.44</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -122,17 +122,16 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-y="23.3" relative-y="10" font-weight="bold">Cadenza, tempo ad lib.</words>
-          </direction-type>
-        </direction>
-      <direction placement="above">
-        <direction-type>
-          <dynamics default-x="45.52" default-y="2.15" relative-y="10">
+          <dynamics default-x="3.1" default-y="2.15" relative-y="10">
             <pp/>
-            <other-dynamics> non espr.</other-dynamics>
             </dynamics>
           </direction-type>
         <sound dynamics="36.67"/>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="37.1" relative-y="10" font-weight="bold">Cadenza, tempo ad lib.</words>
+          </direction-type>
         </direction>
       <note default-x="58.09" default-y="-20">
         <pitch>
@@ -143,7 +142,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>none</stem>
-        <lyric number="1" default-x="9.12" default-y="-44.15" relative-y="-30">
+        <lyric number="1" default-x="9.12" default-y="-44.14" relative-y="-30">
           <syllabic>single</syllabic>
           <text>Oh,</text>
           </lyric>
@@ -153,13 +152,21 @@
         </backup>
       <direction placement="above">
         <direction-type>
-          <bracket type="start" number="1" line-end="none" line-type="solid" default-y="-18.84" relative-x="-1.9"/>
+          <bracket type="start" number="1" line-end="none" line-type="solid" default-y="-17.7"/>
           </direction-type>
         </direction>
       <forward>
         <duration>1</duration>
         </forward>
-      <note default-x="123.91" default-y="-20" print-object="no">
+      <direction placement="above">
+        <direction-type>
+          <dynamics default-x="6.5" relative-x="-13.19" relative-y="12.32">
+            <other-dynamics> non espr.</other-dynamics>
+            </dynamics>
+          </direction-type>
+        <sound dynamics="36.67"/>
+        </direction>
+      <note default-x="123.79" default-y="-20" print-object="no">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -167,11 +174,11 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <words relative-x="-5.02" relative-y="8.95" font-style="italic">non-vibr.</words>
+          <words relative-x="11.69" relative-y="27.12" font-style="italic">non-vibr.</words>
           </direction-type>
-        <offset>-1</offset>
+        <offset>-2</offset>
         </direction>
-      <note default-x="222.63" default-y="-20" print-object="no">
+      <note default-x="222.32" default-y="-20" print-object="no">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
@@ -182,7 +189,7 @@
         </backup>
       <direction placement="above">
         <direction-type>
-          <bracket type="stop" number="1" line-end="none" relative-x="-4.04"/>
+          <bracket type="stop" number="1" line-end="none"/>
           </direction-type>
         </direction>
       <forward>
@@ -192,7 +199,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="2" width="230.35">
+    <measure number="2" width="229.92">
       <note default-x="-13.6" default-y="-10">
         <grace slash="yes"/>
         <pitch>
@@ -218,7 +225,7 @@
         <notations>
           <slur type="stop" number="1" bezier-x="-9.550526" bezier-y="-1.243967"/>
           </notations>
-        <lyric number="1" default-x="9.12" default-y="-44.15" relative-y="-30">
+        <lyric number="1" default-x="9.12" default-y="-44.14" relative-y="-30">
           <syllabic>single</syllabic>
           <text>Oh,</text>
           </lyric>
@@ -228,19 +235,19 @@
         </backup>
       <direction placement="above">
         <direction-type>
-          <bracket type="start" number="1" line-end="none" line-type="solid" default-y="-18.84" relative-x="-12.08"/>
+          <bracket type="start" number="1" line-end="none" line-type="solid" default-y="-19.82" relative-x="0.72"/>
           </direction-type>
         </direction>
       <forward>
         <duration>1</duration>
         </forward>
-      <note default-x="65.82" default-y="-20" print-object="no">
+      <note default-x="65.69" default-y="-20" print-object="no">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
-      <note default-x="131.63" default-y="-20" print-object="no">
+      <note default-x="131.38" default-y="-20" print-object="no">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -251,7 +258,7 @@
         </backup>
       <direction placement="above">
         <direction-type>
-          <bracket type="stop" number="1" line-end="none" relative-x="6.41"/>
+          <bracket type="stop" number="1" line-end="none" relative-x="0.72"/>
           </direction-type>
         </direction>
       <forward>
@@ -261,7 +268,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="3" width="230.35">
+    <measure number="3" width="229.92">
       <note default-x="-25.69" default-y="-5">
         <grace/>
         <pitch>
@@ -299,7 +306,7 @@
         <notations>
           <slur type="stop" number="1" bezier-x="-12.734829" bezier-y="-2.564883"/>
           </notations>
-        <lyric number="1" default-x="9.12" default-y="-44.15" relative-y="-30">
+        <lyric number="1" default-x="9.12" default-y="-44.14" relative-y="-30">
           <syllabic>single</syllabic>
           <text>Oh,</text>
           </lyric>
@@ -309,19 +316,19 @@
         </backup>
       <direction placement="above">
         <direction-type>
-          <bracket type="start" number="1" line-end="none" line-type="solid" default-y="-19.85" relative-x="-11.71"/>
+          <bracket type="start" number="1" line-end="none" line-type="solid" default-y="-19.1" relative-x="-4.32"/>
           </direction-type>
         </direction>
       <forward>
         <duration>1</duration>
         </forward>
-      <note default-x="65.82" default-y="-20">
+      <note default-x="65.69" default-y="-20">
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
-      <note default-x="131.63" default-y="-20">
+      <note default-x="131.38" default-y="-20">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -332,7 +339,7 @@
         </backup>
       <direction placement="above">
         <direction-type>
-          <bracket type="stop" number="1" line-end="none" relative-x="3.93"/>
+          <bracket type="stop" number="1" line-end="none" relative-x="-4.32"/>
           </direction-type>
         </direction>
       <forward>
@@ -342,7 +349,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="4" width="263.26">
+    <measure number="4" width="264.57">
       <note default-x="0" default-y="-35">
         <pitch>
           <step>F</step>
@@ -352,12 +359,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>none</stem>
-        <lyric number="1" default-x="6.5" default-y="-44.15" relative-y="-30">
+        <lyric number="1" default-x="6.5" default-y="-44.14" relative-y="-30">
           <syllabic>single</syllabic>
           <text>I</text>
           </lyric>
         </note>
-      <note default-x="65.82" default-y="-30">
+      <note default-x="65.69" default-y="-30">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -367,15 +374,15 @@
         <type>quarter</type>
         <stem>none</stem>
         <notations>
-          <slur type="start" bezier-x="18.667369" bezier-y="-11.058514" number="1"/>
+          <slur type="start" bezier-x="18.636854" bezier-y="-11.045864" number="1"/>
           </notations>
-        <lyric number="1" default-y="-44.15" relative-y="-30">
+        <lyric number="1" default-y="-44.14" relative-y="-30">
           <syllabic>single</syllabic>
           <text>won't</text>
           <extend/>
           </lyric>
         </note>
-      <note default-x="131.63" default-y="-25">
+      <note default-x="131.38" default-y="-25">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -387,10 +394,10 @@
         <accidental>flat</accidental>
         <stem>none</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-15.337389" bezier-y="-15.346853"/>
+          <slur type="stop" number="1" bezier-x="-15.303779" bezier-y="-15.334203"/>
           </notations>
         </note>
-      <note default-x="197.45" default-y="-20">
+      <note default-x="197.07" default-y="-20">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -401,14 +408,11 @@
         <type>quarter</type>
         <accidental>flat</accidental>
         <stem>none</stem>
-        <lyric number="1" default-x="6.5" default-y="-44.15" relative-y="-30">
+        <lyric number="1" default-x="6.5" default-y="-44.14" relative-y="-30">
           <syllabic>single</syllabic>
           <text>say</text>
           </lyric>
         </note>
-      <barline location="right">
-        <bar-style>none</bar-style>
-        </barline>
       </measure>
     </part>
   </score-partwise>
