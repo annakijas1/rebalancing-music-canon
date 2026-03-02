@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.4</software>
-      <encoding-date>2025-12-06</encoding-date>
+      <software>MuseScore Studio 4.6.5</software>
+      <encoding-date>2026-03-02</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -23,23 +23,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -72,17 +72,17 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935484" default-y="1511.049022" justify="center" valign="top" font-size="22">Three Showpieces for Violin
+    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-size="22">Three Showpieces for Violin
 </credit-words>
     <credit-words>(unaccompanied)</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935484" default-y="1324.459737" justify="center" valign="top" font-size="14">2. Soliloquy</credit-words>
+    <credit-words default-x="616.9347" default-y="1324.457958" justify="center" valign="top" font-size="14">2. Soliloquy</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.145796" default-y="1368.757016" justify="right" valign="bottom">Frederick Tillis</credit-words>
+    <credit-words default-x="1148.144364" default-y="1368.754792" justify="right" valign="bottom">Frederick Tillis</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -109,7 +109,7 @@
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>310.05</top-system-distance>
+          <top-system-distance>386.79</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -128,7 +128,7 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-y="43.38" relative-x="-23.07" relative-y="21.53" font-weight="bold">Freely, Quasi ad lib.</words>
+          <words relative-x="-21.94" relative-y="141.71" font-weight="bold">Freely, Quasi ad lib.</words>
           </direction-type>
         </direction>
       <direction placement="below">
@@ -138,6 +138,20 @@
             </dynamics>
           </direction-type>
         <sound dynamics="88.89"/>
+        </direction>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <metronome parentheses="no" default-x="-37.67" relative-x="15.82" relative-y="109.11">
+            <beat-unit>quarter</beat-unit>
+            <per-minute></per-minute>
+            </metronome>
+          </direction-type>
+        <direction-type>
+          <words default-x="-37.67" relative-x="15.82" relative-y="109.11" font-weight="bold" font-size="12">c. 44-50
+</words>
+          <words font-weight="normal" font-size="9">   with mute</words>
+          </direction-type>
+        <sound tempo="44"/>
         </direction>
       <note default-x="80.21" default-y="35">
         <pitch>
@@ -150,7 +164,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" bezier-x="18.468586" bezier-y="13.747354" number="1"/>
+          <slur type="start" bezier-x="18.468574" bezier-y="13.747358" number="1"/>
           </notations>
         </note>
       <note default-x="115.88" default-y="30">
@@ -186,7 +200,7 @@
         <notations>
           <tied type="stop"/>
           <tuplet type="start" bracket="no"/>
-          <slur type="stop" number="1" bezier-x="-18.390001" bezier-y="13.852302"/>
+          <slur type="stop" number="1" bezier-x="-18.389989" bezier-y="13.852306"/>
           </notations>
         </note>
       <note default-x="179.69" default-y="30">
@@ -242,10 +256,10 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" bezier-x="22.225602" bezier-y="8.374616" number="1"/>
+          <slur type="start" bezier-x="22.225599" bezier-y="8.374613" number="1"/>
           </notations>
         </note>
-      <note default-x="259.75" default-y="25">
+      <note default-x="259.74" default-y="25">
         <pitch>
           <step>D</step>
           <octave>6</octave>
@@ -281,11 +295,11 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-14.632984" bezier-y="18.707949"/>
+          <slur type="stop" number="1" bezier-x="-14.632964" bezier-y="18.707959"/>
           </notations>
         </note>
       </measure>
-    <measure number="2" width="409.24">
+    <measure number="2" width="409.23">
       <note default-x="12.5" default-y="25">
         <pitch>
           <step>D</step>
@@ -303,7 +317,7 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="22.673056" bezier-y="15.768336" number="1"/>
+          <slur type="start" bezier-x="22.673085" bezier-y="15.768356" number="1"/>
           </notations>
         </note>
       <note default-x="34.59" default-y="20">
@@ -354,7 +368,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
-      <note default-x="96.28" default-y="10">
+      <note default-x="96.27" default-y="10">
         <pitch>
           <step>A</step>
           <octave>5</octave>
@@ -387,7 +401,7 @@
         <beam number="2">end</beam>
         <notations>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-21.086028" bezier-y="17.835003"/>
+          <slur type="stop" number="1" bezier-x="-21.086054" bezier-y="17.835025"/>
           </notations>
         </note>
       <note default-x="140.46" default-y="15">
@@ -407,7 +421,7 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="22.026567" bezier-y="16.596561" number="1"/>
+          <slur type="start" bezier-x="22.026566" bezier-y="16.59657" number="1"/>
           </notations>
         </note>
       <note default-x="172.48" default-y="10">
@@ -494,7 +508,7 @@
         <beam number="2">end</beam>
         <notations>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-20.847683" bezier-y="18.614025"/>
+          <slur type="stop" number="1" bezier-x="-20.847679" bezier-y="18.614037"/>
           </notations>
         </note>
       <note default-x="267.3" default-y="5">
@@ -514,7 +528,7 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="16.162629" bezier-y="6.772633" number="1"/>
+          <slur type="start" bezier-x="16.162643" bezier-y="6.772637" number="1"/>
           </notations>
         </note>
       <note default-x="294.42" default-y="-5">
@@ -551,7 +565,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-5.015401" bezier-y="16.791215"/>
+          <slur type="stop" number="1" bezier-x="-5.015396" bezier-y="16.791231"/>
           </notations>
         </note>
       <note default-x="331.93" default-y="-25">
@@ -570,7 +584,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <notations>
-          <slur type="start" bezier-x="4.965983" bezier-y="20.341049" number="1"/>
+          <slur type="start" bezier-x="4.965977" bezier-y="20.34107" number="1"/>
           </notations>
         </note>
       <note default-x="360.68" default-y="-15">
@@ -608,7 +622,7 @@
         <beam number="2">end</beam>
         <notations>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-19.580122" bezier-y="7.417929"/>
+          <slur type="stop" number="1" bezier-x="-19.58014" bezier-y="7.417933"/>
           </notations>
         </note>
       </measure>
@@ -629,7 +643,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
+          <tuplet type="start" bracket="yes"/>
           </notations>
         </note>
       <note default-x="41.26" default-y="-5">
@@ -710,7 +724,7 @@
         <beam number="1">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="22.709272" bezier-y="11.951592" number="1"/>
+          <slur type="start" bezier-x="22.709262" bezier-y="11.951592" number="1"/>
           </notations>
         </note>
       <note default-x="154.51" default-y="0">
@@ -768,7 +782,7 @@
         <notations>
           <tied type="stop"/>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-15.398725" bezier-y="19.452869"/>
+          <slur type="stop" number="1" bezier-x="-15.398699" bezier-y="19.452878"/>
           </notations>
         </note>
       <backup>
@@ -790,7 +804,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
+          <tuplet type="start" bracket="no" show-number="none"/>
           <articulations>
             <accent default-x="-3.72" default-y="-44.55"/>
             </articulations>
@@ -902,7 +916,7 @@
           <normal-notes>2</normal-notes>
           </time-modification>
         <notations>
-          <tuplet type="start" bracket="no"/>
+          <tuplet type="start" bracket="yes" placement="above"/>
           </notations>
         </note>
       <note default-x="111.69" default-y="-15">
@@ -920,10 +934,10 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" bezier-x="16.05947" bezier-y="9.276555" number="1"/>
+          <slur type="start" bezier-x="16.059477" bezier-y="9.276561" number="1"/>
           </notations>
         </note>
-      <note default-x="165.3" default-y="-25">
+      <note default-x="165.29" default-y="-25">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -939,7 +953,7 @@
         <beam number="1">end</beam>
         <notations>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-11.63419" bezier-y="14.443222"/>
+          <slur type="stop" number="1" bezier-x="-11.63419" bezier-y="14.443234"/>
           </notations>
         </note>
       <note default-x="218.9" default-y="-5">
@@ -959,7 +973,7 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="22.255588" bezier-y="8.387674" number="1"/>
+          <slur type="start" bezier-x="22.255599" bezier-y="8.387677" number="1"/>
           <articulations>
             <accent default-x="-0.72" default-y="8.55"/>
             </articulations>
@@ -997,7 +1011,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-14.669293" bezier-y="18.721007"/>
+          <slur type="stop" number="1" bezier-x="-14.669291" bezier-y="18.721024"/>
           </notations>
         </note>
       <note default-x="326.1" default-y="-10">
@@ -1016,7 +1030,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <notations>
-          <slur type="start" bezier-x="22.255588" bezier-y="8.387674" number="1"/>
+          <slur type="start" bezier-x="22.255599" bezier-y="8.387677" number="1"/>
           <articulations>
             <accent default-x="-0.72" default-y="8.55"/>
             </articulations>
@@ -1055,7 +1069,7 @@
         <beam number="2">end</beam>
         <notations>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-14.669293" bezier-y="18.721007"/>
+          <slur type="stop" number="1" bezier-x="-14.669291" bezier-y="18.721024"/>
           </notations>
         </note>
       <note default-x="433.3" default-y="-15">
@@ -1075,7 +1089,7 @@
         <beam number="2">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="14.669293" bezier-y="-18.721007" number="1"/>
+          <slur type="start" bezier-x="14.669291" bezier-y="-18.721024" number="1"/>
           <articulations>
             <accent default-x="-0.72" default-y="-44.55"/>
             </articulations>
@@ -1113,7 +1127,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-22.255588" bezier-y="-8.387674"/>
+          <slur type="stop" number="1" bezier-x="-22.255599" bezier-y="-8.387677"/>
           </notations>
         </note>
       <note default-x="540.5" default-y="-20">
@@ -1132,7 +1146,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <notations>
-          <slur type="start" bezier-x="15.277507" bezier-y="-17.944062" number="1"/>
+          <slur type="start" bezier-x="15.277506" bezier-y="-17.944078" number="1"/>
           <articulations>
             <accent default-x="-0.72" default-y="-44.55"/>
             </articulations>
@@ -1171,7 +1185,7 @@
         <beam number="2">end</beam>
         <notations>
           <tuplet type="stop"/>
-          <slur type="stop" number="1" bezier-x="-21.647374" bezier-y="-9.315729"/>
+          <slur type="stop" number="1" bezier-x="-21.647384" bezier-y="-9.315734"/>
           </notations>
         </note>
       </measure>
@@ -1192,7 +1206,7 @@
         <beam number="1">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
-          <slur type="start" bezier-x="11.63419" bezier-y="-14.443222" number="1"/>
+          <slur type="start" bezier-x="11.63419" bezier-y="-14.443234" number="1"/>
           </notations>
         </note>
       <note default-x="66.1" default-y="-35">
@@ -1210,7 +1224,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-16.05947" bezier-y="-9.276555"/>
+          <slur type="stop" number="1" bezier-x="-16.059477" bezier-y="-9.276561"/>
           </notations>
         </note>
       <note default-x="119.7" default-y="-45">
@@ -1242,7 +1256,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" bezier-x="29.013316" bezier-y="15.792616" number="1"/>
+          <slur type="start" bezier-x="29.013326" bezier-y="15.792626" number="1"/>
           </notations>
         </note>
       <note default-x="241.25" default-y="-40">
@@ -1272,14 +1286,14 @@
         <stem>up</stem>
         <notations>
           <tied type="stop"/>
-          <slur type="stop" number="1" bezier-x="-25.087783" bezier-y="21.489123"/>
+          <slur type="stop" number="1" bezier-x="-25.087785" bezier-y="21.48914"/>
           </notations>
         </note>
       <backup>
-        <duration>30</duration>
+        <duration>36</duration>
         </backup>
       <forward>
-        <duration>6</duration>
+        <duration>12</duration>
         </forward>
       <note default-x="173.3" default-y="-60">
         <pitch>
