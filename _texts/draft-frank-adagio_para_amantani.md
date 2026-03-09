@@ -5,7 +5,7 @@ author: Frank, Gabriela Lena
 ensemble: solo 
 period: 2000-2009
 permalink: /frank-adagio-para-amantani/
-document: 
+document:  
 ---
 
 In *Adagio para Amantaní: piano* New York, NY: G. Schirmer, Inc. 2007. 
