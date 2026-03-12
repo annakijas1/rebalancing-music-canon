@@ -4,8 +4,8 @@ title: Voices Shouting Out
 author: Okoye, Nkeiru
 ensemble: orchestra
 period: 2010-2019
-permalink: /ortiz-baalkah_1_chac/
-document: ortiz_baalkah_chac.mei
+permalink: /okoye-voices-shouting-out/
+document: okoye_voices_shouting_out.mei
 ---
 
 In *Voices shouting out: a symphonic work.* Malvern, Pennsylvania: Presser, 2022.
