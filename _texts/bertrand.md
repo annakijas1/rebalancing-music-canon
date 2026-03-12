@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bertrand, Elise (2000-)
+title: Bertrand, Élise (2000-)
 category: incipits
 century: 21st
 permalink: /bertrand/
@@ -13,7 +13,7 @@ permalink: /bertrand/
 ### Works with Incipits
 <ul class="texts">
     {% for item in site.texts %}
-      {% if item.author == "Bertrand, Elise" %}
+      {% if item.author == "Bertrand, Élise" %}
           <li class="text-title">
           <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
