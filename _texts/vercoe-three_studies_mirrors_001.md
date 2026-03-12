@@ -4,7 +4,7 @@ title: Three Studies, Mirrors
 author: Vercoe, Elizabeth
 ensemble: solo  
 period: 1970-1979
-permalink: /vercoe-mirrors/
+permalink: /vercoe-mirrors-01/
 document: vercoe_three_studies_mirrors_001.mei
 ---
    

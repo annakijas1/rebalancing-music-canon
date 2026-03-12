@@ -4,7 +4,7 @@ title: Three Studies, Fugue
 author: Vercoe, Elizabeth
 ensemble: solo  
 period: 1970-1979
-permalink: /vercoe-fugue/
+permalink: /vercoe-fugue-03/
 document: vercoe_three_studies_fugue_003.mei
 ---
    

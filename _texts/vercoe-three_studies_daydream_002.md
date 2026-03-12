@@ -4,7 +4,7 @@ title: Three Studies, Daydream
 author: Vercoe, Elizabeth
 ensemble: solo  
 period: 1970-1979
-permalink: /vercoe-daydream/
+permalink: /vercoe-daydream-02/
 document: vercoe_three_studies_daydream_002.mei
 ---
    
