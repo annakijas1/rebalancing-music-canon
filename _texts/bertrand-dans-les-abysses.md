@@ -8,7 +8,7 @@ permalink: /bertrand-dans-les-abysses/
 document: bertrand_dans_les_abysses_de_lumiere.mei
 ---
 
-In *Dans les abysses de lumière, opus 17 pour piano seul.* Paris: Éditions Billaudot
+In *Dans les abysses de lumière, opus 17 pour piano seul.* Paris: Éditions Billaudot, 2023.
 
 **Instrumentation summary**: piano (1)
 
