@@ -4,8 +4,8 @@ title: Calligraffiti, mvt. 1
 author: Huang, Ruo
 ensemble: chamber-instrument
 period: 2020-2029
-permalink: /huang-calligraffiti-mvt1/
-document: huang_calligraffiti_mvt01.mei
+permalink: /huang-calligraffiti-001/
+document: huang_calligraffiti_001.mei
 ---
 
 In *Calligraffiti: string quartet no. 3.* London: Ricordi, 2021.
