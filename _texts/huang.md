@@ -5,7 +5,7 @@ category: incipits
 century: 20th
 permalink: /huang/
 ---
-<a title="CTV Santa Cruz County, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Huang_Ruo_at_Meet_the_Composers_2012.jpg"><img width="512" alt="Chinese American composer Huang Ruo at Meet the Composers 2012, Cabrillo Festival of Contemporary Music" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Huang_Ruo_at_Meet_the_Composers_2012.jpg/512px-Huang_Ruo_at_Meet_the_Composers_2012.jpg?_=20221022220906"></a>
+<a title="CTV Santa Cruz County, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Huang_Ruo_at_Meet_the_Composers_2012.jpg"><img width="512" alt="Chinese American composer Huang Ruo at Meet the Composers 2012, Cabrillo Festival of Contemporary Music" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Huang_Ruo_at_Meet_the_Composers_2012.jpg"></a>
 
 *Learn more about this composer at <a href="https://en.wikipedia.org/wiki/Huang_Ruo" target="_blank">https://en.wikipedia.org/wiki/Huang_Ruo</a>*
 <br/>
