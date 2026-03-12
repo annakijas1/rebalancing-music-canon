@@ -10,7 +10,7 @@ document: akiyoshi_american_ballad.mei
 
 In *American ballad.* Toba Publishing Company, 1973, 2022.
 
-**Instrumentation summary**: alto saxophone(2), tenor saxophone(2), baritone saxophone(1), trumpet(4), trombone(4), bass(1), drums(1), piano(1), guitar(1)
+**Instrumentation summary**: alto saxophone (2), tenor saxophone (2), baritone saxophone (1), trumpet (4), trombone (4), bass (1), drums (1), piano (1), guitar (1)
 
 **Instrumentation group**: woodwinds, brass, plucked strings, keyboard, percussion
 
