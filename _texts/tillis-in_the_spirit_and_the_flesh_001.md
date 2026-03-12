@@ -3,6 +3,7 @@ layout: mei
 title: In the Spirit and the Flesh for Jazz Trio and Orchestra, I. Life
 author: Tillis, Frederick C.
 ensemble: orchestra
+period: 1980-1989
 permalink: /tillis-in-the-spirit-and-the-flesh-1/
 document: tillis_in_the_spirit_and_the_flesh_001.mei
 ---

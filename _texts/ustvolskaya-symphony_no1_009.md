@@ -3,6 +3,7 @@ layout: mei
 title: Symphony no. 1, II, 8. Sonne (Sun)
 author: Ustvolskaya, Galina
 ensemble: orchestra
+period: 2010-2019
 permalink: /ustvolskaya-symphony-no1-ii-sonne/
 document: ustvolskaya_symphony_no1_mvt2_008.mei
 ---

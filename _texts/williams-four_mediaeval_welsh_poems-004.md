@@ -3,6 +3,7 @@ layout: mei
 title: Four Mediaeval Welsh Poems, IV. Claddu'r Bardd
 author: Williams, Grace
 ensemble: chamber-vocal
+period: 1960-1969
 permalink: /williams-welsh-poems-iv/
 document: williams_four_mediaeval_welsh_poems_004.mei
 ---

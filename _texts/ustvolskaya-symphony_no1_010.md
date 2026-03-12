@@ -3,6 +3,7 @@ layout: mei
 title: Symphony no. 1, III
 author: Ustvolskaya, Galina
 ensemble: orchestra
+period: 2010-2019
 permalink: /ustvolskaya-symphony-no1-iii/
 document: ustvolskaya_symphony_no1_mvt3.mei
 ---

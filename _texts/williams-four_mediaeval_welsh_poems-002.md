@@ -3,6 +3,7 @@ layout: mei
 title: Four Mediaeval Welsh Poems, II. Hwiangerdd
 author: Williams, Grace 
 ensemble: chamber-vocal
+period: 1960-1969
 permalink: /williams-welsh-poems-ii/
 document: williams_four_mediaeval_welsh_poems_002.mei
 ---

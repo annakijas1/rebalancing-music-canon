@@ -3,6 +3,7 @@ layout: mei
 title: Sonata for violin, III. Allegro scherzando
 author: Williams, Grace
 ensemble: chamber-instrument 
+period: 1930-1939
 permalink: /williams-sonata-for-violin-iii/
 document: williams_sonata_for_violin_003.mei
 ---
