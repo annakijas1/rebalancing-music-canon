@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Chen Yi</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.3</software>
-      <encoding-date>2025-11-20</encoding-date>
+      <software>MuseScore Studio 4.6.5</software>
+      <encoding-date>2026-03-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -22,23 +22,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -71,11 +71,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.0448" justify="center" valign="top" font-size="22">Song of Spring</credit-words>
+    <credit-words default-x="616.933975" default-y="1511.047129" justify="center" valign="top" font-size="22">Song of Spring</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.1448" default-y="1411.044784" justify="right" valign="bottom">Chen Yi</credit-words>
+    <credit-words default-x="1148.142913" default-y="1411.047256" justify="right" valign="bottom">Chen Yi</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-type>subtitle</credit-type>
+    <credit-words default-x="616.933975" default-y="1453.897088" justify="center" valign="top" font-size="14">1. Spring Vitality</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -121,7 +125,7 @@
         </attributes>
       <direction placement="above" system="only-top">
         <direction-type>
-          <metronome parentheses="no" default-x="-38.52" default-y="6.52" relative-y="20">
+          <metronome parentheses="no" default-x="-38.52" relative-y="20">
             <beat-unit>quarter</beat-unit>
             <per-minute>60</per-minute>
             </metronome>
@@ -156,7 +160,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" orientation="under" placement="below" bezier-x="29.384045" bezier-y="-24.763732" number="1"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="29.38404" bezier-y="-24.76375" number="1"/>
           </notations>
         </note>
       <note default-x="209.65" default-y="-40">
@@ -196,7 +200,7 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="start" orientation="under" placement="below" bezier-x="7.043847" bezier-y="-8.531495" number="2"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="7.043845" bezier-y="-8.5315" number="2"/>
           </notations>
         </note>
       <note default-x="297.45" default-y="-40">
@@ -209,8 +213,8 @@
         <type>quarter</type>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="2" bezier-x="-7.043847" bezier-y="-8.531495"/>
-          <slur type="start" orientation="under" placement="below" bezier-x="20.437301" bezier-y="-14.53222" number="2"/>
+          <slur type="stop" number="2" bezier-x="-7.043845" bezier-y="-8.5315"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="20.437303" bezier-y="-14.532231" number="2"/>
           </notations>
         </note>
       </measure>
@@ -229,8 +233,8 @@
         <voice>1</voice>
         <type>whole</type>
         <notations>
-          <slur type="stop" number="1" bezier-x="-32.051182" bezier-y="-21.198732"/>
-          <slur type="stop" number="2" bezier-x="-20.437301" bezier-y="-14.53222"/>
+          <slur type="stop" number="1" bezier-x="-32.051182" bezier-y="-21.198745"/>
+          <slur type="stop" number="2" bezier-x="-20.437303" bezier-y="-14.532231"/>
           <ornaments>
             <tremolo type="single">3</tremolo>
             </ornaments>
@@ -263,7 +267,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" orientation="under" placement="below" bezier-x="22.686323" bezier-y="-19.712267" number="1"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="22.686315" bezier-y="-19.712281" number="1"/>
           </notations>
         </note>
       <note default-x="41.77" default-y="-25">
@@ -302,7 +306,7 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="start" orientation="under" placement="below" bezier-x="7.560514" bezier-y="-8.838851" number="2"/>
+          <slur type="start" orientation="under" placement="below" bezier-x="7.560512" bezier-y="-8.838857" number="2"/>
           </notations>
         </note>
       <direction placement="below">
@@ -321,8 +325,8 @@
         <dot default-x="147.56" default-y="-25"/>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-25.700964" bezier-y="-15.578935"/>
-          <slur type="stop" number="2" bezier-x="-7.560514" bezier-y="-8.838851"/>
+          <slur type="stop" number="1" bezier-x="-25.700963" bezier-y="-15.578943"/>
+          <slur type="stop" number="2" bezier-x="-7.560512" bezier-y="-8.838857"/>
           <ornaments>
             <tremolo type="single">3</tremolo>
             </ornaments>
@@ -354,7 +358,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" orientation="over" placement="above" bezier-x="20.94348" bezier-y="17.843422" number="1"/>
+          <slur type="start" orientation="over" placement="above" bezier-x="20.943472" bezier-y="17.843435" number="1"/>
           </notations>
         </note>
       <note default-x="56.4" default-y="-15">
@@ -370,7 +374,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="start" orientation="over" placement="above" bezier-x="11.34077" bezier-y="10.825338" number="2"/>
+          <slur type="start" orientation="over" placement="above" bezier-x="11.340768" bezier-y="10.825345" number="2"/>
           </notations>
         </note>
       <direction placement="below">
@@ -390,8 +394,8 @@
         <dot default-x="118.29" default-y="-15"/>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-24.419601" bezier-y="12.676756"/>
-          <slur type="stop" number="2" bezier-x="-11.34077" bezier-y="10.825338"/>
+          <slur type="stop" number="1" bezier-x="-24.419601" bezier-y="12.676762"/>
+          <slur type="stop" number="2" bezier-x="-11.340768" bezier-y="10.825345"/>
           <ornaments>
             <tremolo type="single">3</tremolo>
             </ornaments>
@@ -433,7 +437,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" orientation="over" placement="above" bezier-x="8.891635" bezier-y="13.835879" number="1"/>
+          <slur type="start" orientation="over" placement="above" bezier-x="8.891648" bezier-y="13.835898" number="1"/>
           </notations>
         </note>
       <note default-x="86.84" default-y="-15">
@@ -462,7 +466,7 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-14.484299" bezier-y="7.79088"/>
+          <slur type="stop" number="1" bezier-x="-14.484319" bezier-y="7.790891"/>
           </notations>
         </note>
       <note default-x="121.29" default-y="-20">
