@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xml:id="mszjj0x2" meiversion="5.1" xmlns="http://www.music-encoding.org/ns/mei">
+   <meiHead xml:id="matm2dy2">
+      <fileDesc xml:id="fqpoa1j1">
+         <titleStmt xml:id="t2zvfeq2">
+            <title xml:id="ti7a1vi1">In Front of My Eyes II. Better Than Before</title>
+            <respStmt xml:id="r7wbpde">
+               <persName xml:id="pn1co06" role="composer">T.J. Anderson</persName>
+               <persName xml:id="pcoejac1" role="transcriber">Jimmy Wang</persName>
+               <persName xml:id="pk9lt1u1" role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pgn7xhb">
+            <date xml:id="dzhmbmy2" isodate="2026-02-12" type="encoding-date">2026-02-12</date>
+            <publisher xml:id="p22dpbj2">Rebalancing the Music Canon</publisher>
+            <availability xml:id="abpfndt2">
+               <useRestrict xml:id="ua6a7ey2">The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier xml:id="i47y0ax2">
+               <ref xml:id="rs8xl2q1" target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e5cli1v2">
+         <appInfo xml:id="anflova">
+            <application xml:id="aixl7gm1" isodate="2026-02-12T10:19:52" version="6.0.1-ffbc336">
+               <name xml:id="nfytv9g">Verovio</name>
+               <p xml:id="pfuzvpf">Transcoded from MusicXML</p>
+            </application>
+            <application xml:id="aali0g11" enddate="2026-03-12T10:56:47" startdate="2026-03-12T10:56:38" version="1.2.9">
+               <name xml:id="nkvhxss1">mei-friend</name>
+               <p xml:id="pv3wkci1">First edit by mei-friend 1.2.9.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music xml:id="mz5f8tv2">
+      <body xml:id="bz1q01s2">
+         <mdiv xml:id="m4bj0261">
+            <score xml:id="sljdkqz1">
+               <scoreDef xml:id="sqxydwb">
+                  <pgHead xml:id="p610aid" func="first">
+                     <rend xml:id="rmsel5o1" halign="right" valign="bottom">T.J. Anderson</rend>
+                  </pgHead>
+                  <staffGrp xml:id="syhfiso1">
+                     <staffDef xml:id="sbsglox1" lines="5" n="1" ppq="2">
+                        <label xml:id="l5tg0ha">Soprano</label>
+                        <labelAbbr xml:id="lrvp7rg1">S.</labelAbbr>
+                        <instrDef xml:id="irf56g6" midi.channel="0" midi.instrnum="52" midi.volume="78%"/>
+                        <clef xml:id="cob50g1" line="2" shape="G"/>
+                        <keySig xml:id="kheqy1z1" sig="0"/>
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sj0mzg9">
+                  <expansion xml:id="ew4ps5d1" plist="#l1uua7vi"/>
+                  <section xml:id="l1uua7vi">
+                     <measure xml:id="mmju1yt1" n="1" right="invis">
+                        <staff xml:id="s0rqlaa1" n="1">
+                           <layer xml:id="le4nhnx1" n="1">
+                              <note xml:id="n458ei91" dur="4" dur.ppq="2" oct="4" pname="b" stem.visible="false">
+                                 <verse xml:id="vknkbo9" n="1">
+                                    <syl xml:id="slbkbz91" con="s" wordpos="s">Oh,</syl>
+                                 </verse>
+                              </note>
+                              <space xml:id="swjz2we" dur="2" dur.ppq="4"/>
+                              <space xml:id="syfkr5v1" dur="4" dur.ppq="2"/>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="dk9jc9f1" place="above" staff="1" tstamp="1" val="33" vgrp="2030">pp</dynam>
+                        <dir xml:id="djzm2xc" place="above" staff="1" tstamp="1" vgrp="2380">
+                           <rend xml:id="ra5be21" fontweight="bold">Cadenza, tempo ad lib.</rend>
+                        </dir>
+                        <bracketSpan xml:id="bep9tbk2" func="uspecified" lendsym="none" lform="solid" lstartsym="none" staff="1" tstamp="1.5" tstamp2="0m+4.5"/>
+                        <dynam xml:id="dabbelv1" place="above" staff="1" tstamp="2" val="33" vgrp="2012"> non espr.</dynam>
+                        <dir xml:id="dupotsf" place="above" staff="1" tstamp="3" vgrp="2027">
+                           <rend xml:id="rj5cx4r1" fontstyle="italic">non-vibr.</rend>
+                        </dir>
+                     </measure>
+                     <measure xml:id="m51tsqa" n="2" right="invis">
+                        <staff xml:id="s36jmoo1" n="1">
+                           <layer xml:id="lzvvwt41" n="1">
+                              <note xml:id="fauuhzy" dur="8" dur.ppq="0" grace="unacc" oct="5" pname="d" stem.dir="up" stem.mod="1slash"/>
+                              <note xml:id="hedobp4" dur="4" dur.ppq="2" oct="4" pname="b" stem.visible="false">
+                                 <verse xml:id="v9eth831" n="1">
+                                    <syl xml:id="svu4scy2" con="s" wordpos="s">Oh,</syl>
+                                 </verse>
+                              </note>
+                              <space xml:id="seb0s73" dur="4" dur.ppq="2"/>
+                              <space xml:id="s9dycgp1" dur="2" dur.ppq="4"/>
+                           </layer>
+                        </staff>
+                        <slur xml:id="sr4y22r1" endid="#hedobp4" startid="#fauuhzy"/>
+                        <bracketSpan xml:id="b5wkjrt2" func="uspecified" lendsym="none" lform="solid" lstartsym="none" staff="1" tstamp="1.5" tstamp2="0m+4"/>
+                     </measure>
+                     <measure xml:id="m3tdlxf" n="3" right="invis">
+                        <staff xml:id="sdmp5yb1" n="1">
+                           <layer xml:id="lror1my1" n="1">
+                              <beam xml:id="bgrk70z2">
+                                 <note xml:id="a92zaxe" dur="8" dur.ppq="0" grace="acc" oct="5" pname="e" stem.dir="up"/>
+                                 <note xml:id="no45984" dur="8" dur.ppq="0" grace="unacc" oct="5" pname="d" stem.dir="up" stem.mod="1slash"/>
+                              </beam>
+                              <note xml:id="dnr7vf" dur="4" dur.ppq="2" oct="4" pname="b" stem.visible="false">
+                                 <verse xml:id="vwoihol1" n="1">
+                                    <syl xml:id="sh6kfbn1" con="s" wordpos="s">Oh,</syl>
+                                 </verse>
+                              </note>
+                             </layer>
+                        </staff>
+                        <slur xml:id="smdezoh1" endid="#dnr7vf" startid="#a92zaxe"/>
+                        <bracketSpan xml:id="bw7st531" func="uspecified" lendsym="none" lform="solid" lstartsym="none" staff="1" tstamp="1.5" tstamp2="0m+4.5"/>
+                     </measure>
+                     <measure xml:id="m7vz315" n="4">
+                        <staff xml:id="s6j3twr1" n="1">
+                           <layer xml:id="l56fgdl1" n="1">
+                              <note xml:id="nv5hhsj1" dur="4" dur.ppq="2" oct="4" pname="f" stem.visible="false">
+                                 <verse xml:id="vziaot3" n="1">
+                                    <syl xml:id="s3fcyok1" con="s" wordpos="s">I</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="zfdtjs2" dur="4" dur.ppq="2" oct="4" pname="g" stem.visible="false">
+                                 <verse xml:id="vbezyuk1" n="1">
+                                    <syl xml:id="snn6czm1" con="u" wordpos="s">won't</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="eigdxod" dur="4" dur.ppq="2" oct="4" pname="a" stem.visible="false">
+                                 <accid xml:id="ai4zzsl1" accid="f"/>
+                              </note>
+                              <note xml:id="nsdwvuh" dur="4" dur.ppq="2" oct="4" pname="b" stem.visible="false">
+                                 <accid xml:id="a84fv9k1" accid="f"/>
+                                 <verse xml:id="vcvqc7e" n="1">
+                                    <syl xml:id="szq8dcl2" con="s" wordpos="s">say</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="sb796e81" endid="#eigdxod" startid="#zfdtjs2"/>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

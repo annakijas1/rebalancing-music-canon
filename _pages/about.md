@@ -11,7 +11,12 @@ The current project is focused on encoding musical incipits (initial melodic lin
 The incipits are transcribed and reviewed by student contributors (listed below) under the direction of music librarian, Anna Kijas (Head, Lilly Music Library). In addition to making works by underrepresented composers in our collection more visible and discoverable, the students are developing expertise in transcription and editing methods, as well as expanding their knowledge of a diverse music repertoire.
 
 ### Current Contributors
-- Teresa Turnage (Summer 2024)
+- Mofe C. Akinyanmi
+- Isabella S. Bogaty Rodriguez
+- Joshua M. Field
+- Tessa L. Moore
+- Dylan T. Tanouye
+- Jimmy Wang
 
 ### Project Alumni
 - Kate M. Chang (Spring 2023), undergraduate
@@ -31,11 +36,16 @@ The incipits are transcribed and reviewed by student contributors (listed below)
 - Joanna Strogatz (Spring 2021-current), undergraduate
 - Sebastian Tringale (Spring 2020-2021), undergraduate
 - Samantha A. Tripp (Spring 2023), graduate
+- Teresa Turnage (Summer 2024), undergraduate
 - Hailing Wang (Spring 2020), undergraduate
 - Phillip G. Wright (Spring 2021-2022), graduate
 
 ### Class Collaboration
-Students in the Spring 2024 Public Musicology course taught by Dr. Reba A. Wissner at Columbus State University transcribed and encoded a selection of incipits. Students included: [Erin Fowler](https://rebalancing-music-canon.com/beyer-elation/), [Riley Bryan](https://rebalancing-music-canon.com/beyer-reverence/), [Ana Dinis Perez](https://rebalancing-music-canon.com/coccia-vingt_menuets_pour_le_cavecin_i/), [Melissa Krakow](https://rebalancing-music-canon.com/karabyts-five_miniatures_mvt1/), [Mary Claire Buchanan](https://rebalancing-music-canon.com/leiviska-sonata-for-violin-and-piano-mvt1), [Chris Thomas](https://rebalancing-music-canon.com/leiviska-sonata-for-violin-and-piano-mvt3), [Kisun Kim](https://rebalancing-music-canon.com/leiviska-sonata-for-violin-and-piano-mvt3), [Blys Brinkley](https://rebalancing-music-canon.com/martin-paradox), [Natalie Crosby](https://rebalancing-music-canon.com/skoryk-hutsul-triptych-childhood), [Jada Smith](https://rebalancing-music-canon.com/vynnytsky-loss), [Destinie Mims](https://rebalancing-music-canon.com/skoryk-three-poems-if-i-only-had-shoes), and [María Victoria Chirinos](https://rebalancing-music-canon.com/skoryk-hutsul-triptych-childhood).   
+Students in the Public Musicology course taught by Dr. Reba A. Wissner at Columbus State University transcribed and encoded a selection of incipits. 
+
+Spring 2025: [Diego Montes](https://rebalancing-music-canon.com/stankovych/?q=montes)
+
+Spring 2024: [Erin Fowler](https://rebalancing-music-canon.com/beyer-elation/), [Riley Bryan](https://rebalancing-music-canon.com/beyer-reverence/), [Ana Dinis Perez](https://rebalancing-music-canon.com/coccia-vingt_menuets_pour_le_cavecin_i/), [Melissa Krakow](https://rebalancing-music-canon.com/karabyts-five_miniatures_mvt1/), [Mary Claire Buchanan](https://rebalancing-music-canon.com/leiviska-sonata-for-violin-and-piano-mvt1), [Chris Thomas](https://rebalancing-music-canon.com/leiviska-sonata-for-violin-and-piano-mvt3), [Kisun Kim](https://rebalancing-music-canon.com/leiviska-sonata-for-violin-and-piano-mvt3), [Blys Brinkley](https://rebalancing-music-canon.com/martin-paradox), [Natalie Crosby](https://rebalancing-music-canon.com/skoryk-hutsul-triptych-childhood), [Jada Smith](https://rebalancing-music-canon.com/vynnytsky-loss), [Destinie Mims](https://rebalancing-music-canon.com/skoryk-three-poems-if-i-only-had-shoes), and [María Victoria Chirinos](https://rebalancing-music-canon.com/skoryk-hutsul-triptych-childhood).   
 
 ---
 

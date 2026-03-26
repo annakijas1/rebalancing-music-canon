@@ -3,6 +3,7 @@ layout: mei
 title: Symphony no. 1, II, 2. Karussell (Roundabout)
 author: Ustvolskaya, Galina
 ensemble: orchestra
+period: 2010-2019
 permalink: /ustvolskaya-symphony-no1-ii-karussell/
 document: ustvolskaya_symphony_no1_mvt2_002.mei
 ---

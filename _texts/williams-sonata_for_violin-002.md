@@ -3,6 +3,7 @@ layout: mei
 title: Sonata for violin, II. Andante sostenuto
 author: Williams, Grace
 ensemble: chamber-instrument
+period: 1930-1939
 permalink: /williams-sonata-for-violin-ii/
 document: williams_sonata_for_violin_002.mei
 ---
