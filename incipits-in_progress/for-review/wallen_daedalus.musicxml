@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.5</software>
-      <encoding-date>2026-02-04</encoding-date>
+      <software>MuseScore Studio 4.6.3</software>
+      <encoding-date>2026-03-27</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -103,7 +103,7 @@
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>195.8</top-system-distance>
+          <top-system-distance>198.39</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -247,19 +247,7 @@
     <measure number="19" width="221.84">
       <direction placement="above" system="only-top">
         <direction-type>
-          <words relative-x="-1.9" relative-y="53.25" font-weight="bold" font-size="8">Slow 
-</words>
-          </direction-type>
-        <direction-type>
-          <metronome parentheses="no" relative-x="-1.9" relative-y="53.25">
-            <beat-unit>quarter</beat-unit>
-            <per-minute></per-minute>
-            </metronome>
-          </direction-type>
-        <direction-type>
-          <words relative-x="-1.9" relative-y="53.25" font-size="8">c.84
-</words>
-          <words font-style="italic">Verse 1</words>
+          <words relative-x="-12.07" relative-y="53.25" font-weight="bold">Slow</words>
           </direction-type>
         <sound tempo="84"/>
         </direction>
@@ -276,6 +264,23 @@
             </dynamics>
           </direction-type>
         <sound dynamics="54.44"/>
+        </direction>
+      <direction placement="above" system="only-top">
+        <direction-type>
+          <metronome parentheses="no" relative-x="0.71" relative-y="55.84">
+            <beat-unit>quarter</beat-unit>
+            <per-minute></per-minute>
+            </metronome>
+          </direction-type>
+        <direction-type>
+          <words relative-x="0.71" relative-y="55.84">c. 84</words>
+          </direction-type>
+        <sound tempo="84"/>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-1.98" relative-y="30.33" font-style="italic">Verse 1</words>
+          </direction-type>
         </direction>
       <note default-x="56.97" default-y="-60">
         <pitch>
