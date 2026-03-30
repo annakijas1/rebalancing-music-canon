@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.3</software>
-      <encoding-date>2026-03-26</encoding-date>
+      <software>MuseScore Studio 4.6.5</software>
+      <encoding-date>2026-03-30</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -82,7 +82,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.144364" default-y="1411.047256" justify="right" valign="bottom">Agustin Fernández</credit-words>
+    <credit-words default-x="1148.144364" default-y="1411.047256" justify="right" valign="bottom">Agustín Fernández</credit-words>
     </credit>
   <part-list>
     <part-group type="start" number="1">
@@ -168,10 +168,14 @@
           <octave>4</octave>
           </pitch>
         <duration>15</duration>
+        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <dot default-x="100.01" default-y="-25"/>
         <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
         </note>
       </measure>
     <measure number="2" width="309.47">
@@ -181,10 +185,16 @@
           <octave>4</octave>
           </pitch>
         <duration>15</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <dot default-x="30.49" default-y="-25"/>
         <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+          </notations>
         </note>
       </measure>
     <measure number="3" width="309.47">
@@ -194,10 +204,16 @@
           <octave>4</octave>
           </pitch>
         <duration>15</duration>
+        <tie type="stop"/>
+        <tie type="start"/>
         <voice>1</voice>
         <type>half</type>
         <dot default-x="30.49" default-y="-25"/>
         <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          <tied type="start"/>
+          </notations>
         </note>
       </measure>
     <measure number="4" width="367.82">
@@ -216,10 +232,14 @@
           <octave>4</octave>
           </pitch>
         <duration>15</duration>
+        <tie type="stop"/>
         <voice>1</voice>
         <type>half</type>
         <dot default-x="77.89" default-y="-25"/>
         <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       </measure>
     <measure number="5" width="320.42">
@@ -2697,7 +2717,7 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>16th</type>
-        <accidental>sharp</accidental>
+        <accidental cautionary="yes" parentheses="no">sharp</accidental>
         <time-modification>
           <actual-notes>5</actual-notes>
           <normal-notes>4</normal-notes>
