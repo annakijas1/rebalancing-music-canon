@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Wallace McClain Cheatham</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.5</software>
-      <encoding-date>2026-03-12</encoding-date>
+      <software>MuseScore Studio 4.6.3</software>
+      <encoding-date>2026-04-02</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -23,23 +23,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -72,15 +72,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935484" default-y="1511.049022" justify="center" valign="top" font-size="22">String Quartet No.1</credit-words>
+    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-size="22">String Quartet No.1</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935484" default-y="1453.898908" justify="center" valign="top" font-size="14">I</credit-words>
+    <credit-words default-x="616.9347" default-y="1453.897088" justify="center" valign="top" font-size="14">I</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.145796" default-y="1411.049022" justify="right" valign="bottom">Wallace McClain Cheatham</credit-words>
+    <credit-words default-x="1148.144364" default-y="1411.047256" justify="right" valign="bottom">Wallace McClain Cheatham</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -107,7 +107,7 @@
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>214.93</top-system-distance>
+          <top-system-distance>213.07</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -124,12 +124,13 @@
           <line>2</line>
           </clef>
         </attributes>
-      <direction placement="above">
+      <direction placement="above" system="only-top">
         <direction-type>
-          <words default-y="66.53" relative-y="10" font-weight="bold">allegro con molto
+          <words default-x="-37.67" relative-y="47.89" font-weight="bold">allegro con molto
 </words>
           <words>e con fuoco</words>
           </direction-type>
+        <sound tempo="144"/>
         </direction>
       <note default-x="121.37" default-y="-10">
         <rest measure="yes"/>
@@ -163,12 +164,12 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="start" bezier-x="0" bezier-y="-26.057184" number="1"/>
+          <slur type="start" bezier-x="0" bezier-y="-26.057206" number="1"/>
           </notations>
         </note>
       <direction placement="below">
         <direction-type>
-          <wedge type="crescendo" default-y="-100.35" spread="11.5" number="1"/>
+          <wedge type="crescendo" default-y="-78.75" relative-x="13.28" spread="11.5" number="1"/>
           </direction-type>
         </direction>
       <note default-x="71.09" default-y="-60">
@@ -184,7 +185,7 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-28.946398" bezier-y="3.578923"/>
+          <slur type="stop" number="1" bezier-x="-28.946428" bezier-y="3.578933"/>
           </notations>
         </note>
       <note default-x="105.26" default-y="-20">
@@ -199,7 +200,7 @@
         <accidental>flat</accidental>
         <stem>down</stem>
         <notations>
-          <slur type="start" bezier-x="15.396896" bezier-y="85.126635" number="1"/>
+          <slur type="start" bezier-x="15.396878" bezier-y="85.126679" number="1"/>
           </notations>
         </note>
       <note default-x="156.51" default-y="55">
@@ -234,7 +235,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-37.043725" bezier-y="82.031127"/>
+          <slur type="stop" number="1" bezier-x="-37.043738" bezier-y="82.031167"/>
           </notations>
         </note>
       <note default-x="276.1" default-y="45">
@@ -247,7 +248,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="start" bezier-x="26.379486" bezier-y="53.634828" number="1"/>
+          <slur type="start" bezier-x="25.892392" bezier-y="56.285949" number="1"/>
           </notations>
         </note>
       <note default-x="327.35" default-y="75">
@@ -277,7 +278,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-11.374707" bezier-y="58.486671"/>
+          <slur type="stop" number="1" bezier-x="-6.204746" bezier-y="63.963126"/>
           </notations>
         </note>
       </measure>
@@ -314,7 +315,7 @@
             <left-margin>0</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <system-distance>260.1</system-distance>
+          <system-distance>239.3</system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -333,7 +334,7 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words default-y="34.21" relative-y="10" font-weight="bold">dolcissimo</words>
+          <words default-y="34.45" relative-y="10" font-weight="bold">dolcissimo</words>
           </direction-type>
         </direction>
       <note default-x="80.21" default-y="20">
@@ -346,7 +347,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="start" bezier-x="21.70774" bezier-y="13.354188" number="1"/>
+          <slur type="start" bezier-x="21.707746" bezier-y="13.354197" number="1"/>
           </notations>
         </note>
       <note default-x="160.72" default-y="15">
@@ -359,7 +360,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-19.888582" bezier-y="15.937521"/>
+          <slur type="stop" number="1" bezier-x="-19.888586" bezier-y="15.937534"/>
           </notations>
         </note>
       <note default-x="241.23" default-y="15">
@@ -372,7 +373,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="start" bezier-x="67.00862" bezier-y="28.664773" number="1"/>
+          <slur type="start" bezier-x="67.008642" bezier-y="28.664792" number="1"/>
           </notations>
         </note>
       <note default-x="321.74" default-y="10">
@@ -427,7 +428,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-62.213346" bezier-y="37.964773"/>
+          <slur type="stop" number="1" bezier-x="-62.213359" bezier-y="37.964804"/>
           </notations>
         </note>
       <note default-x="173.52" default-y="-15">
@@ -440,7 +441,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <notations>
-          <slur type="start" bezier-x="45.646004" bezier-y="31.200116" number="1"/>
+          <slur type="start" bezier-x="45.646027" bezier-y="31.200144" number="1"/>
           </notations>
         </note>
       <note default-x="254.03" default-y="-20">
@@ -463,7 +464,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="415.05" default-y="-30">
+      <note default-x="415.04" default-y="-30">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -473,7 +474,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-48.892156" bezier-y="25.817862"/>
+          <slur type="stop" number="1" bezier-x="-48.892183" bezier-y="25.817886"/>
           </notations>
         </note>
       </measure>
