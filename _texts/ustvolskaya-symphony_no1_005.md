@@ -3,6 +3,7 @@ layout: mei
 title: Symphony no. 1, II, 4. Der knabe aus Modena (The boy from Modena)
 author: Ustvolskaya, Galina
 ensemble: orchestra
+period: 2010-2019
 permalink: /ustvolskaya-symphony-no1-ii-modena/
 document: ustvolskaya_symphony_no1_mvt2_004.mei
 ---

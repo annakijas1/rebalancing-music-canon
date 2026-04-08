@@ -3,6 +3,7 @@ layout: mei
 title: Symphony no. 1, II, 3. Samstagabend (Saturday Evening)
 author: Ustvolskaya, Galina
 ensemble: orchestra
+period: 2010-2019
 permalink: /ustvolskaya-symphony-no1-ii-samstagabend/
 document: ustvolskaya_symphony_no1_mvt2_003.mei
 ---

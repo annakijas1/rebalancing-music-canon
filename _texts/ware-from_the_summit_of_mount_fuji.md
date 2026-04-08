@@ -3,6 +3,7 @@ layout: mei
 title: From the Summit of Mount Fuji 
 author: Ware, Lawren Brianna
 ensemble: solo
+period: 2020-2029
 permalink: /ware-from-the-summit-of-mount-fuji/
 document: ware_from_the_summit_of_mount_fuji.mei
 ---

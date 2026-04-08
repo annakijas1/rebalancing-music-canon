@@ -3,6 +3,7 @@ layout: mei
 title: Sonata for violin, I. Allegro molto ritmico
 author: Williams, Grace
 ensemble: chamber-instrument
+period: 1930-1939
 permalink: /williams-sonata-for-violin-i/
 document: williams_sonata_for_violin_001.mei
 ---
