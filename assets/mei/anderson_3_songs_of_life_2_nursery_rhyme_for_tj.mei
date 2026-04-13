@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="m1h8blza">
+      <fileDesc xml:id="fbr2l8i">
+         <titleStmt xml:id="t1ix5v0g">
+            <title>3 Songs of Life</title>
+            <respStmt>
+              	<persName role="composer">T. J. Anderson Jr.</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Josh Field</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1fvfhkz">
+            <date isodate="2025-11-10" type="encoding-date">2025-11-10</date>
+            
+            <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eplbfq4">
+         <appInfo xml:id="aa37sx6">
+            <application xml:id="a1k6arxn" isodate="2026-02-11T17:28:12" version="6.0.1-ffbc336">
+               <name xml:id="n508cje">Verovio</name>
+               <p xml:id="p1wqhiwq">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="dk1cff4">
+            <score xml:id="e1nlh6ga">
+               <scoreDef xml:id="f1gd197c">
+                  <pgHead xml:id="k1c6ttmu" func="first">
+                     <rend xml:id="i1t1s74o" halign="center" valign="top">3 Songs of Life</rend>
+                     <rend xml:id="l7e5icj" halign="center" valign="top">2. Nursery Rhyme for T.J.</rend>
+                     <rend xml:id="n16casf" halign="right" valign="bottom">T. J. Anderson Jr.</rend>
+                  </pgHead>
+                  <staffGrp xml:id="p1lf39ws">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="qo8egek">Voice</label>
+                        <labelAbbr xml:id="st05204">Vo.</labelAbbr>
+                        <instrDef xml:id="u5lh50m" midi.channel="0" midi.instrnum="52" midi.volume="78%" />
+                        <clef xml:id="d11wrnr9" shape="G" line="2" />
+                        <keySig xml:id="e1szcoag" sig="0" />
+                        <meterSig xml:id="f1x5fsia" count="3" unit="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="gk5bcgd">
+                  <expansion plist="#p1fq5zs3" xml:id="q18lz0d2" />
+                  <pb xml:id="ht4m0kc" />
+                  <section xml:id="p1fq5zs3">
+                     <measure xml:id="g1qccpho" n="1">
+                        <staff xml:id="paq40do" n="1">
+                           <layer xml:id="vr9uke7" n="1">
+                              <mRest xml:id="w1hes6ew" />
+                           </layer>
+                        </staff>
+                        <tempo xml:id="qrwrlsb" place="above" staff="1" tstamp="1" midi.bpm="144" mm="72" mm.unit="2">
+                           <rend xml:id="r9pdtkg" glyph.auth="smufl"></rend> = 72</tempo>
+                     </measure>
+                     <measure xml:id="xjwt3ql" n="2">
+                        <staff xml:id="gf4zcbe" n="1">
+                           <layer xml:id="hfd0v8d" n="1">
+                              <mRest xml:id="ia8e18u" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="j1hns69h" n="3">
+                        <staff xml:id="sxym1ni" n="1">
+                           <layer xml:id="tfh1hh" n="1">
+                              <mRest xml:id="u1sk4p0t" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="vilmcti" n="4">
+                        <staff xml:id="eypodhr" n="1">
+                           <layer xml:id="f1o5e5lh" n="1">
+                              <mRest xml:id="gbl3cwr" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="h1c5l58s" n="5">
+                        <staff xml:id="q16tlnkm" n="1">
+                           <layer xml:id="rchyf6d" n="1">
+                              <mRest xml:id="s1st5epc" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="tamak35" n="6">
+                        <staff xml:id="c1s5lrho" n="1">
+                           <layer xml:id="d18f3j45" n="1">
+                              <mRest xml:id="e1fvp52m" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="f16dntbg" right="dbl" n="7">
+                        <staff xml:id="oriqd51" n="1">
+                           <layer xml:id="p1oxdzg5" n="1">
+                              <mRest xml:id="qgabpbh" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <sb xml:id="b1c9g5ev" />
+                     <measure xml:id="r8plnhs" n="8">
+                        <staff xml:id="a1eutnat" n="1">
+                           <layer xml:id="cw8bxa2" n="1">
+                              <note xml:id="d11b136q" dur.ppq="4" dur="2" oct="5" pname="e" stem.dir="down">
+                                 <accid xml:id="e1okyfkn" accid="f" />
+                                 <verse xml:id="freik0i" n="1">
+                                    <syl xml:id="gv12jzg" con="s" wordpos="s">Big</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="iup8e2t" dur.ppq="4" dur="2" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                                 <verse xml:id="k17q9bgj" n="1">
+                                    <syl xml:id="lk6i7ee" con="s" wordpos="s">red</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="nxw3w3i" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                                 <verse xml:id="p1hhgf2h" n="1">
+                                    <syl xml:id="qmf1hvq" con="d" wordpos="i">ap</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="s1esfs6m" dur.ppq="2" dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                                 <verse xml:id="uqlxdu0" n="1">
+                                    <syl xml:id="vay79s9" con="s" wordpos="t">ple</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="x1mzvo3d" n="9">
+                        <staff xml:id="g1ihcdv4" n="1">
+                           <layer xml:id="h1s5bc9j" n="1">
+                              <note xml:id="imcfqfw" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down">
+                                 <accid xml:id="jznwjez" accid="f" />
+                                 <verse xml:id="k13qeprr" n="1">
+                                    <syl xml:id="lh6dzv9" con="s" wordpos="s">on</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="nf6g5a" dur.ppq="1" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f">
+                                 <verse xml:id="p140jjb6" n="1">
+                                    <syl xml:id="qklajdn" con="s" wordpos="s">a</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="sinf00u" dur.ppq="8" dur="1" oct="5" pname="e" accid.ges="f">
+                                 <verse xml:id="u370pg8" n="1">
+                                    <syl xml:id="vcvc5oc" con="s" wordpos="s">stick</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="x1lxuula" n="10">
+                        <staff xml:id="g40glyh" n="1">
+                           <layer xml:id="h1i4e4d0" n="1">
+                              <note xml:id="intxxm3" dots="1" dur.ppq="3" dur="4" oct="5" pname="e" stem.dir="down">
+                                 <accid xml:id="j1ca8qpz" accid="n" func="caution" />
+                                 <verse xml:id="kxc4ekw" n="1">
+                                    <syl xml:id="lnsre9x" con="s" wordpos="s">for</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="n12omvfo" dur.ppq="1" dur="8" oct="5" pname="f" stem.dir="down">
+                                 <accid xml:id="o310b69" accid="s" />
+                                 <verse xml:id="p1i2hrv4" n="1">
+                                    <syl xml:id="q2zaln9" con="s" wordpos="s">a</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="s12a6p4f" dur.ppq="4" dur="2" oct="5" pname="g" stem.dir="down">
+                                 <verse xml:id="t1cgh263" n="1">
+                                    <syl xml:id="urlgrf" con="d" wordpos="i">lit</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="w1ils0fx" dur.ppq="4" dur="2" oct="5" pname="g" stem.dir="down">
+                                 <verse xml:id="x1cz6j75" n="1">
+                                    <syl xml:id="yejtnbw" con="s" wordpos="t">tle</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="aual3h5" n="11">
+                        <staff xml:id="jlxffzt" n="1">
+                           <layer xml:id="k1m9fkfg" n="1">
+                              <note xml:id="l199dfkr" dots="1" dur.ppq="12" dur="1" oct="5" pname="a">
+                                 <verse xml:id="m7d8kwe" n="1">
+                                    <syl xml:id="n1u8ks25" con="s" wordpos="s">boy.</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

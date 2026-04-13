@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead xml:id="m1h8blza">
+      <fileDesc xml:id="fbr2l8i">
+         <titleStmt xml:id="t1ix5v0g">
+            <title>3 Songs of Life</title>
+            <respStmt>
+              	<persName role="composer">T. J. Anderson Jr.</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Josh Field</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1fvfhkz">
+            <date isodate="2025-11-10" type="encoding-date">2025-11-10</date>
+            
+            <publisher>Rebalancing the Music Canon</publisher>
+            <availability>
+               <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+            </availability>
+            <identifier>
+            <ref target="https://rebalancing-music-canon.com/"/>
+            </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eplbfq4">
+         <appInfo xml:id="aa37sx6">
+            <application xml:id="a1k6arxn" isodate="2026-02-11T17:28:12" version="6.0.1-ffbc336">
+               <name xml:id="n508cje">Verovio</name>
+               <p xml:id="p1wqhiwq">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="c4iuptn">
+            <score xml:id="du5spdj">
+               <scoreDef xml:id="e18idx0g">
+                  <pgHead xml:id="i1po4b09" func="first">
+                     <rend xml:id="gf4k4xk" halign="center" valign="top">3 Songs of Life
+</rend>
+                     <rend xml:id="m1q07vgd" halign="right" valign="bottom">T. J. Anderson Jr.</rend>
+                     <rend xml:id="o1qp7lq4" halign="center" valign="top">1. Vision</rend>
+                  </pgHead>
+                  <pgFoot xml:id="lf7m0y1">
+                     <rend xml:id="jn7aml0" />
+                  </pgFoot>
+                  <staffGrp xml:id="q1sz8zuf">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="r1xigkal">Voice</label>
+                        <labelAbbr xml:id="t1yvbk39">Vo.</labelAbbr>
+                        <instrDef xml:id="v1f5s7sb" midi.channel="0" midi.instrnum="52" midi.volume="78%" />
+                        <clef xml:id="e1dgqkox" shape="G" line="2" />
+                        <keySig xml:id="ftaacvl" sig="0" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="f144ln04">
+                  <expansion plist="#u1dbrs1s" xml:id="vfrw5pl" />
+                  <section xml:id="u1dbrs1s">
+                     <measure xml:id="g1iwzmqh" metcon="false" n="1">
+                        <staff xml:id="p1n4r082" n="1">
+                           <layer xml:id="v1wc7swz" n="1">
+                              <note xml:id="w1yuo2gp" dur.ppq="2" dur="2" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="x1yaz4fg" n="1">
+                                    <syl xml:id="y1n9alyr" con="s" wordpos="s">A</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="a1ayocvz" dur.ppq="0" dur="8" oct="4" pname="f" grace="unacc" stem.dir="up" stem.mod="1slash">
+                                 <accid xml:id="b8881lz" accid="s" />
+                              </note>
+                              <note xml:id="d1j35s1" dur.ppq="2" dur="2" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="e1s4xooj" n="1">
+                                    <syl xml:id="f18rv17n" con="s" wordpos="s">child</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="hsv756w" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="ivvwqx9" n="1">
+                                    <syl xml:id="jqrh1oj" con="d" wordpos="i">de</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="l13zkha7" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="m1if6ib" n="1">
+                                    <syl xml:id="ne7oah9" con="s" wordpos="t">serves</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="p1yl8q05" dur.ppq="0" dur="8" oct="4" pname="a" grace="unacc" stem.dir="up" stem.mod="1slash">
+                                 <accid xml:id="q1h6go2y" accid="f" />
+                              </note>
+                              <note xml:id="s1ufzkl8" dur.ppq="4" dur="1" oct="4" pname="g">
+                                 <verse xml:id="t12mk0du" n="1">
+                                    <syl xml:id="u1js1k79" con="s" wordpos="s">our</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="w1vrubsu" dur.ppq="2" dur="2" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="xqatcgq" n="1">
+                                    <syl xml:id="y71ecuq" con="d" wordpos="i">deep</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="a1jidael" dur.ppq="2" dur="2" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="b1521ci3" n="1">
+                                    <syl xml:id="cfkmkyn" con="s" wordpos="t">est</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="e19z7cvk" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="f7evrwx" n="1">
+                                    <syl xml:id="g1q41u2i" con="d" wordpos="i">hu</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="i1vc94z" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="j1rm97ku" n="1">
+                                    <syl xml:id="kmq5zkp" con="d" wordpos="m">mil</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="m1xzi08i" dots="1" dur.ppq="3" dur="2" oct="4" pname="g" stem.dir="up">
+                                 <verse xml:id="n1cdtfdo" n="1">
+                                    <syl xml:id="o18bvooe" con="d" wordpos="m">i</syl>
+                                 </verse>
+                              </note>
+                              <note xml:id="q1qk6g1z" dur.ppq="4" dur="1" oct="4" pname="g">
+                                 <verse xml:id="rmj7scj" n="1">
+                                    <syl xml:id="s5z19rp" con="s" wordpos="t">ty</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="qtr9eif" place="above" staff="1" tstamp="1" val="64" vgrp="2070">mp  sempre</dynam>
+                        <tempo xml:id="s17p7cdj" place="above" staff="1" tstamp="1" xml:lang="it" midi.bpm="80">
+                           <rend xml:id="t1wzo2bw" fontweight="bold">Tempo ad lib. chant</rend>
+                        </tempo>
+                        <slur xml:id="c9v5mz0" startid="#a1ayocvz" endid="#d1j35s1" />
+                        <slur xml:id="r1pcinwa" startid="#p1yl8q05" endid="#s1ufzkl8" />
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

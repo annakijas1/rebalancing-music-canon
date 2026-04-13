@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.3</software>
-      <encoding-date>2025-11-10</encoding-date>
+      <software>MuseScore Studio 4.6.5</software>
+      <encoding-date>2026-02-11</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -23,23 +23,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -72,15 +72,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.0448" justify="center" valign="top" font-size="22">In Memoriam</credit-words>
+    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-size="22">In Memoriam</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935" default-y="1453.894677" justify="center" valign="top" font-size="14">Randy Wilson</credit-words>
+    <credit-words default-x="616.9347" default-y="1453.897088" justify="center" valign="top" font-size="14">Randy Wilson</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.1448" default-y="1405.641545" justify="right" valign="bottom">T. J. Anderson</credit-words>
+    <credit-words default-x="1148.144364" default-y="1411.047256" justify="right" valign="bottom">T. J. Anderson</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -100,14 +100,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="284.59">
+    <measure number="1" width="215.57">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>183.78</top-system-distance>
+          <top-system-distance>175.01</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -129,26 +129,26 @@
           <octave-change>-1</octave-change>
           </transpose>
         </attributes>
-      <direction placement="below">
-        <direction-type>
-          <dynamics default-x="5.32" default-y="-40" relative-y="-20">
-            <mp/>
-            </dynamics>
-          </direction-type>
-        <sound dynamics="71.11"/>
-        </direction>
       <direction placement="above" system="only-top">
         <direction-type>
-          <metronome parentheses="no" default-x="-37.67" default-y="6.52" relative-y="20">
+          <metronome parentheses="no" default-x="-37.67" relative-y="20">
             <beat-unit>quarter</beat-unit>
             <per-minute></per-minute>
             </metronome>
           </direction-type>
         <direction-type>
-          <words default-x="-37.67" default-y="6.52" relative-y="20" font-weight="bold" font-size="12">c. 72</words>
-          <words font-weight="normal"> </words>
+          <words default-x="-37.67" relative-y="20" font-weight="bold" font-size="12">c. 72</words>
           </direction-type>
         <sound tempo="72"/>
+        </direction>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="39.93" default-y="-40" relative-y="-20">
+            <mp/>
+            <other-dynamics> sempre</other-dynamics>
+            </dynamics>
+          </direction-type>
+        <sound dynamics="71.11"/>
         </direction>
       <note default-x="81.17" default-y="-35">
         <pitch>
@@ -160,15 +160,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <dynamics default-x="6.5" default-y="-40" relative-x="-24.26" relative-y="-21.28">
-            <other-dynamics> sempre</other-dynamics>
-            </dynamics>
-          </direction-type>
-        <sound dynamics="71.11"/>
-        </direction>
-      <note default-x="161.82" default-y="-30">
+      <note default-x="134.21" default-y="-30">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -181,7 +173,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="2" width="220.53">
+    <measure number="2" width="151.52">
       <note default-x="17.12" default-y="-15">
         <pitch>
           <step>E</step>
@@ -194,7 +186,7 @@
         <accidental>flat</accidental>
         <stem>down</stem>
         </note>
-      <note default-x="97.76" default-y="-15">
+      <note default-x="70.16" default-y="-15">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -206,7 +198,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="3" width="250.94">
+    <measure number="3" width="169.93">
       <note default-x="12.5" default-y="15">
         <pitch>
           <step>D</step>
@@ -217,7 +209,7 @@
         <type>quarter</type>
         <stem>down</stem>
         </note>
-      <note default-x="93.15" default-y="-5">
+      <note default-x="65.54" default-y="-5">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -225,13 +217,13 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot default-x="111.14" default-y="-5"/>
+        <dot default-x="83.53" default-y="-5"/>
         <stem>down</stem>
         <notations>
-          <slur type="start" bezier-x="20.320406" bezier-y="17.543207" number="1"/>
+          <slur type="start" bezier-x="16.374261" bezier-y="14.670286" number="1"/>
           </notations>
         </note>
-      <note default-x="195.38" default-y="0">
+      <note default-x="132.77" default-y="0">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -241,11 +233,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-21.935353" bezier-y="15.47654"/>
+          <slur type="stop" number="1" bezier-x="-18.364078" bezier-y="12.086949"/>
           </notations>
         </note>
       </measure>
-    <measure number="4" width="256.36">
+    <measure number="4" width="175.35">
       <note default-x="17.92" default-y="35">
         <pitch>
           <step>A</step>
@@ -259,10 +251,10 @@
         <accidental>flat</accidental>
         <stem>down</stem>
         <notations>
-          <slur type="start" bezier-x="20.610165" bezier-y="17.649706" number="1"/>
+          <slur type="start" bezier-x="17.505607" bezier-y="13.679306" number="1"/>
           </notations>
         </note>
-      <note default-x="120.15" default-y="30">
+      <note default-x="85.15" default-y="30">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -274,10 +266,10 @@
         <accidental>flat</accidental>
         <stem>down</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-17.397446" bezier-y="19.516772"/>
+          <slur type="stop" number="1" bezier-x="-14.381441" bezier-y="15.81943"/>
           </notations>
         </note>
-      <note default-x="173.91" default-y="10">
+      <note default-x="120.51" default-y="10">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -285,6 +277,58 @@
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="5" width="153.15">
+      <note default-x="18.76" default-y="-25">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <notations>
+          <slur type="start" bezier-x="19.036191" bezier-y="-16.677894" number="1"/>
+          </notations>
+        </note>
+      <note default-x="98.31" default-y="-30">
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <slur type="stop" number="1" bezier-x="-22.068702" bezier-y="-12.389555"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="6" width="146.9">
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="65.54" default-y="-5">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
         <stem>down</stem>
         </note>
       </measure>
