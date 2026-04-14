@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m17vlwju">
+      <fileDesc xml:id="fnoacd3">
+         <titleStmt xml:id="tcwiok7">
+            <title>Two Bagatelles for piano Bagatelle #1</title>
+            <respStmt>
+               <persName role="composer">Aleksandra Vrebalov</persName>
+          <persName role="transcriber">Isabella Bogaty Rodríguez</persName>
+          <persName role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1kwixny">
+            <date isodate="2026-04-14" type="encoding-date">2026-04-14</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e11ihu2n">
+         <appInfo xml:id="a140yid4">
+            <application xml:id="a2qkqer" isodate="2026-04-14T16:36:54" version="6.1.0-682d606">
+               <name xml:id="nmq88wj">Verovio</name>
+               <p xml:id="p1x3k04">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="l1quopfm">
+            <score xml:id="m1cjgm3e">
+               <scoreDef xml:id="nexlkt4">
+                  <pgHead xml:id="r1htbtqf" func="first">
+                     <rend xml:id="p16fzkrx" halign="center" valign="top">Two Bagatelles for piano</rend>
+                     <rend xml:id="s1kbu5yw" halign="center" valign="top" />
+                     <rend xml:id="zrvge22" halign="right" valign="bottom">Aleksandra Vrebalov</rend>
+                  </pgHead>
+                  <pgFoot xml:id="w11zuzex">
+                     <rend xml:id="upqmep4">Bagatelle #1
+</rend>
+                     <rend xml:id="x15eytvj">for piano solo</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="bnetelt">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="c1sbhsvq">Piano</label>
+                        <labelAbbr xml:id="eqx0ej0">Pno.</labelAbbr>
+                        <instrDef xml:id="gk3did7" midi.channel="0" midi.instrnum="0" midi.volume="78%" />
+                        <clef xml:id="p1a44bdq" shape="G" line="2" />
+                        <keySig xml:id="q81mv4l" sig="0" />
+                        <meterSig xml:id="rkdr63a" count="4" sym="common" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="o19jqq44">
+                  <expansion plist="#zsxa1dg" xml:id="a1qhtl0h" />
+                  <section xml:id="zsxa1dg">
+                     <measure xml:id="s15vys14" right="invis" n="1">
+                        <staff xml:id="bv2i7vz" n="1">
+                           <layer xml:id="gp4ldlf" n="1">
+                              <note xml:id="hawsbon" dur.ppq="8" dur="1" oct="6" pname="c">
+                                 <accid xml:id="iu83u3" accid="s" accid.ges="s" />
+                              </note>
+                           </layer>
+                           <layer xml:id="ka00vzt" n="2">
+                              <space xml:id="lwrn9ii" dur.ppq="4" dur="2" />
+                              <note xml:id="mcmt7l0" dur.ppq="4" dur="2" oct="4" pname="d" stem.dir="down">
+                                 <accid xml:id="n1chcy0d" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="csu6dj6" place="below" staff="1" tstamp="1" val="49" vgrp="452">p</dynam>
+                        <dir xml:id="ewrcshi" place="above" staff="1" tstamp="1" vgrp="2066">Ad libitum, slow</dir>
+                        <slur xml:id="j174a9qr" startid="#hawsbon" endid="#d1f43gez" />
+                        <slur xml:id="o1h1tu9v" startid="#mcmt7l0" />
+                        <dir xml:id="p1kfoppl" place="below" staff="1" tstamp="2.5" vgrp="453">
+                           <rend xml:id="q1r09nh7" halign="right">generous pedal, let ring</rend>
+                        </dir>
+                     </measure>
+                     <measure xml:id="s1ncf27" right="invis" n="2">
+                        <staff xml:id="b1ctkbah" n="1">
+                           <layer xml:id="clgb8w" n="1">
+                              <note xml:id="d1f43gez" dur.ppq="8" dur="1" oct="5" pname="g">
+                                 <accid xml:id="e1km9jpp" accid="s" accid.ges="s" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="ftjv1pe" startid="#d1f43gez" endid="#r1vam00n" />
+                     </measure>
+                     <measure xml:id="gonpl8b" right="invis" n="3">
+                        <staff xml:id="p14u6frz" n="1">
+                           <layer xml:id="q1y3nmu8" n="1">
+                              <note xml:id="r1vam00n" dur.ppq="8" dur="1" oct="4" pname="b">
+                                 <accid xml:id="sazore" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="t1eqcy3h" startid="#r1vam00n" endid="#oln28iz" />
+                        <hairpin xml:id="u8g86w8" staff="1" tstamp="3.5" tstamp2="1m+1.5" form="cres" place="below" vgrp="890" />
+                     </measure>
+                     <measure xml:id="vhe6ug5" right="invis" n="4">
+                        <staff xml:id="e1jyq6c4" n="1">
+                           <layer xml:id="f1mjiour" n="1">
+                              <beam xml:id="g47vxyk">
+                                 <note xml:id="h1cx78ug" dur.ppq="0" dur="16" oct="4" pname="a" grace="acc" stem.dir="down">
+                                    <accid xml:id="i8u79kq" />
+                                 </note>
+                                 <note xml:id="kvckyhv" dur.ppq="0" dur="16" oct="4" pname="g" grace="acc" stem.dir="down">
+                                    <accid xml:id="l1un4rug" accid="s" accid.ges="s" />
+                                 </note>
+                                 <note xml:id="mvi1kf4" dur.ppq="0" dur="16" oct="4" pname="f" grace="acc" stem.dir="down">
+                                    <accid xml:id="n1bvpna" accid="s" accid.ges="s" />
+                                 </note>
+                              </beam>
+                              <note xml:id="oln28iz" dots="1" dur.ppq="6" dur="2" oct="4" pname="c" stem.dir="up">
+                                 <accid xml:id="p16zxwu0" accid="s" accid.ges="s" />
+                              </note>
+                              <beam xml:id="s133pm62">
+                                 <note xml:id="t1en6mz8" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                                    <accid xml:id="u19jx52w" accid="n" accid.ges="n" func="caution" />
+                                 </note>
+                                 <note xml:id="vsa5kw2" dur.ppq="1" dur="8" oct="5" pname="b" stem.dir="down">
+                                    <accid xml:id="w43ytyy" />
+                                 </note>
+                              </beam>
+                           </layer>
+                        </staff>
+                        <slur xml:id="j1ivtkri" startid="#h1cx78ug" endid="#kvckyhv" />
+                        <dynam xml:id="qduochy" place="below" staff="1" tstamp="4" val="64" vgrp="456">mp</dynam>
+                        <tie xml:id="x50gjqj" startid="#vsa5kw2" endid="#j13aeofh" />
+                     </measure>
+                     <measure xml:id="y1udicf0" right="invis" n="5">
+                        <staff xml:id="him4hof" n="1">
+                           <layer xml:id="i180c0at" n="1">
+                              <note xml:id="j13aeofh" dots="1" dur.ppq="6" dur="2" oct="5" pname="b" stem.dir="down">
+                                 <accid xml:id="kj384jb" />
+                              </note>
+                              <beam xml:id="m17nhgjj">
+                                 <note xml:id="n1gke4xi" dur.ppq="1" dur="8" oct="5" pname="c" stem.dir="down">
+                                    <accid xml:id="omawvxo" accid="n" accid.ges="n" func="caution" />
+                                    <artic xml:id="p1ledvsr" artic="acc" />
+                                 </note>
+                                 <note xml:id="qwhks6c" dur.ppq="1" dur="8" oct="5" pname="b" stem.dir="down">
+                                    <accid xml:id="r2mleoj" />
+                                    <artic xml:id="t16p21yn" artic="acc" />
+                                 </note>
+                              </beam>
+                           </layer>
+                        </staff>
+                        <slur xml:id="lxsxogf" startid="#j13aeofh" endid="#n1gke4xi" />
+                        <tie xml:id="spul7md" startid="#qwhks6c" endid="#fvoji6k" />
+                     </measure>
+                     <measure xml:id="u5va1zj" right="invis" n="6">
+                        <staff xml:id="d1fq6i6i" n="1">
+                           <layer xml:id="e5jq6ed" n="1">
+                              <note xml:id="fvoji6k" dur.ppq="8" dur="1" oct="5" pname="b">
+                                 <accid xml:id="gn33kps" />
+                              </note>
+                           </layer>
+                           <layer xml:id="i1dfsyb8" n="2">
+                              <rest xml:id="j1hd8rsb" dur.ppq="4" dur="2" ploc="c" oloc="4" />
+                              <note xml:id="k101uqx1" dur.ppq="4" dur="2" oct="3" pname="a" stem.dir="down">
+                                 <accid xml:id="l1jai2v4" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="h14fsokj" startid="#fvoji6k" endid="#x14yf5hg" />
+                     </measure>
+                     <measure xml:id="m10rs1xf" right="invis" n="7">
+                        <staff xml:id="v1g8ukuc" n="1">
+                           <layer xml:id="w15d4b77" n="1">
+                              <note xml:id="x14yf5hg" dur.ppq="8" dur="1" oct="5" pname="g">
+                                 <accid xml:id="y15nbvx6" accid="s" accid.ges="s" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

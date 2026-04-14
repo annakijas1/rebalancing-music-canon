@@ -8,7 +8,7 @@
     <creator type="composer">Composer / arranger</creator>
     <encoding>
       <software>MuseScore Studio 4.6.5</software>
-      <encoding-date>2026-03-24</encoding-date>
+      <encoding-date>2026-04-14</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -23,23 +23,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -72,11 +72,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935484" default-y="1511.049022" justify="center" valign="top" font-size="22">Two Bagatelles for piano</credit-words>
+    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-size="22">Two Bagatelles for piano</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935484" default-y="1485.529383" justify="center" valign="top" font-size="14">
+    <credit-words default-x="616.9347" default-y="1485.527521" justify="center" valign="top" font-size="14">
 </credit-words>
     <credit-words>Bagatelle #1
 </credit-words>
@@ -84,7 +84,7 @@
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.145796" default-y="1411.049022" justify="right" valign="bottom">Aleksandra Vrebalov</credit-words>
+    <credit-words default-x="1148.144364" default-y="1411.047256" justify="right" valign="bottom">Aleksandra Vrebalov</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -104,14 +104,14 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="209.78">
+    <measure number="1" width="210.03">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50</left-margin>
             <right-margin>0</right-margin>
             </system-margins>
-          <top-system-distance>170</top-system-distance>
+          <top-system-distance>201.89</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -136,6 +136,11 @@
           </direction-type>
         <sound dynamics="54.44"/>
         </direction>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-90.99" relative-y="66.97">Ad libitum, slow</words>
+          </direction-type>
+        </direction>
       <note default-x="91.47" default-y="20">
         <pitch>
           <step>C</step>
@@ -147,7 +152,29 @@
         <type>whole</type>
         <accidental>sharp</accidental>
         <notations>
-          <slur type="start" bezier-x="15.033043" bezier-y="12.745364" number="1"/>
+          <slur type="start" bezier-x="15.098172" bezier-y="12.772027" number="1"/>
+          </notations>
+        </note>
+      <backup>
+        <duration>8</duration>
+        </backup>
+      <note default-x="92.43" default-y="-30" print-object="no">
+        <rest/>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>half</type>
+        </note>
+      <note default-x="142.83" default-y="-45">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <slur type="start" bezier-x="15.343165" bezier-y="-13.512072" number="2"/>
           </notations>
         </note>
       <direction placement="below">
@@ -161,33 +188,11 @@
             </play>
           </sound>
         </direction>
-      <backup>
-        <duration>8</duration>
-        </backup>
-      <note default-x="92.43" default-y="-30" print-object="no">
-        <rest/>
-        <duration>4</duration>
-        <voice>2</voice>
-        <type>half</type>
-        </note>
-      <note default-x="142.72" default-y="-45">
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>2</voice>
-        <type>half</type>
-        <stem>down</stem>
-        <notations>
-          <slur type="start" bezier-x="15.030157" bezier-y="-13.387351" number="2"/>
-          </notations>
-        </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="2" width="100.58">
+    <measure number="2" width="100.8">
       <note default-x="-0.96" default-y="5">
         <pitch>
           <step>G</step>
@@ -199,15 +204,15 @@
         <type>whole</type>
         <accidental>sharp</accidental>
         <notations>
-          <slur type="stop" number="1" bezier-x="-15.380241" bezier-y="12.324158"/>
-          <slur type="start" bezier-x="16.555083" bezier-y="12.999105" number="1"/>
+          <slur type="stop" number="1" bezier-x="-15.444618" bezier-y="12.35084"/>
+          <slur type="start" bezier-x="16.610517" bezier-y="13.021044" number="1"/>
           </notations>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="3" width="113.08">
+    <measure number="3" width="113.3">
       <note default-x="11.54" default-y="-20">
         <pitch>
           <step>B</step>
@@ -217,8 +222,8 @@
         <voice>1</voice>
         <type>whole</type>
         <notations>
-          <slur type="stop" number="1" bezier-x="-16.45842" bezier-y="13.121278"/>
-          <slur type="start" bezier-x="12.388412" bezier-y="11.231639" number="1"/>
+          <slur type="stop" number="1" bezier-x="-16.514" bezier-y="13.143236"/>
+          <slur type="start" bezier-x="12.443784" bezier-y="11.257029" number="1"/>
           </notations>
         </note>
       <backup>
@@ -236,7 +241,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="4" width="172.85">
+    <measure number="4" width="173.16">
       <note default-x="-37.14" default-y="-25">
         <grace/>
         <pitch>
@@ -249,7 +254,7 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <slur type="start" bezier-x="16.723736" bezier-y="11.4605" number="3"/>
+          <slur type="start" bezier-x="16.723769" bezier-y="11.460519" number="3"/>
           </notations>
         </note>
       <note default-x="-17.01" default-y="-30">
@@ -266,7 +271,7 @@
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         <notations>
-          <slur type="stop" number="3" bezier-x="-14.685853" bezier-y="13.976842"/>
+          <slur type="stop" number="3" bezier-x="-14.685884" bezier-y="13.976865"/>
           </notations>
         </note>
       <note default-x="3.11" default-y="-35">
@@ -296,7 +301,7 @@
         <accidental>sharp</accidental>
         <stem>up</stem>
         <notations>
-          <slur type="stop" number="1" bezier-x="-12.281803" bezier-y="11.348118"/>
+          <slur type="stop" number="1" bezier-x="-12.337434" bezier-y="11.373485"/>
           </notations>
         </note>
       <backup>
@@ -318,7 +323,7 @@
           </direction-type>
         <sound dynamics="71.11"/>
         </direction>
-      <note default-x="113.25" default-y="-15">
+      <note default-x="113.43" default-y="-15">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -330,7 +335,7 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="143.05" default-y="15">
+      <note default-x="143.29" default-y="15">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -349,7 +354,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="5" width="153.65">
+    <measure number="5" width="153.96">
       <note default-x="9.04" default-y="15">
         <pitch>
           <step>B</step>
@@ -363,10 +368,10 @@
         <stem>down</stem>
         <notations>
           <tied type="stop"/>
-          <slur type="start" bezier-x="13.578152" bezier-y="11.21066" number="1"/>
+          <slur type="start" bezier-x="13.624352" bezier-y="11.231441" number="1"/>
           </notations>
         </note>
-      <note default-x="94.04" default-y="-15">
+      <note default-x="94.22" default-y="-15">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -378,13 +383,13 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur type="stop" number="1" bezier-x="-12.773786" bezier-y="12.11922"/>
+          <slur type="stop" number="1" bezier-x="-12.821413" bezier-y="12.14"/>
           <articulations>
             <accent default-x="-0.72" default-y="4.55"/>
             </articulations>
           </notations>
         </note>
-      <note default-x="123.84" default-y="15">
+      <note default-x="124.09" default-y="15">
         <pitch>
           <step>B</step>
           <octave>5</octave>
@@ -398,7 +403,7 @@
         <notations>
           <tied type="start"/>
           <articulations>
-            <accent default-x="-0.72" default-y="26.28"/>
+            <accent default-x="-0.72" default-y="26.29"/>
             </articulations>
           </notations>
         </note>
@@ -406,7 +411,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="6" width="160.09">
+    <measure number="6" width="160.38">
       <note default-x="25.02" default-y="15">
         <pitch>
           <step>B</step>
@@ -418,7 +423,7 @@
         <type>whole</type>
         <notations>
           <tied type="stop"/>
-          <slur type="start" bezier-x="22.703608" bezier-y="14.286099" number="1"/>
+          <slur type="start" bezier-x="23.286855" bezier-y="14.486774" number="1"/>
           </notations>
         </note>
       <backup>
@@ -433,10 +438,10 @@
         <voice>2</voice>
         <type>half</type>
         <notations>
-          <slur type="stop" number="2" bezier-x="-16.165903" bezier-y="-11.991261"/>
+          <slur type="stop" number="2" bezier-x="-16.467899" bezier-y="-12.115985"/>
           </notations>
         </note>
-      <note default-x="93.04" default-y="-60">
+      <note default-x="93.18" default-y="-60">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -450,7 +455,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="7" width="102.38">
+    <measure number="7" width="100.8">
       <note default-x="-0.96" default-y="5">
         <pitch>
           <step>G</step>
@@ -462,9 +467,12 @@
         <type>whole</type>
         <accidental>sharp</accidental>
         <notations>
-          <slur type="stop" number="1" bezier-x="-21.56659" bezier-y="15.95082"/>
+          <slur type="stop" number="1" bezier-x="-22.164688" bezier-y="16.151497"/>
           </notations>
         </note>
+      <barline location="right">
+        <bar-style>none</bar-style>
+        </barline>
       </measure>
     </part>
   </score-partwise>

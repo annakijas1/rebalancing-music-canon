@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m1fu6awa">
+      <fileDesc xml:id="f365yyd">
+         <titleStmt xml:id="t1lt8ob3">
+            <title>Two Bagatelles for piano Bagatelle No.2</title>
+            <respStmt>
+               <persName role="composer">Aleksandra Vrebalov</persName>
+                <persName role="transcriber">Isabella Bogaty Rodríguez</persName>
+          <persName role="reviewer">Jimmy Wang</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1huyvvy">
+            <date isodate="2026-04-14" type="encoding-date">2026-04-14</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eywyn9z">
+         <appInfo xml:id="a2mzbvo">
+            <application xml:id="a1c900m3" isodate="2026-04-14T16:39:49" version="6.1.0-682d606">
+               <name xml:id="n1qenh9r">Verovio</name>
+               <p xml:id="pme0lh2">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="e3uq4sg">
+            <score xml:id="f1yqfa37">
+               <scoreDef xml:id="g10rp83j">
+                  <pgHead xml:id="kwkscje" func="first">
+                     <rend xml:id="i1azm667" halign="center" valign="top">Two Bagatelles for piano</rend>
+                     <rend xml:id="ll1mjft" halign="center" valign="top">Bagatelle No.2
+</rend>
+                     <rend xml:id="qzr5ahn" halign="right" valign="bottom">Aleksandra Vrebalov</rend>
+                  </pgHead>
+                  <pgFoot xml:id="p1lzwqwt">
+                     <rend xml:id="n11wdwml">for solo piano</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="s182s4r1">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <grpSym xml:id="t1e03k7k" symbol="brace" />
+                        <label xml:id="t1j9urt7">Piano</label>
+                        <labelAbbr xml:id="v17b2s3i">Pno.</labelAbbr>
+                        <instrDef xml:id="xdnw6te" midi.channel="0" midi.instrnum="0" midi.volume="78%" />
+                        <staffDef xml:id="znn26a6" n="1" lines="5" ppq="8">
+                           <clef xml:id="glmciyx" shape="G" line="2" />
+                           <keySig xml:id="hrwckcu" sig="0" />
+                           <meterSig xml:id="i1gr79q2" count="4" sym="common" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="jdvtesp" n="2" lines="5" ppq="8">
+                           <clef xml:id="qjm40o7" shape="F" line="4" />
+                           <keySig xml:id="rd945ly" sig="0" />
+                           <meterSig xml:id="sxbsir3" count="4" sym="common" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="hm7zwet">
+                  <expansion plist="#n2cnua8" xml:id="o3ce1j0" />
+                  <section xml:id="n2cnua8">
+                     <measure xml:id="u1n59xj6" n="1">
+                        <staff xml:id="d1jlqtta" n="1">
+                           <layer xml:id="k1ti7m5p" n="1">
+                              <chord xml:id="n1ryjef9" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="lmut4fq" oct="6" pname="c" cue="true">
+                                    <accid xml:id="m1dafx9o" />
+                                 </note>
+                                 <note xml:id="q2xqtq5" oct="6" pname="a" cue="true">
+                                    <accid xml:id="r1wsn93o" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="u4ocv6e" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="sbt8r1c" oct="5" pname="b" cue="true">
+                                    <accid xml:id="t1ypfdta" />
+                                 </note>
+                                 <note xml:id="v17er18c" oct="6" pname="g" cue="true">
+                                    <accid xml:id="w1jlzwqe" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="z1vgevbj" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="xm9etf6" oct="5" pname="a" cue="true">
+                                    <accid xml:id="yoz6g56" />
+                                 </note>
+                                 <note xml:id="a12lpimo" oct="6" pname="f" cue="true">
+                                    <accid xml:id="b2oa7ts" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="gun0kd8" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="egm5pv0" oct="5" pname="g" cue="true">
+                                    <accid xml:id="f1o5urwi" />
+                                 </note>
+                                 <note xml:id="hw8ac0r" oct="6" pname="e" cue="true">
+                                    <accid xml:id="ispr9eh" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="l1ejo8uu" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="jkbbd1e" oct="5" pname="f" cue="true">
+                                    <accid xml:id="k1n0z4um" />
+                                 </note>
+                                 <note xml:id="m1pzaq30" oct="6" pname="d" cue="true">
+                                    <accid xml:id="n1f8kmfd" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="qyml1bi" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="odpkvjp" oct="5" pname="e" cue="true">
+                                    <accid xml:id="p1lq2bnm" />
+                                 </note>
+                                 <note xml:id="r6laf9w" oct="6" pname="c" cue="true">
+                                    <accid xml:id="s12iwqt1" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="v1p4qzey" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="tpq97w5" oct="5" pname="d" cue="true">
+                                    <accid xml:id="u8w4i9o" />
+                                 </note>
+                                 <note xml:id="ws2vvc4" oct="5" pname="b" cue="true">
+                                    <accid xml:id="xmr8tyt" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="aqonmfg" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="y1pdknj1" oct="5" pname="c" cue="true">
+                                    <accid xml:id="zk2e2n8" />
+                                 </note>
+                                 <note xml:id="belmh13" oct="5" pname="a" cue="true">
+                                    <accid xml:id="c9aybo7" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="f1broawn" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="d6nijiv" oct="4" pname="b" cue="true">
+                                    <accid xml:id="egh2m7p" />
+                                 </note>
+                                 <note xml:id="g1ag3wyf" oct="5" pname="g" cue="true">
+                                    <accid xml:id="ho2w55i" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="k5ds5ck" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="i1udad29" oct="4" pname="a" cue="true">
+                                    <accid xml:id="j1lx3nob" />
+                                 </note>
+                                 <note xml:id="l1d9sir2" oct="5" pname="f" cue="true">
+                                    <accid xml:id="m10t3hl1" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="pv0pp1o" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="n1699l1f" oct="4" pname="g" cue="true">
+                                    <accid xml:id="o1sopkt6" />
+                                 </note>
+                                 <note xml:id="q1l42wld" oct="5" pname="e" cue="true">
+                                    <accid xml:id="r12psf3r" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="uh39mr4" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="s2gmtn2" oct="4" pname="f" cue="true">
+                                    <accid xml:id="t8v1rl3" />
+                                 </note>
+                                 <note xml:id="vo4xgc9" oct="5" pname="d" cue="true">
+                                    <accid xml:id="w12lar4l" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="z9ruaju" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="x6w6eax" oct="4" pname="e" cue="true">
+                                    <accid xml:id="y4ixin2" />
+                                 </note>
+                                 <note xml:id="amdnfn7" oct="5" pname="c" cue="true">
+                                    <accid xml:id="b1ale6a9" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="eb631pm" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="c1anrk49" oct="4" pname="d" cue="true">
+                                    <accid xml:id="dl7po48" />
+                                 </note>
+                                 <note xml:id="fkdolb5" oct="4" pname="b" cue="true">
+                                    <accid xml:id="g1diu33s" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="jmkknk8" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="h1s6o2qn" oct="4" pname="c" cue="true">
+                                    <accid xml:id="ib8ox28" />
+                                 </note>
+                                 <note xml:id="k125hmuv" oct="4" pname="a" cue="true">
+                                    <accid xml:id="laetg7g" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="ohnsnap" dur.ppq="1" dur="32" cue="true" stem.dir="down">
+                                 <note xml:id="mxf65m3" oct="3" pname="b" cue="true">
+                                    <accid xml:id="n245x0w" />
+                                 </note>
+                                 <note xml:id="p1y7miwl" oct="4" pname="g" cue="true">
+                                    <accid xml:id="q4m4qjr" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="t23ssu" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="r1udxoel" oct="3" pname="a" cue="true">
+                                    <accid xml:id="s1f0az4f" />
+                                 </note>
+                                 <note xml:id="u6kntta" oct="4" pname="f" cue="true">
+                                    <accid xml:id="v1mzh74b" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="y18mbw1x" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="w1eozqji" oct="3" pname="g" cue="true">
+                                    <accid xml:id="xhodb53" />
+                                 </note>
+                                 <note xml:id="z9pdhsh" oct="4" pname="e" cue="true">
+                                    <accid xml:id="a1texkuu" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="d1goopog" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="b18jsxfz" oct="3" pname="f" cue="true">
+                                    <accid xml:id="c2t4p2t" />
+                                 </note>
+                                 <note xml:id="ey4s2tt" oct="4" pname="d" cue="true">
+                                    <accid xml:id="fioxy6h" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="i164ip1w" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="g25qwdc" oct="3" pname="e" cue="true">
+                                    <accid xml:id="h1bhkgmu" />
+                                 </note>
+                                 <note xml:id="j17ipi0w" oct="4" pname="c" cue="true">
+                                    <accid xml:id="k1axz3ip" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="n1son1vk" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="l1n6pkeo" oct="3" pname="d" cue="true">
+                                    <accid xml:id="mra198o" />
+                                 </note>
+                                 <note xml:id="o1ck2v3a" oct="3" pname="b" cue="true">
+                                    <accid xml:id="p1xm3lrl" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="so3fxxf" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="qv91d4z" oct="3" pname="c" cue="true">
+                                    <accid xml:id="rpex6em" />
+                                 </note>
+                                 <note xml:id="tt8dkl8" oct="3" pname="a" cue="true">
+                                    <accid xml:id="u1dm7021" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="xh6wzfo" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="v17l53cq" oct="2" pname="b" cue="true">
+                                    <accid xml:id="w1nk7csj" />
+                                 </note>
+                                 <note xml:id="ylhg27v" oct="3" pname="g" cue="true">
+                                    <accid xml:id="z8ge3ji" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="chw1bg7" dur.ppq="1" dur="32" staff="2" cue="true" stem.dir="up">
+                                 <note xml:id="a1sy2l21" oct="2" pname="a" cue="true">
+                                    <accid xml:id="b1ymacak" />
+                                 </note>
+                                 <note xml:id="dc9mpwg" oct="3" pname="f" cue="true">
+                                    <accid xml:id="e1xx5y7t" />
+                                 </note>
+                              </chord>
+                              <note xml:id="fu8tqe6" dur.ppq="8" dur="4" staff="2" oct="2" pname="e" stem.dir="up">
+                                 <accid xml:id="gxqreak" accid="f" accid.ges="f" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <staff xml:id="e16bamrz" n="2">
+                           <layer xml:id="j1dxgc4s" n="5">
+                              <mSpace xml:id="l17c10vq" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="fpy9kuh" place="below" staff="1" tstamp="1" val="16" vgrp="475">ppp</dynam>
+                        <dir xml:id="h3bdfb0" place="above" staff="1" tstamp="1" vgrp="2630">immediately followingBeethoven Op. 119 #9</dir>
+                        <beamSpan xml:id="othtytt" startid="#n1ryjef9" endid="#chw1bg7" />
+                        <slur xml:id="p1k5hdk4" startid="#lmut4fq" endid="#a1sy2l21" />
+                        <dir xml:id="cilwnrz" place="below" staff="1" tstamp="1.375" vgrp="478">as fast as possible</dir>
+                        <tie xml:id="h1a73s3n" startid="#fu8tqe6" />
+                        <fermata xml:id="iegi4nx" staff="1" startid="#fu8tqe6" form="norm" place="above" />
+                     </measure>
+                     <measure xml:id="miqy8am" n="2">
+                        <staff xml:id="vt5u203" n="1">
+                           <layer xml:id="e1d21g9" n="1">
+                              <chord xml:id="hfretwb" dur.ppq="8" dur="4" stem.dir="up">
+                                 <artic xml:id="imertly" artic="ten" />
+                                 <note xml:id="f1jwskeh" oct="4" pname="f">
+                                    <accid xml:id="gq1vjgz" />
+                                 </note>
+                                 <note xml:id="jmonv9k" oct="4" pname="g">
+                                    <accid xml:id="k75rudv" accid="f" accid.ges="f" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="nbas9ik" dur.ppq="8" dur="4" stem.dir="up">
+                                 <artic xml:id="oe1swsx" artic="ten" />
+                                 <note xml:id="l3hzve6" oct="4" pname="f">
+                                    <accid xml:id="moco9k3" />
+                                 </note>
+                                 <note xml:id="p1dxqcvn" oct="4" pname="g">
+                                    <accid xml:id="qbvizx" accid.ges="f" glyph.auth="smufl" glyph.name="accidentalFlat" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="t5w8tvb" dur.ppq="8" dur="4" stem.dir="up">
+                                 <artic xml:id="u1upuhyy" artic="ten" />
+                                 <note xml:id="rwrpdhh" oct="4" pname="f">
+                                    <accid xml:id="sdjkerz" />
+                                 </note>
+                                 <note xml:id="vchh061" oct="4" pname="g">
+                                    <accid xml:id="w19hah9s" accid.ges="f" glyph.auth="smufl" glyph.name="accidentalFlat" />
+                                 </note>
+                              </chord>
+                              <chord xml:id="z16j4mhd" dur.ppq="8" dur="4" stem.dir="up">
+                                 <artic xml:id="a1eg34hr" artic="ten" />
+                                 <note xml:id="x1hvc7v4" oct="4" pname="f" head.fill="void">
+                                    <accid xml:id="yfvifnr" />
+                                 </note>
+                                 <note xml:id="b152h89q" oct="4" pname="g" head.fill="void">
+                                    <accid xml:id="cq4hawi" accid.ges="f" glyph.auth="smufl" glyph.name="accidentalFlat" />
+                                 </note>
+                              </chord>
+                           </layer>
+                        </staff>
+                        <staff xml:id="w1k7a09s" n="2">
+                           <layer xml:id="d64au1s" n="5">
+                              <note xml:id="e1rqt6ox" dur.ppq="32" dur="1" oct="2" pname="e" head.fill="solid" stem.visible="false">
+                                 <accid xml:id="f1tyrgcq" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="xo6fgar" place="below" staff="1" tstamp="1" val="33" vgrp="456">pp</dynam>
+                        <tempo xml:id="z1hjbfhn" place="above" staff="1" tstamp="1" midi.bpm="54" mm="54" mm.unit="4">
+                           <rend xml:id="a1f7jnbj" glyph.auth="smufl"></rend> = 54</tempo>
+                        <slur xml:id="gu1egyo" startid="#e1rqt6ox" />
+                        <dir xml:id="hi3oywb" place="below" staff="1" tstamp="1.5" vgrp="444">very focused,slightly delay each attack</dir>
+                        <dir xml:id="k18t8wbx" place="below" staff="1" tstamp="2.5" vgrp="502">
+                           <rend xml:id="lz4kfly" fontstyle="italic">let ring</rend>
+                        </dir>
+                     </measure>
+                     <measure xml:id="n1u77wqe" n="3">
+                        <staff xml:id="wbd42t0" n="1">
+                           <layer xml:id="a1m2og87" n="1">
+                              <beam xml:id="b1o48shi">
+                                 <note xml:id="c1o4xf1l" dur.ppq="2" dur="16" oct="4" pname="b" stem.dir="down">
+                                    <accid xml:id="dr80xwf" accid="n" accid.ges="n" func="caution" />
+                                    <artic xml:id="eeszakv" artic="acc" />
+                                 </note>
+                                 <note xml:id="fg8qrxy" dots="1" dur.ppq="6" dur="8" oct="5" pname="b" stem.dir="down">
+                                    <accid xml:id="g16oh5wh" accid="f" accid.ges="f" />
+                                    <artic xml:id="ifat151" artic="acc" />
+                                 </note>
+                              </beam>
+                              <note xml:id="jg8o9hz" dots="1" dur.ppq="24" dur="2" oct="5" pname="b" stem.dir="down">
+                                 <accid xml:id="k1dzh7se" accid.ges="f" glyph.auth="smufl" glyph.name="accidentalFlat" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <staff xml:id="xt2072s" n="2">
+                           <layer xml:id="l1t6kmbw" n="5">
+                              <space xml:id="m7n1mcu" dur.ppq="32" dur="1" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="yas1wsd" place="below" staff="1" tstamp="1" val="96" vgrp="820">f</dynam>
+                        <tie xml:id="h1uqm5r" startid="#fg8qrxy" endid="#jg8o9hz" />
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
