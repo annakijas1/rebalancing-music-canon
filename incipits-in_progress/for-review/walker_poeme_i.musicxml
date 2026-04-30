@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">George Walker</creator>
     <encoding>
-      <software>MuseScore Studio 4.6.5</software>
-      <encoding-date>2026-03-18</encoding-date>
+      <software>MuseScore Studio 4.6.3</software>
+      <encoding-date>2026-04-30</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -23,23 +23,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99911</millimeters>
+      <millimeters>6.99912</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
       <page-height>1596.77</page-height>
       <page-width>1233.87</page-width>
       <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -72,17 +72,17 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935484" default-y="1511.049022" justify="center" valign="top" font-weight="bold" font-size="22">Poème 
+    <credit-words default-x="616.9347" default-y="1511.047129" justify="center" valign="top" font-weight="bold" font-size="22">Poème 
 </credit-words>
     <credit-words font-weight="normal" font-size="12">for Violin and Orchestra</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="616.935484" default-y="1414.170053" justify="center" valign="top" font-size="14">I</credit-words>
+    <credit-words default-x="616.9347" default-y="1414.168093" justify="center" valign="top" font-size="14">I</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148.145796" default-y="1372.601744" justify="right" valign="bottom">George Walker</credit-words>
+    <credit-words default-x="1148.144364" default-y="1372.600305" justify="right" valign="bottom">George Walker</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -188,7 +188,7 @@
         <stem>up</stem>
         <staff>2</staff>
         <notations>
-          <slur type="start" bezier-x="0" bezier-y="158.101006" number="1"/>
+          <slur type="start" bezier-x="0" bezier-y="158.100353" number="1"/>
           </notations>
         </note>
       </measure>
@@ -361,7 +361,7 @@
         <beam number="1">end</beam>
         <notations>
           <tied type="stop"/>
-          <slur type="start" orientation="over" placement="above" bezier-x="30.48108" bezier-y="-7.2396" number="2"/>
+          <slur type="start" orientation="over" placement="above" bezier-x="30.481105" bezier-y="-7.239619" number="2"/>
           </notations>
         </note>
       <backup>
@@ -394,7 +394,7 @@
           <beat-type>8</beat-type>
           </time>
         </attributes>
-      <note default-x="43.68" default-y="5">
+      <note default-x="43.67" default-y="5">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -447,7 +447,7 @@
         <staff>1</staff>
         <beam number="1">end</beam>
         <notations>
-          <tied type="start" orientation="over" placement="above"/>
+          <tied type="start" orientation="under" placement="below"/>
           </notations>
         </note>
       <note default-x="154.87" default-y="5">
@@ -473,7 +473,7 @@
       <backup>
         <duration>16</duration>
         </backup>
-      <note default-x="43.68" default-y="-30">
+      <note default-x="43.67" default-y="-30">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -546,13 +546,13 @@
         <staff>1</staff>
         <notations>
           <tied type="stop"/>
-          <tied type="start" orientation="under" placement="below"/>
+          <tied type="start" orientation="over" placement="above"/>
           </notations>
         </note>
       <backup>
         <duration>16</duration>
         </backup>
-      <note default-x="43.68" default-y="-145.94">
+      <note default-x="43.67" default-y="-145.94">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -565,13 +565,13 @@
         <staff>2</staff>
         <notations>
           <tied type="start"/>
-          <slur type="stop" number="2" bezier-x="-3.160813" bezier-y="31.169173"/>
+          <slur type="stop" number="2" bezier-x="-3.160797" bezier-y="31.169203"/>
           </notations>
         </note>
       <backup>
         <duration>16</duration>
         </backup>
-      <note default-x="43.68" default-y="-175.94">
+      <note default-x="43.67" default-y="-175.94">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -612,7 +612,7 @@
         <staff>1</staff>
         <notations>
           <tied type="stop"/>
-          <tied type="start"/>
+          <tied type="start" orientation="under" placement="below"/>
           </notations>
         </note>
       <note default-x="34.93" default-y="5">
@@ -651,7 +651,7 @@
         <beam number="3">forward hook</beam>
         <notations>
           <tied type="stop"/>
-          <slur type="stop" number="1" bezier-x="-235.756439" bezier-y="110.246902"/>
+          <slur type="stop" number="1" bezier-x="-235.757101" bezier-y="110.246453"/>
           </notations>
         </note>
       <note default-x="111.91" default-y="5">
@@ -732,7 +732,7 @@
         <staff>1</staff>
         <notations>
           <tied type="stop"/>
-          <tied type="start"/>
+          <tied type="start" orientation="over" placement="above"/>
           </notations>
         </note>
       <note default-x="111.91" default-y="-45">
