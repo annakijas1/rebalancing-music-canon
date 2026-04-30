@@ -1,159 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
-   <meiHead xml:id="mdsfb3r">
-      <fileDesc xml:id="fx9o6oq">
-         <titleStmt xml:id="t1g2sfv1">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="mpkrw9b">
+      <fileDesc xml:id="f11dqu0o">
+         <titleStmt xml:id="t1ybkona">
             <title>Changes</title>
             <respStmt>
                <persName role="composer">Allison Loggins-Hull</persName>
-               <persName  role="transcriber">Teresa M. Turnage</persName>
-               <persName role="reviewer">Teresa M. Turnage</persName>
+               <persName role="transcriber">Isabella Bogaty Rodríguez</persName>
+          <persName role="reviewer">Jimmy Wang</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt xml:id="p11m586j">
-            <date isodate="2024-06-15" type="encoding-date">2024-06-15</date>
-             <publisher>Rebalancing the Music Canon</publisher>
-         <!--add the info about how the incipits can be used-->
-         <availability>
-            <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
-         </availability>
-         <!--add the URL to the site-->
-         <identifier>
-         <ref target="https://rebalancing-music-canon.com/"/>
-         </identifier>
+         <pubStmt xml:id="p3yhsy8">
+            <date isodate="2026-04-23" type="encoding-date">2026-04-23</date>
+         <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
          </pubStmt>
       </fileDesc>
-      <encodingDesc xml:id="e7qcku5">
-         <appInfo xml:id="a40rw9d">
-            <application xml:id="a1xtsbz6" isodate="2024-07-31T14:01:58" version="4.2.0-8a772f5">
-               <name xml:id="novvgzz">Verovio</name>
-               <p xml:id="p12lkihb">Transcoded from MusicXML</p>
+      <encodingDesc xml:id="e9lqqsc">
+         <appInfo xml:id="ali90x1">
+            <application xml:id="avyc4yc" isodate="2026-04-23T11:35:27" version="6.1.0-682d606">
+               <name xml:id="naz69it">Verovio</name>
+               <p xml:id="p1mhpk99">Transcoded from MusicXML</p>
+            </application>
+            <application xml:id="aqgjmjj2" startdate="2026-04-23T11:35:54" version="1.2.9" enddate="2026-04-23T11:35:54">
+               <name xml:id="nl7kuk01">mei-friend</name>
+               <p xml:id="pqqs3jn2">First edit by mei-friend 1.2.9.</p>
             </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
    <music>
       <body>
-         <mdiv xml:id="m2yoecr">
-            <score xml:id="s1mklwuv">
-               <scoreDef xml:id="s1p6ero4">
-                  <pgHead xml:id="p17z624c">
-                     <rend xml:id="r1qckkd6" halign="right" valign="bottom">Allison Loggins-Hull</rend>
-                     <rend xml:id="rbju65r" halign="right" valign="bottom">(2020)</rend>
+         <mdiv xml:id="mfm3he9">
+            <score xml:id="nn0i4fk">
+               <scoreDef xml:id="oj1pdej">
+                  <pgHead xml:id="s1t8r7q9" func="first">
+                     <rend xml:id="qsn81y4" halign="center" valign="top">for viola and percussion</rend>
+                     <rend xml:id="tupjkri" halign="right" valign="bottom">Allison Loggins-Hull
+</rend>
+                     <rend xml:id="y1g9dwut" halign="center" valign="top">Changes</rend>
                   </pgHead>
-                  <staffGrp xml:id="s1tbsvkf">
+                  <pgFoot xml:id="x1tgoou4">
+                     <rend xml:id="vjhfh82">2020</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="a1b9i7xn">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="1">
-                        <label xml:id="l1at9987">Viola</label>
-                        <labelAbbr xml:id="lh5v33f">Vla.</labelAbbr>
-                        <instrDef xml:id="i1qv7xrg" midi.channel="0" midi.instrnum="41" midi.volume="78.00%" />
-                        <clef xml:id="c1o3we7i" shape="C" line="3" />
-                        <keySig xml:id="k1opesvm" sig="0" />
-                        <meterSig xml:id="m1xnr8nf" count="2" unit="2" />
+                        <label xml:id="b1g6qnbm">Viola</label>
+                        <labelAbbr xml:id="d1pfy766">Vla.</labelAbbr>
+                        <instrDef xml:id="f1gm0qs5" midi.channel="0" midi.instrnum="41" midi.volume="78%" />
+                        <clef xml:id="osvj9ns" shape="C" line="3" />
+                        <keySig xml:id="p1mupku5" sig="0" />
+                        <meterSig xml:id="qvds9fp" count="2" unit="2" />
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section xml:id="s1xg587m">
-                  <measure xml:id="m1w4s2f9" n="1">
-                     <staff xml:id="s177t3am" n="1">
-                        <layer xml:id="l5vswzb" n="1">
-                           <chord xml:id="cbvzm3m" dur.ppq="4" dur="1">
-                              <note xml:id="n1tc2fwf" oct="3" pname="c" />
-                              <note xml:id="n1hjmgs" oct="3" pname="b" />
-                           </chord>
-                        </layer>
-                     </staff>
-                     <dynam xml:id="dd3cunf" place="below" staff="1" tstamp="1.000000" val="33" vgrp="525">pp</dynam>
-                     <dir xml:id="dh4u9fr" place="below" staff="1" tstamp="000000" vgrp="80">save most of the swell for the last beat</dir>
-                     <tempo xml:id="tr4alpf" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000" mm="58.000000" mm.unit="2">
-                        <rend xml:id="rzaaamd" fontweight="bold">Very Steady</rend>
-                        <rend xml:id="r3i2008" fontweight="normal" />
-                        <rend xml:id="rj9301" glyph.auth="smufl"></rend> = 58</tempo>
-                     <tempo xml:id="t1f0epvm" place="above" staff="1" tstamp="1.000000" midi.bpm="116.000000" mm="116.000000" mm.unit="4">(<rend xml:id="r7vzbpv" glyph.auth="smufl"></rend> = 116)</tempo>
-                     <hairpin xml:id="h10dkg19" staff="1" tstamp="1.000000" tstamp2="0m+3.0000" form="cres" place="below" vgrp="700" />
-                     <dynam xml:id="dafl19b" place="below" staff="1" tstamp="3.000000" vgrp="2000">ff</dynam>
-                  </measure>
-                  <measure xml:id="mngsgc2" n="2">
-                     <staff xml:id="shdxdfk" n="1">
-                        <layer xml:id="l1o52t4y" n="1">
-                           <mRest xml:id="mdnwoca" />
-                        </layer>
-                     </staff>
-                  </measure>
-                  <measure xml:id="mfv98ag" n="3">
-                     <staff xml:id="s1xmp6nu" n="1">
-                        <layer xml:id="l1a1cqes" n="1">
-                           <chord xml:id="c39h5bn" dur.ppq="4" dur="1">
-                              <note xml:id="nwr1t2f" oct="3" pname="c" />
-                              <note xml:id="n1m3fpbg" oct="3" pname="b" />
-                           </chord>
-                        </layer>
-                     </staff>
-                     <dynam xml:id="d1uayj3a" place="below" staff="1" tstamp="1.000000" val="33" vgrp="525">pp</dynam>
-                     <dir xml:id="d1kcoldz" place="below" staff="1" tstamp="1.000000" vgrp="80">simile</dir>
-                     <hairpin xml:id="hglru5r" staff="1" tstamp="1.000000" tstamp2="0m+3.0000" form="cres" place="below" vgrp="700" />
-                     <dynam xml:id="d11yqddy" place="below" staff="1" tstamp="3.000000" vgrp="2000">ff</dynam>
-                  </measure>
-                  <measure xml:id="mk1mg0k" n="4">
-                     <staff xml:id="s1kop8cd" n="1">
-                        <layer xml:id="l16m5z36" n="1">
-                           <chord xml:id="c1j5zxek" dur.ppq="4" dur="1">
-                              <note xml:id="n9vzsu8" oct="3" pname="c" />
-                              <note xml:id="n1vwukni" oct="3" pname="b" />
-                           </chord>
-                        </layer>
-                     </staff>
-                     <dynam xml:id="dff37pg" place="below" staff="1" tstamp="1.000000" val="33" vgrp="525">pp</dynam>
-                     <hairpin xml:id="hbz0pat" staff="1" tstamp="1.000000" tstamp2="0m+3.0000" form="cres" place="below" vgrp="700" />
-                     <dynam xml:id="d4jlqzu" place="below" staff="1" tstamp="3.000000" vgrp="2000">ff</dynam>
-                  </measure>
-                  <measure xml:id="m168l3sf" n="5">
-                     <staff xml:id="sfzp8zb" n="1">
-                        <layer xml:id="l1in2eic" n="1">
-                           <mRest xml:id="m1pzx0p4" />
-                        </layer>
-                     </staff>
-                  </measure>
-                  <measure xml:id="m5aedr7" n="6">
-                     <staff xml:id="s1jx6jyy" n="1">
-                        <layer xml:id="l109r4um" n="1">
-                           <chord xml:id="cljh1hh" dur.ppq="4" dur="1">
-                              <note xml:id="ny3lg5a" oct="3" pname="c" />
-                              <note xml:id="nc8xzxq" oct="3" pname="b" />
-                           </chord>
-                        </layer>
-                     </staff>
-                     <dynam xml:id="d1u3w2on" place="below" staff="1" tstamp="1.000000" val="33" vgrp="525">pp</dynam>
-                     <hairpin xml:id="h6w9gq2" staff="1" tstamp="1.000000" tstamp2="0m+3.0000" form="cres" place="below" vgrp="700" />
-                     <dynam xml:id="dqnj93r" place="below" staff="1" tstamp="3.000000" vgrp="2000">ff</dynam>
-                  </measure>
-                  <measure xml:id="m1b4pk05" n="7">
-                     <staff xml:id="sj7yagj" n="1">
-                        <layer xml:id="lv9gqes" n="1">
-                           <chord xml:id="c16juw9f" dur.ppq="4" dur="1">
-                              <note xml:id="nfz6ziv" oct="3" pname="c" />
-                              <note xml:id="n1237f2g" oct="3" pname="a" />
-                           </chord>
-                        </layer>
-                     </staff>
-                     <dynam xml:id="dw9i2ht" place="below" staff="1" tstamp="1.000000" val="33" vgrp="525">pp</dynam>
-                     <hairpin xml:id="hni0s5b" staff="1" tstamp="1.000000" tstamp2="0m+3.0000" form="cres" place="below" vgrp="700" />
-                     <dynam xml:id="d1v1njlo" place="below" staff="1" tstamp="3.000000" vgrp="2000">ff</dynam>
-                  </measure>
-                  <measure xml:id="m216v3" n="8">
-                     <staff xml:id="s1mkag6i" n="1">
-                        <layer xml:id="lvaz37r" n="1">
-                           <chord xml:id="c1vyy5aa" dur.ppq="4" dur="1">
-                              <note xml:id="nvv9gie" oct="3" pname="c" />
-                              <note xml:id="n1e6s3bo" oct="3" pname="a" />
-                           </chord>
-                        </layer>
-                     </staff>
-                     <dynam xml:id="d74ywrz" place="below" staff="1" tstamp="1.000000" val="33" vgrp="525">pp</dynam>
-                     <hairpin xml:id="h13qijvo" staff="1" tstamp="1.000000" tstamp2="0m+3.0000" form="cres" place="below" vgrp="700" />
-                     <dynam xml:id="d1wyf3w7" place="below" staff="1" tstamp="3.000000" vgrp="2000">ff</dynam>
-                  </measure>
+               <section xml:id="plcjk46">
+                  <expansion plist="#v1r7nbll" xml:id="w14f3er4" />
+                  <section xml:id="v1r7nbll">
+                     <measure xml:id="r1m12pcy" metcon="false" n="1">
+                        <staff xml:id="a1xbn27n" n="1">
+                           <layer xml:id="mswj12o" n="1">
+                              <chord xml:id="p1fnpnjr" dur.ppq="4" dur="1">
+                                 <note xml:id="n6gma0l" oct="3" pname="c">
+                                    <accid xml:id="oqc6813" />
+                                 </note>
+                                 <note xml:id="q1v9fa6s" oct="3" pname="b">
+                                    <accid xml:id="r1foax42" />
+                                 </note>
+                              </chord>
+                              <space xml:id="g10cp7rn" dur.ppq="1" dur="4" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="b1xc8fep" place="below" staff="1" tstamp="1" val="33" vgrp="451">pp</dynam>
+                        <dir xml:id="dh2peat" place="above" staff="1" tstamp="1" vgrp="2024">
+                           <rend xml:id="eps11mg" fontweight="bold">Very Steady</rend>
+                        </dir>
+                        <dir xml:id="g1g0e9qg" place="below" staff="1" tstamp="1" vgrp="488">
+                           <rend xml:id="heythsp" fontstyle="italic">save most of the</rend>
+                           <rend xml:id="j1rkc2sh" halign="right">swell for the last beat</rend>
+                        </dir>
+                        <hairpin xml:id="l1km06b7" staff="1" tstamp="1" tstamp2="0m+2.5" form="cres" place="below" vgrp="870" />
+                        <dynam xml:id="s1srtdui" place="below" staff="1" tstamp="2.5" val="112" vgrp="541">ff</dynam>
+                        <tempo xml:id="u18gy9" place="above" staff="1" tstamp="2.5" xml:lang="it" midi.bpm="116" mm="58" mm.unit="2">
+                           <rend xml:id="v10yasgr" glyph.auth="smufl"></rend> = 58</tempo>
+                        <dynam xml:id="z1w9j3hv" place="below" staff="1" tstamp="2.5" val="112" vgrp="541">ff</dynam>
+                     </measure>
+                     <measure xml:id="hwstqd6" n="2">
+                        <staff xml:id="qf8aito" n="1">
+                           <layer xml:id="r127vcfi" n="1">
+                              <mRest xml:id="s6a5s2j" />
+                           </layer>
+                        </staff>
+                        <tempo xml:id="tfkn9vk" place="above" staff="1" tstamp="2" midi.bpm="116" mm="116" mm.unit="4">(<rend xml:id="v1dc90tq" glyph.auth="smufl"></rend> = 116)</tempo>
+                     </measure>
+                     <measure xml:id="a1ocwia3" metcon="false" n="3">
+                        <staff xml:id="j1qdnpwf" n="1">
+                           <layer xml:id="q19hzggz" n="1">
+                              <chord xml:id="t16s5dds" dur.ppq="4" dur="1">
+                                 <note xml:id="rzdauo6" oct="3" pname="c">
+                                    <accid xml:id="swd67vy" />
+                                 </note>
+                                 <note xml:id="u1ff5dhw" oct="3" pname="b">
+                                    <accid xml:id="v1o02kfi" />
+                                 </note>
+                              </chord>
+                              <space xml:id="y8qjrse" dur.ppq="1" dur="4" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="k1cfxqt2" place="below" staff="1" tstamp="1" val="33" vgrp="449">pp</dynam>
+                        <dir xml:id="m1qk7suy" place="below" staff="1" tstamp="1" vgrp="488">
+                           <rend xml:id="nkgtbu2" fontstyle="italic">simile</rend>
+                        </dir>
+                        <hairpin xml:id="p1jxyons" staff="1" tstamp="1" tstamp2="0m+2.5" form="cres" place="below" vgrp="760" />
+                        <dynam xml:id="wzv4m1i" place="below" staff="1" tstamp="2.5" val="112" vgrp="441">ff</dynam>
+                     </measure>
+                     <measure xml:id="z1rqzpk6" metcon="false" n="4">
+                        <staff xml:id="iwptzr4" n="1">
+                           <layer xml:id="m17nloxk" n="1">
+                              <chord xml:id="puzsgyu" dur.ppq="4" dur="1">
+                                 <note xml:id="n207ukr" oct="3" pname="c">
+                                    <accid xml:id="o19bfmg" />
+                                 </note>
+                                 <note xml:id="q1xz4j0n" oct="3" pname="b">
+                                    <accid xml:id="r1dee7nt" />
+                                 </note>
+                              </chord>
+                              <space xml:id="uudcobc" dur.ppq="1" dur="4" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="j1f8ybty" place="below" staff="1" tstamp="1" val="33" vgrp="449">pp</dynam>
+                        <hairpin xml:id="l316rsy" staff="1" tstamp="1" tstamp2="0m+2.5" form="cres" place="below" vgrp="760" />
+                        <dynam xml:id="s1vtzvfx" place="below" staff="1" tstamp="2.5" val="112" vgrp="441">ff</dynam>
+                     </measure>
+                     <measure xml:id="v1pwq89h" n="5">
+                        <staff xml:id="e1ix1vga" n="1">
+                           <layer xml:id="f197msu2" n="1">
+                              <mRest xml:id="g1lmb31p" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="h1k0cku" metcon="false" n="6">
+                        <staff xml:id="q1o9q24m" n="1">
+                           <layer xml:id="uwohf02" n="1">
+                              <chord xml:id="x1fvsom" dur.ppq="4" dur="1">
+                                 <note xml:id="v45c9id" oct="3" pname="c">
+                                    <accid xml:id="w14gpz2n" />
+                                 </note>
+                                 <note xml:id="yw1zfd3" oct="3" pname="b">
+                                    <accid xml:id="zpz0vca" />
+                                 </note>
+                              </chord>
+                              <space xml:id="c775bdd" dur.ppq="1" dur="4" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="rfef8l5" place="below" staff="1" tstamp="1" val="33" vgrp="449">pp</dynam>
+                        <hairpin xml:id="trelkwn" staff="1" tstamp="1" tstamp2="0m+2.5" form="cres" place="below" vgrp="760" />
+                        <dynam xml:id="aoihqjk" place="below" staff="1" tstamp="2.5" val="112" vgrp="441">ff</dynam>
+                     </measure>
+                     <measure xml:id="dajj6so" metcon="false" n="7">
+                        <staff xml:id="m1trcjx7" n="1">
+                           <layer xml:id="qa2g8nd" n="1">
+                              <chord xml:id="tcind05" dur.ppq="4" dur="1">
+                                 <note xml:id="r1jvd44l" oct="3" pname="c">
+                                    <accid xml:id="sxk3arw" />
+                                 </note>
+                                 <note xml:id="ucn4p9e" oct="3" pname="a">
+                                    <accid xml:id="vriywkv" />
+                                 </note>
+                              </chord>
+                              <space xml:id="yq4cgnz" dur.ppq="1" dur="4" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="n19fgfoz" place="below" staff="1" tstamp="1" val="33" vgrp="449">pp</dynam>
+                        <hairpin xml:id="p1x0cgu0" staff="1" tstamp="1" tstamp2="0m+2.5" form="cres" place="below" vgrp="760" />
+                        <dynam xml:id="w66nm3b" place="below" staff="1" tstamp="2.5" val="112" vgrp="441">ff</dynam>
+                     </measure>
+                     <measure xml:id="z1ty5o46" metcon="false" n="8">
+                        <staff xml:id="i9xcsiq" n="1">
+                           <layer xml:id="mp8c8w4" n="1">
+                              <chord xml:id="p10hfkxy" dur.ppq="4" dur="1">
+                                 <note xml:id="nla7hnb" oct="3" pname="c">
+                                    <accid xml:id="og2xsm8" />
+                                 </note>
+                                 <note xml:id="qr1vj5c" oct="3" pname="a">
+                                    <accid xml:id="r1uxeleu" />
+                                 </note>
+                              </chord>
+                              <space xml:id="u14sm71p" dur.ppq="1" dur="4" />
+                           </layer>
+                        </staff>
+                        <dynam xml:id="j1j8d7ah" place="below" staff="1" tstamp="1" val="33" vgrp="449">pp</dynam>
+                        <hairpin xml:id="l1r83owy" staff="1" tstamp="1" tstamp2="0m+2.5" form="cres" place="below" vgrp="760" />
+                        <dynam xml:id="s7ti6a9" place="below" staff="1" tstamp="2.5" val="112" vgrp="441">ff</dynam>
+                     </measure>
+                  </section>
                </section>
             </score>
          </mdiv>

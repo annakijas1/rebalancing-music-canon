@@ -11,8 +11,8 @@
       <encoding-date>2026-04-13</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
-      <supports element="print" attribute="new-page" type="yes" value="yes"/>
-      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
     <miscellaneous>
@@ -230,6 +230,7 @@
         <beam number="1">begin</beam>
         <notations>
           <tuplet type="start" bracket="no"/>
+          <slur type="start" bezier-x="9.061055" bezier-y="-4.002943" number="1"/>
           <articulations>
             <tenuto default-x="0.18" default-y="-54.3"/>
             </articulations>
@@ -249,6 +250,9 @@
           </time-modification>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <slur type="stop" number="1" bezier-x="-1.45998" bezier-y="-9.79769"/>
+          </notations>
         </note>
       <note default-x="53.53" default-y="-60">
         <pitch>
