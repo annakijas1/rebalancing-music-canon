@@ -38,8 +38,8 @@
             <score xml:id="f1yqfa37">
                <scoreDef xml:id="g10rp83j">
                   <pgHead xml:id="kwkscje" func="first">
-                     <rend xml:id="i1azm667" halign="center" valign="top">Two Bagatelles for piano</rend>
-                     <rend xml:id="ll1mjft" halign="center" valign="top">Bagatelle No.2
+                     <rend xml:id="i1azm667" halign="center" valign="top"></rend>
+                     <rend xml:id="ll1mjft" halign="center" valign="top">
 </rend>
                      <rend xml:id="qzr5ahn" halign="right" valign="bottom">Aleksandra Vrebalov</rend>
                   </pgHead>
@@ -274,12 +274,15 @@
                            </layer>
                         </staff>
                         <dynam xml:id="fpy9kuh" place="below" staff="1" tstamp="1" val="16" vgrp="475">ppp</dynam>
-                        <dir xml:id="h3bdfb0" place="above" staff="1" tstamp="1" vgrp="2630">immediately followingBeethoven Op. 119 #9</dir>
+                        <dir xml:id="h3bdfb0" place="above" staff="1" tstamp="1" vgrp="2630">Beethoven Op. 119 #9</dir>
+                        <dir place="above" staff="1" tstamp="1" >immediately following</dir>
                         <beamSpan xml:id="othtytt" startid="#n1ryjef9" endid="#chw1bg7" />
                         <slur xml:id="p1k5hdk4" startid="#lmut4fq" endid="#a1sy2l21" />
+                                                      <slur startid="#fu8tqe6" endid="#e1rqt6ox"></slur>
+
                         <dir xml:id="cilwnrz" place="below" staff="1" tstamp="1.375" vgrp="478">as fast as possible</dir>
                         <tie xml:id="h1a73s3n" startid="#fu8tqe6" />
-                        <fermata xml:id="iegi4nx" staff="1" startid="#fu8tqe6" form="norm" place="above" />
+                        <fermata xml:id="iegi4nx" staff="2" startid="#fu8tqe6" form="norm" place="above" />
                      </measure>
                      <measure xml:id="miqy8am" n="2">
                         <staff xml:id="vt5u203" n="1">
@@ -333,10 +336,8 @@
                         <tempo xml:id="z1hjbfhn" place="above" staff="1" tstamp="1" midi.bpm="54" mm="54" mm.unit="4">
                            <rend xml:id="a1f7jnbj" glyph.auth="smufl"></rend> = 54</tempo>
                         <slur xml:id="gu1egyo" startid="#e1rqt6ox" />
-                        <dir xml:id="hi3oywb" place="below" staff="1" tstamp="1.5" vgrp="444">very focused,slightly delay each attack</dir>
-                        <dir xml:id="k18t8wbx" place="below" staff="1" tstamp="2.5" vgrp="502">
-                           <rend xml:id="lz4kfly" fontstyle="italic">let ring</rend>
-                        </dir>
+                        <dir xml:id="hi3oywb" place="below" staff="1" tstamp="1.5" vgrp="444">very focused,</dir>
+                        <dir xml:id="k18t8wbx" place="below" staff="1" tstamp="1.5" vgrp="502">slightly delay each attack</dir>
                      </measure>
                      <measure xml:id="n1u77wqe" n="3">
                         <staff xml:id="wbd42t0" n="1">
