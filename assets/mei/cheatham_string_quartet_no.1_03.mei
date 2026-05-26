@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="mwr9sdy">
+      <fileDesc xml:id="f1i74gd3">
+         <titleStmt xml:id="t1qgalls">
+            <title>String Quartet No.1, mvt. III</title>
+            <respStmt>
+               <persName role="composer">Wallace McClain Cheatham</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Tessa Moore</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1djhzo6">
+            <date isodate="2026-03-12" type="encoding-date">2026-03-12</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e18w15ul">
+         <appInfo xml:id="a164vfps">
+            <application xml:id="a157basg" isodate="2026-05-26T12:07:52" version="6.2.0-43f8060">
+               <name xml:id="nkcmdr8">Verovio</name>
+               <p xml:id="p1u7awc3">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="h1engm6k">
+            <score xml:id="izfgw72">
+               <scoreDef xml:id="jwjjdsf">
+                  <pgHead xml:id="nufo1v7" func="first">
+                     <rend xml:id="li0xz79" halign="center" valign="top"></rend>
+                     <rend xml:id="o1k28k76" halign="center" valign="top"></rend>
+                     <rend xml:id="q1n5fb9t" halign="right" valign="bottom">Wallace McClain Cheatham</rend>
+                  </pgHead>
+                  <staffGrp xml:id="s5oaoyh">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="t11ubw5e">Violin</label>
+                        <labelAbbr xml:id="vo78wgv">Vln.</labelAbbr>
+                        <instrDef xml:id="x1ses6jw" midi.channel="0" midi.instrnum="40" midi.volume="78%" />
+                        <clef xml:id="gdni43x" shape="G" line="2" />
+                        <keySig xml:id="h1nfmxzf" sig="0" />
+                        <meterSig xml:id="izd1jgi" count="3" unit="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="ko7u6i1">
+                  <expansion plist="#y7dnhn2" xml:id="z1qto9kr" />
+                  <section xml:id="y7dnhn2">
+                     <measure xml:id="j1c902ea" n="1">
+                        <staff xml:id="s1t7q6hx" n="1">
+                           <layer xml:id="y1j0u3js" n="1">
+                              <rest xml:id="z1xids94" dur.ppq="4" dur="1" />
+                              <note xml:id="a1lu4duv" dur.ppq="2" dur="2" oct="4" pname="f" stem.dir="up">
+                                 <accid xml:id="b1ntcfm8" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <dir xml:id="ti8x5tc" place="above" staff="1" tstamp="1" vgrp="2010">
+                           <rend xml:id="uz17hwg" fontweight="bold">moderato</rend>
+                        </dir>
+                        <dynam xml:id="w6w9n7t" place="below" staff="1" tstamp="1" val="96" vgrp="440">f</dynam>
+                        <slur xml:id="c1azar0m" startid="#a1lu4duv" endid="#o6ljfq3" />
+                     </measure>
+                     <measure xml:id="d19e9ngf" n="2">
+                        <staff xml:id="m1kclmaj" n="1">
+                           <layer xml:id="n1jfobh5" n="1">
+                              <note xml:id="o6ljfq3" dur.ppq="4" dur="1" oct="4" pname="e">
+                                 <accid xml:id="py6c57z" />
+                              </note>
+                              <note xml:id="qkrspx6" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up">
+                                 <accid xml:id="rg9l9rp" accid="f" accid.ges="f" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="s14x5wsp" startid="#qkrspx6" endid="#e12tuqpv" />
+                     </measure>
+                     <measure xml:id="t1wpasrm" n="3">
+                        <staff xml:id="c1b5rf40" n="1">
+                           <layer xml:id="d9v9quc" n="1">
+                              <note xml:id="e12tuqpv" dur.ppq="4" dur="1" oct="5" pname="g">
+                                 <accid xml:id="fxie1sv" />
+                              </note>
+                              <note xml:id="gkdns77" dur.ppq="2" dur="2" oct="5" pname="e" stem.dir="down">
+                                 <accid xml:id="hd3ojva" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="i18vws9q" startid="#gkdns77" endid="#uwsymv6" />
+                     </measure>
+                     <measure xml:id="j1sliryv" n="4">
+                        <staff xml:id="sho3em7" n="1">
+                           <layer xml:id="tk75liz" n="1">
+                              <note xml:id="uwsymv6" dur.ppq="4" dur="1" oct="5" pname="e">
+                                 <accid xml:id="v25b4w2" accid="f" accid.ges="f" />
+                              </note>
+                              <note xml:id="wr6a8qb" dur.ppq="2" dur="2" oct="5" pname="c" stem.dir="down">
+                                 <accid xml:id="x579cem" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
