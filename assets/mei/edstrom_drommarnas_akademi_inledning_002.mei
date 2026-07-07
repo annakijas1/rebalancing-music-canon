@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="mi877vh">
+      <fileDesc xml:id="f1u9rmuq">
+         <titleStmt xml:id="t140h6a6">
+            <title>Drömmarnas akademi</title>
+            <titlePart>II. Inledning</titlePart>
+            <respStmt>
+               <persName role="composer">Carin Bartosch Edström</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="piy1g9v">
+            <date isodate="2026-04-02" type="encoding-date">2026-04-02</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1m2e6ko">
+         <appInfo xml:id="a1gt4fnu">
+            <application xml:id="a1i59wpd" isodate="2026-07-07T10:27:27" version="6.2.0-43f8060">
+               <name xml:id="nt653hj">Verovio</name>
+               <p xml:id="p8sz6b4">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="waiv3ga">
+            <score xml:id="x1gehtp2">
+               <scoreDef xml:id="y10fvklk">
+                  <pgHead xml:id="c1ykmxbm" func="first">
+                     <rend xml:id="atlczwm" halign="center" valign="top">
+</rend>
+                     <rend xml:id="g7u361r" halign="center" valign="top"></rend>
+                     <rend xml:id="i2ekz4g" halign="right" valign="bottom">Carin Bartosch Edström</rend>
+                  </pgHead>
+                  <pgFoot xml:id="f1c994la">
+                     <rend xml:id="d1epo5cf">Mezzosopran &amp; cembalo</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="k1rkbgcb">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="l1fc8yq9">Cembalo</label>
+                        <labelAbbr xml:id="n129rok2">Cemb</labelAbbr>
+                        <instrDef xml:id="p14xsvro" midi.channel="0" midi.instrnum="6" midi.volume="78%" />
+                        <clef xml:id="yismfl4" shape="G" line="2" />
+                        <keySig xml:id="z1xpy4m7" sig="0" />
+                        <meterSig xml:id="aplfifp" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="zyksrs7">
+                  <expansion plist="#s4ac5j5" xml:id="t1tcfm3t" />
+                  <section xml:id="s4ac5j5">
+                     <measure xml:id="b2lpbra" right="heavy" n="1">
+                        <staff xml:id="kr06s9w" n="1">
+                           <layer xml:id="zhz8omg" n="1">
+                              <note xml:id="a1849bz7" dur.ppq="4" dur="1" oct="4" pname="c" glyph.name="noteheadHeavyX">
+                                 <accid xml:id="b8lygas" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="ljmqtpc" place="below" staff="1" tstamp="1" val="16" vgrp="600">ppp</dynam>
+                        <dir xml:id="nciki37" place="above" staff="1" tstamp="1" vgrp="2240">stryka pappermot papper</dir>
+                        <tempo xml:id="qjsftub" place="above" staff="1" tstamp="1" midi.bpm="44" mm="44" mm.unit="4">
+                           <rend xml:id="rz5qks2" glyph.auth="smufl"></rend> = 44</tempo>
+                        <dir xml:id="vhhxt7n" place="above" staff="1" tstamp="1" vgrp="2720">
+                           <rend xml:id="w18fmmyw" fontweight="bold">10 sek ingen text</rend></dir>
+                        <tie xml:id="cc0ktq1" startid="#a1849bz7" endid="#owavvo8" />
+                     </measure>
+                     <measure xml:id="d1anvthn" right="heavy" n="2">
+                        <staff xml:id="mnn1eqd" n="1">
+                           <layer xml:id="n31dn9r" n="1">
+                              <note xml:id="owavvo8" dur.ppq="4" dur="1" oct="4" pname="c" glyph.name="noteheadHeavyX">
+                                 <accid xml:id="p190hcex" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <tie xml:id="qn2f9km" startid="#owavvo8" endid="#cwvfda9" />
+                     </measure>
+                     <measure xml:id="r10bbqws" right="heavy" n="3">
+                        <staff xml:id="a1xatqa5" n="1">
+                           <layer xml:id="b181wvhe" n="1">
+                              <note xml:id="cwvfda9" dur.ppq="4" dur="1" oct="4" pname="c" glyph.name="noteheadHeavyX">
+                                 <accid xml:id="d1xfvcy2" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <tie xml:id="e4zmxq2" startid="#cwvfda9" endid="#qpugl3b" />
+                     </measure>
+                     <measure xml:id="fagk54y" right="heavy" n="4">
+                        <staff xml:id="o1mlstck" n="1">
+                           <layer xml:id="pgeb12u" n="1">
+                              <note xml:id="qpugl3b" dur.ppq="4" dur="1" oct="4" pname="c" glyph.name="noteheadHeavyX">
+                                 <accid xml:id="rmt2beu" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m1oek5va">
+      <fileDesc xml:id="f11v669m">
+         <titleStmt xml:id="td1is1n">
+            <titlePart>IV. Hyperboréerna</titlePart>
+            <respStmt>
+               <persName role="composer">Carin Bartosch Edström</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pyl1a7g">
+            <date isodate="2026-04-07" type="encoding-date">2026-04-07</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="ez8bfpl">
+         <appInfo xml:id="ay8auuh">
+            <application xml:id="a37s45a" isodate="2026-07-07T10:40:47" version="6.2.0-43f8060">
+               <name xml:id="n189w8if">Verovio</name>
+               <p xml:id="pfl9n4w">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="opj07se">
+            <score xml:id="px4nbn3">
+               <scoreDef xml:id="qoac50p">
+                  <pgHead xml:id="u11ndmrb" func="first">
+                     <rend xml:id="s1vomj2w" halign="center" valign="top">
+</rend>
+                     <rend xml:id="y5y2y40" halign="center" valign="top"> </rend>
+                     <rend xml:id="a1kdc1jc" halign="right" valign="bottom">Carin Bartosch Edström</rend>
+                  </pgHead>
+                  <pgFoot xml:id="xwxjt4k">
+                     <rend xml:id="v7u9ojl">Mezzosopran &amp; cembalo</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="c1ijbl89">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="d5o15cb">Mezzo</label>
+                        <labelAbbr xml:id="f1ckjv1a">Mezzo</labelAbbr>
+                        <instrDef xml:id="h73v994" midi.channel="0" midi.instrnum="52" midi.volume="78%" />
+                        <clef xml:id="q1dqo1o7" shape="G" line="2" />
+                        <keySig xml:id="r1ajbigt" sig="0" />
+                        <meterSig xml:id="s17hoku4" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="r1x1oqk6">
+                  <expansion plist="#n1lpuzma" xml:id="o1etvade" />
+                  <section xml:id="n1lpuzma">
+                     <measure xml:id="t1lwpe7s" n="1">
+                        <staff xml:id="c56k7o6" n="1">
+                           <layer xml:id="s1m397nt" n="1">
+                              <note xml:id="t13ktrgz" dur.ppq="8" dur="1" oct="4" pname="a">
+                                 <accid xml:id="u1qjgql2" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <tempo xml:id="d1rxpshn" place="above" staff="1" tstamp="1" midi.bpm="80" mm="80" mm.unit="4">
+                           <rend xml:id="e174choq" glyph.auth="smufl"></rend> = 80</tempo>
+                        <dir xml:id="ibr7axh" place="above" staff="1" tstamp="1" vgrp="2010">stryka papper mot papper</dir>
+                        <dynam xml:id="q1iv48r4" place="below" staff="1" tstamp="1" val="33" vgrp="420">pp</dynam>
+                        <tie xml:id="ve9ujih" startid="#t13ktrgz" endid="#l1oyoc49" />
+                     </measure>
+                     <measure xml:id="a1c5z9ti" n="2">
+                        <staff xml:id="j1fu9j8v" n="1">
+                           <layer xml:id="k137bkjw" n="1">
+                              <note xml:id="l1oyoc49" dur.ppq="8" dur="1" oct="4" pname="a">
+                                 <accid xml:id="mw1kch0" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <tie xml:id="nfdpk39" startid="#l1oyoc49" endid="#z15h2mrm" />
+                     </measure>
+                     <measure xml:id="o1yujir4" n="3">
+                        <staff xml:id="x72hnn8" n="1">
+                           <layer xml:id="ybinvzu" n="1">
+                              <note xml:id="z15h2mrm" dur.ppq="8" dur="1" oct="4" pname="a">
+                                 <accid xml:id="a6sia5a" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="b3yogdg" n="4">
+                        <staff xml:id="kwd7l74" n="1">
+                           <layer xml:id="l1tr2qjx" n="1">
+                              <mRest xml:id="m1o08ejm" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
