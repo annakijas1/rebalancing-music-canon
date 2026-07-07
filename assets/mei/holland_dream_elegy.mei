@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m12jiqqz">
+      <fileDesc xml:id="few7cdd">
+         <titleStmt xml:id="t1bn7neg">
+            <title>Dream Elegy</title>
+            <respStmt>
+               <persName role="composer">Jonathan Bailey Holland</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Tessa Moore</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p1y5x2ag">
+            <date isodate="2026-03-30" type="encoding-date">2026-03-30</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1tj6h3p">
+         <appInfo xml:id="a1qm1rbp">
+            <application xml:id="a1ymmar9" isodate="2026-07-07T12:49:32" version="6.2.0-43f8060">
+               <name xml:id="ntdnjl">Verovio</name>
+               <p xml:id="p12m3ibe">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="qj2h89r">
+            <score xml:id="r1egrkxt">
+               <scoreDef xml:id="s8tm9yr">
+                  <pgHead xml:id="x17c9e1a" func="first">
+                     <rend xml:id="vdmyhpw" halign="center" valign="top"></rend>
+                     <rend xml:id="yjweuvm" halign="right" valign="bottom">Jonathan Bailey Holland</rend>
+                  </pgHead>
+                  <staffGrp xml:id="a9qcfso">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                        <label xml:id="b10zuq55">Flute</label>
+                        <labelAbbr xml:id="d1ivmkwu">Fl.</labelAbbr>
+                        <instrDef xml:id="fw6w32f" midi.channel="0" midi.instrnum="73" midi.volume="78%" />
+                        <clef xml:id="ol3hs1n" shape="G" line="2" />
+                        <keySig xml:id="pov33j0" sig="0" />
+                        <meterSig xml:id="q1b1sd8e" count="3" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="t1xartqd">
+                  <expansion plist="#g1oj4nni" xml:id="h2nejz1" />
+                  <pb xml:id="u1rixqfv" />
+                  <section xml:id="g1oj4nni">
+                     <measure xml:id="r1jeier7" n="1">
+                        <staff xml:id="atv2tmm" n="1">
+                           <layer xml:id="k1k7vtru" n="1">
+                              <note xml:id="la9tfvt" dur.ppq="2" dur="4" oct="6" pname="c" stem.dir="down">
+                                 <accid xml:id="m1k1lixg" />
+                              </note>
+                              <note xml:id="oojisvv" dur.ppq="4" dur="2" oct="5" pname="g" stem.dir="down">
+                                 <accid xml:id="p1hyhpiq" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <tempo xml:id="b1q8i0ye" place="above" staff="1" tstamp="1" xml:lang="it" midi.bpm="72" mm="72" mm.unit="4">
+                           <rend xml:id="r1ah3ahc" fontweight="bold">Expressively, with rubato <rend xml:id="rk8vuqh" glyph.auth="smufl"> </rend> = 72</rend></tempo>
+                        <dynam xml:id="i93c5sz" place="below" staff="1" tstamp="1" val="96" vgrp="440">f</dynam>
+                        <slur xml:id="n1apdbnw" startid="#la9tfvt" endid="#oojisvv" />
+                     </measure>
+                     <measure xml:id="q17wrvq4" n="2">
+                        <staff xml:id="z4tdtvx" n="1">
+                           <layer xml:id="adkqzaf" n="1">
+                              <note xml:id="byuir4e" dur.ppq="2" dur="4" oct="5" pname="f" stem.dir="down">
+                                 <accid xml:id="cpekp2p" />
+                              </note>
+                              <note xml:id="eyezwa0" dur.ppq="4" dur="2" oct="5" pname="b" stem.dir="down">
+                                 <accid xml:id="f1t6gqva" accid="f" accid.ges="f" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <slur xml:id="d1pb5t3j" startid="#byuir4e" endid="#eyezwa0" />
+                     </measure>
+                     <scoreDef xml:id="q1hhtex3">
+                        <meterSig xml:id="r1equ548" count="5" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="gf4axqe" n="3">
+                        <staff xml:id="p12kttby" n="1">
+                           <layer xml:id="seg20cs" n="1">
+                              <mRest xml:id="tol5lt7" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="e1s2tuep">
+                        <meterSig xml:id="f1kngf3b" count="3" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="u15ghtzj" n="4">
+                        <staff xml:id="d1jlbuh9" n="1">
+                           <layer xml:id="g1g0y0ng" n="1">
+                              <mRest xml:id="h15gz5ya" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="s1vyt04t">
+                        <meterSig xml:id="t1t0kpwa" count="2" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="i1bkqqpx" n="5">
+                        <staff xml:id="rhv49xv" n="1">
+                           <layer xml:id="ual4udi" n="1">
+                              <mRest xml:id="v4llz64" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="gxe5rol">
+                        <meterSig xml:id="h1hldhaw" count="7" unit="8" />
+                     </scoreDef>
+                     <measure xml:id="w1h79xqp" n="6">
+                        <staff xml:id="f1oeh761" n="1">
+                           <layer xml:id="i1h63b1f" n="1">
+                              <mRest xml:id="jzzaw6f" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="k18elm13" n="7">
+                        <staff xml:id="tgu4cfd" n="1">
+                           <layer xml:id="u1e0zc6d" n="1">
+                              <mRest xml:id="vk89yp1" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <scoreDef xml:id="g1ofhq7b">
+                        <meterSig xml:id="h14tpwc2" count="3" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="ww6qugk" n="8">
+                        <staff xml:id="f1rqbfa6" n="1">
+                           <layer xml:id="kve5r86" n="1">
+                              <note xml:id="l1s3uda7" dur.ppq="2" dur="4" oct="5" pname="b" stem.dir="down">
+                                 <accid xml:id="m1wu322d" />
+                              </note>
+                              <note xml:id="o1268s8b" dur.ppq="4" dur="2" oct="6" pname="d" stem.dir="down">
+                                 <accid xml:id="psns8ho" />
+                              </note>
+                           </layer>
+                        </staff>
+                        <dynam xml:id="iromomo" place="below" staff="1" tstamp="1" val="80" vgrp="440">mf</dynam>
+                        <slur xml:id="nbaouo7" startid="#l1s3uda7" endid="#o1268s8b" />
+                     </measure>
+                     <sb xml:id="a1nckaoi" />
+                     <scoreDef xml:id="b1whzaji">
+                        <meterSig xml:id="c2oxqvw" count="4" unit="4" />
+                     </scoreDef>
+                     <measure xml:id="qp9pnfe" n="9">
+                        <staff xml:id="z1hjx7d5" n="1">
+                           <layer xml:id="d1fe1tmw" n="1">
+                              <note xml:id="e1y2ulmo" dur.ppq="8" dur="1" oct="6" pname="c">
+                                 <accid xml:id="fx1llnt" accid="s" accid.ges="s" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
