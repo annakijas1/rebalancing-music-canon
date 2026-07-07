@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m6lrjw4">
+      <fileDesc xml:id="fznln3r">
+         <titleStmt xml:id="t12jdqfc">
+            <title>Drömmarnas akademi</title>
+           <titlePart>IX. Io Sono Il Tempo Alato</titlePart>
+            <respStmt>
+               <persName role="composer">Carin Bartosch Edström</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="p19s8rnb">
+            <date isodate="2026-04-09" type="encoding-date">2026-04-09</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eoacz0q">
+         <appInfo xml:id="ah5utg2">
+            <application xml:id="a1pdxbe2" isodate="2026-07-07T11:05:24" version="6.2.0-43f8060">
+               <name xml:id="nbu3mxc">Verovio</name>
+               <p xml:id="p1cokwas">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="g17m6gji">
+            <score xml:id="hy8l5ut">
+               <scoreDef xml:id="i1b3adwu">
+                  <pgHead xml:id="mk2kirf" func="first">
+                     <rend xml:id="k539p6x" halign="center" valign="top">
+</rend>
+                     <rend xml:id="s1lxjo8w" halign="right" valign="bottom">Carin Bartosch Edström</rend>
+                  </pgHead>
+                  <pgFoot xml:id="p1il01v3">
+                     <rend xml:id="n1t7649">Mezzosopran &amp; cembalo</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="uu2jj2m">
+                     <staffGrp xml:id="P1" bar.thru="true">
+                        <grpSym xml:id="vl48blk" symbol="brace" />
+                        <label xml:id="v1e3l5ft">Cembalo</label>
+                        <labelAbbr xml:id="x1lm8i0y">Cemb</labelAbbr>
+                        <instrDef xml:id="zboa3vw" midi.channel="0" midi.instrnum="6" midi.volume="78%" />
+                        <staffDef xml:id="b1efbpd4" n="1" lines="5" ppq="2">
+                           <clef xml:id="i1nmvhn6" shape="G" line="2" />
+                           <keySig xml:id="j1xvn6wy" sig="0" />
+                           <meterSig xml:id="kv0gpyp" count="4" unit="4" />
+                        </staffDef>
+                        <staffDef xml:id="ljdq1cl" n="2" lines="5" ppq="2">
+                           <clef xml:id="s1dgwddf" shape="F" line="4" />
+                           <keySig xml:id="t1ytou22" sig="0" />
+                           <meterSig xml:id="u1fme67c" count="4" unit="4" />
+                        </staffDef>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="j18y4b7b">
+                  <expansion plist="#y1sfp6a8" xml:id="zbirbmp" />
+                  <scoreDef xml:id="lghk9nd" ppq="2">
+                     <keySig xml:id="m1ri23bz" sig="0" />
+                     <meterSig xml:id="n1d4i6hy" count="4" unit="4" />
+                  </scoreDef>
+                  <section xml:id="y1sfp6a8">
+                     <measure xml:id="wt13r4k" n="1">
+                        <staff xml:id="ffnbl7q" n="1">
+                           <layer xml:id="i5z8vgr" n="1">
+                              <multiRest xml:id="hnxt66s" num="5" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="gkqt1oc" n="2">
+                           <layer xml:id="o1sm0ke5" n="1">
+                              <mSpace xml:id="p10v06an" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="quvlza1" n="6">
+                        <staff xml:id="zkcgw5v" n="1">
+                           <layer xml:id="b4bqenc" n="1">
+                              <mRest xml:id="c18um0po" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="a1dwntb2" n="2">
+                           <layer xml:id="d1dqojlx" n="5">
+                              <rest xml:id="eenqw0i" dur.ppq="2" dur="4" />
+                              <rest xml:id="f5f2mt3" dur.ppq="2" dur="4" />
+                              <note xml:id="g1awxooj" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="down">
+                                 <accid xml:id="hzoemej" />
+                              </note>
+                              <note xml:id="i14u8h81" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="down">
+                                 <accid xml:id="j1uh4hp3" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="k1uptf2e" n="7">
+                        <staff xml:id="t1f3oymb" n="1">
+                           <layer xml:id="vs1cr1i" n="1">
+                              <mRest xml:id="whzlmzd" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="u1b7ssr1" n="2">
+                           <layer xml:id="xn71198" n="5">
+                              <note xml:id="y1gzhke" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="down">
+                                 <accid xml:id="z1bp0ju9" />
+                              </note>
+                              <note xml:id="akr49u0" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="down">
+                                 <accid xml:id="b15aaint" />
+                              </note>
+                              <note xml:id="clptqh3" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="down">
+                                 <accid xml:id="d1j3nh87" />
+                              </note>
+                              <note xml:id="e14fsxtr" dur.ppq="2" dur="4" oct="3" pname="a" stem.dir="down">
+                                 <accid xml:id="f1e7amgt" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="gy4nyt9" n="8">
+                        <staff xml:id="p1aehreb" n="1">
+                           <layer xml:id="r1rgirf9" n="1">
+                              <mRest xml:id="s1isg1xs" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="qugnfgh" n="2">
+                           <layer xml:id="t1e8mtb5" n="5">
+                              <note xml:id="u1tf9xxg" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="down">
+                                 <accid xml:id="vbcuw3r" />
+                              </note>
+                              <note xml:id="wf1a38x" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="down">
+                                 <accid xml:id="x1wvlhy7" />
+                              </note>
+                              <note xml:id="y9i4en9" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="down">
+                                 <accid xml:id="z10j3dof" />
+                              </note>
+                              <note xml:id="a83szgu" dur.ppq="2" dur="4" oct="3" pname="g" stem.dir="down">
+                                 <accid xml:id="bojfh5i" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="co8v6ru" n="9">
+                        <staff xml:id="l1162pdm" n="1">
+                           <layer xml:id="n1k9hteo" n="1">
+                              <mRest xml:id="oki82d8" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="m1bdjgfg" n="2">
+                           <layer xml:id="p4aj02d" n="5">
+                              <note xml:id="qfqsrc4" dur.ppq="2" dur="4" oct="3" pname="f" stem.dir="down">
+                                 <accid xml:id="r1rweves" />
+                              </note>
+                              <note xml:id="s1qlor4x" dur.ppq="2" dur="4" oct="3" pname="f" stem.dir="down">
+                                 <accid xml:id="te82185" />
+                              </note>
+                              <note xml:id="u1mqu53w" dur.ppq="2" dur="4" oct="3" pname="f" stem.dir="down">
+                                 <accid xml:id="v1qoxr54" />
+                              </note>
+                              <note xml:id="wonfi0b" dur.ppq="2" dur="4" oct="3" pname="f" stem.dir="down">
+                                 <accid xml:id="xzpz59m" />
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

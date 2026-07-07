@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m10lbcjz">
+      <fileDesc xml:id="fhjwkoi">
+         <titleStmt xml:id="t15udfow">
+            <title>Drömmarnas akademi</title>
+            <titlePart>I. Fanfar</titlePart>
+            <respStmt>
+               <persName role="composer">Carin Bartosch Edström</persName>
+               <persName role="transcriber">Jimmy Wang</persName>
+               <persName role="reviewer">Anna E. Kijas</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pg5dw9j">
+            <date isodate="2026-04-02" type="encoding-date">2026-04-02</date>
+            <publisher>Rebalancing the Music Canon</publisher>
+       <availability>
+          <useRestrict>The incipits are provided for educational use only and are not to be used commercially. Incipits are assigned a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+       </availability>
+       <identifier>
+       <ref target="https://rebalancing-music-canon.com/"/>
+       </identifier>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="evvkctx">
+         <appInfo xml:id="a14buhze">
+            <application xml:id="a1mrnohu" isodate="2026-07-07T11:14:46" version="6.2.0-43f8060">
+               <name xml:id="nd3hh5">Verovio</name>
+               <p xml:id="p1dc7pc3">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="t42zgzp">
+            <score xml:id="u1jejbns">
+               <scoreDef xml:id="v1t1flqs">
+                  <pgHead xml:id="z1t9qgsu" func="first">
+                     <rend xml:id="xumrtnu" halign="center" valign="top">
+</rend>
+                     <rend xml:id="fc6u6tb" halign="right" valign="bottom">Carin Bartosch Edström</rend>
+                     <rend xml:id="hi2bfbm" halign="left" valign="top">- Tacet -</rend>
+                  </pgHead>
+                  <pgFoot xml:id="c87v92m">
+                     <rend xml:id="a7uifm4">Mezzosopran &amp; cembalo</rend>
+                  </pgFoot>
+                  <staffGrp xml:id="jqfui2a">
+                     <staffDef xml:id="l1rz17k6" n="1" lines="5" />
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="won26ms">
+                  <expansion xml:id="k13c4fvm" />
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
