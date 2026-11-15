@@ -7,7 +7,7 @@ permalink: /mazzoli-strange-dreams/
 document: mazzoli_strange_dreams.mei
 ---
 
-In *Strange dreams, from proving up: for mezzo-soprano and piano* New York: Schirmer Rental Dept., 2018.
+In *Strange Dreams, from Proving Up: for mezzo-soprano and piano.* New York: Schirmer Rental Dept., 2018.
 
 **Instrumentation summary**: mezzo-soprano voice (1), piano (1)
 
